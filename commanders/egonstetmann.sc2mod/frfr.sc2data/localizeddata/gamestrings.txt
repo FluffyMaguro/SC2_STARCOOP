@@ -1,0 +1,1087 @@
+﻿Abil/Name/BanelingNestStetmannResearch=Research
+Abil/Name/BanelingStetmannExplode=Baneling Explode
+Abil/Name/BanelingStetmannJump=BanelingStetmannJump
+Abil/Name/BroodLordHangarStetmann=Brood Lord Hangar Stetmann
+Abil/Name/BroodLordStetmannBomberMagazine=BroodLordStetmannBomberMagazine
+Abil/Name/BroodLordStetmannBroodlingEscortArm=BroodLordStetmannBroodlingEscortArm
+Abil/Name/BroodLordStetmannBroodlingEscortArmAugment=BroodLordStetmannBroodlingEscortArmAugment
+Abil/Name/BroodLordStetmannYamatoGun=BroodLordStetmannYamatoGun
+Abil/Name/BuildGaryStetmann=Build Gary
+Abil/Name/BurrowBanelingDownStetmann=Burrow
+Abil/Name/BurrowBanelingUpStetmann=Unburrow
+Abil/Name/BurrowDroneDownStetmann=Burrow
+Abil/Name/BurrowDroneUpStetmann=Unburrow
+Abil/Name/BurrowHydraliskDownStetmann=Burrow
+Abil/Name/BurrowHydraliskUpStetmann=Unburrow
+Abil/Name/BurrowInfestorDownStetmann=Burrow
+Abil/Name/BurrowInfestorUpStetmann=Unburrow
+Abil/Name/BurrowLurkerDownStetmann=Burrow
+Abil/Name/BurrowLurkerUpStetmann=Unburrow
+Abil/Name/BurrowQueenDownStetmann=Burrow
+Abil/Name/BurrowQueenUpStetmann=Unburrow
+Abil/Name/BurrowRavagerDownStetmann=Burrow
+Abil/Name/BurrowRavagerUpStetmann=Unburrow
+Abil/Name/BurrowRoachDownStetmann=Burrow
+Abil/Name/BurrowRoachUpStetmann=Unburrow
+Abil/Name/BurrowUltraliskDownStetmann=Burrow
+Abil/Name/BurrowUltraliskUpStetmann=Unburrow
+Abil/Name/BurrowZerglingDownStetmann=Burrow
+Abil/Name/BurrowZerglingUp2=Unburrow (Zergling) Copy
+Abil/Name/BurrowZerglingUpStetmann=Unburrow
+Abil/Name/CorruptorStetmannCausticSpray=Caustic Spray
+Abil/Name/CorruptorStetmannMissilePods=Missile Pods
+Abil/Name/CorruptorStetmannRespawn=Corruptor Respawn
+Abil/Name/DeployPowerTowerStetmann=Deploy Power Tower
+Abil/Name/EvolutionChamberStetmannResearch=Research
+Abil/Name/FASTOverloadStetmann=F.A.S.T. Overload
+Abil/Name/FastBurrowLurkerDownStetmann=Fast Burrow
+Abil/Name/GaryRevive=Gary Revive
+Abil/Name/GaryStetmannOrb=Gary Orb
+Abil/Name/GaryStetmannPowerTowerOverchargeEnergy=Gary Power Tower Overcharge
+Abil/Name/GaryStetmannPowerTowerOverchargeHealth=Gary Power Tower Overcharge
+Abil/Name/GaryStetmannPowerTowerOverchargeSpeed=Gary Power Tower Overcharge
+Abil/Name/GaryStetmannRecall=Gary Recall
+Abil/Name/HUGSOverloadStetmann=H.U.G.S. Overload
+Abil/Name/HydraliskDenStetmannResearch=Research
+Abil/Name/HydraliskStetmannBonusDamage=HydraliskStetmannBonusDamage
+Abil/Name/HydraliskStetmannMissilePowerOff=HydraliskStetmannMissilePowerOff
+Abil/Name/HydraliskStetmannMissilePowerOn=HydraliskStetmannMissilePowerOn
+Abil/Name/HydraliskStetmannRespawn=Hydralisk Respawn
+Abil/Name/InfestationPitStetmannResearch2=Research
+Abil/Name/InfestorStetmannEggLaunch=InfestorStetmannEggLaunch
+Abil/Name/InfestorStetmannHealingTentacle=InfestorStetmannHealingTentacle
+Abil/Name/InfestorStetmannInfestBuilding=InfestorStetmannInfestBuilding
+Abil/Name/InfestorStetmannRespawn=Infestor Respawn
+Abil/Name/JUICEOverloadStetmann=J.U.I.C.E. Overload
+Abil/Name/LarvaTrainStetmann=Morph Unit (Larva -> Basic) Stetmann
+Abil/Name/LurkerStetmannChannelingSpines=Lurker Channeling Spines
+Abil/Name/LurkerStetmannTunnelingBurst=Lurker Tunneling Burst
+Abil/Name/MorphToBanelingStetmann=Morph To Baneling Stetmann
+Abil/Name/MorphToBroodLordStetmann=Morph (Mutalisk - > Brood Lord) Stetmann
+Abil/Name/MorphToCBroodLordStetmann=Morph (Corruptor - > Brood Lord) Stetmann
+Abil/Name/MorphToLurkerStetmann=Morph To Lurker Stetmann
+Abil/Name/MorphToOverseerStetmann=Overlord Morph to Overseer Stetmann
+Abil/Name/MorphToPowerTowerStetmann=Morph (Deactivated Power Tower -> Power Tower)
+Abil/Name/MorphToPowerTowerStetmannDeactivated=Morph (Power Tower -> Deactivated Power Tower)
+Abil/Name/MorphToRavagerStetmann=Morph To Ravager Stetmann
+Abil/Name/MorphToSuperGaryStetmann=Morph To Super Gary
+Abil/Name/OverlordStetmannTransport=Load-Unload (Overlord Stetmann)
+Abil/Name/OverseerMorphtoOverseerSiegeStetmann=OverseerMorphtoOverseerSiegeStetmann
+Abil/Name/OverseerSiegeMorphtoOverseerStetmann=OverseerSiegeMorphtoOverseerStetmann
+Abil/Name/PowerFieldEnergyRegenerationOn=PowerFieldEnergyRegenerationOn
+Abil/Name/PowerFieldHPRegenerationOn=PowerFieldHPRegenerationOn
+Abil/Name/PowerFieldMovementSpeedOn=PowerFieldMovementSpeedOn
+Abil/Name/PowerFieldSuperGaryStetmannEnergy=PowerFieldSuperGaryStetmann
+Abil/Name/PowerFieldSuperGaryStetmannHealth=PowerFieldSuperGaryStetmann
+Abil/Name/PowerFieldSuperGaryStetmannSpeed=PowerFieldSuperGaryStetmann
+Abil/Name/RallyBuildingStetmann=Rally Building Stetmann
+Abil/Name/RallyHatcheryStetmann=HatcheryStetmann - Rally
+Abil/Name/RallyReviveCocoonStetmann=Rally Revive Cocoon
+Abil/Name/RavagerStetmannCorrosiveBile=RavagerStetmannCorrosiveBile
+Abil/Name/RavagerStetmannEggMorph=RavagerStetmannEggMorph
+Abil/Name/ResearchHatcheryStetmann=Research
+Abil/Name/RoachStetmannEggMorph=RoachStetmannEggMorph
+Abil/Name/SpawningPoolStetmannResearch=Research
+Abil/Name/SpineCrawlerRootStetmann=Root
+Abil/Name/SpineCrawlerUprootStetmann=Uproot
+Abil/Name/SpireStetmannResearch=Research
+Abil/Name/SporeCrawlerRootStetmann=Root
+Abil/Name/SporeCrawlerUprootStetmann=Uproot
+Abil/Name/SuperDefensiveMatrixStetmann=Super Defensive Matrix
+Abil/Name/SuperGaryStetmannOrb=Super Gary Orb
+Abil/Name/SuperGaryStetmannPowerTowerOverchargeEnergy=Super Gary Power Tower Overcharge
+Abil/Name/SuperGaryStetmannPowerTowerOverchargeHealth=Super Gary Power Tower Overcharge
+Abil/Name/SuperGaryStetmannPowerTowerOverchargeSpeed=Super Gary Power Tower Overcharge
+Abil/Name/SuperGaryStetmannRecall=Super Gary Recall
+Abil/Name/SuperShieldStetmann=Super Shield
+Abil/Name/TrainQueenStetmann=TrainQueenStetmann
+Abil/Name/UltraliskCavernStetmannResearch=Research
+Abil/Name/UltraliskStetmannBurrowCharge=Ultralisk Burrow Charge
+Abil/Name/UltraliskStetmannMechanicalLifeLeech=Ultralisk Mechanical Life Leech
+Abil/Name/UltraliskStetmannRespawn=Ultralisk Respawn
+Abil/Name/UpgradeToGreaterSpireStetmann=Morph Building (Spire Stetmann -> Greater Spire Stetmann)
+Abil/Name/UpgradeToHiveStetmann=Morph Building (Lair Stetmann -> Hive Stetmann)
+Abil/Name/UpgradeToLairStetmann=Morph Building (HatcheryStetmann -> LairStetmann)
+Abil/Name/UpgradeToLurkerDenStetmann=Morph Building (Hydralisk Den Stetmann -> Lurker Den Stetmann)
+Abil/Name/ZergBuildStetmann=Morph Unit (Drone -> Stetmann Buildings)
+Abil/Name/ZerglingStetmannRespawn=Zergling Respawn
+Behavior/Name/BanelingMovementSpeedStetmann=Méca crochets centrifuges
+Behavior/Name/CommanderPrestigeStetmannCombatBuff=La meilleure huile
+Behavior/Name/FASTOverloadStetmann=Surcharge de V.I.T.E.
+Behavior/Name/GaryStetmannOrbDamage=Orbe de Gary - Recherche de cible
+Behavior/Name/GaryStetmannOrbTowerSearch=Orbe de Gary - Recherche de tour
+Behavior/Name/HUGSOverloadStetmann=Surcharge d’A.M.I.S.
+Behavior/Name/InfestorStetmannHealingTentacle=En charge
+Behavior/Name/InfestorStetmannInfestBuilding=Dégénération
+Behavior/Name/JUICEOverloadStetmann=Surcharge de S.A.U.C.E.
+Behavior/Name/PowerTowerOverchargeStetmann=Surcharge des Stetellites
+Behavior/Name/StetmannStetelliteChargesUsed=Stetellite de Stetmann - Charges utilisées
+Behavior/Name/StetmannStetelliteChargesUsed1=Stetellite de Stetmann - Charges utilisées 1
+Behavior/Name/SuperGaryStetmannTheBestOil=La meilleure huile
+Behavior/Name/UltraliskStetmannBurrowChargeMechanicalStun=Surprise électrostatique !
+Behavior/Tooltip/CommanderPrestigeStetmannCombatBuff=La vitesse d’attaque et la régénération de santé de cette unité sont augmentées.
+Behavior/Tooltip/FASTOverloadStetmann=La vitesse d’attaque de cette unité est augmentée.
+Behavior/Tooltip/HUGSOverloadStetmann=Cette unité absorbe les dégâts qui lui sont infligés.
+Behavior/Tooltip/InfestorStetmannHealingTentacle=Cette unité récupère des points de vie, d’Egonergie et d’énergie. La vitesse d’écoulement des temps de recharge de ses capacités est augmentée.
+Behavior/Tooltip/InfestorStetmannInfestBuilding=Ce bâtiment est neutralisé.
+Behavior/Tooltip/JUICEOverloadStetmann=Cette unité récupère des points de vie, d’Egonergie et d’énergie sur la durée.
+Behavior/Tooltip/PowerTowerOverchargeStetmann=Ce Stetellite peut augmenter encore davantage les capacités des unités alliées proches.
+Behavior/Tooltip/SuperGaryStetmannTheBestOil=Super-Gary a récemment absorbé des débris de méca. Sa vitesse d’attaque et sa régénération de vie sont augmentées.
+Behavior/Tooltip/UltraliskStetmannBurrowChargeMechanicalStun=Cette unité est étourdie.
+Button/ChargeText/CorruptorStetmannRespawn=<d ref="[d ref='$AbilChargeCount:CorruptorStetmannRespawn,0$-0.4'/]"/>
+Button/ChargeText/HydraliskStetmannRespawn=<d ref="[d ref='$AbilChargeCount:HydraliskStetmannRespawn,0$-0.4'/]"/>
+Button/ChargeText/InfestorStetmannRespawn=<d ref="[d ref='$AbilChargeCount:InfestorStetmannRespawn,0$-0.4'/]"/>
+Button/ChargeText/UltraliskStetmannRespawn=<d ref="[d ref='$AbilChargeCount:UltraliskStetmannRespawn,0$-0.4'/]"/>
+Button/ChargeText/ZerglingStetmannRespawn=<d ref="[d ref='$AbilChargeCount:ZerglingStetmannRespawn,0$-0.4'/]"/>
+Button/Name/AdrenalOverloadLocked=Pompes surrénales synthétiques
+Button/Name/BanelingExtraDamageLocked=Explosifs enrichis en Egonergie
+Button/Name/BanelingNestStetmann=Muter en nid de méca-chancres
+Button/Name/BanelingStetmann=Transformer en méca-chancre
+Button/Name/BanelingStetmannExtraDamage=Explosifs enrichis en Egonergie
+Button/Name/BanelingStetmannManaShield=Barrière anti-impact egonergétique
+Button/Name/BanelingStetmannMovementSpeed=Servopropulseurs contre-centripètes
+Button/Name/BanelingStetmannPassive=Méca-chancre
+Button/Name/BanelingStetmannScrapDrop=Recyclable
+Button/Name/BroodLordStetmann=Transformer en méca-seigneur de combat
+Button/Name/BroodLordStetmannBombers=Construire un nuisicepteur
+Button/Name/BroodLordStetmannBombersLearn=Rechercher Baie des nuisicepteurs
+Button/Name/BroodLordStetmannBroodlings=Préparer une Méca-vermine
+Button/Name/BroodLordStetmannPassive=Méca-seigneur de combat
+Button/Name/BroodLordStetmannScrapDrop=Recyclable
+Button/Name/BroodLordStetmannYamato=Rechercher Canon Stetmanno
+Button/Name/BroodLordStetmannYamatoCannon=Canon Stetmanno
+Button/Name/BuildLocustBomberLocked=Construire un nuisicepteur
+Button/Name/CancelSuperGaryStetmannMorph=Annuler
+Button/Name/CausticAcidLocked=Solvant terradicateur
+Button/Name/CausticSprayStetmann=Solvant terradicateur
+Button/Name/ChannelingSpinesLocked=Algorithme de frappe concentrée
+Button/Name/CommanderPrestigeStetmannBonusRavagerResearchLocked=Rechercher Saccageur BONUS !
+Button/Name/CommanderPrestigeStetmannChargingProtocolResearchLocked=Rechercher Protocole de charge UMI-C
+Button/Name/CommanderPrestigeStetmannMechaInfestorBuildLocked=Transformer en méca-infestateur
+Button/Name/CommanderPrestigeStetmannMechaInfestorLocked=Méca-infestateur
+Button/Name/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Recycler le méca-infestateur
+Button/Name/CommanderPrestigeStetmannSuperGaryLocked=Séquence de transformation en Super-Gary
+Button/Name/CorruptorStetmann=Transformer en méca-corrupteur
+Button/Name/CorruptorStetmannBiggerAoE=Rechercher Décalcolonie à longue portée
+Button/Name/CorruptorStetmannMissilePods=Décalcolonie
+Button/Name/CorruptorStetmannPassive=Méca-corrupteur
+Button/Name/CorruptorStetmannRespawn=Recycler le méca-corrupteur
+Button/Name/CorruptorStetmannRespawnLocked=Recycler le méca-corrupteur
+Button/Name/CorruptorStetmannScrapDrop=Recyclable
+Button/Name/DroneStetmann=Transformer en méca-ouvrier
+Button/Name/DualQueueLocked=Multiplicateur de science
+Button/Name/EvolutionChamberStetmann=Muter en méca-chambre d’évolution
+Button/Name/ExplodeStetmann=Exploser
+Button/Name/ExtractorStetmann=Muter en méca-extracteur
+Button/Name/FASTOverloadStetmann=Surcharge de V.I.T.E.
+Button/Name/GaryStetmannMechanicalReconstruction=Recycleur de débris
+Button/Name/GaryStetmannOrb=Egorbe
+Button/Name/GaryStetmannRecall=Transport de masse semi-stable
+Button/Name/GaryStetmannSelfPower=Cellules énergifères de Gary
+Button/Name/GaryStetmannTheBestOil=La meilleure huile
+Button/Name/GreaterSpireStetmann=Muter en grande méca-aiguille
+Button/Name/HUGSOverloadStetmann=Surcharge d’A.M.I.S.
+Button/Name/HatcheryStetmann=Muter en méca-couveuse
+Button/Name/HiveStetmann=Muter en méca-ruche
+Button/Name/HydraliskDenStetmann=Muter en tanière de méca-hydralisks
+Button/Name/HydraliskRangeLocked=Système de ciblage de classe Tyr
+Button/Name/HydraliskStetmann=Transformer en méca-hydralisk
+Button/Name/HydraliskStetmannMissilePowerOff=Armement surgonflé : désactivé
+Button/Name/HydraliskStetmannMissilePowerOn=Armement surgonflé : activé
+Button/Name/HydraliskStetmannMovementSpeedPassive=Implants hydra-liques
+Button/Name/HydraliskStetmannPassive=Méca-hydralisk
+Button/Name/HydraliskStetmannRangePassive=Système de ciblage de classe Tyr
+Button/Name/HydraliskStetmannRespawn=Recycler le méca-hydralisk
+Button/Name/HydraliskStetmannRespawnLocked=Recycler le méca-hydralisk
+Button/Name/HydraliskStetmannScrapDrop=Recyclable
+Button/Name/InfestationPitStetmann=Muter en méca-fosse d’infestation
+Button/Name/InfestorStetmann=Transformer en méca-infestateur
+Button/Name/InfestorStetmannBonusRavager=Rechercher Saccageur BONUS !
+Button/Name/InfestorStetmannEggLaunch=Larguez les cafards !
+Button/Name/InfestorStetmannHealingTentacle=Protocole de charge UMI-C
+Button/Name/InfestorStetmannInfestBuilding=Cafardite dégénérative
+Button/Name/InfestorStetmannPassive=Méca-infestateur
+Button/Name/InfestorStetmannRecharge=Rechercher Protocole de charge UMI-C
+Button/Name/InfestorStetmannRespawn=Recycler le méca-infestateur
+Button/Name/InfestorStetmannRespawnLocked=Recycler le méca-infestateur
+Button/Name/InfestorStetmannScrapDrop=Recyclable
+Button/Name/JUICEOverloadStetmann=Surcharge de S.A.U.C.E.
+Button/Name/JuiceConfigurationLocked=Configuration S.A.U.C.E.
+Button/Name/LairStetmann=Muter en méca-terrier
+Button/Name/LarvaStetmann=Sélectionner la méca-larve
+Button/Name/LurkerDenStetmann=Muter en Terrier de méca-rôdeurs
+Button/Name/LurkerMP2=Transformer en rôdeur - copie
+Button/Name/LurkerStetmann=Transformer en méca-rôdeur
+Button/Name/LurkerStetmannChannelingSpines=Algorithme de frappe concentrée
+Button/Name/LurkerStetmannPassive=Méca-rôdeur
+Button/Name/LurkerStetmannScrapDrop=Recyclable
+Button/Name/LurkerStetmannTunnelingBurst=Algorithme de tunnel de la TERREUR
+Button/Name/MechaAbsorptionLocked=Module méca-moule
+Button/Name/MechaShieldLocked=Armure en chitanium
+Button/Name/MorphToOverseerStetmann=Transformer en méca-vigilant
+Button/Name/MorphToSuperGaryStetmann=Séquence de transformation en Super-Gary
+Button/Name/MorphtoMechaBattleCarrierLordLocked=Transformer en méca-seigneur de combat
+Button/Name/MorphtoMechaLurkerLocked=Transformer en méca-rôdeur
+Button/Name/MorphtoOverseerNormalStetmann=Annuler Vigilance
+Button/Name/MorphtoOverseerSiegeStetmann=Vigilance
+Button/Name/MorphtoSuperGaryLocked=Séquence de transformation en Super-Gary
+Button/Name/MutateintoMechaGreaterSpireLocked=Muter en grande méca-aiguille
+Button/Name/MutateintoMechaLurkerDenLocked=Muter en Terrier de méca-rôdeurs
+Button/Name/OverlordStetmann=Transformer en méca-dominant
+Button/Name/OverlordStetmannSpeed=Fuselage pneumatique
+Button/Name/OverlordTransportStetmannLoad=Charger
+Button/Name/PowerFieldEnergyRegeneration=Passer en Configuration S.A.U.C.E.
+Button/Name/PowerFieldEnergyRegenerationPassive=Configuration Source d’Alimentation Utile Continue en Egonergie
+Button/Name/PowerFieldHPRegeneration=Passer en Configuration A.M.I.S.
+Button/Name/PowerFieldHPRegenerationPassive=Configuration Aide au Maintien de l’Intégrité des Systèmes
+Button/Name/PowerFieldMovementSpeed=Passer en Configuration V.I.T.E.
+Button/Name/PowerFieldMovementSpeedPassive=Configuration Vélocité Intensive Transitoire Extrême
+Button/Name/PowerFieldSuperGaryStetmannEnergy=Garyzone
+Button/Name/PowerFieldSuperGaryStetmannHealth=Garyzone
+Button/Name/PowerFieldSuperGaryStetmannSpeed=Garyzone
+Button/Name/PowerTowerOverchargeStetmannEnergy=Surcharge des Stetellites
+Button/Name/PowerTowerOverchargeStetmannHealth=Surcharge des Stetellites
+Button/Name/PowerTowerOverchargeStetmannSpeed=Surcharge des Stetellites
+Button/Name/PowerTowerStetmannLevel1=Déploiement de Stetellites
+Button/Name/PowerTowerStetmannLevel2=Déploiement de Stetellites
+Button/Name/PowerTowerStetmannLevel3=Déploiement de Stetellites
+Button/Name/RallyEggStetmann=Définir le point de ralliement des ouvriers
+Button/Name/RallyStetmannBuilding=Définir le point de ralliement
+Button/Name/RavagerStetmannCorrosiveBile=Éruption nuisible à l’environnement
+Button/Name/RechargeLocked=Protocole de charge UMI-C
+Button/Name/RemnantDropLocked=Recyclable
+Button/Name/RemnantReclaimationLocked=Recycleur de débris
+Button/Name/ResearchAdrenalOverloadLocked=Rechercher Pompes surrénales synthétiques
+Button/Name/ResearchBanelingExtraDamageLocked=Rechercher Explosifs enrichis en Egonergie
+Button/Name/ResearchBanelingManaShieldBonusLocked=Rechercher Barrière à efficacité egonergétique
+Button/Name/ResearchBanelingStetmannExtraDamage=Rechercher Explosifs enrichis en Egonergie
+Button/Name/ResearchBanelingStetmannManaShieldBonus=Rechercher Barrière à efficacité egonergétique
+Button/Name/ResearchBanelingStetmannMovementSpeed=Rechercher Servopropulseurs contre-centripètes
+Button/Name/ResearchBonusRavagerLocked=Rechercher Saccageur BONUS !
+Button/Name/ResearchCausticAcidLocked=Rechercher Solvant terradicateur
+Button/Name/ResearchChannelingSpinesLocked=Rechercher Algorithme de frappe concentrée
+Button/Name/ResearchCorruptorCausticSprayStetmann=Rechercher Solvant terradicateur
+Button/Name/ResearchHydraliskRangeLocked=Rechercher Système de ciblage de classe Tyr
+Button/Name/ResearchHydraliskStetmannDamage=Rechercher Lance-missiles Érudition
+Button/Name/ResearchHydraliskStetmannMovementSpeed=Rechercher Implants hydra-liques
+Button/Name/ResearchHydraliskStetmannRange=Rechercher Système de ciblage de classe Tyr
+Button/Name/ResearchLocustBombersLocked=Rechercher Baie des nuisicepteurs
+Button/Name/ResearchLurkerStetmannTunnelingBurstRange=Rechercher Algorithme de tunnel de la TERREUR prolongé
+Button/Name/ResearchMechaAbsorptionLocked=Rechercher Module méca-moule
+Button/Name/ResearchMechaShieldLocked=Rechercher Armure en chitanium
+Button/Name/ResearchOverlordStetmannSpeed=Rechercher Fuselage pneumatique
+Button/Name/ResearchOverlordStetmannVentralSacks=Rechercher Poches ventrales
+Button/Name/ResearchRechargeLocked=Rechercher Protocole de charge UMI-C
+Button/Name/ResearchStetMatoCannonLocked=Rechercher Canon Stetmanno
+Button/Name/ResearchTunnelingBurstRangeLocked=Rechercher Algorithme de fouissage fatal prolongé
+Button/Name/ResearchUltraliskStetmannBurrowChargeMechanicalStun=Rechercher Surprise électrostatique !
+Button/Name/ResearchZerglingStetmannAttackSpeed=Rechercher Pompes surrénales synthétiques
+Button/Name/ResearchZerglingStetmannHardenedShield=Rechercher Bouclier egonergétique renforcé
+Button/Name/ResearchZerglingStetmannMovementSpeed=Rechercher Poussée mécabolique
+Button/Name/ReserachLurkerStetmannChannelingSpines=Rechercher Algorithme de frappe concentrée
+Button/Name/ReserachUltraliskStetmannArmor=Rechercher Armure en chitanium
+Button/Name/ReserachUltraliskStetmannMechanicalLifeLeech=Rechercher Module méca-moule
+Button/Name/RoachStetmannRapidRegeneration=Régénération rapide
+Button/Name/RoachWarrenStetmann=Muter terrier de méca-cafards
+Button/Name/SpawningPoolStetmann=Muter en méca-bassin génétique
+Button/Name/SpineCrawlerRootStetmann=Enraciner
+Button/Name/SpineCrawlerStetmann=Muter en méca-aiguillon rampant
+Button/Name/SpineCrawlerStetmannPassive=Méca-aiguillon rampant
+Button/Name/SpineCrawlerUprootStetmann=Déraciner
+Button/Name/SpireStetmann=Muter en méca-aiguille
+Button/Name/SporeCrawlerRootStetmann=Enraciner
+Button/Name/SporeCrawlerStetmann=Muter en méca-sporuleur rampant
+Button/Name/SporeCrawlerStetmannPassive=Méca-sporuleur rampant
+Button/Name/SporeCrawlerUprootStetmann=Déraciner
+Button/Name/StetMatoCannonLocked=Canon Stetmanno
+Button/Name/StetelliteBonusLevel2Locked=Production de Stetellite de niveau 2
+Button/Name/StetelliteBonusLevel3Locked=Production de Stetellite de niveau 3
+Button/Name/StetelliteOverchargeLocked=Surcharge des Stetellites
+Button/Name/StetmannDualQueue=Multiplicateur de science
+Button/Name/StetmannFieldGeneratorEnergy=Générateur de stetzone
+Button/Name/StetmannFieldGeneratorHealth=Générateur de stetzone
+Button/Name/StetmannFieldGeneratorSpeed=Générateur de stetzone
+Button/Name/StetmannSatelliteBonusLevel1=Production de Stetellite de niveau 1
+Button/Name/StetmannSatelliteBonusLevel2=Production de Stetellite de niveau 2
+Button/Name/StetmannSatelliteBonusLevel3=Production de Stetellite de niveau 3
+Button/Name/SuperGaryStetmannSelfPower=Cellules énergifères de Super-Gary
+Button/Name/UltraliskCavernStetmann=Muter en caverne de méca-ultralisks
+Button/Name/UltraliskStetmann=Transformer en méca-ultralisk
+Button/Name/UltraliskStetmannArmorPassive=Armure en chitanium
+Button/Name/UltraliskStetmannBurrowCharge=Charge enfouie vectorielle
+Button/Name/UltraliskStetmannMechanicalLifeLeech=Module méca-moule
+Button/Name/UltraliskStetmannPassive=Méca-ultralisk
+Button/Name/UltraliskStetmannRespawn=Recycler le méca-ultralisk
+Button/Name/UltraliskStetmannRespawnLocked=Recycler le méca-ultralisk
+Button/Name/UltraliskStetmannScrapDrop=Recyclable
+Button/Name/ZergFlyerArmorStetmann1=Rechercher Blindage de méca-Zergs aériens - Niv. 1
+Button/Name/ZergFlyerArmorStetmann2=Rechercher Blindage de méca-Zergs aériens - Niv. 2
+Button/Name/ZergFlyerArmorStetmann3=Rechercher Blindage de méca-Zergs aériens - Niv. 3
+Button/Name/ZergFlyerAttackStetmann1=Rechercher Attaques de méca-Zergs aériens - Niv. 1
+Button/Name/ZergFlyerAttackStetmann2=Rechercher Attaques de méca-zergs aériens - Niv. 2
+Button/Name/ZergFlyerAttackStetmann3=Rechercher Attaques de méca-Zergs aériens - Niv. 3
+Button/Name/ZergGroundArmorStetmann1=Rechercher Blindage de méca-Zergs terrestres - Niv. 1
+Button/Name/ZergGroundArmorStetmann2=Rechercher Blindage de méca-Zergs terrestres - Niv. 2
+Button/Name/ZergGroundArmorStetmann3=Rechercher Blindage de méca-Zergs terrestres - Niv. 3
+Button/Name/ZergMeleeWeaponsStetmann1=Rechercher Attaques de mêlée de méca-Zergs - Niv. 1
+Button/Name/ZergMeleeWeaponsStetmann2=Rechercher Attaques de mêlée de méca-Zergs - Niv. 2
+Button/Name/ZergMeleeWeaponsStetmann3=Rechercher Attaques de mêlée de méca-Zergs - Niv. 3
+Button/Name/ZergMissileWeaponsStetmann1=Rechercher Attaques à projectiles de méca-Zergs - Niv. 1
+Button/Name/ZergMissileWeaponsStetmann2=Rechercher Attaques à projectiles de méca-Zergs - Niv. 2
+Button/Name/ZergMissileWeaponsStetmann3=Rechercher Attaques à projectiles de méca-Zergs - Niv. 3
+Button/Name/ZerglingStetmann=Transformer en méca-zergling
+Button/Name/ZerglingStetmannAttackSpeedPassive=Pompes surrénales synthétiques
+Button/Name/ZerglingStetmannHardenedShield=Bouclier egonergétique renforcé
+Button/Name/ZerglingStetmannMovementSpeedPassive=Poussée mécabolique
+Button/Name/ZerglingStetmannPassive=Méca-zergling
+Button/Name/ZerglingStetmannRespawn=Recycler le méca-zergling
+Button/Name/ZerglingStetmannRespawnLocked=Recycler le méca-zergling
+Button/Name/ZerglingStetmannScrapDrop=Recyclable
+Button/Tooltip/AbilLockedLevel05=Cette capacité est débloquée au niveau de commandant 5.
+Button/Tooltip/AbilLockedLevel09=Cette capacité est débloquée au niveau de commandant 9.
+Button/Tooltip/AbilLockedLevel15=Cette capacité est débloquée au niveau de commandant 15.
+Button/Tooltip/AlarakMothershipMassTeleport=Téléporte le vaisseau mère et toutes les unités proches que vous contrôlez à proximité de l’unité ou du bâtiment allié ciblé.</n></n><c val="#ColorAttackInfo">Ne peut cibler que les unités et les bâtiments alliés.</c>
+Button/Tooltip/BanelingNestStetmann=Permet des améliorations pour le méca-chancre.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Méca-chancre à partir d’un méca-zergling
+Button/Tooltip/BanelingStetmann=Unité suicide qui inflige des dégâts dans une zone réduite quand elle meurt.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/BanelingStetmannCocoon=Ce cocon contient un méca-zergling en train de se transformer en méca-chancre.
+Button/Tooltip/BanelingStetmannExtraDamage=Quand cette unité explose, l’Egonergie qu’elle a accumulée s’ajoute aux dégâts.
+Button/Tooltip/BanelingStetmannManaShield=Permet à cette une unité de perdre des points d’Egonergie avant de perdre des points de vie quand elle subit des dégâts. Chaque point d’Egonergie absorbe <d ref="Behavior,BanelingStetmannManaShield,Modification.EnergyDamageRatioBonus"/> points de dégâts.
+Button/Tooltip/BanelingStetmannMovementSpeed=Augmente la vitesse de déplacement de cette unité de <d ref="$UpgradeEffectArrayValue:BanelingStetmannMovementSpeed:Unit,BanelingStetmann,Speed$/Unit,BanelingStetmann,Speed*100"/>% et lui permet de bondir sur les unités ennemies.
+Button/Tooltip/BanelingStetmannPassive=Le nid de méca-chancres vous permet de transformer des méca-zerglings en méca-chancres.
+Button/Tooltip/BanelingStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 2 <c val="ffff8a">débris de Méca-zergling</c>.
+Button/Tooltip/BroodLordStetmann=Unité volante d’assaut lourde. Tire des méca-vermines sur sa cible. Génère et largue des nuisicepteurs qui attaquent les unités terrestres ennemies. Peut utiliser Canon Stetmanno.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/BroodLordStetmannBombers=Construit des nuisicepteurs qui attaquent automatiquement la cible du méca-seigneur de combat.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/BroodLordStetmannBombersLearn=Permet au <c val="ffff8a">méca-seigneur de combat</c> de construire et de lancer <d ref="Abil,BroodLordStetmannBomberMagazine,MaxCount"/> nuisicepteurs qui attaquent automatiquement les unités terrestres ennemies.
+Button/Tooltip/BroodLordStetmannBroodlings=Construit des méca-vermines qui peuvent attaquer les unités terrestres.
+Button/Tooltip/BroodLordStetmannCocoon=Ce cocon contient un méca-corrupteur en train de se transformer en méca-seigneur de combat.
+Button/Tooltip/BroodLordStetmannFleaBombers=Permet au <c val="ffff8a">méca-seigneur de combat</c> de construire et de lancer <d ref="Abil,BroodLordStetmannBomberMagazine,MaxCount"/> nuisicepteurs qui attaquent automatiquement les unités terrestres ennemies.<n/>
+Button/Tooltip/BroodLordStetmannPassive=La grande méca-aiguille vous permet de transformer des méca-corrupteurs en méca-seigneurs de combat.
+Button/Tooltip/BroodLordStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 2 <c val="ffff8a">débris de Méca-corrupteur</c>.
+Button/Tooltip/BroodLordStetmannYamato=Permet au <c val="ffff8a">méca-seigneur de combat</c> de tirer avec un canon plasma dévastateur, qui inflige <d ref="Effect,BroodLordStetmannYamatoDamage,Amount"/> points de dégâts et donne la folie des grandeurs.
+Button/Tooltip/BroodLordStetmannYamatoCannon=Tire avec un canon plasma dévastateur, qui inflige <d ref="Effect,BroodLordStetmannYamatoDamage,Amount"/> points de dégâts et donne la folie des grandeurs.
+Button/Tooltip/BroodlingStetmann=Créature rapide de combat rapproché qui a une durée de vie limitée.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/CancelMutateMorph2=Annule l’ordre de mutation et rend au bâtiment son état original.
+Button/Tooltip/CancelSuperGaryStetmannMorph=Annule l’ordre d’amélioration, et fait reprendre à l’unité son état original.
+Button/Tooltip/CausticSprayStetmann=Émet un flux de solvant qui inflige <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> points de dégâts par seconde pendant <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> secondes, puis augmente à <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/> points de dégâts par seconde.<n/><n/><c val="ffff8a">Capacité canalisée.</c><c val="#ColorAttackInfo"> Peut cibler les unités terrestres et bâtiments ennemis.</c>
+Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> cette unité gagne une charge de La meilleure huile quand elle détruit une unité ennemie, ce qui augmente temporairement sa vitesse d’attaque et sa régénération de santé.
+Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=Cette amélioration est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=Cette amélioration est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> une fois qu’ils sont activés, les Stetellites sont invulnérables et ils génèrent une stetzone <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>% plus grande.
+Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> la vitesse de déplacement de Gary est réduite de <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% en dehors des stetzones.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=Cette unité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=Cette unité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Cette capacité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=Cette capacité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CorruptorStetmann=Unité volante antiaérienne. Peut utiliser Décalcolonie et Solvant terradicateur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c>
+Button/Tooltip/CorruptorStetmannBiggerAoE=Augmente le rayon de détection de Décalcolonie du <c val="ffff8a">méca-corrupteur</c> de <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%.
+Button/Tooltip/CorruptorStetmannMissilePods=Tire un barrage de projectiles qui inflige <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> dégâts aux unités aériennes ennemies (+<d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> aux unités légères) dans la zone ciblée.
+Button/Tooltip/CorruptorStetmannPassive=La méca-aiguille vous permet de transformer des méca-corrupteurs.
+Button/Tooltip/CorruptorStetmannRespawn=Tous les <d ref="-1/Effect,CorruptorStetmannDeathRespawnAddCharge,Cost.Charge.CountUse"/> <c val="ffff8a">Débris de méca-corrupteur</c> ramassés par un <c val="ffff8a">Stetellite</c>, <c val="ffff8a">Gary</c>, ou <c val="ffff8a">Super-Gary</c>, un <c val="ffff8a">méca-corrupteur</c> apparaîtra gratuitement ici.<n/>
+Button/Tooltip/CorruptorStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 1 <c val="ffff8a">débris de Méca-corrupteur</c>.
+Button/Tooltip/DroneStetmann=Unité ouvrière de base. Peut collecter du minerai et du gaz vespène. Peut se transformer en bâtiment.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/DroneStetmannBurrowed=Unité ouvrière de base. Peut collecter du minerai et du gaz vespène. Peut se transformer en bâtiment.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/EggStetmann=Les unités méca-Zergs se transforment dans ces cocons.
+Button/Tooltip/EvolutionChamberStetmann=Permet des améliorations pour les unités terrestres méca-Zergs.
+Button/Tooltip/ExplodeStetmann=Le méca-chancre explose sur place, ce qui endommage les unités et bâtiments ennemis à proximité.
+Button/Tooltip/ExtractorStetmann=À faire muter au-dessus d’un geyser de vespène pour permettre la collecte du gaz.
+Button/Tooltip/FASTOverloadStetmann=Augmente la vitesse d’attaque d’une unité alliée de <d ref="(Behavior,FASTOverloadStetmann,Modification.AttackSpeedMultiplier-1)*100"/>%. L’effet dure <d ref="Behavior,FASTOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/GaryStetmann=Le meilleur ami de Stetmann ! Peut utiliser Egorbe, Surcharge des Stetellites, Transport de masse semi-stable et Séquence de transformation en Super-Gary.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/GaryStetmannMechanicalReconstruction=Quand l’un des méca-Zergs de Stetmann est détruit et laisse ses débris à proximité de cette unité, ceux-ci sont récoltés et le méca-Zerg est reconstruit au bâtiment de production correspondant.
+Button/Tooltip/GaryStetmannOrb=Projette un orbe électrique qui inflige <d ref="Effect,GaryStetmannOrbDamage,Amount/Behavior,GaryStetmannOrb,Period"/> points de dégâts par seconde à tous les ennemis présents sur sa trajectoire. Si Gary est dans une stetzone, il déchaîne trois orbes à la place.
+Button/Tooltip/GaryStetmannRecall=Téléporte Gary et les unités proches que vous contrôlez à l’emplacement du Stetellite ciblé.
+Button/Tooltip/GaryStetmannSelfPower=Gary génère sa propre puissance et n’est pas affecté par les bonus passifs des stetzones. Il récupère <d ref="Unit,GaryStetmann,LifeRegenRate"/> points de vie par seconde.
+Button/Tooltip/GaryStetmannTheBestOil=Quand Super-Gary absorbe un débris de méca, sa vitesse d’attaque augmente de <d ref="Behavior,SuperGaryStetmannTheBestOilAttribute,Modification.AdditiveAttackSpeedFactor*100"/>% et il récupère <d ref="Behavior,SuperGaryStetmannTheBestOilAttribute,Modification.VitalRegenArray[Life]"/> points de vie supplémentaires par seconde pendant <d ref="Behavior,SuperGaryStetmannTheBestOil,Duration"/> secondes.
+Button/Tooltip/GarysDen=Gary est en cours de « réanimation » dans cette chambre.
+Button/Tooltip/GreaterSpireStetmann=Permet des améliorations pour les unités aériennes méca-Zergs.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Méca-seigneur de combat à partir d’un méca-corrupteur
+Button/Tooltip/HUGSOverloadStetmann=Entoure une unité d’un bouclier qui absorbe jusqu’à <d ref="Behavior,HUGSOverloadStetmann,DamageResponse.ModifyLimit"/> points de dégâts. L’effet dure <d ref="Behavior,HUGSOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/HatcheryStetmann=Bâtiment principal. Engendre toutes les unités méca-Zergs et reçoit les ressources collectées. Génère une stetzone. Peut muter en méca-terrier.
+Button/Tooltip/HiveStetmann=Version évoluée du méca-terrier, qui permet de nouvelles améliorations et la production de bâtiments supplémentaires. Engendre également toutes les unités méca-Zergs et reçoit les ressources collectées.
+Button/Tooltip/HydraliskDenStetmannImpaler=Peut muter en terrier de méca-rôdeurs.</n></n><c val="ffff8a">Débloque :</c><n/>- Méca-hydralisk à partir d’une méca-larve
+Button/Tooltip/HydraliskStetmann=Unité d’assaut à distance.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/HydraliskStetmannMissilePowerOff=Passe à un type de missile moins puissant, ce qui économise l’Egonergie.
+Button/Tooltip/HydraliskStetmannMissilePowerOn=Double les dégâts antiaériens de cette unité. Draine 10 points d’Egonergie par attaque.
+Button/Tooltip/HydraliskStetmannMovementSpeedPassive=Vitesse de déplacement augmentée de <d ref="$UpgradeEffectArrayValue:HydraliskStetmannMovementSpeed:Unit,HydraliskStetmann,Speed$/Unit,HydraliskStetmann,Speed*100" player = "0"/>%.
+Button/Tooltip/HydraliskStetmannPassive=La tanière de méca-hydralisks vous permet de transformer des méca-hydralisks.
+Button/Tooltip/HydraliskStetmannRangePassive=Augmente la portée des armes antiaériennes de <d ref="$UpgradeEffectArrayValue:HydraliskStetmannRange:Weapon,HydraliskHellfireMissilesStetmann,Range$"/>.
+Button/Tooltip/HydraliskStetmannRespawn=Tous les <d ref="-1/Effect,HydraliskStetmannDeathRespawnAddCharge,Cost.Charge.CountUse"/> <c val="ffff8a">Débris de méca-hydralisk</c> ramassés par un <c val="ffff8a">Stetellite</c>, <c val="ffff8a">Gary</c>, ou <c val="ffff8a">Super-Gary</c>, un <c val="ffff8a">méca-hydralisk</c> apparaîtra gratuitement ici.<n/>
+Button/Tooltip/HydraliskStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 1 <c val="ffff8a">débris de Méca-hydralisk</c>.
+Button/Tooltip/InfestationPitStetmann=<c val="ffff8a">Débloque :</c><n/>- Méca-infestateur à partir d’une méca-larve
+Button/Tooltip/InfestedTerran=Le Terran contaminé inflige des dégâts modérés.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/InfestorStetmann=Spécialiste de la contamination. Peut utiliser les capacités Larguez les cafards !, Cafardite dégénérative et Protocole de charge UMI-C.
+Button/Tooltip/InfestorStetmannBonusRavager=Permet aux capacités Larguez les cafards ! et Cafardite dégénérative du <c val="ffff8a">méca-infestateur</c> de générer un <c val="ffff8a">méca-saccageur</c> supplémentaire.
+Button/Tooltip/InfestorStetmannEggLaunch=Génère <d ref="Effect,InfestorStetmannEggLaunch,PeriodCount" player = "0"/> méca-cafards. Les unités générées durent <d ref="Behavior,InfestorStetmannTimedLife,Duration"/> secondes.
+Button/Tooltip/InfestorStetmannEggLaunchAppend=<n/><n/><c val="FFFF8A">Saccageur BONUS ! :</c> génère aussi un méca-saccageur.
+Button/Tooltip/InfestorStetmannHealingTentacle=Le méca-infestateur lance un nerf mécanique à une unité alliée, qui récupère instantanément <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Life].Change"/> points de vie, <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Energy].Change"/> points d’Egonergie et <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Energy].Change"/> points d’énergie. Récupère également <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Life]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points de vie, <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Energy]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points d’Egonergie et <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Energy]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points d’énergie en <d ref="Behavior,InfestorStetmannHealingTentacle,Duration"/> secondes. La vitesse d’écoulement des temps de recharge des capacités de l’unité est augmentée de <d ref="(Behavior,InfestorStetmannHealingTentacle,Modification.RateMultiplierArray[Cooldown]-1)*100"/>%.
+Button/Tooltip/InfestorStetmannInfestBuilding=Contamine le bâtiment ennemi ciblé, ce qui lui inflige <d ref="Effect,InfestorStetmannInfestBuildingDamage,Amount*Behavior,InfestorStetmannInfestBuilding,Duration/Behavior,InfestorStetmannInfestBuilding,Period"/> points de dégâts en <d ref="Behavior,InfestorStetmannInfestBuilding,Duration"/> secondes et le neutralise pendant toute la durée de l’effet. Si le bâtiment est détruit tant que Cafardite dégénérative est active, il génère <d ref="Effect,InfestorStetmannInfestBuildingEggs,PeriodCount" player = "0"/> méca-cafards.
+Button/Tooltip/InfestorStetmannInfestBuildingAppend=<n/><n/><c val="FFFF8A">Saccageur BONUS ! :</c> génère aussi un méca-saccageur.
+Button/Tooltip/InfestorStetmannPassive=La méca-fosse d’infestation vous permet de transformer des méca-infestateurs.
+Button/Tooltip/InfestorStetmannRecharge=Permet au <c val="ffff8a">méca-infestateur</c> de lancer un nerf mécanique à une unité alliée, qui récupère instantanément <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Life].Change"/> points de vie, <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Energy].Change"/> points d’Egonergie et <d ref="Effect,InfestorStetmannHealingTentacleHeal,VitalArray[Energy].Change"/> points d’énergie. Récupère également <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Life]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points de vie, <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Energy]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points d’Egonergie et <d ref="Behavior,InfestorStetmannHealingTentacle,Modification.VitalRegenArray[Energy]*(Behavior,InfestorStetmannHealingTentacle,Duration-0.0625)"/> points d’énergie en <d ref="Behavior,InfestorStetmannHealingTentacle,Duration"/> secondes. La vitesse d’écoulement des temps de recharge des capacités de l’unité est augmentée de <d ref="(Behavior,InfestorStetmannHealingTentacle,Modification.RateMultiplierArray[Cooldown]-1)*100"/>%.
+Button/Tooltip/InfestorStetmannRespawn=Tous les <d ref="-1/Effect,InfestorStetmannDeathRespawnAddCharge,Cost.Charge.CountUse"/> <c val="ffff8a">Débris de méca-infestateur</c> ramassés par un <c val="ffff8a">Stetellite</c>, <c val="ffff8a">Gary</c>, ou <c val="ffff8a">Super-Gary</c>, un <c val="ffff8a">méca-infestateur</c> apparaîtra gratuitement ici.<n/>
+Button/Tooltip/InfestorStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 1 <c val="ffff8a">débris de Méca-infestateur</c>.
+Button/Tooltip/InterceptorStetmannUnit=Drones de combat qui attaquent automatiquement la cible du méca-seigneur de combat.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/JUICEOverloadStetmann=Rend <d ref="Behavior,JUICEOverloadStetmann,Modification.VitalRegenArray[Energy]*Behavior,JUICEOverloadStetmann,Duration"/> points d’Egonergie et d’énergie à une unité alliée en <d ref="Behavior,JUICEOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/LairStetmann=Version évoluée de la méca-couveuse, qui permet de nouvelles améliorations et la production de bâtiments supplémentaires. Engendre également toutes les unités méca-Zergs et reçoit les ressources collectées.
+Button/Tooltip/LarvaStetmann=Se transforme en unités méca-Zergs.
+Button/Tooltip/LurkerDenStetmann=<c val="ffff8a">Débloque :</c><n/>- Méca-rôdeur à partir d’un méca-hydralisk
+Button/Tooltip/LurkerMP2=Unité embusquée anti-terrestre. Dispose d’une volée d’aiguillons qui blesse touts les ennemis présents dans sa ligne de tir.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.<n/>Doit s’enfouir pour attaquer.</c>
+Button/Tooltip/LurkerStetmann=Unité embusquée anti-terrestre. Dispose d’une puissante attaque qui inflige des dégâts à tous les ennemis dans sa ligne de tir. Peut utiliser les capacités Algorithme de tunnel de la TERREUR et Algorithme de frappe concentrée.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.<n/>Doit s’enfouir pour attaquer.</c>
+Button/Tooltip/LurkerStetmannChannelingSpines=Le méca-rôdeur concentre ses tirs sur l’unité ciblée et inflige <d ref="Effect,LurkerStetmannChannelingSpinesDamage,Amount"/> points de dégâts dans une petite zone autour de la cible pendant <d ref="Effect,LurkerStetmannChannelingSpinesCP,PeriodCount*Effect,LurkerStetmannChannelingSpinesCP,PeriodicPeriodArray[0]"/> secondes ou jusqu’à ce que l’unité soit détruite.
+Button/Tooltip/LurkerStetmannCocoon=Ce cocon contient un méca-hydralisk en train de se transformer en méca-rôdeur.
+Button/Tooltip/LurkerStetmannPassive=Le terrier de méca-rôdeurs vous permet de transformer des méca-hydralisks en méca-rôdeurs.
+Button/Tooltip/LurkerStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 2 <c val="ffff8a">débris de Méca-hydralisk</c>.
+Button/Tooltip/LurkerStetmannTunnelingBurst=Creuse un tunnel jusqu’à l’emplacement ciblé proche et inflige <d ref="Effect,LurkerStetmannTunnelingBurstDamage,Amount"/> points de dégâts aux ennemis sur sa trajectoire.
+Button/Tooltip/MasteryKerriganLarvaStetmannRateAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> accélère la génération de <c val="FFFF8A"><d ref="Effect,MasteryKerriganLarvaRateDisplayDummy,Amount"/></c>%.
+Button/Tooltip/MasteryStetmannDeployStetelliteCooldownAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> réduit le temps de recharge de <c val="FFFF8A"><d ref="Effect,MasteryStetmannDeployStetelliteCooldownDisplayDummy,Amount" player="current" precision="1"/></c> secondes.
+Button/Tooltip/MasteryStetmannGaryAbilityCooldownAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> réduit le temps de recharge de <c val="FFFF8A"><d ref="Effect,MasteryStetmannGaryAbilityCooldownDisplayDummy,Amount" player = "current"/></c>%.
+Button/Tooltip/MasteryStetmannMaximumEgonergyPoolAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente la réserve d’Egonergie maximale des méca-unités de <c val="FFFF8A"><d ref="Effect,MasteryStetmannMaximumEgonergyPoolDisplayDummy,Amount"/></c>%.
+Button/Tooltip/MasteryStetmannStetzonBonusesAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente les bonus de <c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesDisplayDummy,Amount" player = "current"/></c>%.
+Button/Tooltip/MasteryStetmannStetzoneBonusesEnergyRegenerationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le bonus à la régénération d’Egonergie de <c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" player = "current" precision = "2"/></c> par seconde (<c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" player = "current" precision = "2"/></c> pour les alliés).
+Button/Tooltip/MasteryStetmannStetzoneBonusesHPRegenerationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le bonus à la régénération de points de vie de <c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" player = "current" precision = "2"/></c> par seconde (<c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" player = "current" precision = "2"/></c> pour les alliés).
+Button/Tooltip/MasteryStetmannStetzoneBonusesMovementSpeedAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le bonus à la vitesse de déplacement de <c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/></c>% (<c val="FFFF8A"><d ref="Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/></c>% pour les alliés).
+Button/Tooltip/MasteryStetmannStructureMorphRateAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> réduit la vitesse de mutation des bâtiments de <c val="FFFF8A"><d ref="Effect,MasteryStetmannStructureMorphRateDisplayDummy,Amount"/></c>%.
+Button/Tooltip/MorphToOverseerStetmann=Observateur aérien avancé. Fournit le même ravitaillement qu’un méca-dominant.<n/><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/MorphToSuperGaryStetmann=Se transforme en Super-Gary. Augmente le nombre maximal de charges de Egorbe, Surcharge des Stetellites et Transport de masse semi-stable. Peut utiliser Garyzone.
+Button/Tooltip/MorphtoOverseerNormalStetmann=Le méca-vigilant peut de nouveau se déplacer et récupère son champ de vision normal.
+Button/Tooltip/MorphtoOverseerSiegeStetmann=Le champ de vision du méca-vigilant augmente de 50%, mais il perd sa capacité à se déplacer. Peut être annulé après activation.
+Button/Tooltip/NovaDefensiveMatrixDrone=Fournit aux unités alliées un bouclier capable d’absorber jusqu’à <d ref="Behavior,NovaCoopCasterDefensiveMatrix,DamageResponse.ModifyLimit"/> points de dégâts. Dure <d ref="Behavior,NovaDefensiveMatrixDroneTimedLife,Duration"/> secondes.
+Button/Tooltip/OverlordStetmann=Augmente le ravitaillement. Le ravitaillement vous permet de créer davantage d’unités.<n/><n/><c val="ffff8a">Ne peut pas attaquer.</c>
+Button/Tooltip/OverlordStetmannSpeed=Augmente la vitesse de déplacement des méca-dominants et des méca-vigilants.
+Button/Tooltip/OverlordTransportStetmannLoad=Charge les unités dans les poches ventrales du méca-dominant.
+Button/Tooltip/OverseerStetmann=Observateur aérien avancé. Fournit le même ravitaillement qu’un méca-dominant. Peut utiliser Vigilance.<n/><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/OverseerStetmannCocoon=Ce cocon contient un méca-dominant en train de se transformer en méca-vigilant.
+Button/Tooltip/PowerFieldEnergyRegeneration=Permet aux stetzones de conférer <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération d’Egonergie par seconde aux unités de Stetmann et <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération d’énergie par seconde aux unités alliées.
+Button/Tooltip/PowerFieldEnergyRegenerationPassive=Les stetzones confèrent <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération d’Egonergie par seconde aux unités de Stetmann et <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération d’énergie par seconde aux unités alliées.
+Button/Tooltip/PowerFieldHPRegeneration=Permet aux stetzones de conférer <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération de points de vie par seconde aux unités de Stetmann et <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération de points de vie par seconde aux unités alliées.
+Button/Tooltip/PowerFieldHPRegenerationPassive=Les stetzones confèrent <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération de points de vie par seconde aux unités de Stetmann et <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de régénération de points de vie par seconde aux unités alliées.
+Button/Tooltip/PowerFieldMovementSpeed=Permet aux stetzones d’augmenter la vitesse de déplacement des unités de Stetmann de <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% et la vitesse de déplacement des unités alliées de <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%.
+Button/Tooltip/PowerFieldMovementSpeedPassive=Les stetzones augmentent la vitesse de déplacement des unités de Stetmann de <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% et la vitesse de déplacement des unités alliées de <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%.
+Button/Tooltip/PowerFieldSuperGaryStetmannEnergy=Génère une stetzone autour de Super-Gary pendant <d ref="Effect,PowerFieldSuperGaryStetmannCP,PeriodicPeriodArray[1]"/> secondes.
+Button/Tooltip/PowerFieldSuperGaryStetmannHealth=Génère une stetzone autour de Super-Gary pendant <d ref="Effect,PowerFieldSuperGaryStetmannCP,PeriodicPeriodArray[1]"/> secondes.
+Button/Tooltip/PowerFieldSuperGaryStetmannSpeed=Génère une stetzone autour de Super-Gary pendant <d ref="Effect,PowerFieldSuperGaryStetmannCP,PeriodicPeriodArray[1]"/> secondes.
+Button/Tooltip/PowerTowerOverchargeStetmannEnergy=Surcharge le Stetellite ciblé, ce qui lui permet d’accorder des bonus aux unités proches en fonction de la configuration actuelle des stetzones. L’effet de surcharge dure <d ref="Behavior,PowerTowerOverchargeStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge V.I.T.E.</c> augmente la vitesse d’attaque de <d ref="(Behavior,FASTOverloadStetmann,Modification.AttackSpeedMultiplier-1)*100"/>% pendant <d ref="Behavior,FASTOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge A.M.I.S.</c> confère un bouclier capable d’absorber <d ref="Behavior,HUGSOverloadStetmann,DamageResponse.ModifyLimit"/> points de dégâts en <d ref="Behavior,HUGSOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge S.A.U.C.E.</c> régénère <d ref="Behavior,JUICEOverloadStetmann,Modification.VitalRegenArray[Energy]*Behavior,JUICEOverloadStetmann,Duration"/> points d’énergie et d’Egonergie en <d ref="Behavior,JUICEOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/PowerTowerOverchargeStetmannHealth=Surcharge le Stetellite ciblé, ce qui lui permet d’accorder des bonus aux unités proches en fonction de la configuration actuelle des stetzones. L’effet de surcharge dure <d ref="Behavior,PowerTowerOverchargeStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge V.I.T.E.</c> augmente la vitesse d’attaque de <d ref="(Behavior,FASTOverloadStetmann,Modification.AttackSpeedMultiplier-1)*100"/>% pendant <d ref="Behavior,FASTOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge A.M.I.S.</c> confère un bouclier capable d’absorber <d ref="Behavior,HUGSOverloadStetmann,DamageResponse.ModifyLimit"/> points de dégâts en <d ref="Behavior,HUGSOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge S.A.U.C.E.</c> régénère <d ref="Behavior,JUICEOverloadStetmann,Modification.VitalRegenArray[Energy]*Behavior,JUICEOverloadStetmann,Duration"/> points d’énergie et d’Egonergie en <d ref="Behavior,JUICEOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/PowerTowerOverchargeStetmannSpeed=Surcharge le Stetellite ciblé, ce qui lui permet d’accorder des bonus aux unités proches en fonction de la configuration actuelle des stetzones. L’effet de surcharge dure <d ref="Behavior,PowerTowerOverchargeStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge V.I.T.E.</c> augmente la vitesse d’attaque de <d ref="(Behavior,FASTOverloadStetmann,Modification.AttackSpeedMultiplier-1)*100"/>% pendant <d ref="Behavior,FASTOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge A.M.I.S.</c> confère un bouclier capable d’absorber <d ref="Behavior,HUGSOverloadStetmann,DamageResponse.ModifyLimit"/> points de dégâts en <d ref="Behavior,HUGSOverloadStetmann,Duration"/> secondes.<n/>- <c val="ffff8a">Surcharge S.A.U.C.E.</c> régénère <d ref="Behavior,JUICEOverloadStetmann,Modification.VitalRegenArray[Energy]*Behavior,JUICEOverloadStetmann,Duration"/> points d’énergie et d’Egonergie en <d ref="Behavior,JUICEOverloadStetmann,Duration"/> secondes.
+Button/Tooltip/PowerTowerStetmann=Génère des stetzones qui améliorent les capacités des unités alliées proches. Peut être surchargé pour renforcer encore plus les unités proches.
+Button/Tooltip/PowerTowerStetmannLevel1=Déploie un Stetellite à l’emplacement ciblé. Doit être placé dans une stetzone.
+Button/Tooltip/PowerTowerStetmannLevel2=Déploie un Stetellite à l’emplacement ciblé. Doit être placé dans une stetzone.
+Button/Tooltip/PowerTowerStetmannLevel3=Déploie un Stetellite à l’emplacement ciblé. Doit être placé dans une stetzone.
+Button/Tooltip/RallyEggStetmann=Envoie les ouvriers transformés et les méca-dominants au point désigné. Les ouvriers envoyés sur du minerai ou un méca-extracteur commenceront automatiquement la collecte.
+Button/Tooltip/RallyStetmannBuilding=Envoie les unités recylées au point désigné.
+Button/Tooltip/Ravager=Unité d’artillerie à distance. Peut utiliser Bile corrosive.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RavagerStetmann=Unité d’artillerie à distance. Peut utiliser Éruption nuisible à l’environnement.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RavagerStetmannBurrowed=Unité d’artillerie à distance. Peut utiliser Éruption nuisible à l’environnement.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RavagerStetmannCocoon=Ce cocon contient un méca-cafard en train de se transformer en méca-saccageur.
+Button/Tooltip/RavagerStetmannCorrosiveBile=Lance un projectile sur la zone ciblée, ce qui inflige <d ref="Effect,RavagerStetmannCorrosiveBileAoEDamage,Amount"/> points de dégâts aux unités ennemies proches du point d’impact.<n/><n/><c val="#ColorAttackInfo">Peut détruire les champs de force protoss.</c>
+Button/Tooltip/RavagerStetmannEgg=Un méca-saccageur en éclot après une courte période.
+Button/Tooltip/ResearchBanelingStetmannExtraDamage=Permet au <c val="ffff8a">méca-chancre</c> d’ajouter l’Egonergie qu’il a accumulée aux dégâts qu’il inflige en explosant.
+Button/Tooltip/ResearchBanelingStetmannManaShieldBonus=Porte les points de dégâts absorbés par la barrière anti-impact du <c val="ffff8a">méca-chancre</c> à <d ref="$UpgradeEffectArrayValue:BanelingStetmannManaShieldBonus:Behavior,BanelingStetmannManaShield,Modification.EnergyDamageRatioBonus$+Behavior,BanelingStetmannManaShield,Modification.EnergyDamageRatioBonus"/> par point d’Egonergie.
+Button/Tooltip/ResearchBanelingStetmannMovementSpeed=Augmente la vitesse de déplacement du <c val="ffff8a">méca-chancre</c> de <d ref="$UpgradeEffectArrayValue:BanelingStetmannMovementSpeed:Unit,BanelingStetmann,Speed$/Unit,BanelingStetmann,Speed*100"/>% et lui permet de bondir sur les unités ennemies.
+Button/Tooltip/ResearchCorruptorCausticSprayStetmann=Permet au <c val="ffff8a">méca-corrupteur</c> d’émettre un flux de solvant qui inflige des dégâts sur la durée dévastateurs aux unités terrestres ennemies.
+Button/Tooltip/ResearchHydraliskStetmannDamage=Permet au <c val="ffff8a">méca-hydralisk</c> de troquer son arme antiaérienne à aiguillons perforants pour des missiles Érudition de puissance supérieure.
+Button/Tooltip/ResearchHydraliskStetmannMovementSpeed=Augmente la vitesse de déplacement du <c val="ffff8a">méca-hydralisk</c> de <d ref="$UpgradeEffectArrayValue:HydraliskStetmannMovementSpeed:Unit,HydraliskStetmann,Speed$/Unit,HydraliskStetmann,Speed*100"/>%.
+Button/Tooltip/ResearchHydraliskStetmannRange=Augmente la portée des armes antiaériennes du <c val="ffff8a">méca-hydralisk</c> de <d ref="$UpgradeEffectArrayValue:HydraliskStetmannRange:Weapon,HydraliskHellfireMissilesStetmann,Range$"/>.
+Button/Tooltip/ResearchLurkerStetmannTunnelingBurstRange=Augmente la portée maximale d’Algorithme de tunnel de la TERREUR du <c val="ffff8a">méca-rôdeur</c> de <d ref="$UpgradeEffectArrayValue:LurkerStetmannTunnelingBurstRange:Effect,LurkerStetmannTunnelingBurstCU,SpawnRange$-Effect,LurkerStetmannTunnelingBurstCU,SpawnRange"/>.
+Button/Tooltip/ResearchOverlordStetmannSpeed=Augmente la vitesse de déplacement des <c val="ffff8a">méca-dominants</c> et des <c val="ffff8a">méca-vigilants</c>.
+Button/Tooltip/ResearchOverlordStetmannVentralSacks=Permet aux <c val="ffff8a">méca-dominants</c> de transporter des unités.
+Button/Tooltip/ResearchUltraliskStetmannBurrowChargeMechanicalStun=Permet à la capacité Charge enfouie vectorielle du <c val="ffff8a">méca-ultralisk</c> d’étourdir les unités terrestres mécaniques ennemies dans une large zone.
+Button/Tooltip/ResearchZerglingStetmannAttackSpeed=Augmente la vitesse d’attaque des <c val="ffff8a">méca-zerglings</c> de <d ref="(Behavior,ZerglingAttackSpeedStetmann,Modification.AttackSpeedMultiplier-1)*100"/>%. Draine <d ref="Behavior,ZerglingAttackSpeedStetmann,DamageResponse.Cost.Vital[Energy]"/> points d’Egonergie par attaque.
+Button/Tooltip/ResearchZerglingStetmannHardenedShield=Permet aux <c val="ffff8a">méca-zerglings</c> de réduire les dégâts subis jusqu’à un maximum de <d ref="Behavior,ZerglingHardenedShieldStetmann,DamageResponse.ClampMaximum"/> points. Draine <d ref="Behavior,ZerglingHardenedShieldStetmann,DamageResponse.Cost.Vital[Energy]"/> points d’Egonergie par utilisation.
+Button/Tooltip/ResearchZerglingStetmannMovementSpeed=Augmente la vitesse de déplacement des <c val="ffff8a">méca-zerglings</c> de <d ref="$UpgradeEffectArrayValue:ZerglingStetmannMovementSpeed:Unit,ZerglingStetmann,Speed$/Unit,ZerglingStetmann,Speed*100"/>%.
+Button/Tooltip/ReserachLurkerStetmannChannelingSpines=Permet au <c val="ffff8a">méca-rôdeur</c> de concentrer ses tirs sur l’unité ciblée et d’infliger <d ref="Effect,LurkerStetmannChannelingSpinesDamage,Amount"/> points de dégâts dans une petite zone autour de la cible pendant <d ref="Effect,LurkerStetmannChannelingSpinesCP,PeriodCount*Effect,LurkerStetmannChannelingSpinesCP,PeriodicPeriodArray[0]"/> secondes ou jusqu’à ce que l’unité soit détruite.
+Button/Tooltip/ReserachUltraliskStetmannArmor=Réduit les dégâts subis par le <c val="ffff8a">méca-ultralisk</c> de <d ref="100-(Behavior,ChitinousPlatingStetmann,DamageResponse.ModifyFraction*100)"/>%.
+Button/Tooltip/ReserachUltraliskStetmannMechanicalLifeLeech=Permet au <c val="ffff8a">méca-ultralisk</c> de ponctionner <d ref="Effect,UltraliskMechanicalLifeLeechStetmannDamage,Amount"/> points de vie sur les unités mécaniques proches alliées ou ennemies et se soigner d’autant.
+Button/Tooltip/Roach=Unité d’assaut. Régénère rapidement ses points de vie quand elle est enfouie.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RoachStetmann=Unité d’assaut. Régénère rapidement ses points de vie quand elle est enfouie.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RoachStetmannBurrowed=Unité d’assaut. Régénère rapidement ses points de vie quand elle est enfouie.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/RoachStetmannEgg=Un méca-cafard en éclot après une courte période.
+Button/Tooltip/RoachStetmannRapidRegeneration=Le méca-cafard récupère ses points de vie très rapidement quand il est enfoui.
+Button/Tooltip/RoachWarrenStetmann=<c val="ffff8a">Débloque :</c><n/>- Cafard à partir d’une larve
+Button/Tooltip/SpawningPoolStetmann=<c val="ffff8a">Débloque :</c><n/>- Méca-zergling à partir d’une méca-larve<n/>- Méca-aiguillon rampant à partir d’un méca-ouvrier<n/>- Méca-sporuleur rampant à partir d’un méca-ouvrier
+Button/Tooltip/SpineCrawlerRootStetmann=Enracine le méca-aiguillon rampant. Un méca-aiguillon enraciné peut attaquer les unités terrestres mais il ne peut pas se déplacer.
+Button/Tooltip/SpineCrawlerStetmann=Bâtiment de défense terrestre. <n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/SpineCrawlerStetmannPassive=Le méca-bassin génétique vous permet de muter des méca-ouvriers en méca-aiguillons rampants.
+Button/Tooltip/SpineCrawlerUprootStetmann=Déracine le méca-aiguillon rampant. Un méca-aiguillon déraciné peut se déplacer mais ne peut pas attaquer.
+Button/Tooltip/SpineCrawlerUprootedStetmann=Bâtiment de défense terrestre déraciné. Quand il est déraciné, il peut se déplacer mais pas attaquer.
+Button/Tooltip/SpireStetmann=Permet des améliorations pour les unités aériennes méca-Zergs. Peut être transformé en grande méca-aiguille.<n/><n/><c val="ffff8a">Permet :</c><n/>- Méca-corrupteur à partir d’une méca-larve
+Button/Tooltip/SporeCrawlerRootStetmann=Enracine le méca-sporuleur rampant. Un méca-sporuleur enraciné peut attaquer les unités aériennes et détecter les unités camouflées, mais il ne peut pas se déplacer.
+Button/Tooltip/SporeCrawlerStetmann=Bâtiment de défense antiaérienne. <n/><n/><c val="ffff8a">Peut attaquer les unités aériennes.</c><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/SporeCrawlerStetmannPassive=Le méca-bassin génétique vous permet de muter des méca-ouvriers en méca-sporuleurs rampants.
+Button/Tooltip/SporeCrawlerUprootStetmann=Déracine le méca-sporuleur rampant. Un méca-sporuleur déraciné peut se déplacer mais ne peut pas attaquer.
+Button/Tooltip/SporeCrawlerUprootedStetmann=Bâtiment défensif antiaérien déraciné. Quand il est déraciné, il peut se déplacer mais pas attaquer.
+Button/Tooltip/StetmannDualQueue=Ce bâtiment peut rechercher deux améliorations en même temps.
+Button/Tooltip/StetmannFieldGeneratorEnergy=Cette unité génère une stetzone qui renforce les unités alliées proches.
+Button/Tooltip/StetmannFieldGeneratorHealth=Cette unité génère une stetzone qui renforce les unités alliées proches.
+Button/Tooltip/StetmannFieldGeneratorSpeed=Cette unité génère une stetzone qui renforce les unités alliées proches.
+Button/Tooltip/StetmannSatelliteBonusLevel1=Capacité de déploiement de Stetellites limitée.
+Button/Tooltip/StetmannSatelliteBonusLevel2=Capacité de déploiement de Stetellites modérée : réduction de leur temps de recharge et augmentation de leur nombre de charges maximum.
+Button/Tooltip/StetmannSatelliteBonusLevel3=Capacité de déploiement de Stetellites maximale : réduction de leur temps de recharge et augmentation de leur nombre de charges maximum accrues.
+Button/Tooltip/SuperGaryStetmann=Le meilleur meilleur ami de Stetmann ! Peut utiliser Egorbe, Surcharge des Stetellites, Transport de masse semi-stable et Garyzone.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/SuperGaryStetmannSelfPower=Gary génère sa propre puissance et n’est pas affecté par les bonus passifs des stetzones. Il récupère <d ref="Unit,SuperGaryStetmann,LifeRegenRate"/> points de vie par seconde.
+Button/Tooltip/UltraliskCavernStetmann=<c val="ffff8a">Débloque :</c><n/>- Méca-ultralisk à partir d’une méca-larve
+Button/Tooltip/UltraliskStetmann=Bête d’assaut lourde dotée d’une attaque à effet de zone. Peut utiliser Charge enfouie vectorielle et Module méca-moule.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/UltraliskStetmannArmorPassive=Réduit les dégâts subis par cette unité de <d ref="100-(Behavior,ChitinousPlatingStetmann,DamageResponse.ModifyFraction*100)"/>%.
+Button/Tooltip/UltraliskStetmannBurrowCharge=S’enfouit sous terre et charge une unité. Quand il se déterre, toutes les unités ennemies à proximité sont repoussées et subissent <d ref="Effect,UltraliskStetmannBurrowChargeTargetDamage,Amount"/> points de dégâts.
+Button/Tooltip/UltraliskStetmannBurrowChargeAppend=Les unités terrestres mécaniques sont étourdies dans une large zone.
+Button/Tooltip/UltraliskStetmannMechanicalLifeLeech=Ponctionne <d ref="Effect,UltraliskMechanicalLifeLeechStetmannDamage,Amount"/> points de vie sur une unité mécanique proche alliée ou ennemie et se soigner d’autant.
+Button/Tooltip/UltraliskStetmannPassive=La caverne de méca-ultralisks vous permet de transformer des méca-ultralisks.
+Button/Tooltip/UltraliskStetmannRespawn=Tous les <d ref="-1/Effect,UltraliskStetmannDeathRespawnAddCharge,Cost.Charge.CountUse"/> <c val="ffff8a">Débris de méca-ultralisk</c> ramassés par un <c val="ffff8a">Stetellite</c>, <c val="ffff8a">Gary</c>, ou <c val="ffff8a">Super-Gary</c>, un <c val="ffff8a">méca-ultralisk</c> apparaîtra gratuitement ici.<n/>
+Button/Tooltip/UltraliskStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 1 <c val="ffff8a">débris de Méca-ultralisk</c>.
+Button/Tooltip/ZergFlyerArmorStetmann1=Augmente les points d’armure de toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergFlyerArmorStetmann2=Augmente encore les points d’armure de toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergFlyerArmorStetmann3=Maximise les points d’armure de toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergFlyerAttackStetmann1=Améliore les attaques de toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergFlyerAttackStetmann2=Améliore encore les attaques des toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergFlyerAttackStetmann3=Maximise les attaques de toutes les unités aériennes méca-Zergs.
+Button/Tooltip/ZergGroundArmorStetmann1=Augmente les points d’armure de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZergGroundArmorStetmann2=Augmente encore les points d’armure de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZergGroundArmorStetmann3=Maximise les points d’armure de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZergMeleeWeaponsStetmann1=Améliore toutes les attaques de mêlée des méca-Zergs.
+Button/Tooltip/ZergMeleeWeaponsStetmann2=Améliore encore toutes les attaques de mêlée des méca-Zergs.
+Button/Tooltip/ZergMeleeWeaponsStetmann3=Maximise toutes les attaques de mêlée des méca-Zergs.
+Button/Tooltip/ZergMissileWeaponsStetmann1=Améliore les attaques à distance de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZergMissileWeaponsStetmann12=Améliore les attaques à distance de toutes les unités terrestres zergs.
+Button/Tooltip/ZergMissileWeaponsStetmann2=Améliore encore les attaques à distance de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZergMissileWeaponsStetmann3=Maximise les attaques à distance de toutes les unités terrestres méca-Zergs.
+Button/Tooltip/ZerglingStetmann=Créature rapide de combat rapproché. Peut se transformer en méca-chancre.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/ZerglingStetmannAttackSpeedPassive=Augmente la vitesse d’attaque de <d ref="(Behavior,ZerglingAttackSpeedStetmann,Modification.AttackSpeedMultiplier-1)*100"/>%. Draine <d ref="Behavior,ZerglingAttackSpeedStetmann,DamageResponse.Cost.Vital[Energy]"/> points d’Egonergie par attaque.
+Button/Tooltip/ZerglingStetmannHardenedShield=Réduit les dégâts subis jusqu’à un maximum de <d ref="Behavior,ZerglingHardenedShieldStetmann,DamageResponse.ClampMaximum"/> points. Draine <d ref="Behavior,ZerglingHardenedShieldStetmann,DamageResponse.Cost.Vital[Energy]"/> points d’Egonergie par utilisation.
+Button/Tooltip/ZerglingStetmannMovementSpeedPassive=Vitesse de déplacement augmentée de <d ref="$UpgradeEffectArrayValue:ZerglingStetmannMovementSpeed:Unit,ZerglingStetmann,Speed$/Unit,ZerglingStetmann,Speed*100" player = "0"/>%.
+Button/Tooltip/ZerglingStetmannPassive=Le méca-bassin génétique vous permet de transformer des méca-zerglings.
+Button/Tooltip/ZerglingStetmannRespawn=Tous les <d ref="-1/Effect,ZerglingStetmannDeathRespawnAddCharge,Cost.Charge.CountUse"/> <c val="ffff8a">Débris de méca-zergling</c> ramassés par un <c val="ffff8a">Stetellite</c>, <c val="ffff8a">Gary</c>, ou <c val="ffff8a">Super-Gary</c>, un <c val="ffff8a">méca-zergling</c> apparaîtra gratuitement ici.<n/>
+Button/Tooltip/ZerglingStetmannScrapDrop=Quand cette unité est détruite à proximité d’un Stetellite actif, de Gary ou de Super-Gary, elle génère 1 <c val="ffff8a">débris de Méca-zergling</c>.
+Card/Name/BanelingStetmannBurrowed=Enfoui
+Card/Name/DroneStetmannBurrowed=Enfoui
+Card/Name/HydraliskStetmannBurrowed=Enfoui
+Card/Name/InfestorStetmannBurrowed=Enfoui
+Card/Name/LurkerStetmannBurrowed=Enfoui
+Card/Name/RavagerStetmannBurrowed=Enfoui
+Card/Name/RoachStetmannBurrowed=Enfoui
+Card/Name/SuperGaryStetmann=Meilleur meilleur ami
+Card/Name/UltraliskStetmannBurrowed=Enfoui
+Card/Name/ZerglingStetmannBurrowed=Enfoui
+DataCollection/Name/CommanderPrestigeStetmannCombatBuff=Bonus au combat
+DocInfo/DescLong=Comprend le mod Egon Stetmann.
+DocInfo/Name=Commandant Stetmann
+Effect/Name/BanelingDeathExplodeLargeSetStetmann=Baneling Death Explode Large Set
+Effect/Name/BanelingExplodeLargeDirectStetmann=Baneling Explode Large Direct
+Effect/Name/BanelingExplodeLargeSearchAllStetmann=Baneling Explode Large Search All
+Effect/Name/BanelingExplodeLargeSearchDamageStetmann=Baneling Explode Large Search Damage
+Effect/Name/BanelingExplodeLargeSearchStetmann=Baneling Explode Large Search
+Effect/Name/BanelingExplodeLargeSetStetmann=Baneling Explode Large Set
+Effect/Name/BanelingStetmannDeathRespawnAddCharge=Baneling Death Respawn Add Charge
+Effect/Name/BanelingStetmannExplodeAbilityBonusDamageTrigger=
+Effect/Name/BanelingStetmannExplodeAbilitySwitch=
+Effect/Name/BanelingStetmannExplodeDelayAB=BanelingStetmannExplodeDelayAB
+Effect/Name/BanelingStetmannExplodeDelayBonusDamageTrigger=
+Effect/Name/BanelingStetmannExplodeDelaySet=BanelingStetmannExplodeDelaySet
+Effect/Name/BanelingStetmannExplodeDelaySwitch=
+Effect/Name/BanelingStetmannExplodeWeaponBonusDamageTrigger=
+Effect/Name/BanelingStetmannExplodeWeaponSwitch=
+Effect/Name/BanelingStetmannJump=BanelingStetmannJump
+Effect/Name/BanelingStetmannJumpAB=BanelingStetmannJumpAB
+Effect/Name/BanelingStetmannJumpImpactset=BanelingStetmannJumpImpactset
+Effect/Name/BanelingStetmannJumpLM=BanelingStetmannJumpLM
+Effect/Name/BanelingStetmannJumpRB=BanelingStetmannJumpRB
+Effect/Name/BanelingStetmannJumpSuicide=BanelingStetmannJumpSuicide
+Effect/Name/BroodLordStetmannBomberCP=BroodLordStetmannBomberCP
+Effect/Name/BroodLordStetmannBomberDamage=BroodLordStetmannBomberDamage
+Effect/Name/BroodLordStetmannBomberLM=BroodLordStetmannBomberLM
+Effect/Name/BroodLordStetmannBomberLaunch=BroodLordStetmannBomberLaunch
+Effect/Name/BroodLordStetmannBomberLaunchCP=BroodLordStetmannBomberLaunchCP
+Effect/Name/BroodLordStetmannBomberStructureDamage=BroodLordStetmannBomberStructureDamage
+Effect/Name/BroodLordStetmannBomberStructureLM=BroodLordStetmannBomberStructureLM
+Effect/Name/BroodLordStetmannBomberStructureSearch=BroodLordStetmannBomberStructureSearch
+Effect/Name/BroodLordStetmannBomberSwitch=BroodLordStetmannBomberSwitch
+Effect/Name/BroodLordStetmannBroodlingEscortArm=Broodling Escort Arm
+Effect/Name/BroodLordStetmannBroodlingEscortArmDelay=Broodling Escort Arm Delay
+Effect/Name/BroodLordStetmannDeathRespawnAddCharge=Brood Lord Death Respawn Add Charge
+Effect/Name/BroodLordStetmannReleaseBombersPatrolCP=BroodLordStetmannReleaseBombersPatrolCP
+Effect/Name/BroodLordStetmannReleaseBombersPatrolIssueOrder=BroodLordStetmannReleaseBombersPatrolIssueOrder
+Effect/Name/BroodLordStetmannReleaseBombersPatrolLeftTurnCP=BroodLordStetmannReleaseBombersPatrolLeftTurnCP
+Effect/Name/BroodLordStetmannReleaseBombersPatrolRandomizerCP=BroodLordStetmannReleaseBombersPatrolRandomizerCP
+Effect/Name/BroodLordStetmannReleaseBombersPatrolRightTurnCP=BroodLordStetmannReleaseBombersPatrolRightTurnCP
+Effect/Name/BroodLordStetmannYamatoDamage=BroodLordStetmannYamatoDamage
+Effect/Name/BroodLordStetmannYamatoMissile=BroodLordStetmannYamatoMissile
+Effect/Name/BroodlingAttackStetmann=Broodling Attack Stetmann
+Effect/Name/BroodlingEscortCUStetmann=Broodling Escort CU Stetmann
+Effect/Name/BroodlingEscortDamageStetmann=Broodling Escort Damage Stetmann
+Effect/Name/BroodlingEscortDamageUnitStetmann=Broodling Escort Damage Unit Stetmann
+Effect/Name/BroodlingEscortFallbackMissileStetmann=Broodling Escort Fallback Missile Stetmann
+Effect/Name/BroodlingEscortImpactAStetmann=Broodling Escort Impact A Stetmann
+Effect/Name/BroodlingEscortImpactBStetmann=Broodling Escort Impact B Stetmann
+Effect/Name/BroodlingEscortImpactStetmann=Broodling Escort Impact Stetmann
+Effect/Name/BroodlingEscortImpactTransferStetmann=Broodling Escort Impact Transfer Stetmann
+Effect/Name/BroodlingEscortLaunchAStetmann=Broodling Escort Launch A Stetmann
+Effect/Name/BroodlingEscortLaunchBStetmann=Broodling Escort Launch B Stetmann
+Effect/Name/BroodlingEscortLaunchBTransferStetmann=Broodling Escort Launch B Transfer Stetmann
+Effect/Name/BroodlingEscortLaunchStetmann=Broodling Escort Launch Stetmann
+Effect/Name/BroodlingEscortMissileBStetmann=Broodling Escort Missile B Stetmann
+Effect/Name/BroodlingEscortMissileStetmann=Broodling Escort Missile Stetmann
+Effect/Name/BroodlingEscortReleaseStetmann=Broodling Escort Release Stetmann
+Effect/Name/BroodlingEscortStetmann=Broodling Escort Stetmann
+Effect/Name/BroodlingEscortStructureStetmann=Broodling Escort Structure Stetmann
+Effect/Name/BroodlingEscortUnitSetStetmann=Broodling Escort Unit Set Stetmann
+Effect/Name/BroodlingNeedleClawsStetmann=Needle Claws
+Effect/Name/BroodlingStetmannTimedLife=Mecha Broodling Timed Life
+Effect/Name/BroodlingTimedLifeStetmann=Broodling Timed Life Stetmann
+Effect/Name/CommanderPrestigeStetmannCombatBuff=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Attribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Initialize=Initialisation
+Effect/Name/CommanderPrestigeStetmannGaryPowerUser=
+Effect/Name/CommanderPrestigeStetmannStetellitesPowerSource=
+Effect/Name/CommanderPrestigeStetmannStetzonesEnergy=
+Effect/Name/CommanderPrestigeStetmannStetzonesEnergySearch=
+Effect/Name/CommanderPrestigeStetmannStetzonesHealth=
+Effect/Name/CommanderPrestigeStetmannStetzonesHealthSearch=
+Effect/Name/CommanderPrestigeStetmannStetzonesMoveSpeed=
+Effect/Name/CommanderPrestigeStetmannStetzonesMoveSpeedSearch=
+Effect/Name/CorruptorParasiteSporeDamageStetmann=Parasite Spore
+Effect/Name/CorruptorParasiteSporeLaunchMissileStetmann=Parasite Spore
+Effect/Name/CorruptorStetmannCausticLevel1Damage=Caustic Level 1 Damage
+Effect/Name/CorruptorStetmannCausticLevel2Damage=Caustic Level 2 Damage
+Effect/Name/CorruptorStetmannCausticSprayBasePersistent=CausticSprayBasePersistent
+Effect/Name/CorruptorStetmannCausticSprayDummy=CausticSprayDummy
+Effect/Name/CorruptorStetmannCausticSprayLevel1LaunchMissile=Caustic Spray Level 1 Launch Missile
+Effect/Name/CorruptorStetmannCausticSprayLevel1Persistent=Caustic Spray Level 1 Persistent
+Effect/Name/CorruptorStetmannCausticSprayLevel1PersistentSet=CausticSprayLevel1PersistentSet
+Effect/Name/CorruptorStetmannCausticSprayLevel2LaunchMissile=Caustic Spray Level 2 Launch Missile
+Effect/Name/CorruptorStetmannCausticSprayLevel2Persistent=Caustic Spray Level 2 Persistent
+Effect/Name/CorruptorStetmannDeathRespawnAddCharge=Corruptor Death Respawn Add Charge
+Effect/Name/DroneStetmannU=DroneStetmannU
+Effect/Name/FASTOverloadStetmannAB=F.A.S.T. Overload
+Effect/Name/GaryOrbDamageInitial=Gary Orb
+Effect/Name/GaryOrbEmpoweredImpactDummy=GaryOrbEmpoweredImpactDummy
+Effect/Name/GaryOrbImpactDummy=GaryOrbImpactDummy
+Effect/Name/GaryReviveIntro=Gary Revive Intro
+Effect/Name/GaryReviveSet=Gary Revive Set
+Effect/Name/GaryStetmannDamage=Gary Damage
+Effect/Name/GaryStetmannMissileLM=Gary Missile LM
+Effect/Name/GaryStetmannOrbApplyBehavior=Gary Orb
+Effect/Name/GaryStetmannOrbDamage=Gary Orb
+Effect/Name/GaryStetmannOrbDamageAB=Gary Orb Target Search AB
+Effect/Name/GaryStetmannOrbDamageSearch=Gary Orb Damage (Search)
+Effect/Name/GaryStetmannOrbEmpoweredInitialPersistent=Gary Orb Empowered
+Effect/Name/GaryStetmannOrbEmpoweredLaunchMissile=Gary Orb Empowered (Launch Missile)
+Effect/Name/GaryStetmannOrbEmptySet=Gary Orb Empty Set
+Effect/Name/GaryStetmannOrbInitialSwitch=Gary Orb Initial
+Effect/Name/GaryStetmannOrbKillUnit=Gary Orb Kill Unit
+Effect/Name/GaryStetmannOrbTowerSearch=Gary Orb Tower (Search)
+Effect/Name/GaryStetmannOrbTowerSearchAB=Gary Orb Tower Search AB
+Effect/Name/GaryStetmannOrbUnempoweredABSet=Gary Orb Unempowered (AB Set)
+Effect/Name/GaryStetmannOrbUnempoweredInitialPersistent=Gary Orb Unempowered
+Effect/Name/GaryStetmannOrbUnempoweredLaunchMissile=Gary Orb Unempowered (Launch Missile)
+Effect/Name/GaryStetmannOrbValidatePowerTower=Gary Orb Validate Power Tower
+Effect/Name/GaryStetmannPowerCountdown=GaryStetmannPowerCountdown
+Effect/Name/GaryStetmannRecallApplyBehavior=Gary Recall Apply Behavior
+Effect/Name/GaryStetmannRecallFindTarget=Gary Stetmann Recall Find Target
+Effect/Name/GaryStetmannRecallPostBehavior=Gary Recall Post Behavior
+Effect/Name/GaryStetmannRecallPrepare=Gary Recall Prepare
+Effect/Name/GaryStetmannRecallSearch=Gary Recall Search
+Effect/Name/GaryStetmannRecallSet=Gary Recall Set
+Effect/Name/GaryStetmannRecallTeleport=Gary Recall Teleport
+Effect/Name/HUGSOverloadStetmannAB=H.U.G.S. Overload
+Effect/Name/HellfireMissilePackStetmannDamage=Hellfire Missile Pack
+Effect/Name/HellfireMissilePackStetmannLaunchMissile=Hellfire Missile Pack
+Effect/Name/HellfireMissilePackStetmannPersistent=Hellfire Missile Pack
+Effect/Name/HellfireMissilePackStetmannSwitch=Hellfire Missile Pack
+Effect/Name/HellfireMissilePackUpgradedStetmannDamage=Hellfire Missile Pack Upgraded
+Effect/Name/HellfireMissilePackUpgradedStetmannLaunchMissile=Hellfire Missile Pack Upgraded
+Effect/Name/HellfireMissilePackUpgradedStetmannPersistent=Hellfire Missile Pack Upgraded
+Effect/Name/HellfireMissilePackUpgradedStetmannRemoveEnergy=Hellfire Missile Pack Upgraded Remove Energy
+Effect/Name/HurricaneMissileBurstPersistentStetmann=Hurricane Missile Burst Persistent
+Effect/Name/HurricaneMissileDamageDelayPersistentStetmann=Hurricane Missile Damage Delay Persistent
+Effect/Name/HurricaneMissileDamagePersistentStetmann=Hurricane Missile Damage Persistent
+Effect/Name/HurricaneMissileDamageStetmann=Hurricane Missile Damage
+Effect/Name/HurricaneMissileLeftDummyStetmann=Hurricane Missile Left Dummy
+Effect/Name/HurricaneMissileLeftLMStetmann=Hurricane Missile Left LM
+Effect/Name/HurricaneMissileRightDummyStetmann=Hurricane Missile Right Dummy
+Effect/Name/HurricaneMissileRightLMStetmann=Hurricane Missile Right LM
+Effect/Name/HurricaneMissileStetmann=Hurricane Missile
+Effect/Name/HydraliskNeedleSpinesStetmannDamage=Needle Spines
+Effect/Name/HydraliskNeedleSpinesStetmannLaunchMissile=Needle Spines
+Effect/Name/HydraliskStetmannDeathRespawnAddCharge=Hydralisk Death Respawn Add Charge
+Effect/Name/HydraliskStetmannMissilePowerOff=HydraliskStetmannMissilePowerOff
+Effect/Name/HydraliskStetmannMissilePowerOn=HydraliskStetmannMissilePowerOn
+Effect/Name/InfestorStetmannDeathRespawnAddCharge=Infestor Death Respawn Add Charge
+Effect/Name/InfestorStetmannEggLaunch=InfestorStetmannEggLaunch
+Effect/Name/InfestorStetmannEggLaunchAttackOrder=InfestorStetmannEggLaunchAttackOrder
+Effect/Name/InfestorStetmannEggLaunchAttackOrderDelay=InfestorStetmannEggLaunchAttackOrderDelay
+Effect/Name/InfestorStetmannEggLaunchDistanceSwitch=InfestorStetmannEggLaunchDistanceSwitch
+Effect/Name/InfestorStetmannEggLaunchMaxOffset=InfestorStetmannEggLaunchMaxOffset
+Effect/Name/InfestorStetmannHealingTentacleAB=InfestorStetmannHealingTentacleAB
+Effect/Name/InfestorStetmannHealingTentacleCP=InfestorStetmannHealingTentacleCP
+Effect/Name/InfestorStetmannHealingTentacleDP=InfestorStetmannHealingTentacleDP
+Effect/Name/InfestorStetmannHealingTentacleHeal=InfestorStetmannHealingTentacleHeal
+Effect/Name/InfestorStetmannHealingTentacleLM=InfestorStetmannHealingTentacleLM
+Effect/Name/InfestorStetmannHealingTentacleSet=InfestorStetmannHealingTentacleSet
+Effect/Name/InfestorStetmannInfestBuildingAB=InfestorStetmannInfestBuildingAB
+Effect/Name/InfestorStetmannInfestBuildingCP=InfestorStetmannInfestBuildingCP
+Effect/Name/InfestorStetmannInfestBuildingDamage=InfestorStetmannInfestBuildingDamage
+Effect/Name/InfestorStetmannInfestBuildingEggs=InfestorStetmannInfestBuildingEggs
+Effect/Name/InfestorStetmannInfestBuildingLM=InfestorStetmannInfestBuildingLM
+Effect/Name/InfestorStetmannInfestBuildingRavagerEggCreate=InfestorStetmannInfestBuildingRavagerEggCreate
+Effect/Name/InfestorStetmannInfestBuildingRavagerEggImpact=InfestorStetmannInfestBuildingRavagerEggImpact
+Effect/Name/InfestorStetmannInfestBuildingRavagerEggInitial=InfestorStetmannInfestBuildingRavagerEggInitial
+Effect/Name/InfestorStetmannInfestBuildingRavagerEggLM=InfestorStetmannInfestBuildingRavagerEggLM
+Effect/Name/InfestorStetmannInfestBuildingRoachEggCreate=InfestorStetmannInfestBuildingRoachEggCreate
+Effect/Name/InfestorStetmannInfestBuildingRoachEggImpact=InfestorStetmannInfestBuildingRoachEggImpact
+Effect/Name/InfestorStetmannInfestBuildingRoachEggInitial=InfestorStetmannInfestBuildingRoachEggInitial
+Effect/Name/InfestorStetmannInfestBuildingRoachEggLM=InfestorStetmannInfestBuildingRoachEggLM
+Effect/Name/InfestorStetmannRavagerEggCreate=InfestorStetmannRavagerEggCreate
+Effect/Name/InfestorStetmannRavagerEggImpact=InfestorStetmannRavagerEggImpact
+Effect/Name/InfestorStetmannRavagerEggInitial=InfestorStetmannRavagerEggInitial
+Effect/Name/InfestorStetmannRavagerEggLM=InfestorStetmannRavagerEggLM
+Effect/Name/InfestorStetmannRavagerEggMorphOrder=InfestorStetmannRavagerEggMorphOrder
+Effect/Name/InfestorStetmannRoachEggCreate=InfestorStetmannRoachEggCreate
+Effect/Name/InfestorStetmannRoachEggImpact=InfestorStetmannRoachEggImpact
+Effect/Name/InfestorStetmannRoachEggInitial=InfestorStetmannRoachEggInitial
+Effect/Name/InfestorStetmannRoachEggLM=InfestorStetmannRoachEggLM
+Effect/Name/InfestorStetmannRoachEggMorphOrder=InfestorStetmannRoachEggMorphOrder
+Effect/Name/InfestorStetmannTimedLife=Infestor Stetmann (Timed Life)
+Effect/Name/InterceptorStetmannBeamCP=InterceptorStetmannBeamCP
+Effect/Name/InterceptorStetmannBeamDamage=InterceptorStetmannBeamDamage
+Effect/Name/JUICEOverloadStetmannAB=J.U.I.C.E. Overload
+Effect/Name/LairHiveStetmannTrigger=LairHiveStetmannTrigger
+Effect/Name/LurkerStetmannChannelingSpinesBurrowSwitch=Lurker Channeling Spines Burrow Switch
+Effect/Name/LurkerStetmannChannelingSpinesCP=Lurker Channeling Spines
+Effect/Name/LurkerStetmannChannelingSpinesDamage=Lurker Channeling Spines
+Effect/Name/LurkerStetmannChannelingSpinesDisableWeaponAB=LurkerChannelingSpinesDisableWeaponAB
+Effect/Name/LurkerStetmannChannelingSpinesDisableWeaponRB=LurkerChannelingSpinesDisableWeaponRB
+Effect/Name/LurkerStetmannChannelingSpinesSearch=Lurker Channeling Spines
+Effect/Name/LurkerStetmannChannelingSpinesUnburrowedWait=Lurker Channeling Spines Unburrowed Wait
+Effect/Name/LurkerStetmannCoop=LurkerCoop
+Effect/Name/LurkerStetmannCoopLM=LurkerCoopLM
+Effect/Name/LurkerStetmannCoopLMImpactDummy=LurkerCoopLMImpactDummy
+Effect/Name/LurkerStetmannCoopSearch=LurkerCoopSearch
+Effect/Name/LurkerStetmannCoopSearchCP=LurkerCoopSearchCP
+Effect/Name/LurkerStetmannDeathRespawnAddCharge=Lurker Death Respawn Add Charge
+Effect/Name/LurkerStetmannFastBurrow=Lurker Fast Burrow
+Effect/Name/LurkerStetmannTunellingBurstRU=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstAB=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstBurrowSwitch=Lurker Tunneling Burst Burrow Switch
+Effect/Name/LurkerStetmannTunnelingBurstCU=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstDamage=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstImpactSet=Lurker Tunneling Burst Impact
+Effect/Name/LurkerStetmannTunnelingBurstLM=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstLaunchSet=Lurker Tunneling Burst Launch
+Effect/Name/LurkerStetmannTunnelingBurstMaxRangeCP=Lurker Tunneling Burst (Max Range Offset)
+Effect/Name/LurkerStetmannTunnelingBurstMaxRangeSwitch=Lurker Tunneling Burst (Max Range Switch)
+Effect/Name/LurkerStetmannTunnelingBurstPrepareSet=Lurker Tunneling Burst Prepare
+Effect/Name/LurkerStetmannTunnelingBurstRB=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstSearch=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstSearchCP=Lurker Tunneling Burst
+Effect/Name/LurkerStetmannTunnelingBurstUnburrowedWait=Lurker Tunneling Burst Unburrowed Wait
+Effect/Name/LurkerStetmannU=Lurker U
+Effect/Name/MasteryStetmannDeployStetelliteCooldownDisplayDummy=MasteryStetmannDeployStetelliteCooldownDisplayDummy
+Effect/Name/MasteryStetmannGaryAbilityCooldownDisplayDummy=MasteryStetmannGaryAbilityCooldownDisplayDummy
+Effect/Name/MasteryStetmannMaximumEgonergyPoolDisplayDummy=MasteryStetmannMaximumEgonergyPoolDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy=MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy=MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy=MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy=MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy=MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy
+Effect/Name/MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy=MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy
+Effect/Name/MasteryStetmannStructureMorphRateDisplayDummy=MasteryStetmannStructureMorphRateDisplayDummy
+Effect/Name/MasteryStetmannUpgradeResourceCostDisplayDummy=MasteryStetmannUpgradeResourceCostDisplayDummy
+Effect/Name/MorphToPowerTowerStetmann=MorphToPowerTower
+Effect/Name/MorphToPowerTowerStetmannDeactivated=MorphToPowerTowerDeactivated
+Effect/Name/MorphToPowerTowerStetmannDeactivatedSet=MorphToPowerTowerDeactivated
+Effect/Name/PopStetmann=PopStetmann
+Effect/Name/PowerFieldEnergyRegenerationAB=PowerFieldEnergyRegeneration AB
+Effect/Name/PowerFieldEnergyRegenerationAllyAB=PowerFieldEnergyRegenerationAlly AB
+Effect/Name/PowerFieldEnergyRegenerationOn=PowerFieldEnergyRegenerationOn
+Effect/Name/PowerFieldHPRegenerationAB=PowerFieldHPRegeneration AB
+Effect/Name/PowerFieldHPRegenerationAllyAB=PowerFieldHPRegenerationAlly AB
+Effect/Name/PowerFieldHPRegenerationOn=PowerFieldHPRegenerationOn
+Effect/Name/PowerFieldMovementSpeedAB=PowerFieldMovementSpeed AB
+Effect/Name/PowerFieldMovementSpeedAllyAB=PowerFieldMovementSpeedAlly AB
+Effect/Name/PowerFieldMovementSpeedOn=PowerFieldMovementSpeedOn
+Effect/Name/PowerFieldSuperGaryStetmannCP=PowerFieldSuperGary
+Effect/Name/PowerFieldSuperGaryStetmannDowngrade=PowerFieldSuperGary
+Effect/Name/PowerFieldSuperGaryStetmannUpgrade=PowerFieldSuperGary
+Effect/Name/PowerSourceStetmann=
+Effect/Name/PowerSourceStetmannRB=
+Effect/Name/PowerTowerOverchargeFindTarget=Power Tower Overcharge Find Target
+Effect/Name/PowerTowerOverchargeStetmannAB=Power Tower Overcharge
+Effect/Name/PowerTowerOverchargeStetmannFinal=Power Tower Overcharge
+Effect/Name/PowerTowerOverchargeStetmannInitial=Power Tower Overcharge
+Effect/Name/PowerTowerOverchargeStetmannPeriodic=Power Tower Overcharge
+Effect/Name/PowerTowerStetmannPowerSwitch=
+Effect/Name/RavagerStetmannCorrosiveBileAoECP=RavagerStetmannCorrosiveBileAoECP
+Effect/Name/RavagerStetmannCorrosiveBileAoEDamage=RavagerStetmannCorrosiveBileAoEDamage
+Effect/Name/RavagerStetmannCorrosiveBileAoEForceFieldKill=RavagerStetmannCorrosiveBileAoEForceFieldKill
+Effect/Name/RavagerStetmannCorrosiveBileAoEImpactSet=RavagerStetmannCorrosiveBileAoEImpactSet
+Effect/Name/RavagerStetmannCorrosiveBileAoELaunchDown=RavagerStetmannCorrosiveBileAoELaunchDown
+Effect/Name/RavagerStetmannCorrosiveBileAoELaunchSet=RavagerStetmannCorrosiveBileAoELaunchSet
+Effect/Name/RavagerStetmannCorrosiveBileAoELaunchUp=RavagerStetmannCorrosiveBileAoELaunchUp
+Effect/Name/RavagerStetmannCorrosiveBileAoESearch=RavagerStetmannCorrosiveBileAoESearch
+Effect/Name/RavagerStetmannCorrosiveBileAoESet=RavagerStetmannCorrosiveBileAoESet
+Effect/Name/RavagerStetmannCorrosiveBileAoEWarningDummyDamage=RavagerStetmannCorrosiveBileAoEWarningDummyDamage
+Effect/Name/RavagerStetmannCorrosiveBileAoEWarningDummySearch=RavagerStetmannCorrosiveBileAoEWarningDummySearch
+Effect/Name/RavagerStetmannCorrosiveBileMarkerAB=RavagerStetmannCorrosiveBileMarkerAB
+Effect/Name/RavagerStetmannCorrosiveBileMarkerRB=RavagerStetmannCorrosiveBileMarkerRB
+Effect/Name/RavagerStetmannDamage=RavagerStetmannDamage
+Effect/Name/RavagerStetmannLM=RavagerStetmannLM
+Effect/Name/RemoveBanelingExplodeLargeDeathBehaviorStetmann=Remove Baneling Explode Large Death Behavior
+Effect/Name/RoachStetmannDamageMelee=RoachStetmannDamageMelee
+Effect/Name/RoachStetmannDamageRanged=RoachStetmannDamageRanged
+Effect/Name/RoachStetmannLM=RoachStetmannLM
+Effect/Name/SpineCrawlerStetmannImpalerTentacleLM=Spine Crawler Stetmann (Launch Missile)
+Effect/Name/SpineCrawlerStetmannImpalerTentacleU=Spine Crawler Stetmann (Damage)
+Effect/Name/SporeCrawlerStetmann=Spore Crawler Stetmann (Missile)
+Effect/Name/SporeCrawlerStetmannU=Spore Crawler Stetmann (Damage)
+Effect/Name/StetmannPowerFieldAllyABSet=StetmannPowerFieldAllyABSet
+Effect/Name/StetmannPowerFieldSelfABSet=StetmannPowerFieldSelfABSet
+Effect/Name/StetmannUnitDeathFindPickupUnitSearch=Stetmann Unit Death Find Pickup Unit (Search)
+Effect/Name/StetmannUnitDeathImpactDummy=Stetmann Unit Death (Impact Dummy)
+Effect/Name/StetmannUnitDeathImpactSet=Stetmann Unit Death Impact
+Effect/Name/StetmannUnitDeathLM=Stetmann Unit Death
+Effect/Name/StetmannUnitDeathSwitch=Stetmann Unit Death (Switch)
+Effect/Name/SuperGaryStetmannAbilities=Super Gary Abilities
+Effect/Name/SuperGaryStetmannBestOil=Super Gary Best Oil
+Effect/Name/SuperGaryStetmannDamage=Super Gary Damage
+Effect/Name/SuperGaryStetmannMissileLM=Super Gary Missile LM
+Effect/Name/SuperShieldSearchStetmann=Super Shield
+Effect/Name/SuperShieldStetmannAB=Super Shield AB
+Effect/Name/UltraliskKaiserBladesDamageStetmann=Kaiser Blades
+Effect/Name/UltraliskMechanicalLifeLeechStetmannDamage=Ultralisk Mechanical Life Leech
+Effect/Name/UltraliskMechanicalLifeLeechStetmannModifySelf=Ultralisk Mechanical Life Leech Modify Self
+Effect/Name/UltraliskMechanicalLifeLeechStetmannModifyTarget=Ultralisk Mechanical Life Leech Modify Target
+Effect/Name/UltraliskMechanicalLifeLeechStetmannSwitch=Ultralisk Mechanical Life Leech
+Effect/Name/UltraliskStetmannApplyBurrowChargeMechanicalStun=UltraliskStetmannApplyBurrowChargeMechanicalStun
+Effect/Name/UltraliskStetmannBurrowChargeMechanicalStunTargetSearch=UltraliskStetmannBurrowChargeMechanicalStunTargetSearch
+Effect/Name/UltraliskStetmannDeathRespawnAddCharge=Ultralisk Death Respawn Add Charge
+Effect/Name/UltraliskStetmannMechanicalLifeLeechAllySet=Ultralisk Mechanical Life Leech Ally
+Effect/Name/UnknownEffect=Hellfire Missile Pack Upgraded
+Effect/Name/ZergBuildingStetmannSpawnBroodling6=Mecha Zerg Building Spawn Broodling 6
+Effect/Name/ZergBuildingStetmannSpawnBroodling6Delay=Mecha Zerg Building Spawn Broodling 6 (Delay)
+Effect/Name/ZergBuildingStetmannSpawnBroodling9=Mecha Zerg Building Spawn Broodling 9
+Effect/Name/ZergBuildingStetmannSpawnBroodling9Delay=Mecha Zerg Building Spawn Broodling 9 (Delay)
+Effect/Name/ZerglingClawsDamageStetmann=Claws
+Effect/Name/ZerglingStetmannDeathRespawnAddCharge=Zergling Death Respawn Add Charge
+Error/HasPowerTowerOverchargeBuff=La cible est déjà surchargée
+Error/PowerTowerTarget=Doit cibler un Stetellite
+Error/TargetPointTooClose=L’endroit ciblé est trop proche.
+LookAtType/GaryStetmannTurret=
+Race/Name/ZerM=Méca-Zerg
+Rank/GaryStetmann=Meilleur ami
+Rank/SuperGaryStetmann=Meilleur meilleur ami
+RequirementNode/Tooltip/CountUnitAlias_HatcheryStetmannCompleteOnly271916271TechTreeCheat=Méca-couveuse
+RequirementNode/Tooltip/CountUnitAlias_HydraliskDenStetmannCompleteOnly3594942502TechTreeCheat=Tanière de méca-hydralisks
+RequirementNode/Tooltip/CountUnitAlias_LairStetmannCompleteOnly3467970039=Méca-terrier
+RequirementNode/Tooltip/CountUnitAlias_LairStetmannCompleteOnly3467970039TechTreeCheat=Méca-terrier
+RequirementNode/Tooltip/CountUnitAlias_SpireStetmannCompleteOnly1624843963TechTreeCheat=Méca-aiguille
+RequirementNode/Tooltip/CountUnitBanelingNestStetmannCompleteOnly2845241104TechTreeCheat=Nid de méca-chancres
+RequirementNode/Tooltip/CountUnitHiveCompleteOnly2332894787TechTreeCheat=Méca-ruche
+RequirementNode/Tooltip/CountUnitHiveStetmannCompleteOnly2332894787TechTreeCheat=Méca-ruche
+RequirementNode/Tooltip/CountUnitInfestationPitStetmannCompleteOnly2025119587TechTreeCheat=Méca-fosse d'infestation
+RequirementNode/Tooltip/CountUnitLurkerDenStetmannCompleteOnly3524451459TechTreeCheat=Muter Tanière de méca-hydralisks en Terrier de méca-rôdeurs
+RequirementNode/Tooltip/CountUnitRoachWarrenStetmannCompleteOnly633312242TechTreeCheat=Terrier de méca-cafards
+RequirementNode/Tooltip/CountUnitSpawningPoolStetmannCompleteOnly3564015665TechTreeCheat=Méca-bassin génétique
+RequirementNode/Tooltip/CountUpgradeBanelingStetmannExtraDamageCompleteOnly1226362659=Rechercher Explosifs enrichis en Egonergie au nid de méca-chancres
+RequirementNode/Tooltip/CountUpgradeBanelingStetmannManaShieldBonusCompleteOnly2394668350=Rechercher Barrière à efficacité egonergétique au nid de méca-chancres
+RequirementNode/Tooltip/CountUpgradeBanelingStetmannMovementSpeedCompleteOnly2558044188=Rechercher Servopropulseurs contre-centripètes au nid de méca-chancres
+RequirementNode/Tooltip/CountUpgradeBroodLordStetmannBombersCompleteOnly3556611336=Rechercher Baie des nuisicepteurs à la grande méca-aiguille
+RequirementNode/Tooltip/CountUpgradeBroodLordStetmannBombersCompleteOnly427456561=Rechercher Baie des nuisicepteurs à la grande méca-aiguille
+RequirementNode/Tooltip/CountUpgradeBroodLordStetmannYamatoCompleteOnly1026090338=Rechercher Canon Stetmanno à la grande méca-aiguille
+RequirementNode/Tooltip/CountUpgradeCorruptorStetmannCausticSprayCompleteOnly918824475=Rechercher Solvant terradicateur à la méca-aiguille
+RequirementNode/Tooltip/CountUpgradeHydraliskStetmannDamageCompleteOnly3650532885=Rechercher Lance-missiles Érudition à la tanière de méca-hydralisks
+RequirementNode/Tooltip/CountUpgradeHydraliskStetmannDamageCompleteOnly3768714899=Rechercher Lance-missiles Érudition à la tanière de méca-hydralisks
+RequirementNode/Tooltip/CountUpgradeHydraliskStetmannMovementSpeedCompleteOnly1906579778=Rechercher Implants hydra-liques à la tanière de méca-hydralisks
+RequirementNode/Tooltip/CountUpgradeHydraliskStetmannRangeCompleteOnly3563993361=Rechercher Système de ciblage de classe Tyr à la tanière de méca-hydralisks
+RequirementNode/Tooltip/CountUpgradeInfestorStetmannRechargeCompleteOnly3431215429=Rechercher Protocole de charge UMI-C à la méca-fosse d’infestation
+RequirementNode/Tooltip/CountUpgradeLurkerStetmannChannelingSpinesCompleteOnly3991116866=Rechercher Algorithme de frappe concentrée au terrier de méca-rôdeurs
+RequirementNode/Tooltip/CountUpgradeOverlordStetmannSpeedCompleteOnly3689980460=Rechercher Fuselage pneumatique à la méca-couveuse, au méca-terrier ou à la méca-ruche
+RequirementNode/Tooltip/CountUpgradeOverlordStetmannTransportCompleteOnly3286254285=Rechercher Poches ventrales à la méca-couveuse, au méca-terrier ou à la méca-ruche
+RequirementNode/Tooltip/CountUpgradeUltraliskStetmannArmorCompleteOnly1549219460=Rechercher Armure en chitanium à la caverne de méca-ultralisks
+RequirementNode/Tooltip/CountUpgradeUltraliskStetmannMechanicalLifeLeechCompleteOnly2880032343=Rechercher Module méca-moule à la caverne de méca-ultralisks.
+RequirementNode/Tooltip/CountUpgradeZerglingStetmannAttackSpeedCompleteOnly626494158=Rechercher Pompes surrénales synthétiques au méca-bassin génétique
+RequirementNode/Tooltip/CountUpgradeZerglingStetmannHardenedShieldCompleteOnly542973786=Rechercher Bouclier egonergétique renforcé au méca-bassin génétique
+RequirementNode/Tooltip/CountUpgradeZerglingStetmannMovementSpeedCompleteOnly254093441=Rechercher Poussée mécabolique au méca-bassin génétique
+RequirementNode/Tooltip/Eq3804783965CountUnitAlias_GaryQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitAlias_HydraliskDenStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitAlias_SpireStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitBanelingNestStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitInfestationPitStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitSpawningPoolStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/Eq3804783965CountUnitUltraliskCavernStetmannQueuedOrBetter0=Limite de 1
+RequirementNode/Tooltip/LT211851015CountUnitInterceptorStetmannQueuedOrBetterAtUnit6=Doit avoir moins de 6 nuisicepteurs.
+RequirementNode/Tooltip/LT3877048067CountUnitBroodlingEscortStetmannQueuedOrBetterAtUnit2=Méca-vermines partiellement armées
+Unit/Category/ZergMecha=Zerg - Méca
+Unit/InfoText/PartsPickup4=Utilisez n’importe quelle unité terrestre pour récupérer les composants nécessaires à l’Archange.
+Unit/LifeArmorName/MechaZergAirArmor=Blindage de méca-Zergs aériens
+Unit/LifeArmorName/MechaZergBuildingArmor=Armure des bâtiments méca-Zergs
+Unit/LifeArmorName/MechaZergGroundArmor=Blindage de méca-Zergs terrestres
+Unit/Name/BanelingNestStetmann=Nid de méca-chancres
+Unit/Name/BanelingStetmann=Méca-chancre
+Unit/Name/BanelingStetmannCocoon=Cocon de méca-chancre
+Unit/Name/BroodLordCocoonStetmann=Cocon de méca-seigneur de combat
+Unit/Name/BroodLordStetmann=Méca-seigneur de combat
+Unit/Name/BroodLordStetmannBWeapon=BroodLordStetmannBWeapon
+Unit/Name/BroodLordStetmannCocoon=Cocon de méca-seigneur de combat
+Unit/Name/BroodLordStetmannYamatoWeapon=BroodLordStetmannYamatoWeapon
+Unit/Name/Broodling=Vermine
+Unit/Name/BroodlingStetmann=Méca-vermine
+Unit/Name/CoopCasterStetmann=Annonceur en coop Stetmann
+Unit/Name/CorruptorStetmann=Méca-corrupteur
+Unit/Name/CorruptorStetmannCausticSprayMissile=Projection caustique - missile
+Unit/Name/DroneStetmann=Méca-ouvrier
+Unit/Name/EggStetmann=Méca-œuf
+Unit/Name/EvolutionChamberStetmann=Méca-chambre d’évolution
+Unit/Name/ExtractorStetmann=Méca-extracteur
+Unit/Name/GaryStetmann=Gary
+Unit/Name/GaryStetmannMissile=Missile de Stetmann de Gary
+Unit/Name/GaryStetmannOrbMissileEmpowered=Orbe de Gary - Missile renforcé
+Unit/Name/GaryStetmannOrbMissileUnempowered=Orbe de Gary - Missile non renforcé
+Unit/Name/GarysDen=Chambre de Gary
+Unit/Name/GreaterSpireStetmann=Grande méca-aiguille
+Unit/Name/HatcheryStetmann=Méca-couveuse
+Unit/Name/HiveStetmann=Méca-ruche
+Unit/Name/HurricaneMissileLeftStetmann=Missile Ouragan gauche
+Unit/Name/HurricaneMissileRightStetmann=Missile Ouragan droit
+Unit/Name/HydraliskDenStetmann=Tanière de méca-hydralisks
+Unit/Name/HydraliskGroundWeapon=Aiguillon perforant
+Unit/Name/HydraliskGroundWeaponStetmann=Arme terrestre d’hydralisk
+Unit/Name/HydraliskStetmann=Méca-hydralisk
+Unit/Name/HydraliskStetmannAirWeapon=Arme aérienne d’hydralisk
+Unit/Name/HydraliskStetmannAirWeaponUpgraded=Arme aérienne d’hydralisk améliorée
+Unit/Name/InfestationPitStetmann=Méca-fosse d'infestation
+Unit/Name/InfestorStetmann=Méca-infestateur
+Unit/Name/InfestorStetmannHealingTentacleWeapon=InfestorStetmannHealingTentacleWeapon
+Unit/Name/InfestorStetmannInfestBuildingWeapon=InfestorStetmannInfestBuildingWeapon
+Unit/Name/InfestorStetmannRavagerEggMissile=InfestorStetmannRavagerEggMissile
+Unit/Name/InfestorStetmannRoachEggMissile=InfestorStetmannRoachEggMissile
+Unit/Name/InterceptorStetmann=Nuisicepteur
+Unit/Name/LairStetmann=Méca-terrier
+Unit/Name/LarvaStetmann=Méca-larve
+Unit/Name/LurkerDenStetmann=Terrier de méca-rôdeurs
+Unit/Name/LurkerStetmann=Méca-rôdeur
+Unit/Name/LurkerStetmannCocoon=Œuf de méca-rôdeur
+Unit/Name/LurkerStetmannWeapon=LurkerStetmannWeapon
+Unit/Name/OverlordStetmann=Méca-dominant
+Unit/Name/OverseerCocoonStetmann=Cocon de méca-vigilant
+Unit/Name/OverseerStetmann=Méca-vigilant
+Unit/Name/OverseerStetmannCocoon=Cocon de méca-vigilant
+Unit/Name/OverseerStetmannSiegeMode=Méca-vigilant
+Unit/Name/ParasiteSporeWeaponStetmann=Spore parasite
+Unit/Name/PowerTowerStetmann=Stetellite
+Unit/Name/PowerTowerStetmannDeactivated=Stetellite désactivé
+Unit/Name/RavagerStetmann=Méca-saccageur
+Unit/Name/RavagerStetmannCocoon=Cocon de méca-saccageur
+Unit/Name/RavagerStetmannCorrosiveBileAoEMissile=RavagerStetmannCorrosiveBileAoEMissile
+Unit/Name/RavagerStetmannEgg=Œuf de méca-saccageur
+Unit/Name/RavagerStetmannMissile=RavagerStetmannMissile
+Unit/Name/RoachStetmann=Méca-cafard
+Unit/Name/RoachStetmannAttackMissile=RoachStetmannAttackMissile
+Unit/Name/RoachStetmannEgg=Œuf de méca-cafard
+Unit/Name/RoachWarrenStetmann=Terrier de méca-cafards
+Unit/Name/SpawningPoolStetmann=Méca-bassin génétique
+Unit/Name/SpineCrawlerStetmann=Méca-aiguillon rampant
+Unit/Name/SpineCrawlerStetmannWeapon=Aiguillon rampant de Stetmann
+Unit/Name/SpineCrawlerUprootedStetmann=Méca-aiguillon rampant
+Unit/Name/SpireStetmann=Méca-aiguille
+Unit/Name/SporeCrawlerStetmann=Méca-sporuleur rampant
+Unit/Name/SporeCrawlerStetmannWeapon=Sporuleur rampant - Arme de Stetmann
+Unit/Name/SporeCrawlerUprootedStetmann=Méca-sporuleur rampant
+Unit/Name/StetmannSparePartsMissile=Pièces détachées de missile de Stetmann
+Unit/Name/SuperGaryStetmann=Super-Gary
+Unit/Name/SuperGaryStetmannMissile=Missile de Stetmann de Super-Gary
+Unit/Name/UltraliskCavernStetmann=Caverne de méca-ultralisks
+Unit/Name/UltraliskStetmann=Méca-ultralisk
+Unit/Name/ZerglingStetmann=Méca-zergling
+Upgrade/Name/BanelingStetmannExtraDamage=Explosifs enrichis en Egonergie
+Upgrade/Name/BanelingStetmannManaShieldBonus=Barrière à efficacité egonergétique
+Upgrade/Name/BanelingStetmannMovementSpeed=Servopropulseurs contre-centripètes
+Upgrade/Name/BroodLordStetmannBombers=Baie des nuisicepteurs
+Upgrade/Name/BroodLordStetmannYamato=Canon Stetmanno
+Upgrade/Name/CommanderPrestigeStetmannCombatBuff=
+Upgrade/Name/CorruptorStetmannBiggerAoE=Décalcolonie à longue portée
+Upgrade/Name/CorruptorStetmannCausticSpray=Solvant terradicateur
+Upgrade/Name/HydraliskStetmannDamage=Lance-missiles Érudition
+Upgrade/Name/HydraliskStetmannMovementSpeed=Implants hydra-liques
+Upgrade/Name/HydraliskStetmannRange=Système de ciblage de classe Tyr
+Upgrade/Name/InfestorStetmannBonusRavager=Saccageur BONUS !
+Upgrade/Name/InfestorStetmannRecharge=Protocole de charge UMI-C
+Upgrade/Name/LurkerStetmannChannelingSpines=Algorithme de frappe concentrée
+Upgrade/Name/LurkerStetmannTunnelingBurstRange=Algorithme de tunnel de la TERREUR prolongé
+Upgrade/Name/MasteryStetmannDeployStetelliteCooldown=Stetmann - Maîtrise - Temps de recharge de Déploiement de Stetellites
+Upgrade/Name/MasteryStetmannGaryAbilityCooldown=Stetmann - Maîtrise - Temps de recharge des capacités de Gary
+Upgrade/Name/MasteryStetmannMaximumEgonergyPool=Stetmann - Maîtrise - Réserve d’Egonergie au maximum
+Upgrade/Name/MasteryStetmannStetzoneBonuses=Stetmann - Maîtrise - Bonus de stetzone
+Upgrade/Name/MasteryStetmannStetzoneBonusesEnergyRegeneration=Stetmann - Maîtrise - Bonus de stetzone : régénération d’énergie
+Upgrade/Name/MasteryStetmannStetzoneBonusesHPRegeneration=Stetmann - Maîtrise - Bonus de stetzone : régénération de points de vie
+Upgrade/Name/MasteryStetmannStetzoneBonusesMovementSpeed=Stetmann - Maîtrise - Bonus de stetzone : bonus à la vitesse de déplacement
+Upgrade/Name/MasteryStetmannStructureMorphRate=Stetmann - Maîtrise - Vitesse de mutation des bâtiments
+Upgrade/Name/MasteryStetmannUpgradeResearchCost=Stetmann - Maîtrise - Coût des recherches d’amélioration
+Upgrade/Name/MechaZerglingRemnantReclaimationBonus=Bonus de recyclage de débris de méca-zergling
+Upgrade/Name/OverlordStetmannSpeed=Fuselage pneumatique
+Upgrade/Name/OverlordStetmannTransport=Poches ventrales
+Upgrade/Name/PowerFieldEnergyRegeneration=Configuration S.A.U.C.E.
+Upgrade/Name/PowerFieldHPRegeneration=Configuration A.M.I.S.
+Upgrade/Name/PowerFieldMovementSpeed=Configuration V.I.T.E.
+Upgrade/Name/PowerFieldSuperGaryStetmann=Garyzone
+Upgrade/Name/StetmannAirArmorsLevel1=Blindage de méca-Zergs aériens - Niv. 1
+Upgrade/Name/StetmannAirArmorsLevel2=Blindage de méca-Zergs aériens - Niv. 2
+Upgrade/Name/StetmannAirArmorsLevel3=Blindage de méca-Zergs aériens - Niv. 3
+Upgrade/Name/StetmannAirWeaponsLevel1=Armes de méca-Zergs aériens - Niv. 1
+Upgrade/Name/StetmannAirWeaponsLevel2=Armes de méca-Zergs aériens - Niv. 2
+Upgrade/Name/StetmannAirWeaponsLevel3=Armes de méca-Zergs aériens - Niv. 3
+Upgrade/Name/StetmannCommander=Stetmann
+Upgrade/Name/StetmannGroundArmorsLevel1=Blindage de méca-Zergs terrestres - Niv. 1
+Upgrade/Name/StetmannGroundArmorsLevel2=Blindage de méca-Zergs terrestres - Niv. 2
+Upgrade/Name/StetmannGroundArmorsLevel3=Blindage de méca-Zergs terrestres - Niv. 3
+Upgrade/Name/StetmannIsPresent=Stetmann est dans la place
+Upgrade/Name/StetmannMeleeWeaponsLevel1=Armes de mêlée de méca-Zergs - Niv. 1
+Upgrade/Name/StetmannMeleeWeaponsLevel2=Armes de mêlée de méca-Zergs - Niv. 2
+Upgrade/Name/StetmannMeleeWeaponsLevel3=Armes de mêlée de méca-Zergs - Niv. 3
+Upgrade/Name/StetmannMissileWeaponsLevel1=Armes à projectiles de méca-Zergs - Niv. 1
+Upgrade/Name/StetmannMissileWeaponsLevel2=Armes à projectiles de méca-Zergs - Niv. 2
+Upgrade/Name/StetmannMissileWeaponsLevel3=Armes à projectiles de méca-Zergs - Niv. 3
+Upgrade/Name/SuperGaryStetmannAbilities=Super-Gary
+Upgrade/Name/UltraliskBurrowChargeMechanicalStun=Surprise électrostatique !
+Upgrade/Name/UltraliskStetmannArmor=Armure en chitanium
+Upgrade/Name/UltraliskStetmannBurrowCharge=Charge enfouie vectorielle
+Upgrade/Name/UltraliskStetmannMechanicalLifeLeech=Module méca-moule
+Upgrade/Name/ZerglingStetmannAttackSpeed=Pompes surrénales synthétiques
+Upgrade/Name/ZerglingStetmannHardenedShield=Bouclier egonergétique renforcé
+Upgrade/Name/ZerglingStetmannMovementSpeed=Poussée mécabolique
+UserData/MasteryUpgrades/StetmannMastery1_Name=Coût en ressource des améliorations
+UserData/MasteryUpgrades/StetmannMastery1_ValueFormat=-~A~%
+UserData/MasteryUpgrades/StetmannMastery2_Name=Temps de recharge des capacités de Gary
+UserData/MasteryUpgrades/StetmannMastery2_ValueFormat=-~A~%
+UserData/MasteryUpgrades/StetmannMastery3_Name=Bonus de stetzone
+UserData/MasteryUpgrades/StetmannMastery3_ValueFormat=+~A~%
+UserData/MasteryUpgrades/StetmannMastery4_Name=Réserve d’Egonergie au maximum
+UserData/MasteryUpgrades/StetmannMastery4_ValueFormat=+~A~%
+UserData/MasteryUpgrades/StetmannMastery5_Name=Temps de recharge de Déploiement de Stetellites
+UserData/MasteryUpgrades/StetmannMastery5_ValueFormat=-~A~ secondes
+UserData/MasteryUpgrades/StetmannMastery6_Name=Vitesse de mutation des bâtiments
+UserData/MasteryUpgrades/StetmannMastery6_ValueFormat=-~A~%
+UserData/MasteryUpgrades/StetmannyMastery1_Name=Coût en ressource des améliorations
+UserData/MasteryUpgrades/StetmannyMastery1_ValueFormat=-~A~%
+UserData/PlayerCommanders/ZergStetmann_Name=Stetmann
+Vital/StetmannEnergy=Egonergie :
+Weapon/Name/BanelingExplodeBuildingStetmann=Faire exploser le bâtiment
+Weapon/Name/BanelingExplodeStetmann=Exploser
+Weapon/Name/BroodLordStetmannBomber=BroodLordStetmannBomber
+Weapon/Name/BroodlingEscortStetmann=Escorte de méca-vermines
+Weapon/Name/BroodlingNeedleClawsStetmann=Méca-griffes perforantes
+Weapon/Name/BroodlingStrikeStetmann=Frappe de méca-vermine
+Weapon/Name/CorruptorParasiteSporeStetmann=Méca-spore parasite
+Weapon/Name/DroneSpinesStetmann=Griffes dentelées monomoléculaires
+Weapon/Name/GaryStetmannGun=Petit assistant de Gary
+Weapon/Name/HydraliskHellfireMissilesStetmann=Missiles Érudition
+Weapon/Name/HydraliskNeedleSpinesStetmann=Méca-aiguillons perforants
+Weapon/Name/InterceptorStetmannBeam=Nuisicepteurs
+Weapon/Name/LurkerStetmann=Méca-aiguillons
+Weapon/Name/RavagerStetmannPlasmaDischarge=Méca-décharge de plasma
+Weapon/Name/RoachStetmannAcidSaliva=Méca-salive acide
+Weapon/Name/RoachStetmannMelee=RoachStetmannMelee
+Weapon/Name/SpineCrawlerStetmannImpalerTentacle=Méca-tentacule empaleur
+Weapon/Name/SporeCrawlerStetmannAcidSpew=Méca-crachat acide
+Weapon/Name/SuperGaryStetmannGun=Gros assistant de Gary
+Weapon/Name/UltraliskKaiserBladesStetmann=Méca-lames Kaiser
+Weapon/Name/ZerglingClawsStetmann=Méca-griffes
+Weapon/Tip/LurkerStetmann=<c val="#ColorAttackInfo">Doit être enfoui pour attaquer.</c>
+e_cmdCantBuildTooFarFromBuildPowerSource_Zerg=Doit être placé dans une stetzone
+e_cmdCantLandTooFarFromBuildPowerSource_Zerg=Doit être placé dans une stetzone

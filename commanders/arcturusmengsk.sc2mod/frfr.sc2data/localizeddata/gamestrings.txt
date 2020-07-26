@@ -1,0 +1,1043 @@
+﻿Abil/Name/ArmSiloWithNukeMengsk=
+Abil/Name/ArmoryMengskResearch=
+Abil/Name/ArtilleryMengskAttack=
+Abil/Name/ArtilleryMengskExperimentalStrike=
+Abil/Name/ArtilleryMengskGlobalExperimentalStrike=
+Abil/Name/ArtilleryMengskTransport=
+Abil/Name/AssaultModeMengsk=Mode Assaut
+Abil/Name/BarracksMengskAddOns=AddOns
+Abil/Name/BarracksMengskLand=Atterrir
+Abil/Name/BarracksMengskLiftOff=Décoller
+Abil/Name/BarracksMengskTrain=
+Abil/Name/BattlecruiserMengskHyperjump=
+Abil/Name/BattlecruiserMengskHyperjumpTwoCharges=
+Abil/Name/BattlecruiserMengskYamato=
+Abil/Name/BattlecruiserMengskYamatoTwoCharges=
+Abil/Name/BunkerDepotMengskDrop=
+Abil/Name/BunkerDepotMengskDropMorph=
+Abil/Name/BunkerMengskSalvage=
+Abil/Name/BunkerMengskTransport=
+Abil/Name/BurrowHydraliskMengskDown=
+Abil/Name/BurrowHydraliskMengskUp=
+Abil/Name/BurrowZerglingMengskDown=
+Abil/Name/BurrowZerglingMengskUp=
+Abil/Name/CommandCenterMengskLand=
+Abil/Name/CommandCenterMengskLiftOff=Lever
+Abil/Name/CommandCenterMengskQueue=
+Abil/Name/CommandCenterMengskRally=
+Abil/Name/CommandCenterMengskTrain=
+Abil/Name/EngineeringBayMengskResearch=
+Abil/Name/FactoryMengskAddOns=AddOns
+Abil/Name/FactoryMengskLand=Atterrir
+Abil/Name/FactoryMengskLiftOff=Décoller
+Abil/Name/FactoryMengskTrain=
+Abil/Name/FighterModeMengsk=Mode Chasseur
+Abil/Name/FusionCoreMengskResearch=Rechercher
+Abil/Name/GhostAcademyMengskResearch=
+Abil/Name/GhostMengskCloak=
+Abil/Name/GhostMengskEMPBig=
+Abil/Name/GhostMengskEMPLongStun=
+Abil/Name/GhostMengskEMPShortStun=
+Abil/Name/GhostMengskHoldFire=Cessez-le-feu
+Abil/Name/GhostMengskIrradiateBigDamage=
+Abil/Name/GhostMengskIrradiateSmallDamage=
+Abil/Name/GhostMengskNuke=
+Abil/Name/GhostMengskSuperCloak=
+Abil/Name/GhostMengskWeaponsFree=Feu à volonté
+Abil/Name/MarauderMengskAttackSpeedBoost=
+Abil/Name/MedivacMengskDoubleBeamHeal=
+Abil/Name/MedivacMengskHeal=Soigner
+Abil/Name/MedivacMengskSpeedBoost=Propulseurs d’urgence
+Abil/Name/MedivacMengskTransport=
+Abil/Name/MengskZergCalldownLevel1=
+Abil/Name/MengskZergCalldownLevel2=
+Abil/Name/MengskZergCalldownLevel3=
+Abil/Name/MengskZergCalldownLevel4=
+Abil/Name/NuclearAnnihilationMengsk=
+Abil/Name/PropagandaBlastMengsk=
+Abil/Name/RavenMengskMorphtoRavenMengskSieged=
+Abil/Name/RavenMengskSiegedMorphtoRavenMengsk=
+Abil/Name/SCVMengskDropMorphTrooper=
+Abil/Name/SCVMengskEnlistNearby=
+Abil/Name/SCVMengskMorphTrooperAA=
+Abil/Name/SCVMengskMorphTrooperFlamethrower=
+Abil/Name/SCVMengskMorphTrooperImproved=
+Abil/Name/SCVMengskMorphTrooperNoWeapon=
+Abil/Name/SalvageSharedMengsk=
+Abil/Name/SiegeModeMengsk=Siège
+Abil/Name/SnipeMengsk=Tir de précision
+Abil/Name/StarportMengskAddOns=AddOns
+Abil/Name/StarportMengskLand=Atterrir
+Abil/Name/StarportMengskLiftOff=Décoller
+Abil/Name/StarportMengskTrain=
+Abil/Name/TerranBuildMengsk=Construire
+Abil/Name/ThorMengskSiege=
+Abil/Name/ThorMengskSiegeTargeted=
+Abil/Name/ThorMengskSiegeTargetedIncreasedRange=
+Abil/Name/ThorMengskSiegeTargetedLargeAoE=
+Abil/Name/ThorMengskUnsiege=
+Abil/Name/TrooperMengskBuild=
+Abil/Name/TrooperMengskCalldown=
+Abil/Name/TrooperMengskDropMorphSCV=
+Abil/Name/TrooperMengskEnlist=
+Abil/Name/TrooperMengskEnlistNearby=
+Abil/Name/TrooperMengskMorphSCV=
+Abil/Name/TrooperMengskSpecializeAA=
+Abil/Name/TrooperMengskSpecializeFlamethrower=
+Abil/Name/TrooperMengskSpecializeImproved=
+Abil/Name/UnsiegeMengsk=
+Abil/Name/VehicleAfterburnersMengsk=Véhicule - Post-combustion
+Behavior/Name/ArtilleryMengskCargoGlobal=
+Behavior/Name/ArtilleryMengskCloudSickness=Frappe de contamination
+Behavior/Name/ArtilleryMengskFear=Peur
+Behavior/Name/BattlecruiserMengskBonusRange=Système de ciblage sur le terrain
+Behavior/Name/EMPMengskDecloak=Camouflage supprimé par IEM
+Behavior/Name/GhostMengskEMPStun=
+Behavior/Name/GhostMengskHoldFire=Cessez-le-feu
+Behavior/Name/GhostMengskHoldFireB=Cessez-le-feu
+Behavior/Name/GhostMengskIrradiate=Immolation pyrocinétique
+Behavior/Name/GhostMengskSuperCloak=Camouflage Labyrinthe
+Behavior/Name/MarauderMengskAbsorb=Barrière de l’Égide
+Behavior/Name/MarauderMengskAttackSpeedBoost=Stimulants de haut gradé
+Behavior/Name/MarauderMengskShrapnelSlow=Ralenti
+Behavior/Name/MedivacMengskSpeedBoost=Post-combustion activée
+Behavior/Name/MengskVeterancyBattlecruiserMengsk=
+Behavior/Name/MengskVeterancyGhostMengsk=
+Behavior/Name/MengskVeterancyMarauderMengsk=
+Behavior/Name/MengskVeterancyMedivacMengsk=
+Behavior/Name/MengskVeterancySiegeTankMengsk=
+Behavior/Name/MengskVeterancyThorMengsk=
+Behavior/Name/MengskVeterancyVikingMengsk=
+Behavior/Name/MengskZergCalldownLevel1On=
+Behavior/Name/MengskZergCalldownLevel2On=
+Behavior/Name/MengskZergCalldownLevel3On=
+Behavior/Name/MengskZergCalldownLevel4On=
+Behavior/Name/MutaliskMengskAirDropDelay=
+Behavior/Name/PropagandaBlastMengsk=Endoctriné
+Behavior/Name/SiegeTankMengskSlowHeroic=
+Behavior/Name/SiegeTankMengskStun=
+Behavior/Name/ThorMengskArmorAuraTarget=Champ de protection
+Behavior/Name/VehicleAfterburnersMengsk=Allumage de la post-combustion
+Behavior/Name/VikingMengskAirAttackDamage=Redéploiement tactique
+Behavior/Name/VikingMengskCheatDeath=Protocole Phénix
+Behavior/Name/VikingMengskGroundAttackDamage=Redéploiement tactique
+Behavior/RankName/MengskRank0=Rang : 0
+Behavior/RankName/MengskRank1=Rang : 1
+Behavior/RankName/MengskRank2=Rang : 2
+Behavior/RankName/MengskRank3=Rang : 3
+Behavior/Tooltip/ArtilleryMengskCloudSickness=Frappe de contamination a bessé cette unité, qui subit des dégâts sur la durée.
+Behavior/Tooltip/ArtilleryMengskFear=Cette unité fuit sous l’effet de la peur.
+Behavior/Tooltip/BattlecruiserMengskBonusRange=Fierté d’Augustgrad augmente de <d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/> la portée des armes.
+Behavior/Tooltip/EMPMengskDecloak=La cible a été touchée récemment par une déflagration d’IEM, ce qui l’empêche de se camoufler pendant une courte période.
+Behavior/Tooltip/GhostMengskEMPStun=Choc et effroi
+Behavior/Tooltip/GhostMengskIrradiate=Unité immolée. Toutes les unités biologiques dans le champ d’immolation ou à proximité subiront des dégâts.
+Behavior/Tooltip/GhostMengskSuperCloak=Cette unité est insensible aux dégâts.
+Behavior/Tooltip/MarauderMengskAbsorb=Tant qu’elle est active, la barrière de l’Égide bloque tous les dégâts subis, jusqu’à un maximum de <d ref="Behavior,MarauderMengskAbsorb,DamageResponse.ModifyLimit"/> points.
+Behavior/Tooltip/MarauderMengskAttackSpeedBoost=Cette unité attaque plus vite sous l’effet de Stimulants de haut gradé.
+Behavior/Tooltip/MarauderMengskShrapnelSlow=Vitesse de déplacement réduite.
+Behavior/Tooltip/MarauderMengskSlamSlow=Les vitesses d’attaque et de déplacement de cette unité sont réduites.
+Behavior/Tooltip/MedivacMengskSpeedBoost=La vitesse de déplacement de cette unité est augmentée de <d ref="(Behavior,MedivacMengskSpeedBoost,Modification.MoveSpeedMultiplier-1)*100"/>%.
+Behavior/Tooltip/PropagandaBlastMengsk=Les vitesses d’attaque et de déplacement de cette unité sont augmentées.
+Behavior/Tooltip/SiegeTankMengskSlowHeroic=La vitesse de déplacement de la cible est diminuée pendant une courte durée.
+Behavior/Tooltip/SiegeTankMengskStun=Choc et effroi
+Behavior/Tooltip/ThorMengskArmorAuraTarget=Un Marteau noir confère +<d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> points d’armure à cette unité.
+Behavior/Tooltip/VehicleAfterburnersMengsk=Cette unité bénéficie d’une vitesse de déplacement accrue.
+Behavior/Tooltip/VikingMengskAirAttackDamage=Augmente les dégâts d’attaque de cette unité contre les unités aériennes.
+Behavior/Tooltip/VikingMengskCheatDeath=Tant qu’elle est active, la Fureur céleste bloque tous les dégâts subis, jusqu’à un maximum de <d ref="Behavior,VikingMengskCheatDeath,DamageResponse.ModifyLimit"/>.
+Behavior/Tooltip/VikingMengskGroundAttackDamage=Augmente les dégâts d’attaque de cette unité contre les unités terrestres.
+Button/Name/ArmoryMengsk=Construire une armurerie
+Button/Name/ArtilleryMengsk=Construire un canon brise-terre
+Button/Name/ArtilleryMengskBombardment=Bombardement
+Button/Name/ArtilleryMengskExperimentalStrike=Frappe de contamination
+Button/Name/ArtilleryMengskExperimentalStrikeLocked=Frappe de contamination
+Button/Name/ArtilleryMengskExperimentalStrikePassive=Frappe de contamination
+Button/Name/ArtilleryMengskExperimentalStrikePassiveLocked=Frappe de contamination
+Button/Name/ArtilleryMengskExperimentalStrikePassiveUpgraded=Frappe de contamination
+Button/Name/ArtilleryMengskExperimentalStrikeUpgraded=Frappe de contamination
+Button/Name/ArtilleryMengskLoad=Embarquer
+Button/Name/ArtilleryMengskPassive=Canon brise-terre
+Button/Name/ArtilleryMengskRange=Accélérants hémisphériques
+Button/Name/ArtilleryMengskRangeLocked=Accélérants hémisphériques
+Button/Name/ArtilleryMengskRangeResearch=Rechercher Accélérants hémisphériques
+Button/Name/ArtilleryMengskRangeResearchLocked=Rechercher Accélérants hémisphériques
+Button/Name/ArtilleryMengskUnloadAll=Débarquer tout
+Button/Name/AssaultModeMengsk=Mode Assaut
+Button/Name/BarracksMengsk=Construire une caserne
+Button/Name/BattlecruiserMengsk=Construire la Fierté d’Augustgrad
+Button/Name/BattlecruiserMengskHyperjump=Saut tactique
+Button/Name/BattlecruiserMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/BattlecruiserMengskRangeAura=Système de ciblage sur le terrain
+Button/Name/BattlecruiserMengskRangeAuraLocked=Système de ciblage sur le terrain
+Button/Name/BattlecruiserMengskRangeAuraResearch=Rechercher Système de ciblage sur le terrain
+Button/Name/BattlecruiserMengskRangeAuraResearchLocked=Rechercher Système de ciblage sur le terrain
+Button/Name/BattlecruiserMengskVeterancy=Garde impériale du Dominion
+Button/Name/BlimpMengskTopbarRegen=Ondes amplifiées
+Button/Name/BlimpMengskTopbarRegenLocked=Ondes amplifiées
+Button/Name/BlimpMengskTopbarRegenResearch=Rechercher Ondes amplifiées
+Button/Name/BlimpMengskTopbarRegenResearchLocked=Rechercher Ondes amplifiées
+Button/Name/BuildArtilleryMengskLocked=Construire un canon brise-terre
+Button/Name/BuildArtilleryMengskPassiveLocked=Canon brise-terre
+Button/Name/BuildBattlecruiserMengskLocked=Construire la Fierté d’Augustgrad
+Button/Name/BuildThorMengskLocked=Construire le Marteau Noir
+Button/Name/BunkerDepotMengskDrop=Mobilisation forcée
+Button/Name/BunkerDepotMengskLoad=Embarquer
+Button/Name/BunkerDepotMengskRange=Embrasures d’aide au ciblage
+Button/Name/BunkerDepotMengskRangeLocked=Embrasures d’aide au ciblage
+Button/Name/BunkerDepotMengskRangeResearch=Rechercher Embrasures d’aide au ciblage
+Button/Name/BunkerDepotMengskRangeResearchLocked=Rechercher Embrasures d’aide au ciblage
+Button/Name/BunkerDepotMengskUnloadAll=Débarquer tout
+Button/Name/BunkerMengsk=Construire un bunker de ravitaillement
+Button/Name/BunkerMengskSalvage=Recycler
+Button/Name/CommandCenterMengsk=Construire un centre d’enrôlement
+Button/Name/CommanderPrestigeMengskArmamentStabilizersLocked=Rechercher Stabilisateurs d’armement
+Button/Name/CommanderPrestigeMengskMedivacLocked=Construire le Médiateur impérial
+Button/Name/CommanderPrestigeMengskNuclearAnnihilationLocked=Annihilation nucléaire
+Button/Name/EngineeringBayMengsk=Construire un centre technique
+Button/Name/FactoryMengsk=Construire une usine
+Button/Name/FighterModeMengsk=Mode Chasseur
+Button/Name/FusionCoreMengsk=Construire un noyau de fusion
+Button/Name/GatherMengsk=Récolter
+Button/Name/GhostAcademyMengsk=Construire une Académie impériale
+Button/Name/GhostMengsk=Former une Ombre de l’empereur
+Button/Name/GhostMengskEMP=Déflagration d’IEM
+Button/Name/GhostMengskEMPLongStun=Déflagration d’IEM
+Button/Name/GhostMengskGuidedStrike=Missiles tactiques Souverain
+Button/Name/GhostMengskGuidedStrikeLocked=Missiles tactiques Souverain
+Button/Name/GhostMengskGuidedStrikeRessearch=Rechercher Missiles tactiques Souverain
+Button/Name/GhostMengskGuidedStrikeRessearchLocked=Rechercher Missiles tactiques Souverain
+Button/Name/GhostMengskHoldFire=Cessez-le-feu
+Button/Name/GhostMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/GhostMengskIrradiate=Immolation pyrocinétique
+Button/Name/GhostMengskIrradiateBigDamage=Immolation pyrocinétique
+Button/Name/GhostMengskSuperCloak=Camouflage Labyrinthe
+Button/Name/GhostMengskVeterancy=Garde impériale du Dominion
+Button/Name/HealMengsk=Soigner
+Button/Name/IgniteAfterburnersMengsk=Allumage de la post-combustion
+Button/Name/InstantTrooperMengskTransform=Rechercher Champ de réquisition
+Button/Name/MarauderMengsk=Former une Garde de l’Égide
+Button/Name/MarauderMengskAttackSpeedBoost=Stimulants de haut gradé
+Button/Name/MarauderMengskAttackSpeedBoostLocked=Stimulants de haut gradé
+Button/Name/MarauderMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/MarauderMengskShield=Barrière de l’Égide
+Button/Name/MarauderMengskSlow=Obus incapacitants
+Button/Name/MarauderMengskSlowLocked=Obus incapacitants
+Button/Name/MarauderMengskSlowResearch=Rechercher Obus incapacitants
+Button/Name/MarauderMengskSlowResearchLocked=Rechercher Obus incapacitants
+Button/Name/MarauderMengskVeterancy=Garde impériale du Dominion
+Button/Name/MaraurderMengskShield=Barrière de l’Égide
+Button/Name/MechTransformationSpeedMengsk=Rechercher Servoaccélérateurs
+Button/Name/MedivacMengsk=Construire le Médiateur impérial
+Button/Name/MedivacMengskDoubleHealBeam=Double réanimation
+Button/Name/MedivacMengskDoubleHealBeamResearch=Rechercher Double réanimation
+Button/Name/MedivacMengskPermanentCloak=Voile de dispersion
+Button/Name/MedivacMengskPermanentCloakResearch=Rechercher Voile de dispersion
+Button/Name/MedivacMengskSiegeTankAirlift=Stabilisateurs d’armement
+Button/Name/MedivacMengskSiegeTankAirliftLocked=Stabilisateurs d’armement
+Button/Name/MedivacMengskSiegeTankAirliftResearch=Rechercher Stabilisateurs d’armement
+Button/Name/MedivacMengskSiegeTankAirliftResearchLocked=Rechercher Stabilisateurs d’armement
+Button/Name/MengskAbilityAttackDamageLocked=Redéploiement tactique
+Button/Name/MengskAbilitySpecializeAALocked=Équiper un Lanceur Tornade
+Button/Name/MengskAbilitySpecializeFlamethrowerLocked=Équiper un lance-flammes CPO-7 Salamandre
+Button/Name/MengskStructureArmorResearch=Rechercher Armure renforcée en NéoAcier
+Button/Name/MengskTrooperArmorLevel1=Amélioration Armure du Dominion - Niv. 1
+Button/Name/MengskTrooperArmorLevel2=Amélioration Armure du Dominion - Niv. 2
+Button/Name/MengskTrooperArmorLevel3=Amélioration Armure du Dominion - Niv. 3
+Button/Name/MengskTrooperWeaponsLevel1=Amélioration Armes du Dominion - Niv. 1
+Button/Name/MengskTrooperWeaponsLevel2=Amélioration Armes du Dominion - Niv. 2
+Button/Name/MengskTrooperWeaponsLevel3=Amélioration Armes du Dominion - Niv. 3
+Button/Name/MengskZergCalldown=Dogues de guerre
+Button/Name/MengskZergCalldownLevel1=Dogues de guerre
+Button/Name/MengskZergCalldownLevel2=Dogues de guerre
+Button/Name/MengskZergCalldownLevel3=Dogues de guerre
+Button/Name/MengskZergCalldownLevel4=Dogues de guerre (niv. 4)
+Button/Name/MissileTurretMengsk=Construire une tourelle lance-missiles
+Button/Name/MissileTurretMengskPassive=Tourelle lance-missiles
+Button/Name/MorphtoRavenMengsk=Annuler le mode Patriote
+Button/Name/MorphtoRavenMengskSieged=Mode Patriote
+Button/Name/NuclearAnnihilationMengsk=Annihilation nucléaire
+Button/Name/NuclearAnnihilationMengskLocked=Annihilation nucléaire
+Button/Name/NukeCalldownMengsk=Frappe de missile tactique
+Button/Name/NukeMengskArm=Armer le silo avec un missile tactique
+Button/Name/PropagandaBlastMengsk=Endoctriner
+Button/Name/RavenMengsk=Construire le Témoin impérial
+Button/Name/RefineryMengsk=Construire une raffinerie
+Button/Name/RoyalGuardMengsk=Garde impériale du Dominion
+Button/Name/RoyalGuardMengskImperialMandateGenerationLocked=Puissance de l’empire
+Button/Name/SCVMengsk=Enrôler un travailleur du Dominion
+Button/Name/SCVMengskAdvancedConstruction=Équipe de travail
+Button/Name/SCVMengskEnlist=Prendre son service
+Button/Name/SCVMengskEnlistCC=Reprise du travail
+Button/Name/SetArtilleryMengskRallyPoint=Définir le point de ralliement du canon brise-terre
+Button/Name/SetCommandCenterRallyPointLaborer=Définir le point de ralliement des travailleurs
+Button/Name/SetCommandCenterRallyPointTrooper=Définir le point de ralliement des soldats
+Button/Name/SetSupplyBunkerRallyPoint=Définir le point de ralliement du bunker de ravitaillement
+Button/Name/SiegeModeMengsk=Mode Siège
+Button/Name/SiegeTankMengsk=Construire la Division Choc
+Button/Name/SiegeTankMengskAirlift=Stabilisateurs d’armement
+Button/Name/SiegeTankMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/SiegeTankMengskStun=Choc et effroi
+Button/Name/SiegeTankMengskVeterancy=Garde impériale du Dominion
+Button/Name/SnipeMengsk=Tir de précision
+Button/Name/StarportMengsk=Construire un spatioport
+Button/Name/StructureArmorMengsk=Armure renforcée en NéoAcier
+Button/Name/StructureArmorMengskResearch=Rechercher Armure renforcée en NéoAcier
+Button/Name/ThorMengsk=Construire le Marteau Noir
+Button/Name/ThorMengskArmorAura=Champ de protection
+Button/Name/ThorMengskArmorAuraLocked=Champ de protection
+Button/Name/ThorMengskArmorAuraResearch=Rechercher Champ de protection
+Button/Name/ThorMengskArmorAuraResearchLocked=Rechercher Champ de protection
+Button/Name/ThorMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/ThorMengskSiege=Mode Surveillance
+Button/Name/ThorMengskUnsiege=Mode Marcheur
+Button/Name/ThorMengskVeterancy=Garde impériale du Dominion
+Button/Name/TrooperMengsk=Enrôler un soldat du Dominion
+Button/Name/TrooperMengskBuild=Construire un bâtiment de combat
+Button/Name/TrooperMengskDropTrain=Capsule orbitale de soldat
+Button/Name/TrooperMengskDropTrainResearch=Rechercher Capsule orbitale de soldat
+Button/Name/TrooperMengskEnlist=Paré au combat
+Button/Name/TrooperMengskEnlistCC=Appel aux armes
+Button/Name/TrooperMengskImperialMandateGeneration=Volonté du peuple
+Button/Name/TrooperMengskImperialMandateGenerationLocked=Volonté du peuple
+Button/Name/TrooperMengskSpecializeAA=Équiper un Lanceur Tornade
+Button/Name/TrooperMengskSpecializeFlamethrower=Équiper un lance-flammes CPO-7 Salamandre
+Button/Name/TrooperMengskSpecializeImproved=Équiper une Mitrailleuse légère à gros calibre B-2
+Button/Name/UnsiegeMengsk=Mode Char
+Button/Name/VikingMengskAttackDamage=Redéploiement tactique
+Button/Name/VikingMengskCheatDeath=Protocole Phénix
+Button/Name/VikingMengskCheatDeathLocked=Protocole Phénix
+Button/Name/VikingMengskDodge=Manœuvres d’évasion
+Button/Name/VikingMengskDodgeLocked=Manœuvres d’évasion
+Button/Name/VikingMengskFighter=Construire la Fureur Céleste
+Button/Name/VikingMengskImperialMandateGeneration=Puissance de l’empire
+Button/Name/VikingMengskSpeed=Turbines Æsir
+Button/Name/VikingMengskSpeedLocked=Turbines Æsir
+Button/Name/VikingMengskSpeedResearch=Rechercher Turbines Æsir
+Button/Name/VikingMengskSpeedResearchLocked=Rechercher Turbines Æsir
+Button/Name/VikingMengskVeterancy=Garde impériale du Dominion
+Button/Name/WeaponsFreeMengsk=Feu à volonté
+Button/Name/YamatoGunMengsk=Canon Yamato
+Button/Tooltip/AbilLockedLevel05=Cette capacité est débloquée au niveau de commandant 5.
+Button/Tooltip/AbilLockedLevel08=Cette capacité est débloquée au niveau de commandant 8.
+Button/Tooltip/ArmoryMengsk=Permet des améliorations pour les unités issues de l’usine et du spatioport.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Marteau Noir à l’usine
+Button/Tooltip/ArtilleryMengsk=Lance un bombardement qui frappe au hasard près d’une zone ciblée et inflige des dégâts aux unités terrestres s’y trouvant. Débloque Frappe de contamination dans le panneau supérieur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/ArtilleryMengskBombardment=Bombarde une position cible, déployant aléatoirement des charges à proximité, qui infligent <d ref="Effect,ArtilleryMengskBombardmentDamage,Amount"/> points de dégâts aux unités terrestres ennemies.
+Button/Tooltip/ArtilleryMengskExperimentalStrike=Tous vos canons brise-terre embarquent des charges expérimentales permettant de cibler n’importe quelle position sur la carte. Les charges atterrissent aléatoirement à proximité de la position ciblée, saturant la zone de matériaux biologiques irradiés et infligeant <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current" precision="1"/> points de dégâts par seconde aux ennemis pénétrant dans la zone. Les unités affectées ne peuvent pas se camoufler.
+Button/Tooltip/ArtilleryMengskExperimentalStrikePassive=Ce bâtiment peut embarquer des charges expérimentales permettant de cibler n’importe quelle position sur la carte. Les charges atterrissent aléatoirement à proximité de la position ciblée, saturant la zone de matériaux biologiques irradiés et infligeant <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current" precision ="1"/> points de dégâts par seconde aux ennemis pénétrant dans la zone. Activez cette capacité à partir du panneau supérieur.
+Button/Tooltip/ArtilleryMengskExperimentalStrikePassiveUpgraded=Ce bâtiment peut embarquer des charges expérimentales permettant de cibler n’importe quelle position sur la carte. Les charges atterrissent aléatoirement à proximité de la position ciblée, faisant fuir les ennemis sous l’effet de la peur. Les unités affectées sont irradiées, ce qui inflige <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current"/> points de dégâts par seconde aux ennemis pénétrant dans la zone. Activez cette capacité à partir du panneau supérieur.
+Button/Tooltip/ArtilleryMengskExperimentalStrikeUpgraded=Tous vos canons brise-terre embarquent des charges expérimentales permettant de cibler n’importe quelle position sur la carte. Les charges atterrissent aléatoirement à proximité de la position ciblée, faisant fuir les ennemis sous l’effet de la peur et saturant la zone de matériaux biologiques irradiés, ce qui inflige <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current"/> points de dégâts par seconde aux ennemis pénétrant dans la zone. Les unités affectées ne peuvent pas se camoufler.
+Button/Tooltip/ArtilleryMengskLoad=Charge les travailleurs et les soldats dans le canon brise-terre. Chaque travailleur supplémentaire chargé augmente le taux de bombardement du canon brise-terre.
+Button/Tooltip/ArtilleryMengskPassive=Le centre technique vous permet de construire des canons brise-terre.
+Button/Tooltip/ArtilleryMengskRange=Augmente la portée de la capacité Bombardement du canon brise-terre de +<d ref="$UpgradeEffectArrayValue:ArtilleryMengskRange:Weapon,ArtilleryMengskBombardment,Range$"/>.
+Button/Tooltip/ArtilleryMengskRangeResearch=Augmente la portée de la capacité Bombardement du <c val="ffff8a">canon brise-terre</c> de +<d ref="$UpgradeEffectArrayValue:ArtilleryMengskRange:Weapon,ArtilleryMengskBombardment,Range$"/>.
+Button/Tooltip/ArtilleryMengskUnloadAll=Débarque toutes les unités.
+Button/Tooltip/AssaultModeMengsk=Fait passer la Fureur Céleste en mode Assaut. Dans cette configuration, elle se déplace au sol et ne peut attaquer que des cibles terrestres.
+Button/Tooltip/BarracksMengsk=Site de production d’infanterie de la Garde impériale.<n/><n/><c val="ffff8a">Débloque :</c><n/> Garde de l’Égide
+Button/Tooltip/BarracksMengskFlying=La caserne doit atterrir pour démarrer la production d’unités.
+Button/Tooltip/BattlecruiserMengsk=Puissant vaisseau de guerre de la Garde impériale. Dispose d’un canon Yamato et du Saut tactique.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/BattlecruiserMengskHyperjump=Se téléporte vers la destination choisie. Le cuirassé est invulnérable pendant le transfert.
+Button/Tooltip/BattlecruiserMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyBattlecruiserMengsk$*Unit,BattlecruiserMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/BattlecruiserMengskRangeAura=Augmente de <d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/> la portée des unités terrestres alliées d’attaque à distance à proximité.
+Button/Tooltip/BattlecruiserMengskRangeAuraResearch=Permet à la <c val="ffff8a">Fierté d’Augustgrad</c> d’augmenter de<d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/> la portée des unités terrestres d’attaque à distance à proximité.
+Button/Tooltip/BattlecruiserMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> confère une charge supplémentaire au canon Yamato et à Saut tactique.
+Button/Tooltip/BattlecruiserMengskRank1Preview=<n/><c val="777777">Rang 1 : confère une charge supplémentaire au canon Yamato et à Saut tactique.</c>
+Button/Tooltip/BattlecruiserMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> canon Yamato inflige des dégâts dans une zone autour de la cible.
+Button/Tooltip/BattlecruiserMengskRank2Preview=<n/><c val="777777">Rang 2 : canon Yamato inflige des dégâts dans une zone autour de la cible.</c>
+Button/Tooltip/BattlecruiserMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> canon Yamato tire <d ref="Effect,BattlecruiserMengskYamatoMultiple,ValidateMax"/> fois de plus, sur de nouvelles cibles.
+Button/Tooltip/BattlecruiserMengskRank3Preview=<n/><c val="777777">Rang 3 : canon Yamato tire <d ref="Effect,BattlecruiserMengskYamatoMultiple,ValidateMax"/> fois de plus, sur de nouvelles cibles.</c>
+Button/Tooltip/BlimpMengskTopbarRegen=Double le soutien impérial généré par les travailleurs et les soldats endoctrinés.
+Button/Tooltip/BlimpMengskTopbarRegenResearch=Double le soutien impérial généré par les travailleurs et les soldats quand ils sont affectés par la capacité Endoctriner de <c val="ffff8a">Témoin impérial</c>.
+Button/Tooltip/BunkerDepotMengsk=Bâtiment défensif fournissant du ravitaillement.<n/>Le ravitaillement vous permet de créer plus d’unités.<n/>Les soldats combattent de l’intérieur.<n/><n/><c val="#ColorAttackInfo">Bonus : portée des unités à l’intérieur augmentée de <d ref="Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange"/>.</c>
+Button/Tooltip/BunkerDepotMengskDrop=Déploie un bunker de ravitaillement depuis l’orbite avec <d ref="Abil,BunkerMengskTransport,TotalCargoSpace"/> soldats pour assurer son fonctionnement.
+Button/Tooltip/BunkerDepotMengskLoad=Charge des travailleurs et des soldats dans le bunker de ravitaillement.
+Button/Tooltip/BunkerDepotMengskRange=Augmente encore la portée des unités à l’intérieur des bunkers de ravitaillement de +<d ref="$UpgradeEffectArrayValue:BunkerDepotMengskRange:Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange$"/>.
+Button/Tooltip/BunkerDepotMengskRangeResearch=Augmente encore la portée des unités à l’intérieur des <c val="ffff8a">bunkers de ravitaillement</c> de +<d ref="$UpgradeEffectArrayValue:BunkerDepotMengskRange:Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange$"/>.
+Button/Tooltip/BunkerDepotMengskUnloadAll=Débarque toutes les unités.
+Button/Tooltip/BunkerMengsk=Structure défensive qui fournit du ravitaillement.<n/>Le ravitaillement vous permet de former davantage d’unités.<n/>Les soldats combattent à l’intérieur du bunker.<n/><n/><c val="#ColorAttackInfo">Bonus : +1 à la portée des unités à l’intérieur du bunker.</c>
+Button/Tooltip/BunkerMengskSalvage=Recycle le bâtiment, ce qui le détruit et rend <d ref="Effect,SalvageSharedMengsk,SalvageFactor.Resource[Minerals]*(-100)"/>% de son coût en minerai et en gaz. Le recyclage dure <d ref="Behavior,SalvageSharedMengsk,Duration"/> secondes. Avertissement : une fois le recyclage lancé, vous ne pouvez pas l’annuler.
+Button/Tooltip/CommandCenterMengsk=Bâtiment principal. Utilisé pour collecter des ressourcer et abriter des travailleurs et des soldats du Dominion. Peut utiliser la capacité Décoller.<n/><n/><c val="ffff8a">Débloque :</c><n/>Travailleur du Dominion<n/>Soldat du Dominion<n/>Bunker de ravitaillement à partir des travailleurs et des soldats
+Button/Tooltip/CommandCenterMengskFlying=Bâtiment principal. Doit atterrir pour recevoir des ressources, produire des unités ou utiliser ses capacités.
+Button/Tooltip/CommanderPrestigeMengskArmamentStabilizersLocked=Cette amélioration est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeMengskContaminatedStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> la durée de la peur suscitée par Frappe de contamination est augmentée de <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskFear,Duration$/Behavior,ArtilleryMengskFear,Duration*100" player="0"/></s>% et ses effets des dégâts sur la durée augmentent les dégâts reçus de <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskCloudSickness,DamageResponse.ModifyFraction$*100"/></s>%.
+Button/Tooltip/CommanderPrestigeMengskMedivacLocked=Cette unité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeMengskNuclearAnnihilationLocked=Cette capacité est verrouillée par votre prestige de commandant.
+Button/Tooltip/CommanderPrestigeMengskRoyalGuardUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> augmente le gain d’expérience de <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskRoyalGuard:Effect,MengskRoyalGuardExperienceGainDummy,Amount$"/></s>%.
+Button/Tooltip/CommanderPrestigeMengskTrooperMandateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> cette unité génère du soutien impérial lorsqu’elle est stationnée au sein d’un canon brise-terre.
+Button/Tooltip/CommanderPrestigeMengskTrooperWeaponsUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige :</s> les soldats équipés activent un mécanisme d’autodestruction présent dans leur arme au lieu de les laisser tomber à terre en mourant.
+Button/Tooltip/EngineeringBayMengsk=Permet des améliorations pour les soldats et les bâtiments du Dominion.<n/><n/><c val="ffff8a">Débloque :</c><n/>Tourelle lance-missiles à partir des travailleurs et des soldats<n/>Canon brise-terre à partir des travailleurs et des soldats
+Button/Tooltip/FactoryMengsk=Site de production de véhicules de la Garde impériale.<n/><n/><c val="ffff8a">Débloque :</c><n/> Division Choc
+Button/Tooltip/FactoryMengskFlying=L’usine doit atterrir pour démarrer la production d’unités.
+Button/Tooltip/FighterModeMengsk=Fait passer la Fureur Céleste en mode Chasseur. Dans cette configuration, elle peut voler mais ne peut attaquer que des cibles aériennes.
+Button/Tooltip/FusionCoreMengsk=Permet des améliorations pour les unités issues du spatioport.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Fierté d’Augustgrad au spatioport
+Button/Tooltip/GatherMengsk=Ordonne aux travailleurs de récolter des ressources sur un gisement de minerai ou un geyser de gaz vespène ciblé.
+Button/Tooltip/GhostAcademyMengsk=Permet des améliorations pour la garde de l’Égide et l’Ombre de l’empereur. Permet de construire des missiles tactiques pour l’Ombre de l’empereur.<n/><n/><c val="ffff8a">Débloque :</c><n/> Ombre de l’empereur à la caserne
+Button/Tooltip/GhostMengsk=Spécialiste de la Garde impériale. Peut utiliser Immolation pyrocinétique et Déflagration d’IEM. Peut ordonner le lancement de missiles tactiques construits par l’Académie impériale.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/GhostMengskEMP=Inflige <d ref="Effect,GhostMengskEMPDamage,ShieldBonus"/> points de dégâts aux boucliers et épuise l’énergie des unités ennemies dans la zone ciblée. Étourdit les unités mécaniques pendant <d ref="Effect,GhostMengskEMPStunShortAB,Duration"/> seconde. Les unités camouflées sont révélées pendant <d ref="Behavior,EMPMengskDecloak,Duration"/> secondes après avoir été touchées.
+Button/Tooltip/GhostMengskEMPLongStun=Inflige <d ref="Effect,GhostMengskEMPDamage,ShieldBonus"/> points de dégâts aux boucliers et épuise l’énergie des unités ennemies dans la zone ciblée. Étourdit les unités mécaniques pendant <d ref="Effect,GhostMengskEMPStunLongAB,Duration"/> secondes. Les unités camouflées sont révélées pendant <d ref="Behavior,EMPMengskDecloak,Duration"/> secondes après avoir été touchées.
+Button/Tooltip/GhostMengskGuidedStrike=Les frappes de missile tactique n’ont plus besoin d’être canalisées.
+Button/Tooltip/GhostMengskGuidedStrikeRessearch=<c val="ffff8a">Ombre de l’empereur</c> n’a plus besoin de canaliser la capacité Frappe de missile tactique.
+Button/Tooltip/GhostMengskHoldFire=Ordonne aux unités sélectionnées de ranger leurs armes et d’éviter de combattre l’ennemi jusqu’à nouvel ordre. Les unités qui ont cessé le feu fuiront si elles sont attaquées.
+Button/Tooltip/GhostMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyGhostMengsk$*Unit,GhostMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/GhostMengskIrradiate=Immole une cible biologique ennemie pendant <d ref="Behavior,GhostMengskIrradiate,Duration"/> secondes, ce qui inflige <d ref="Effect,GhostMengskIrradiateSmallDamage,Amount"/> points de dégâts par seconde à cette cible et aux ennemis biologiques à proximité.
+Button/Tooltip/GhostMengskIrradiateBigDamage=Immole une cible biologique ennemie pendant <d ref="Behavior,GhostMengskIrradiate,Duration"/> secondes, ce qui inflige <d ref="Effect,GhostMengskIrradiateBigDamage,Amount"/> points de dégâts par seconde à cette cible et aux ennemis biologiques à proximité.
+Button/Tooltip/GhostMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> gagne la capacité Camouflage Labyrinthe.
+Button/Tooltip/GhostMengskRank1Preview=<n/><c val="777777">Rang 1 : gagne la capacité Camouflage Labyrinthe.</c>
+Button/Tooltip/GhostMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> augmente les dégâts périodiques d’Immolation pyrocinétique de <d ref="(Effect,GhostMengskIrradiateBigDamage,Amount/Effect,GhostMengskIrradiateSmallDamage,Amount-1)*100" precision="0"/>%. Augmente la durée d’étourdissement de Déflagration d’IEM de <d time="[d ref='Effect,GhostMengskEMPStunLongAB,Duration-Effect,GhostMengskEMPStunShortAB,Duration'/]" precision="0"/>.
+Button/Tooltip/GhostMengskRank2Preview=<n/><c val="777777">Rang 2 : augmente les dégâts périodiques d’Immolation pyrocinétique de <d ref="(Effect,GhostMengskIrradiateBigDamage,Amount/Effect,GhostMengskIrradiateSmallDamage,Amount-1)*100" precision="0"/>%. Augmente la durée d’étourdissement de Déflagration d’IEM de <d time="[d ref='Effect,GhostMengskEMPStunLongAB,Duration-Effect,GhostMengskEMPStunShortAB,Duration'/]" precision="0"/>.</c>
+Button/Tooltip/GhostMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> à la mort de la cible, Immolation pyrocinétique inflige <d ref="Effect,GhostMengskIrradiateDeathDamage,Amount"/> points de dégâts aux ennemis proches. Déflagration d’IEM draine toute l’énergie de la cible et lui inflige des dégâts équivalent à la quantité drainée.
+Button/Tooltip/GhostMengskRank3Preview=<n/><c val="777777">Rang 3 : à la mort de la cible, Immolation pyrocinétique inflige <d ref="Effect,GhostMengskIrradiateDeathDamage,Amount"/> points de dégâts aux ennemis proches. Déflagration d’IEM draine toute l’énergie de la cible et lui inflige des dégâts équivalent à la quantité drainée.</c>
+Button/Tooltip/GhostMengskSuperCloak=Empêche l’Ombre de l’empereur de subir des dégâts pendant <d ref="Behavior,GhostMengskSuperCloak,Duration"/> secondes après avoir été attaquée. Ne peut se produire qu’une fois toutes les <d ref="Behavior,GhostMengskSuperCloakController,DamageResponse.Cost.Cooldown.TimeUse"/> secondes.
+Button/Tooltip/HealMengsk=Soigne une cible biologique alliée.<n/><n/><c val="f078ff">Rend <d ref="Effect,MedivacMengskHealLevel1,RechargeVitalRate[0]"/> points de vie par <d ref="1/Effect,MedivacMengskHealLevel1,DrainVitalCostFactor"/> point(s) d’énergie.</c>
+Button/Tooltip/HydraliskMengsk=« Re-vérifiez le harnais. Assurez-vous qu’il soit parfaitement sécurisé. Cette bête est très agressive et je n’ai pas envie de perdre un autre interne. Cheryl n’approuvera pas une nouvelle demande de remplaçant cette semaine. »<n/><n/>- Dr Subsourian à propos d’un ancien sujet hydralisk<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/IgniteAfterburnersMengsk=Augmente la vitesse de déplacement de cette unité de <d ref="(Behavior,MedivacMengskSpeedBoost,Modification.MoveSpeedMultiplier-1)*100"/>% pendant <d ref="Behavior,MedivacMengskSpeedBoost,Duration"/> secondes.
+Button/Tooltip/InstantTrooperMengskTransform=Permet aux <c val="ffff8a">travailleurs</c> et aux <c val="ffff8a">soldats</c> de changer de mode directement sur le champ de bataille.
+Button/Tooltip/MarauderMengsk=Unité d’assaut lourde de la Garde impériale.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/MarauderMengskAttackSpeedBoost=Augmente la vitesse d’attaque de <d ref="(Behavior,MarauderMengskAttackSpeedBoost,Modification.AttackSpeedMultiplier-1)*100"/>% pendant <d ref="Behavior,MarauderMengskAttackSpeedBoost,Duration"/> secondes.
+Button/Tooltip/MarauderMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyMarauderMengsk$*Unit,MarauderMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/MarauderMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> gagne la capacité Barrière de l’Égide.
+Button/Tooltip/MarauderMengskRank1Preview=<n/><c val="777777">Rang 1 : gagne la capacité Barrière de l’Égide.</c>
+Button/Tooltip/MarauderMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> les attaques créent un jet de shrapnels en cône, qui inflige <d ref="Effect,MarauderMengskShrapnelDamage,Amount/Effect,PunisherGrenadesMengskU,Amount*100" precision="0"/>% de dégâts aux ennemis derrière la cible.
+Button/Tooltip/MarauderMengskRank2Preview=<n/><c val="777777">Rang 2 : les attaques créent un jet de shrapnels en cône, qui inflige <d ref="Effect,MarauderMengskShrapnelDamage,Amount/Effect,PunisherGrenadesMengskU,Amount*100" precision="0"/>% de dégâts aux ennemis derrière la cible.</c>
+Button/Tooltip/MarauderMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> gagne la capacité Stimulants de haut gradé.
+Button/Tooltip/MarauderMengskRank3Preview=<n/><c val="777777">Rang 3 : gagne la capacité Stimulants de haut gradé.</c>
+Button/Tooltip/MarauderMengskShield=Confère à la Garde de l’Égide un bouclier qui absorbe <d ref="Behavior,MarauderMengskAbsorb,DamageResponse.ModifyLimit"/> points de dégâts. Quand le bouclier subit des dégâts fatals, il libère une impulsion d’énergie qui repousse les unités terrestres proches. Rend tous ses points d’armure au bouclier toutes les <d ref="Behavior,MarauderMengskAbsorbReapplicator,Cost.Cooldown.TimeUse"/> secondes.
+Button/Tooltip/MarauderMengskSlow=Les unités touchées par la Garde de l’Égide sont temporairement ralenties.<n/><n/><c val="#ColorAttackInfo">Les unités lourdes sont immunisées.</c>
+Button/Tooltip/MarauderMengskSlowResearch=Permet aux attaques de la <c val="ffff8a">Garde de l’Égide</c> de ralentir les unités ennemies.
+Button/Tooltip/MasteryMengskRoyalGuardCostAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> réduit le coût de <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardCostDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardExperienceGainRateAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le gain d’expérience de <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardExperienceGainRateDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardImperialMandateRegenerationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le soutien impérial généré par la Garde impériale de <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardMengskRanks=<n/><n/><c val="ffff8a">Cette unité débloquera également de nouvelles capacités ou des bonus passifs à chaque rang gagné.</c><n/>
+Button/Tooltip/MasteryMengskStartingImperialMandateAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> au départ, mandat impérial est augmenté de <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>.
+Button/Tooltip/MasteryMengskTopBarPowerAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente les dégâts sur la durée de <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente les dégâts sur la durée de <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerNuclearAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente les dégâts infligés de <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerZergAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente les dégâts infligés par les Zergs envoûtés de <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTrooperImperialMandateRegenerationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente le soutien impérial généré par les travailleurs et les soldats endoctrinés de <c val="FFFF8A"><d ref="Effect,MasteryMengskTrooperImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryRaynorMarauderMengskStimDurationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente la durée de <c val="FFFF8A"><d ref="Effect,MasteryRaynorStimDurationDisplayDummy,Amount" precision="1"/></c> secondes.
+Button/Tooltip/MasteryRaynorStimMengskDurationAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> augmente la durée de <c val="FFFF8A"><d ref="Effect,MasteryRaynorStimDurationDisplayDummy,Amount" precision="1"/></c> secondes.
+Button/Tooltip/MechTransformationSpeedMengsk=Réduit la durée de transformation de <c val="ffff8a">la Division Choc</c>, <c val="ffff8a">du Marteau Noir</c> et de <c val="ffff8a">la Fureur Céleste</c>.
+Button/Tooltip/MedivacMengsk=Transport aérien. Soigne les unités biologiques proches. Peut utiliser Allumage de la post-combustion.
+Button/Tooltip/MedivacMengskDoubleHealBeam=Permet au Médiateur impérial de soigner deux cibles à la fois.
+Button/Tooltip/MedivacMengskDoubleHealBeamResearch=Permet au <c val="ffff8a">Médiateur impérial</c> de soigner deux cibles à la fois.
+Button/Tooltip/MedivacMengskPermanentCloak=Permet au Médiateur impérial de se camoufler de façon permanente et lui fournit un bouclier qui absorbe <d ref="$UpgradeEffectArrayValue:MedivacMengskPermanentCloak:Unit,MedivacMengsk,ShieldsMax$"/> points de dégâts.
+Button/Tooltip/MedivacMengskPermanentCloakResearch=Permet au <c val="ffff8a">Médiateur impérial</c> de se camoufler de façon permanente et lui fournit un bouclier qui absorbe <d ref="$UpgradeEffectArrayValue:MedivacMengskPermanentCloak:Unit,MedivacMengsk,ShieldsMax$"/> points de dégâts.
+Button/Tooltip/MedivacMengskSiegeTankAirlift=Permet à la Division Choc en mode Siège de tirer plus lentement sur des unités aériennes tout en étant transportée par un Médiateur impérial.
+Button/Tooltip/MedivacMengskSiegeTankAirliftResearch=Permet à la <c val="ffff8a">Division Choc</c> en mode Siège de tirer plus lentement sur des unités aériennes tout en étant transportée par un <c val="ffff8a">Médiateur impérial</c>.
+Button/Tooltip/MengskStructureArmorResearch=Augmente les points de vie et d’armure des <c val="ffff8a">bunkers de ravitaillement</c>, des <c val="ffff8a">tourelles lance-missiles</c> et des <c val="ffff8a">canons brise-terre</c>.
+Button/Tooltip/MengskTrooperArmorLevel1=Améliore l’armure des soldats du Dominion, des vaisseaux impériaux et des Zergs envoûtés.
+Button/Tooltip/MengskTrooperArmorLevel2=Améliore encore l’armure des soldats du Dominion, des vaisseaux impériaux et des Zergs envoûtés.
+Button/Tooltip/MengskTrooperArmorLevel3=Maximise l’armure des soldats du Dominion, des vaisseaux impériaux et des Zergs envoûtés.
+Button/Tooltip/MengskTrooperWeaponsLevel1=Améliore les dégâts infligés par les soldats du Dominion et les Zergs envoûtés.
+Button/Tooltip/MengskTrooperWeaponsLevel2=Améliore encore les dégâts infligés par les soldats du Dominion et les Zergs envoûtés.
+Button/Tooltip/MengskTrooperWeaponsLevel3=Maximise les dégâts infligés par les soldats du Dominion et les Zergs envoûtés.
+Button/Tooltip/MengskZergCalldown=Déploie <d ref="Effect,ZerglingMengskSpawnCP,PeriodCount" player="current"/> Zerglings envoûtés à l’emplacement ciblé qui durent pendant <d ref="Behavior,MengskZergTimedLife,Duration" player="current" precision="1"/> secondes. Les Zergs envoûtés cherchent puis attaquent l’ennemi le plus proche.<n/><n/><c val="ffff8a">Déploie des Zergs envoûtés supplémentaires suivant le niveau de mandat impérial.</c><n/>
+Button/Tooltip/MengskZergCalldownLevel2Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel2,Cost[0].Vital[Energy]"/>% : déploie <d ref="Effect,HydraliskMengskSpawnCP,PeriodCount" player="current"/> hydralisks supplémentaires.</c>
+Button/Tooltip/MengskZergCalldownLevel2On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel2,Cost[0].Vital[Energy]"/>% :</c> déploie <d ref="Effect,HydraliskMengskSpawnCP,PeriodCount" player="current"/> hydralisks supplémentaires.
+Button/Tooltip/MengskZergCalldownLevel3Locked=<n/><c val="ff0000"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>% : débloqué au niveau de commandant 7.</c><n/><c val="ff0000"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>% : débloqué au niveau de commandant 7.</c>
+Button/Tooltip/MengskZergCalldownLevel3Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>% : déploie <d ref="Effect,MutaliskMengskSpawnCP,PeriodCount" player="current"/> mutalisks supplémentaires.</c>
+Button/Tooltip/MengskZergCalldownLevel3On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>% :</c> déploie <d ref="Effect,MutaliskMengskSpawnCP,PeriodCount" player="current"/> mutalisks supplémentaires.
+Button/Tooltip/MengskZergCalldownLevel4Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>% : déploie <d ref="Effect,UltraliskMengskSpawnCP,PeriodCount" player="current"/> ultralisks supplémentaires.</c>
+Button/Tooltip/MengskZergCalldownLevel4On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>% :</c> déploie <d ref="Effect,UltraliskMengskSpawnCP,PeriodCount" player="current"/> ultralisks supplémentaires.
+Button/Tooltip/MissileTurretMengsk=Bâtiment défensif antiaérien.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/MissileTurretMengsk2=Bâtiment défensif antiaérien.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/MissileTurretMengskPassive=Le centre technique vous permet de construire des tourelles lance-missiles.
+Button/Tooltip/MorphtoRavenMengsk=Annule Endoctriner et permet à nouveau au Témoin impérial de se déplacer.
+Button/Tooltip/MorphtoRavenMengskSieged=Confère au Témoin impérial la capacité d’endoctriner des alliés proches mais ne lui permet plus de se déplacer.
+Button/Tooltip/MutaliskMengsk=Les scientifiques du programme ont exigé que la volière des mutalisks soit assez grande pour pouvoir étudier leur comportement à l’état naturel. Le service de l’équipement était quand à lui plus préoccupé par l’augmentation du nombre de disparition des membres de son équipe.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/NuclearAnnihilationMengsk=Tapisse l’emplacement ciblé d’un barrage continu de <d ref="Effect,NuclearAnnihilationMengskSmallNukeDummyCP,PeriodCount" player="current"/> missiles tactiques, chacun infligeant <d ref="Effect,NuclearAnnihilationMengskSmallNukeDamage,Amount" player = "current"/>(+<d ref="Effect,NuclearAnnihilationMengskSmallNukeDamage,AttributeBonus[Structure]"/> contre les bâtiments) points de dégâts dans une petite zone, suivi d’un missile nucléaire qui inflige <d ref="Effect,NuclearAnnihilationMengskDamage,Amount" player = "current"/>(+<d ref="Effect,NuclearAnnihilationMengskDamage,AttributeBonus[Structure]"/> contre les bâtiments) points de dégâts dans une large zone.
+Button/Tooltip/NukeCalldownMengsk=Ordonne une frappe de missile tactique sur l’emplacement ciblé. Les missiles mettent <d ref="Effect,GhostMengskNukeCP,InitialDelay + Effect,GhostMengskNukeCP,ExpireDelay + Effect,GhostMengskNukeDetonateCP,InitialDelay"/> secondes à arriver, mais ils infligent jusqu’à <d ref="Effect,GhostMengskNukeDamage,Amount"/>(+<d ref="Effect,GhostMengskNukeDamage,AttributeBonus[Structure]"/> contre les bâtiments) points de dégâts dans un petit rayon<n/><n/>Vous pouvez acheter des charges à l’Académie impériale.
+Button/Tooltip/NukeMengskArm=Arme le silo avec un missile tactique.<n/><n/>Il arrive au bout de <d ref="Effect,GhostMengskNukeCP,InitialDelay + Effect,GhostMengskNukeCP,ExpireDelay + Effect,GhostMengskNukeDetonateCP,InitialDelay"/> secondes mais inflige jusqu’à <d ref="Effect,GhostMengskNukeDamage,Amount"/> (+<d ref="Effect,GhostMengskNukeDamage,AttributeBonus[Structure]"/> contre les bâtiments) points de dégâts dans un petit rayon.<n/><n/>Utilisez une Ombre de l’empereur pour désigner la cible.
+Button/Tooltip/PropagandaBlastMengsk=Augmente les vitesses d’attaque et de déplacement des unités alliées proches de <d ref="(Behavior,PropagandaBlastMengsk,Modification.AttackSpeedMultiplier-1)*100"/>%.
+Button/Tooltip/PropagandaBlastMengskUpgraded=Augmente les vitesses de déplacement et d’attaque des unités alliées proches de <d ref="(Behavior,PropagandaBlastMengsk,Modification.AttackSpeedMultiplier-1)*100"/>%. Les travailleurs et les soldats endoctrinés génèrent du <c val="#ColorAttackInfo">soutien impérial</c>, qui augmente la génération de<c val="#ColorAttackInfo">mandat impérial</c>.
+Button/Tooltip/RaiseMengsk=Relève le bâtiment, ce qui ferme le passage aux unités terrestres.
+Button/Tooltip/RavenMengsk=Unité de soutien aérien. Peut utiliser le mode Patriote pour endoctriner les alliés proches.<n/><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/RavenMengskSieged=Unité de soutien aérien.<n/><n/><c val="FFE303">Détecteur</c>
+Button/Tooltip/RefineryMengsk=À construire sur un geyser de vespène pour permettre la collecte du gaz.
+Button/Tooltip/ResearchLockedLevel05=Cette amélioration est débloquée au niveau de commandant 5.
+Button/Tooltip/RoyalGuardMengsk=Tuer des unités ennemies confère de l’expérience aux membres de la <c val="ffff8a">Garde royale</c> proches. S’il n’y en a aucun à proximité quand un ennemi est tué, l’expérience est répartie entre tous les membres de la Garde de la mission. L’expérience permet à ces unités de gagner des <c val="ffff8a">rangs</c>, ce qui améliore ses dégâts, son armure et ses points de vie.
+Button/Tooltip/RoyalGuardMengskEnergy=Tuer des unités ennemies confère de l’expérience aux membres de la <c val="ffff8a">Garde royale</c> proches. S’il n’y en a aucun à proximité quand un ennemi est tué, l’expérience est répartie entre tous les membres de la Garde de la mission. L’expérience permet à ces unités de gagner des <c val="ffff8a">rangs</c>, ce qui améliore ses dégâts, son armure, ses points de vie et d’énergie, et sa régénération d’énergie.
+Button/Tooltip/RoyalGuardMengskRank3Locked=<n/><c val="ff0000">Rang 3 : débloqué au niveau de commandant 15.</c>
+Button/Tooltip/RoyalGuardMengskRanks=<n/><n/><c val="ffff8a">Cette unité débloquera également de nouvelles capacités ou des bonus passifs à chaque rang gagné.</c><n/>
+Button/Tooltip/RoyalGuardMengskTopBarEnergy=Cette unité génère du mandat impérial suivant son coût de ravitaillement et son rang.
+Button/Tooltip/SCVMengsk=Unité ouvrière de base. Peut récolter des ressources, construire des bâtiments et les réparer. Peut passer à une combinaison de soldat.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/SCVMengskAdvancedConstruction=Plusieurs travailleurs et soldats peuvent construire un bâtiment, ce qui réduit son temps de construction.
+Button/Tooltip/SCVMengskEnlist=Ordonne au soldat de passer à une combinaison de travailleur au centre d’enrôlement ou bunker de ravitaillement le plus proche.
+Button/Tooltip/SCVMengskEnlistCC=Ordonne aux soldats à proximité d’enfiler une combinaison de travailleur au centre d’enrôlement ou au bunker de ravitaillement.
+Button/Tooltip/SetArtilleryMengskRallyPoint=Envoie les travailleurs et les soldats débarqués au point désigné.
+Button/Tooltip/SetCommandCenterRallyPointLaborer=Envoie les travailleurs mobilisés au point désigné. Les travailleurs envoyés sur du minerai ou une raffinerie commenceront automatiquement la collecte.
+Button/Tooltip/SetCommandCenterRallyPointTrooper=Envoie les soldats mobilisés au point désigné.
+Button/Tooltip/SetSupplyBunkerRallyPoint=Envoie les travailleurs et les soldats débarqués au point désigné.
+Button/Tooltip/SiegeModeMengsk=Se déploie en mode Siège. Dans ce mode, la Division Choc a une plus grande portée et inflige des dégâts de zone. Mais elle ne peut pas se déplacer ou attaquer des cibles à courte portée.
+Button/Tooltip/SiegeTankMengsk=Char lourd de la Garde impériale. Peut passer en mode Siège pour servir d’artillerie à longue portée.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/SiegeTankMengskAirlift=Permet à la Division Choc en mode Siège de tirer plus lentement sur des unités aériennes tout en étant transportée par un Médiateur impérial.
+Button/Tooltip/SiegeTankMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancySiegeTankMengsk$*Unit,SiegeTankMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/SiegeTankMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> gagne la capacité Choc et effroi.
+Button/Tooltip/SiegeTankMengskRank1Preview=<n/><c val="777777">Rang 1 : gagne la capacité Choc et effroi.</c>
+Button/Tooltip/SiegeTankMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> augmente de 2 le champ de vision et la portée d’attaque en mode Siège.
+Button/Tooltip/SiegeTankMengskRank2Preview=<n/><c val="777777">Rang 2 : augmente de 2 le champ de vision et la portée d’attaque en mode Siège.</c>
+Button/Tooltip/SiegeTankMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> augmente la zone d’effet des attaques de siège de <d ref="(Effect,SiegeTankMengskSiegedImprovedAoEBlast,AreaArray[2].Radius/Effect,SiegeTankMengskSiegedBlast,AreaArray[2].Radius-1)*100" precision="0"/>%.
+Button/Tooltip/SiegeTankMengskRank3Preview=<n/><c val="777777">Rang 3 : augmente la zone d’effet des attaques de siège de <d ref="(Effect,SiegeTankMengskSiegedImprovedAoEBlast,AreaArray[2].Radius/Effect,SiegeTankMengskSiegedBlast,AreaArray[2].Radius-1)*100" precision="0"/>%.</c>
+Button/Tooltip/SiegeTankMengskSieged=Char lourd de la Garde impériale. Peut passer en mode Char pour servir de soutien mobile.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/SiegeTankMengskStun=En mode Siège, les attaques de cette unité étourdissent désormais les unités ennemies pendant <d ref="Behavior,SiegeTankMengskStun,Duration"/> seconde. Ne peut se produire qu'une fois toutes les <d ref="Behavior,SiegeTankMengskStunImmunity,Duration"/> secondes sur chaque unité.<n/><n/><c val="#ColorAttackInfo">Les unités lourdes sont ralenties.</c>
+Button/Tooltip/SnipeMengsk=Vise avec précision et inflige <d ref="Effect,SnipeDamage,Amount"/> (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> aux unités psioniques) points de dégâts. Ignore l’armure.<n/><n/><c val="#ColorAttackInfo">Ne peut cibler que les unités biologiques.</c>
+Button/Tooltip/SnipeMengskNovaGhost=Vise avec précision et inflige <d ref="Effect,SnipeDamage,Amount"/> points de dégâts. Ignore l’armure.<n/><n/><c val="#ColorAttackInfo">Ne peut cibler que les unités biologiques.</c>
+Button/Tooltip/StarportMengsk=Site de production d’unités aériennes de la Garde impériale.<n/><n/><c val="ffff8a">Débloque :</c><n/>Médiateur impérial<n/>Témoin impérial<n/>Fureur Céleste
+Button/Tooltip/StarportMengskFlying=Le spatioport doit atterrir pour démarrer la production d’unités.
+Button/Tooltip/StructureArmorMengsk=Augmente les points de vie et d’armure de ce bâtiment.
+Button/Tooltip/StructureArmorMengskResearch=Augmente les points de vie et d’armure des <c val="ffff8a">bunkers de ravitaillement</c>, des <c val="ffff8a">tourelles lance-missiles</c> et des <c val="ffff8a">canons brise-terre</c>.
+Button/Tooltip/ThorMengsk=Mécanoïde d’assaut lourd de la Garde impériale. Peut utiliser le mode Surveillance.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/ThorMengskArmorAura=Des unités terrestres alliées proches gagnent <d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> points d’armure.
+Button/Tooltip/ThorMengskArmorAuraResearch=Les <c val="ffff8a">Marteaux Noirs</c> confèrent <d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> points d’armure aux unités terrestres alliées proches.
+Button/Tooltip/ThorMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyThorMengsk$*Unit,ThorMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/ThorMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> augmente la zone d’effet du mode Surveillance de <d ref="(Effect,ThorMengskSiegeTargetLargeAoESearch,AreaArray[0].Radius/Effect,ThorMengskSiegeTargetSearch,AreaArray[0].Radius-1)*100" precision="0"/>%.
+Button/Tooltip/ThorMengskRank1Preview=<n/><c val="777777">Rang 1 : augmente la zone d’effet du mode Surveillance de <d ref="(Effect,ThorMengskSiegeTargetLargeAoESearch,AreaArray[0].Radius/Effect,ThorMengskSiegeTargetSearch,AreaArray[0].Radius-1)*100" precision="0"/>%.</c>
+Button/Tooltip/ThorMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> augmente la portée du mode Surveillance de <d ref="Abil,ThorMengskSiegeTargetedIncreasedRange,Range[0]-Abil,ThorMengskSiegeTargeted,Range[0]"/>.
+Button/Tooltip/ThorMengskRank2Preview=<n/><c val="777777">Rang 2 : augmente la portée du mode Surveillance de <d ref="Abil,ThorMengskSiegeTargetedIncreasedRange,Range[0]-Abil,ThorMengskSiegeTargeted,Range[0]"/>.</c>
+Button/Tooltip/ThorMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> augmente la vitesse d’attaque du mode Surveillance de <d ref="(Behavior,ThorMengskSiegeAttackRate,Modification.AttackSpeedMultiplier-1)*100" precision="0"/>%.
+Button/Tooltip/ThorMengskRank3Preview=<n/><c val="777777">Rang 3 : augmente la vitesse d’attaque du mode Surveillance de <d ref="(Behavior,ThorMengskSiegeAttackRate,Modification.AttackSpeedMultiplier-1)*100" precision="0"/>%.</c>
+Button/Tooltip/ThorMengskSiege=Se déploie en mode Surveillance. Dans ce mode, les Marteaux Noirs infligent de lourds dégâts de zone aux unités aériennes mais ne peuvent pas se déplacer.
+Button/Tooltip/ThorMengskSieged=Méca d’assaut lourd immobile de la Garde impériale. Inflige de lourds dégâts de zone aux unités aériennes. Peut passer en mode Marcheur pour assurer un soutien mobile<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c>
+Button/Tooltip/ThorMengskUnsiege=Repasse en mode Marcheur. Dans ce mode, les Marteaux Noirs peuvent se déplacer.
+Button/Tooltip/TrooperMengsk=Infanterie polyvalente. Peut être équipée d’armes différentes selon les situations de combat qui se présentent. Peut passer à une combinaison de travailleur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskAA=Unité d’assaut antiaérienne. Peut passer à une combinaison de travailleur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskBuild=Une liste des bâtiments de combat.
+Button/Tooltip/TrooperMengskDropTrain=Les travailleurs et les soldats sont déployés directement au point de ralliement du bâtiment.
+Button/Tooltip/TrooperMengskDropTrainResearch=Permet aux <c val="ffff8a">travailleurs du Dominion</c> et aux <c val="ffff8a">soldats du Dominion</c> d’être déployés directement au point de ralliement du centre d’enrôlement.
+Button/Tooltip/TrooperMengskEnlist=Ordonne au travailleur de passer à une combinaison de soldat au centre d’enrôlement ou bunker de ravitaillement le plus proche.
+Button/Tooltip/TrooperMengskEnlistCC=Ordonne aux travailleurs à proximité d’enfiler une combinaison de soldat au centre d’enrôlement ou au bunker de ravitaillement.
+Button/Tooltip/TrooperMengskFlamethrower=Unité d’assaut anti-infanterie. Peut passer à une combinaison de travailleur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskImperialMandateGeneration=Quand cette unité est endoctrinée par un Témoin impérial, augmente le <c val="#ColorAttackInfo">soutien impérial</c> de <c val="FFFF8A"><d ref="Effect,PropagandaMengskTopbarRegenDummy,Amount*Effect,MasteryMengskTrooperImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.
+Button/Tooltip/TrooperMengskImproved=Infanterie polyvalente améliorée. Peut passer à une combinaison de travailleur.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskSpecializeAA=Équipe le soldat d’une arme plus puissante, très efficace contre les unités aériennes blindées. Quand cette unité meurt, l’arme tombe au sol et peut être ramassée par d’autres soldats du Dominion.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskSpecializeFlamethrower=Équipe le soldat d’une arme plus puissante, très efficace contre les unités terrestres légères. Quand cette unité meurt, l’arme tombe au sol et peut être ramassée par d’autres soldats du Dominion.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskSpecializeImproved=Équipe le soldat d’une arme plus puissante, très efficace contre tous les types d’unités. Quand cette unité meurt, l’arme tombe au sol et peut être ramassée par d’autres soldats du Dominion.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres et aériennes.</c>
+Button/Tooltip/TrooperMengskWeaponRefundText=<s val="Kicker_Minerals">+<d ref="Effect,TrooperMengskWeaponRefund,Resources[0]"/> </s><IMG path="Assets\Textures\icon-mineral-terran.dds" alignment="absolutemiddle" height="28" width="28"/>
+Button/Tooltip/UltraliskMengsk=« Montez là-haut et placez le mécanisme sur la crête près de sa tête. Oui, voilà, comme ça. Et Herbert… Veuillez ne pas alarmer la bête. Si elle se mettait dans tous ses états, nous ne pourrions pas la calmer suffisamment pour la contrôler ce soir. »<n/><n/>-Dr Subsourian à un assistant de laboratoire<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/UnsiegeMengsk=Repasse en mode Char. Dans cette configuration, la Division Choc peut se déplacer, mais elle fait moins de dégâts.
+Button/Tooltip/VikingMengskAssault=Solide unité de soutien. Peut passer en mode Chasseur pour attaquer les unités aériennes.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
+Button/Tooltip/VikingMengskAttackDamage=Après sa transformation, les dégâts d’atatque de cette unité sont augmentés de <d ref="(Behavior,VikingMengskAirAttackDamage,DamageResponse.ModifyFraction-1)*100"/>% pendant <d ref="Behavior,VikingMengskAirAttackDamage,Duration"/> secondes. Ne peut pas se produire plus d’une fois toutes les <d ref="Behavior,VikingMengskAttackDamageCooldown,Cost.Cooldown.TimeUse"/> secondes.
+Button/Tooltip/VikingMengskCheatDeath=Quand cette unité subit des dégâts fatals, la Fureur Céleste passe en mode Chasseur et gagne un bouclier temporaire qui absorbe <d ref="Behavior,VikingMengskCheatDeath,DamageResponse.ModifyLimit"/> points de dégâts pendant <d ref="Behavior,VikingMengskCheatDeath,Duration"/> secondes. Ne peut se produire qu’une fois toutes les <d ref="Behavior,VikingMengskCheatDeathCooldown,Cost.Cooldown.TimeUse"/> secondes.
+Button/Tooltip/VikingMengskDodge=Cette unité a <d ref="Behavior,VikingMengskFighterDodge,DamageResponse.Chance*100"/>% de chances d’esquiver les attaques.
+Button/Tooltip/VikingMengskFighter=Solide avion de soutien de la Garde impériale, armé de puissants missiles antiaériens. Peut passer en mode Assaut pour attaquer les unités terrestres.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c>
+Button/Tooltip/VikingMengskImperialMandateGeneration=La <c val="#ColorAttackInfo">Garde impériale</c> augmente le <c val="#ColorAttackInfo">soutien impérial</c> suivant son coût de ravitaillement et son <c val="#ColorAttackInfo">rang</c>. Chaque point de soutien impérial génère 1 <c val="#ColorAttackInfo">mandat impérial</c> toutes les <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> secondes.<n/><n/>Cette unité augmente le soutien impérial de <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyVikingMengsk$*Unit,VikingMengskFighter,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c>.
+Button/Tooltip/VikingMengskRank1=<n/><c val="ffff8a">Rang 1 :</c> inflige des dégâts supplémentaires aux unités blindées.
+Button/Tooltip/VikingMengskRank1Preview=<n/><c val="777777">Rang 1 : inflige des dégâts supplémentaires aux unités blindées.</c>
+Button/Tooltip/VikingMengskRank2=<n/><c val="ffff8a">Rang 2 :</c> gagne la capacité Redéploiement tactique.
+Button/Tooltip/VikingMengskRank2Preview=<n/><c val="777777">Rang 2 : gagne la capacité Redéploiement tactique.</c>
+Button/Tooltip/VikingMengskRank3=<n/><c val="ffff8a">Rang 3 :</c> gagne les capacités Manœuvres d’évasion et Protocole Phénix.
+Button/Tooltip/VikingMengskRank3Preview=<n/><c val="777777">Rang 3 : gagne les capacités Manœuvres d’évasion et Protocole Phénix.</c>
+Button/Tooltip/VikingMengskSpeed=Vitesse de déplacement augmentée de <d ref="$UpgradeEffectArrayValue:VikingMengskSpeed:Unit,VikingMengskFighter,Speed$/Unit,VikingMengskFighter,Speed*100" player="0"/>%.
+Button/Tooltip/VikingMengskSpeedResearch=Augmente la vitesse de déplacement de la <c val="ffff8a">Fureur Céleste</c> de <d ref="$UpgradeEffectArrayValue:VikingMengskSpeed:Unit,VikingMengskFighter,Speed$/Unit,VikingMengskFighter,Speed*100" player="0"/>%.
+Button/Tooltip/WeaponsFreeMengsk=Ordonne aux unités sélectionnées de faire feu à volonté. Elles attaqueront les unités ennemies à portée et les pourchasseront comme d’habitude.
+Button/Tooltip/YamatoGunMengsk=Fait sauter une cible avec un canon plasma dévastateur, infligeant <d ref="Effect,BattlecruiserMengskYamatoDamage,Amount"/> points de dégâts.
+Button/Tooltip/ZerglingMengsk=Pendant le règne d’Arcturus Mengsk, une équipe secrète composée des plus talentueux scientifiques du programme Cerbère avait pour but d’obtenir plusieurs souches zerg à partir de l’essaim Maguro isolé pour expérimentation. Les Zerglings faisaient partie des premiers spécimens obtenus.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>
+DocInfo/DescLong=Comprend le mod Arcturus Mengsk.
+DocInfo/Name=Commandant Mengsk
+Effect/Name/90mmCannonsMengskLookAt=
+Effect/Name/ATALaserBatteryMengskLM=Batterie de lasers ATA
+Effect/Name/ATALaserBatteryMengskU=Batterie de lasers ATA
+Effect/Name/ATSLaserBatteryMengskLM=Batterie de lasers ATS
+Effect/Name/ATSLaserBatteryMengskU=Batterie de lasers ATS
+Effect/Name/ArtilleryMengskBombardmentDamage=
+Effect/Name/ArtilleryMengskBombardmentDamageSearch=
+Effect/Name/ArtilleryMengskBombardmentDropDelayCP=
+Effect/Name/ArtilleryMengskBombardmentDummy=
+Effect/Name/ArtilleryMengskCargoTrigger=
+Effect/Name/ArtilleryMengskExperimentalStrikeClearFacing=
+Effect/Name/ArtilleryMengskExperimentalStrikeCloudCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeCloudSearch=
+Effect/Name/ArtilleryMengskExperimentalStrikeCouldSicknessAB=
+Effect/Name/ArtilleryMengskExperimentalStrikeDropDeplayCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeDummy=
+Effect/Name/ArtilleryMengskExperimentalStrikeFaceTargetCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeFearAB=
+Effect/Name/ArtilleryMengskExperimentalStrikeInitialSearch=
+Effect/Name/ArtilleryMengskExperimentalStrikePeriodicDamage=
+Effect/Name/ArtilleryMengskExperimentalStrikeSet=
+Effect/Name/ArtilleryMengskExperimentalStrikeSetFacing=
+Effect/Name/ArtilleryMengskGlobalExperimentalStrikeDummy=
+Effect/Name/BattlecruiserMengskAttackSwitch=
+Effect/Name/BattlecruiserMengskBonusRangeAB=
+Effect/Name/BattlecruiserMengskBonusRangeSearch=
+Effect/Name/BattlecruiserMengskVeterancyAB=
+Effect/Name/BattlecruiserMengskVeterancyCappedAB=
+Effect/Name/BattlecruiserMengskVeterancySwitch=
+Effect/Name/BattlecruiserMengskYamatoAoEDamage=
+Effect/Name/BattlecruiserMengskYamatoAoELM=
+Effect/Name/BattlecruiserMengskYamatoDamage=
+Effect/Name/BattlecruiserMengskYamatoLM=
+Effect/Name/BattlecruiserMengskYamatoLevelSwitch=
+Effect/Name/BattlecruiserMengskYamatoMultiple=
+Effect/Name/BattlecruiserMengskYamatoMultipleDelayCP=
+Effect/Name/BattlecruiserMengskYamatoMultipleNewTargetSearch=
+Effect/Name/BattlecruiserMengskYamatoMultipleSet=
+Effect/Name/BattlecruiserMengskYamatoMultipleSwitch=
+Effect/Name/BattlecruiserMengskYamatoTargetMarkerAB=
+Effect/Name/BattlecruiserMengskYamatoTargetMarkerRB=
+Effect/Name/BunkerDepotMengskDropMorph=
+Effect/Name/C10CanisterRifleMengsk=Fusil de précision C-10
+Effect/Name/CommandCenterMengskOrbitalStrikeAssignRally=
+Effect/Name/CommanderPrestigeMengskTrooperBoomCU=
+Effect/Name/GhostMengskEMPAoESwitch=
+Effect/Name/GhostMengskEMPBigLM=
+Effect/Name/GhostMengskEMPBigSearch=
+Effect/Name/GhostMengskEMPDamage=
+Effect/Name/GhostMengskEMPDecloakAB=
+Effect/Name/GhostMengskEMPFeedbackDamage=
+Effect/Name/GhostMengskEMPRemoveEnergy=
+Effect/Name/GhostMengskEMPSet=
+Effect/Name/GhostMengskEMPSmallLM=
+Effect/Name/GhostMengskEMPSmallSearch=
+Effect/Name/GhostMengskEMPStunLongAB=
+Effect/Name/GhostMengskEMPStunShortAB=
+Effect/Name/GhostMengskEMPStunSwitch=
+Effect/Name/GhostMengskHoldFire=
+Effect/Name/GhostMengskHoldFireB=
+Effect/Name/GhostMengskIrradiateAB=
+Effect/Name/GhostMengskIrradiateBigDamage=
+Effect/Name/GhostMengskIrradiateBigSearch=
+Effect/Name/GhostMengskIrradiateDamageSwitch=
+Effect/Name/GhostMengskIrradiateDeathDamage=
+Effect/Name/GhostMengskIrradiateDeathSearch=
+Effect/Name/GhostMengskIrradiatePreMarkerAB=
+Effect/Name/GhostMengskIrradiatePreMarkerRB=
+Effect/Name/GhostMengskIrradiateSearchSwitch=
+Effect/Name/GhostMengskIrradiateSmallDamage=
+Effect/Name/GhostMengskIrradiateSmallSearch=
+Effect/Name/GhostMengskNukeCP=
+Effect/Name/GhostMengskNukeCalldown=
+Effect/Name/GhostMengskNukeDamage=
+Effect/Name/GhostMengskNukeDetonateCP=
+Effect/Name/GhostMengskNukeGuidedCP=
+Effect/Name/GhostMengskNukeSuicide=
+Effect/Name/GhostMengskNukeSwitch=
+Effect/Name/GhostMengskSuperCloakAB=
+Effect/Name/GhostMengskVeterancyAB=
+Effect/Name/GhostMengskVeterancyCappedAB=
+Effect/Name/GhostMengskVeterancySwitch=
+Effect/Name/GhostMengskWeaponsFree=
+Effect/Name/HydraliskMengskCU=
+Effect/Name/HydraliskMengskExplosiveSpinesDamage=
+Effect/Name/HydraliskMengskMeleeDamage=
+Effect/Name/HydraliskMengskMeleeSet=
+Effect/Name/HydraliskMengskSpawnCP=
+Effect/Name/HydraliskMengskSpawnTrigger=
+Effect/Name/HydraliskMengskTimedLifeExpireAB=
+Effect/Name/HyperjumpMengskCreatePrecursor=
+Effect/Name/HyperjumpMengskTeleport=
+Effect/Name/HyperjumpMengskTeleportAB=
+Effect/Name/HyperjumpMengskTeleportInAB=
+Effect/Name/HyperjumpMengskTeleportOutAB=
+Effect/Name/HyperjumpMengskTeleportOutABSet=
+Effect/Name/HyperjumpMengskTeleportOutTargetAB=
+Effect/Name/HyperjumpMengskTeleportSet=
+Effect/Name/ImperialMandateGenerationFactorDummy=
+Effect/Name/JavelinMissileLaunchersMengskDamage=
+Effect/Name/JavelinMissileLaunchersMengskLM=
+Effect/Name/JavelinMissileLaunchersMengskPersistent=
+Effect/Name/LanzerTorpedoesMengsk=
+Effect/Name/LanzerTorpedoesMengskDamage=
+Effect/Name/LanzerTorpedoesMengskLM=
+Effect/Name/MarauderMengskAbsorbAB=
+Effect/Name/MarauderMengskAbsorbKnockbackSearch=
+Effect/Name/MarauderMengskAbsorbReapplicatorAB=
+Effect/Name/MarauderMengskAbsorbReapplicatorMU=
+Effect/Name/MarauderMengskAbsorbReapplicatorSet=
+Effect/Name/MarauderMengskAttackSpeedBoostAB=
+Effect/Name/MarauderMengskLevel2Set=
+Effect/Name/MarauderMengskShrapnelDamage=
+Effect/Name/MarauderMengskShrapnelImpactSet=
+Effect/Name/MarauderMengskShrapnelSearch=
+Effect/Name/MarauderMengskShrapnelSet=
+Effect/Name/MarauderMengskShrapnelSlowAB=
+Effect/Name/MarauderMengskVeterancyAB=
+Effect/Name/MarauderMengskVeterancyCappedAB=
+Effect/Name/MarauderMengskVeterancySwitch=
+Effect/Name/MasteryMengskRoyalGuardCostDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardExperienceGainRateDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy=
+Effect/Name/MasteryMengskStartingImperialMandateDisplayDummy=
+Effect/Name/MasteryMengskTopPanelPowerDisplayDummy=
+Effect/Name/MasteryMengskTrooperImperialMandateRegenerationDisplayDummy=
+Effect/Name/MasteryMengskTrooperImperialMandateRegenerationFactorDummy=
+Effect/Name/MedivacMengskHealApplyBehaviorSet=
+Effect/Name/MedivacMengskHealApplyCasterBehavior=
+Effect/Name/MedivacMengskHealApplyTargetBehavior=
+Effect/Name/MedivacMengskHealInitialSet=
+Effect/Name/MedivacMengskHealInitialSwitch=
+Effect/Name/MedivacMengskHealIssueHealOrder=
+Effect/Name/MedivacMengskHealIssueHealOrderDelay=
+Effect/Name/MedivacMengskHealIssueOrderSet=
+Effect/Name/MedivacMengskHealIssueStopOrder=
+Effect/Name/MedivacMengskHealLevel1=
+Effect/Name/MedivacMengskHealModifyCasterEnergy=
+Effect/Name/MedivacMengskHealModifySet=
+Effect/Name/MedivacMengskHealModifyTargetLife=
+Effect/Name/MedivacMengskHealRemoveBehaviorSet=
+Effect/Name/MedivacMengskHealRemoveCasterBehavior=
+Effect/Name/MedivacMengskHealRemoveTargetBehavior=
+Effect/Name/MedivacMengskHealScanPersistent=
+Effect/Name/MedivacMengskHealSearch=
+Effect/Name/MedivacMengskHealTargetPersistent=
+Effect/Name/MedivacMengskLoadSet=
+Effect/Name/MedivacMengskSiegeTankAirliftBlast=
+Effect/Name/MedivacMengskSiegeTankAirliftDirected=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEBlast=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEDirected=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoESet=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEStunSearch=
+Effect/Name/MedivacMengskSiegeTankAirliftLoadTrigger=
+Effect/Name/MedivacMengskSiegeTankAirliftSet=
+Effect/Name/MedivacMengskSiegeTankAirliftStunSearch=
+Effect/Name/MedivacMengskSiegeTankAirliftSwitch=
+Effect/Name/MedivacMengskSiegeTankAirliftUnloadTrigger=
+Effect/Name/MedivacMengskSpeedBoost=
+Effect/Name/MedivacMengskThorAirliftAB=
+Effect/Name/MedivacMengskThorAirliftRB=
+Effect/Name/MedivacMengskThorPickupUnsiege=
+Effect/Name/MedivacMengskUnloadSet=
+Effect/Name/MedivacMengskUnloadTracker=
+Effect/Name/MengskLevelUpDummyMU=
+Effect/Name/MengskRoyalGuardExperienceGainDummy=
+Effect/Name/MengskSeekDestroyTrigger=
+Effect/Name/MengskTopBarEnergyRegenTrooperDummy=
+Effect/Name/MengskVeteranLevelUpDummy=
+Effect/Name/MengskVeteranMaxedTrigger=
+Effect/Name/MengskVeteranTrigger=
+Effect/Name/MengskZergCalldownAreaDummy=
+Effect/Name/MengskZergCalldownLevel2Set=
+Effect/Name/MengskZergCalldownLevel3Set=
+Effect/Name/MengskZergCalldownLevel4Set=
+Effect/Name/MengskZergSpawnDelay=
+Effect/Name/MengskZergSpawnDelayAB=
+Effect/Name/MengskZergSpawnFinalSet=
+Effect/Name/MengskZergSpawnMakePrecursorAB=
+Effect/Name/MengskZergSpawnPrecursorRB=
+Effect/Name/MengskZergSpawnSet=
+Effect/Name/MengskZergTimedLifeAB=
+Effect/Name/MengskZergTimedLifeExpireSwitch=
+Effect/Name/MissileTurretMengskAttackCP=
+Effect/Name/MissileTurretMengskAttackDamage=
+Effect/Name/MissileTurretMengskAttackLM=
+Effect/Name/MutaliskMengskAirDropAB=
+Effect/Name/MutaliskMengskAirDropDelayAB=
+Effect/Name/MutaliskMengskAirDropLowerAB=
+Effect/Name/MutaliskMengskCU=
+Effect/Name/MutaliskMengskGlaiveWurmDamage=
+Effect/Name/MutaliskMengskGlaiveWurmDamageFirstBounceSearch=
+Effect/Name/MutaliskMengskGlaiveWurmFirstSet=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchFirstBounceMissile=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchMissile=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchSecondBounceMissile=
+Effect/Name/MutaliskMengskGlaiveWurmSecondBounceSearch=
+Effect/Name/MutaliskMengskGlaiveWurmSecondImpactDamage=
+Effect/Name/MutaliskMengskGlaiveWurmSecondSet=
+Effect/Name/MutaliskMengskGlaiveWurmThirdImpactDamage=
+Effect/Name/MutaliskMengskGlaiveWurmThirdSet=
+Effect/Name/MutaliskMengskRaiseAB=
+Effect/Name/MutaliskMengskSpawnCP=
+Effect/Name/MutaliskMengskSpawnTrigger=
+Effect/Name/NeedleSpinesMengskDamage=
+Effect/Name/NeedleSpinesMengskLaunchMissile=
+Effect/Name/NuclearAnnihilationMengskBigNukeDamageSearch=
+Effect/Name/NuclearAnnihilationMengskBigNukeDropDelayCP=
+Effect/Name/NuclearAnnihilationMengskDamage=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDamage=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDamageSearch=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDropDelayCP=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDummyCP=
+Effect/Name/PropagandaBlastMengskAB=
+Effect/Name/PropagandaBlastMengskPermanentAB=
+Effect/Name/PropagandaBlastMengskPermanentRB=
+Effect/Name/PropagandaBlastMengskSearch=
+Effect/Name/PropagandaMengskTopbarRegenDummy=
+Effect/Name/PunisherGrenadesMengskLM=
+Effect/Name/PunisherGrenadesMengskSet=
+Effect/Name/PunisherGrenadesMengskSlow=
+Effect/Name/PunisherGrenadesMengskU=
+Effect/Name/RoyalGuardMengskTopbarRegenDummy=
+Effect/Name/SCVMengskAttackDamage=
+Effect/Name/SCVMengskDropMorphTrooperCP=
+Effect/Name/SCVMengskEnlistOrder=
+Effect/Name/SCVMengskEnlistSearch=
+Effect/Name/SalvageSharedMengsk=
+Effect/Name/SiegeTankMengskDamage=
+Effect/Name/SiegeTankMengskSiegedBlast=
+Effect/Name/SiegeTankMengskSiegedDirected=
+Effect/Name/SiegeTankMengskSiegedDummy=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEBlast=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEDirected=
+Effect/Name/SiegeTankMengskSiegedImprovedAoESet=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEStunSearch=
+Effect/Name/SiegeTankMengskSiegedSet=
+Effect/Name/SiegeTankMengskSiegedSlowHeroicAB=
+Effect/Name/SiegeTankMengskSiegedStunAB=
+Effect/Name/SiegeTankMengskSiegedStunImmunityAB=
+Effect/Name/SiegeTankMengskSiegedStunSearch=
+Effect/Name/SiegeTankMengskSiegedStunSet=
+Effect/Name/SiegeTankMengskSiegedSwitch=
+Effect/Name/SiegeTankMengskVeterancyAB=
+Effect/Name/SiegeTankMengskVeterancySwitch=
+Effect/Name/SiegeTankMengskVeterancyyCappedAB=
+Effect/Name/SnipeMengskDamage=
+Effect/Name/ThorMengskArmorAuraSearch=
+Effect/Name/ThorMengskArmorAuraTargetAB=
+Effect/Name/ThorMengskSiegeOrder=
+Effect/Name/ThorMengskSiegeTargetAB=
+Effect/Name/ThorMengskSiegeTargetCP=
+Effect/Name/ThorMengskSiegeTargetDelayCP=
+Effect/Name/ThorMengskSiegeTargetLargeAoECP=
+Effect/Name/ThorMengskSiegeTargetLargeAoEDelayCP=
+Effect/Name/ThorMengskSiegeTargetLargeAoESearch=
+Effect/Name/ThorMengskSiegeTargetSearch=
+Effect/Name/ThorMengskSiegeTargetSuddenUpgradeWrapper=
+Effect/Name/ThorMengskSiegedDamage=
+Effect/Name/ThorMengskSiegedLM=
+Effect/Name/ThorMengskVeterancyAB=
+Effect/Name/ThorMengskVeterancyCappedAB=
+Effect/Name/ThorMengskVeterancySwitch=
+Effect/Name/ThorsHammerMengsk=
+Effect/Name/ThorsHammerMengskDamage=
+Effect/Name/TopbarMengskBonusRegenFactorDummy=
+Effect/Name/TrooperMengskAA=
+Effect/Name/TrooperMengskCalldownCU=
+Effect/Name/TrooperMengskDamage=
+Effect/Name/TrooperMengskDeathSwitch=
+Effect/Name/TrooperMengskDropMorphSCVSet=
+Effect/Name/TrooperMengskDropTrainCP=
+Effect/Name/TrooperMengskDropTrainFinalSet=
+Effect/Name/TrooperMengskDropTrainSet=
+Effect/Name/TrooperMengskEnlistOrder=
+Effect/Name/TrooperMengskEnlistSearch=
+Effect/Name/TrooperMengskEnlistingAB=
+Effect/Name/TrooperMengskEnlistingRB=
+Effect/Name/TrooperMengskFlamethrower=
+Effect/Name/TrooperMengskFlamethrowerCP=
+Effect/Name/TrooperMengskFlamethrowerDamage=
+Effect/Name/TrooperMengskFlamethrowerDamageWrapper=
+Effect/Name/TrooperMengskFlamethrowerRangeSwitch=
+Effect/Name/TrooperMengskFlamethrowerSearch=
+Effect/Name/TrooperMengskImprovedDamage=
+Effect/Name/TrooperMengskMorphNoWeaponSet=
+Effect/Name/TrooperMengskMorphSCV=
+Effect/Name/TrooperMengskMorphSCVSet=
+Effect/Name/TrooperMengskMorphSet=
+Effect/Name/TrooperMengskMorphSwitch=
+Effect/Name/TrooperMengskRocketCP=
+Effect/Name/TrooperMengskRocketDamage=
+Effect/Name/TrooperMengskRocketLM=
+Effect/Name/TrooperMengskWeaponAA=
+Effect/Name/TrooperMengskWeaponAACU=
+Effect/Name/TrooperMengskWeaponDropDelayAACP=
+Effect/Name/TrooperMengskWeaponDropDelayFlamethrowerCP=
+Effect/Name/TrooperMengskWeaponDropDelayImprovedCP=
+Effect/Name/TrooperMengskWeaponDropDelaySwitch=
+Effect/Name/TrooperMengskWeaponDropSwitch=
+Effect/Name/TrooperMengskWeaponEquipSet=
+Effect/Name/TrooperMengskWeaponExpireSet=
+Effect/Name/TrooperMengskWeaponFlamethrower=
+Effect/Name/TrooperMengskWeaponFlamethrowerCU=
+Effect/Name/TrooperMengskWeaponImproved=
+Effect/Name/TrooperMengskWeaponImprovedCU=
+Effect/Name/TrooperMengskWeaponPickerUpperRegister=
+Effect/Name/TrooperMengskWeaponPickerupperUnregister=
+Effect/Name/TrooperMengskWeaponPickupRegister=
+Effect/Name/TrooperMengskWeaponRefund=
+Effect/Name/TwinGatlingCannonsMengsk=
+Effect/Name/UltraliskMengskCU=
+Effect/Name/UltraliskMengskKaiserBladesDamage=
+Effect/Name/UltraliskMengskSpawnCP=
+Effect/Name/UltraliskMengskSpawnTrigger=
+Effect/Name/UltraliskMengskTimedLifeExpireAB=
+Effect/Name/VehicleAfterburnersMengskAB=
+Effect/Name/VikingMengskAttackDamageCooldownAB=
+Effect/Name/VikingMengskAttackDamageCooldownMU=
+Effect/Name/VikingMengskAttackDamageCooldownSet=
+Effect/Name/VikingMengskCheatDeathCooldownMU=
+Effect/Name/VikingMengskVeterancyAB=
+Effect/Name/VikingMengskVeterancyCappedAB=
+Effect/Name/VikingMengskVeterancySwitch=
+Effect/Name/ZerglingMengskAttackDamage=
+Effect/Name/ZerglingMengskCU=
+Effect/Name/ZerglingMengskSpawnCP=
+Effect/Name/ZerglingMengskSpawnTrigger=
+Effect/Name/ZerglingMengskTimedLifeExpireAB=
+Error/MaximumSupply=
+MasteryMengskStartingImperialMandateAppend=<n/><n/><c val="FFFF8A">Maîtrise :</c> au départ, mandat impérial est augmenté de <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>.
+Race/Name/TerM=Mengsk terran
+RequirementNode/Tooltip/CountBehaviorArtilleryMengskCargoGlobalCompleteOnly2675143439=Canon brise-terre avec un chargement
+RequirementNode/Tooltip/CountBehaviorPropagandaBlastMengskCompleteOnlyAtUnit1474688104=Endoctriné par un Témoin impérial
+RequirementNode/Tooltip/CountUnitAlias_BarracksMengskCompleteOnly92025031TechTreeCheat=Caserne
+RequirementNode/Tooltip/CountUnitAlias_CommandCenterMengskCompleteOnly1787385606TechTreeCheat=Centre d’enrôlement
+RequirementNode/Tooltip/CountUnitAlias_FactoryMengskCompleteOnly3975202633TechTreeCheat=Usine
+RequirementNode/Tooltip/CountUnitAlias_StarportMengskCompleteOnly880601908TechTreeCheat=Spatioport
+RequirementNode/Tooltip/CountUnitArtilleryMengskCompleteOnly2292951859TechTreeCheat=Canon brise-terre
+RequirementNode/Tooltip/CountUnitEngineeringBayMengskCompleteOnly1938945142TechTreeCheat=Centre technique
+RequirementNode/Tooltip/CountUnitFusionCoreMengskCompleteOnly203485344TechTreeCheat=Noyau de fusion
+RequirementNode/Tooltip/CountUnitGhostAcademyMengskCompleteOnly2782960886=Académie impériale
+RequirementNode/Tooltip/CountUnitNukeMengskCompleteOnly3727871538=Construire Missile tactique à l’Académie impériale
+RequirementNode/Tooltip/CountUpgradeArtilleryMengskRangeCompleteOnly3576403734=Rechercher Accélérants hémisphériques au centre technique
+RequirementNode/Tooltip/CountUpgradeBattlecruiserMengskRangeAuraCompleteOnly2725800310=Rechercher Système de ciblage sur le terrain au noyau de fusion
+RequirementNode/Tooltip/CountUpgradeBlimpMengskTopbarRegenCompleteOnly3221082208=Rechercher Ondes amplifiées au noyau de fusion
+RequirementNode/Tooltip/CountUpgradeBunkerDepotMengskRangeCompleteOnly3144739092=Rechercher Embrasures d’aide au ciblage au centre technique
+RequirementNode/Tooltip/CountUpgradeGhostMengskGuidedStrikeCompleteOnly989769884=Rechercher Missiles tactiques Souverain à l’Académie impériale
+RequirementNode/Tooltip/CountUpgradeMarauderMengskSlowCompleteOnly2342204682=Rechercher Obus incapacitants à l’Académie impériale
+RequirementNode/Tooltip/CountUpgradeMedivacMengskDoubleHealBeamCompleteOnly269547913=Rechercher Double réanimation au noyau de fusion
+RequirementNode/Tooltip/CountUpgradeMedivacMengskPermanentCloakCompleteOnly511910073=Rechercher Voile de dispersion au noyau de fusion
+RequirementNode/Tooltip/CountUpgradeMedivacMengskSiegeTankAirliftCompleteOnly4291057663=Rechercher Stabilisateurs d’armement à l’armurerie
+RequirementNode/Tooltip/CountUpgradeMedivacMengskSiegeTankAirliftQueuedOrBetter4291057663=Rechercher Stabilisateurs d’armement à l’armurerie
+RequirementNode/Tooltip/CountUpgradeMengskStructureArmorCompleteOnly2054151329=Rechercher Armure renforcée en NéoAcier au centre technique
+RequirementNode/Tooltip/CountUpgradeThorMengskArmorAuraCompleteOnly618094651=Rechercher Champ de protection à l’armurerie
+RequirementNode/Tooltip/CountUpgradeTrooperMengskDropTrainCompleteOnly480319619=Rechercher Capsule orbitale de soldat au centre technique
+RequirementNode/Tooltip/CountUpgradeTrooperMengskInstantTransformCompleteOnly1095005716=Rechercher Champ de réquisition au centre technique
+RequirementNode/Tooltip/CountUpgradeVikingMengskSpeedCompleteOnly1841791773=Rechercher Turbines Æsir au noyau de fusion
+RequirementNode/Tooltip/Eq1349852341CountUpgradeMengskTrooperArmorsLevel2CompleteOnly1=Armure du Dominion - Niv. 2
+RequirementNode/Tooltip/Eq2456287108CountUpgradeMengskTrooperArmorsLevel1CompleteOnly1=Armure du Dominion - Niv. 1
+RequirementNode/Tooltip/Eq3878729167CountUpgradeMengskTrooperWeaponsLevel2CompleteOnly1=Armes du Dominion - Niv. 2
+RequirementNode/Tooltip/Eq843366628CountUpgradeMengskTrooperWeaponsLevel1CompleteOnly1=Armes du Dominion - Niv. 1
+RequirementNode/Tooltip/GTE1737461815CountBehaviorArtilleryMengskCargoCompleteOnlyAtUnit1=Travailleurs chargés
+RequirementNode/Tooltip/Not2895527276CountUnitNukeMengskQueuedOrBetterAtUnit=Pas de missile tactique dans cette Académie impériale
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancyGhostMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancyGhostMengskCappedCompleteOnlyAtUnit2=Rang : 1
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit2=Rang : 1
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancySiegeTankMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancySiegeTankMengskCappedCompleteOnlyAtUnit2=Rang : 1
+RequirementNode/Tooltip/Or3604015190GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit4GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit4=Rang : 3
+RequirementNode/Tooltip/Or4116208132GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit3GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit3=Rang : 2
+RequirementNode/Tooltip/Or4116208132GTECountBehaviorMengskVeterancyVikingMengskCompleteOnlyAtUnit3GTECountBehaviorMengskVeterancyVikingMengskCappedCompleteOnlyAtUnit3=Rang : 2
+RequirementNode/Tooltip/Or858529743GTECountBehaviorMengskVeterancyVikingMengskCompleteOnlyAtUnit4GTECountBehaviorMengskVeterancyVikingMengskCappedCompleteOnlyAtUnit4=Rang : 3
+TrooperOrLaborer=Doit cibler un soldat ou un travailleur
+UI/MengskTopBarEnergyAddendum=<n/><n/><c val="ffff8a">Maîtrise :</c> augmente le mandat impérial de <c val="ffff8a"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>.</c>
+UI/MengskTopBarEnergyDesc=Mandat impérial permet l’utilisation de pouvoirs d’urgence.<n/><n/>Génère <d ref="Unit,CoopCasterMengsk,EnergyRegenRate+Effect,MengskTopBarEnergyRegenRoyalGuardDummy,Amount+Effect,MengskTopBarEnergyRegenTrooperDummy,Amount" player="current" precision="0"/> points de mandat impérial toutes les <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>.
+UI/MengskTopBarEnergyName=Mandat impérial
+UI/MengskTopBarEnergyRegenRoyalGuardAddendum=<n/><n/><c val="ffff8a">Maîtrise :</c> augmente le soutien impérial généré par la Garde impériale de <c val="ffff8a"><d ref="Effect,MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%</c>.
+UI/MengskTopBarEnergyRegenRoyalGuardDesc=Le soutien impérial de votre Garde impériale augmente votre mandat impérial de <d ref="Effect,MengskTopBarEnergyRegenRoyalGuardDummy,Amount" player="current" precision="0"/> points toutes les <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>.
+UI/MengskTopBarEnergyRegenRoyalGuardName=Puissance de l’empire
+UI/MengskTopBarEnergyRegenTrooperAddendum=<n/><n/><c val="ffff8a">Maîtrise : </c>augmente le soutien impérial généré par les travailleurs et les soldats endoctrinés de <c val="ffff8a"><d ref="Effect,MasteryMengskTrooperImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%</c>.
+UI/MengskTopBarEnergyRegenTrooperDesc=Le soutien impérial de vos travailleurs et soldats endoctrinés augmente votre mandat impérial de <d ref="Effect,MengskTopBarEnergyRegenTrooperDummy,Amount" player="current" precision="0"/> points toutes les <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>.
+UI/MengskTopBarEnergyRegenTrooperName=Volonté du peuple
+UI/TeamColor01=Rouge
+Unit/Category/MengskUnits=Terran - Dominion
+Unit/Name/ATALaserBatteryMengskLMWeapon=batterie de lasers ATA de Mengsk
+Unit/Name/ATSLaserBatteryMengskLMWeapon=Batterie de lasers ATA de Mengsk
+Unit/Name/ArmoryMengsk=Armurerie
+Unit/Name/ArtilleryMengsk=Canon brise-terre
+Unit/Name/ArtilleryMengskExperimentalStrikeMissile=
+Unit/Name/BarracksMengsk=Caserne
+Unit/Name/BattlecruiserMengsk=Fierté d’Augustgrad
+Unit/Name/BattlecruiserMengskYamato=
+Unit/Name/BattlecruiserMengskYamatoAoE=
+Unit/Name/BunkerDepotMengsk=Bunker de ravitaillement
+Unit/Name/CommandCenterMengsk=Centre d’enrôlement
+Unit/Name/CoopCasterMengsk=Annonceur en coop Mengsk
+Unit/Name/EMPMengskWeapon=IEM de Mengsk
+Unit/Name/EngineeringBayMengsk=Centre technique
+Unit/Name/FactoryMengsk=Usine
+Unit/Name/FusionCoreMengsk=Noyau de fusion
+Unit/Name/GhostAcademyMengsk=Académie impériale
+Unit/Name/GhostMengsk=Ombre de l’empereur
+Unit/Name/HydraliskMengsk=Hydralisk envoûté
+Unit/Name/HydraliskMengskWeapon=
+Unit/Name/MarauderMengsk=Garde de l’Égide
+Unit/Name/MedivacMengsk=Médiateur impérial
+Unit/Name/MissileTurretMengsk=Tourelle lance-missiles
+Unit/Name/MissileTurretMengskWeapon=
+Unit/Name/MutaliskMengsk=Mutalisk envoûté
+Unit/Name/MutaliskMengskGlaiveWurmAttack1Missile=
+Unit/Name/MutaliskMengskGlaiveWurmAttack2Missile=
+Unit/Name/MutaliskMengskGlaiveWurmAttack3Missile=
+Unit/Name/NukeMengsk=Missile tactique
+Unit/Name/PunisherGrenadesMengskLMWeapon=Grenades Punition de Mengsk
+Unit/Name/RavenMengsk=Témoin impérial
+Unit/Name/RefineryMengsk=Raffinerie
+Unit/Name/SCVMengsk=Travailleur du Dominion
+Unit/Name/SiegeTank=Char de siège
+Unit/Name/SiegeTankMengsk=Division Choc
+Unit/Name/SiegeTankMengskSieged=Char de siège
+Unit/Name/StarportMengsk=Spatioport
+Unit/Name/ThorMengsk=Le Marteau Noir
+Unit/Name/ThorMengskAAWeapon=Thor de Mengsk AA
+Unit/Name/ThorMengskSiegedWeapon=
+Unit/Name/TrooperMengsk=Soldat du Dominion
+Unit/Name/TrooperMengskAA=Soldat du Dominion lance-missiles
+Unit/Name/TrooperMengskFlamethrower=Soldat du Dominion lance-flammes
+Unit/Name/TrooperMengskImproved=Soldat d’assaut du Dominion
+Unit/Name/TrooperMengskRocketAttackMissile=
+Unit/Name/TrooperMengskWeaponAAPickup=Lanceur Tornade
+Unit/Name/TrooperMengskWeaponFlamethrowerPickup=Lance-flammes CPO-7 Salamandre
+Unit/Name/TrooperMengskWeaponImprovedPickup=Mitrailleuse légère à gros calibre B-2
+Unit/Name/UltraliskMengsk=Ultralisk envoûté
+Unit/Name/VikingFighter=Viking
+Unit/Name/VikingMengskFighter=La Fureur Céleste
+Unit/Name/VikingMengskFighterWeapon=
+Unit/Name/ZerglingMengsk=Zergling envoûté
+Upgrade/Name/ArtilleryMengskRange=Accélérants hémisphériques
+Upgrade/Name/BattlecruiserMengskRangeAura=Système de ciblage sur le terrain
+Upgrade/Name/BlimpMengskTopbarRegen=Ondes amplifiées
+Upgrade/Name/BunkerDepotMengskRange=Embrasures d’aide au ciblage
+Upgrade/Name/GhostMengskGuidedStrike=Missiles tactiques Souverain
+Upgrade/Name/ImperialMandateGenerationFactor=
+Upgrade/Name/MarauderMengskSlow=Obus incapacitants
+Upgrade/Name/MasteryMengskRoyalGuardCost=
+Upgrade/Name/MasteryMengskRoyalGuardExperienceGainRate=
+Upgrade/Name/MasteryMengskRoyalGuardImperialMandateRegeneration=
+Upgrade/Name/MasteryMengskStartingImperialMandate=
+Upgrade/Name/MasteryMengskTopPanelPower=
+Upgrade/Name/MasteryMengskTrooperImperialMandateRegeneration=
+Upgrade/Name/MechTransformationSpeedMengsk=Servoaccélérateurs
+Upgrade/Name/MedivacMengskDoubleHealBeam=Double réanimation
+Upgrade/Name/MedivacMengskPermanentCloak=Voile de dispersion
+Upgrade/Name/MedivacMengskSiegeTankAirlift=Stabilisateurs d’armement
+Upgrade/Name/MengskCommander=Mengsk
+Upgrade/Name/MengskStructureArmor=Armure renforcée en NéoAcier
+Upgrade/Name/MengskTrooperArmorsLevel1=Armure du Dominion - Niv. 1
+Upgrade/Name/MengskTrooperArmorsLevel2=Armure du Dominion - Niv. 2
+Upgrade/Name/MengskTrooperArmorsLevel3=Armure du Dominion - Niv. 3
+Upgrade/Name/MengskTrooperWeaponsLevel1=Armes du Dominion - Niv. 1
+Upgrade/Name/MengskTrooperWeaponsLevel2=Armes du Dominion - Niv. 2
+Upgrade/Name/MengskTrooperWeaponsLevel3=Armes du Dominion - Niv. 3
+Upgrade/Name/ThorMengskArmorAura=Champ de protection
+Upgrade/Name/TrooperMengskDropTrain=Capsule orbitale de soldat
+Upgrade/Name/VikingMengskSpeed=Turbines Æsir
+Upgrade/Name/ZergMengskCalldownLevel=
+UserData/MasteryUpgrades/MengskMastery1_Name=Régénération de mandat de soldat
+UserData/MasteryUpgrades/MengskMastery1_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery2_Name=Régénération de mandat de la Garde impériale
+UserData/MasteryUpgrades/MengskMastery2_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery3_Name=Dégâts du panneau supérieur
+UserData/MasteryUpgrades/MengskMastery3_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery4_Name=Coût de la Garde impériale
+UserData/MasteryUpgrades/MengskMastery4_ValueFormat=- ~A~%
+UserData/MasteryUpgrades/MengskMastery5_Name=Lancement du mandat impérial
+UserData/MasteryUpgrades/MengskMastery5_ValueFormat=+~A~
+UserData/MasteryUpgrades/MengskMastery6_Name=Vitesse de gain d’expérience de la Garde impériale
+UserData/MasteryUpgrades/MengskMastery6_ValueFormat=+~A~%
+UserData/PlayerCommanders/TerranMengsk_Description=Empereur du Dominion
+UserData/PlayerCommanders/TerranMengsk_Name=Mengsk
+Weapon/Name/90mmCannonsMengskLookAt=
+Weapon/Name/ArtilleryMengskBombardment=Bombardement
+Weapon/Name/C10CanisterRifleMengsk=Fusil de précision C-10
+Weapon/Name/CommanderPrestigeMengskTrooperBoom=
+Weapon/Name/FusionCutterMengsk=Découpeur à fusion
+Weapon/Name/HydraliskMengskMelee=
+Weapon/Name/JavelinMissileLaunchersMengsk=Lance-missiles Javelot
+Weapon/Name/LanzerTorpedoesMengsk=Torpilles Lanzer
+Weapon/Name/MedivacMengskSiegeTankAirlift=
+Weapon/Name/MissileTurretMengskMissile=Missile Flèche
+Weapon/Name/MutaliskMengskGlaiveWurm=Ver sabre
+Weapon/Name/NeedleSpinesMengsk=Aiguillons piquants
+Weapon/Name/PunisherGrenadesMengsk=Grenades Punition
+Weapon/Name/SiegeTankMengsk=Canons 90 mm
+Weapon/Name/SiegeTankMengskSieged=Canon choc Crucio
+Weapon/Name/SwitchLaserBatteryMengsk=Batterie de lasers
+Weapon/Name/ThorMengskSieged=Salve infernale
+Weapon/Name/ThorsHammerMengsk=Marteau de Thor
+Weapon/Name/TrooperMengsk=Mitraillette ferromag
+Weapon/Name/TrooperMengskFlamethrower=Lance-flammes CPO-7 Salamandre
+Weapon/Name/TrooperMengskImproved=Mitrailleuse légère à gros calibre B-2
+Weapon/Name/TrooperMengskRocket=Lanceur Tornade
+Weapon/Name/TwinGatlingCannonMengks=Canons Gatling
+Weapon/Name/UltraliskMengskKaiserBlades=Lames Kaiser
+Weapon/Name/VikingMengskAir=Torpilles Lanzer
+Weapon/Name/VikingMengskAirMassive=Torpilles Lanzer
+Weapon/Name/VikingMengskGround=Canons Gatling
+Weapon/Name/VikingMengskGroundMassive=Canons Gatling
+Weapon/Name/ZerglingMengskClaws=Griffes

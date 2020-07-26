@@ -1,0 +1,1043 @@
+﻿Abil/Name/ArmSiloWithNukeMengsk=
+Abil/Name/ArmoryMengskResearch=
+Abil/Name/ArtilleryMengskAttack=
+Abil/Name/ArtilleryMengskExperimentalStrike=
+Abil/Name/ArtilleryMengskGlobalExperimentalStrike=
+Abil/Name/ArtilleryMengskTransport=
+Abil/Name/AssaultModeMengsk=Штурмовой режим
+Abil/Name/BarracksMengskAddOns=AddOns
+Abil/Name/BarracksMengskLand=Приземление
+Abil/Name/BarracksMengskLiftOff=Взлететь
+Abil/Name/BarracksMengskTrain=
+Abil/Name/BattlecruiserMengskHyperjump=
+Abil/Name/BattlecruiserMengskHyperjumpTwoCharges=
+Abil/Name/BattlecruiserMengskYamato=
+Abil/Name/BattlecruiserMengskYamatoTwoCharges=
+Abil/Name/BunkerDepotMengskDrop=
+Abil/Name/BunkerDepotMengskDropMorph=
+Abil/Name/BunkerMengskSalvage=
+Abil/Name/BunkerMengskTransport=
+Abil/Name/BurrowHydraliskMengskDown=
+Abil/Name/BurrowHydraliskMengskUp=
+Abil/Name/BurrowZerglingMengskDown=
+Abil/Name/BurrowZerglingMengskUp=
+Abil/Name/CommandCenterMengskLand=
+Abil/Name/CommandCenterMengskLiftOff=Подъем
+Abil/Name/CommandCenterMengskQueue=
+Abil/Name/CommandCenterMengskRally=
+Abil/Name/CommandCenterMengskTrain=
+Abil/Name/EngineeringBayMengskResearch=
+Abil/Name/FactoryMengskAddOns=AddOns
+Abil/Name/FactoryMengskLand=Приземление
+Abil/Name/FactoryMengskLiftOff=Взлететь
+Abil/Name/FactoryMengskTrain=
+Abil/Name/FighterModeMengsk=Режим истребителя
+Abil/Name/FusionCoreMengskResearch=Разработка
+Abil/Name/GhostAcademyMengskResearch=
+Abil/Name/GhostMengskCloak=
+Abil/Name/GhostMengskEMPBig=
+Abil/Name/GhostMengskEMPLongStun=
+Abil/Name/GhostMengskEMPShortStun=
+Abil/Name/GhostMengskHoldFire=Запретить атаку
+Abil/Name/GhostMengskIrradiateBigDamage=
+Abil/Name/GhostMengskIrradiateSmallDamage=
+Abil/Name/GhostMengskNuke=
+Abil/Name/GhostMengskSuperCloak=
+Abil/Name/GhostMengskWeaponsFree=Разрешить атаку
+Abil/Name/MarauderMengskAttackSpeedBoost=
+Abil/Name/MedivacMengskDoubleBeamHeal=
+Abil/Name/MedivacMengskHeal=Лечение
+Abil/Name/MedivacMengskSpeedBoost=Экстренное ускорение
+Abil/Name/MedivacMengskTransport=
+Abil/Name/MengskZergCalldownLevel1=
+Abil/Name/MengskZergCalldownLevel2=
+Abil/Name/MengskZergCalldownLevel3=
+Abil/Name/MengskZergCalldownLevel4=
+Abil/Name/NuclearAnnihilationMengsk=
+Abil/Name/PropagandaBlastMengsk=
+Abil/Name/RavenMengskMorphtoRavenMengskSieged=
+Abil/Name/RavenMengskSiegedMorphtoRavenMengsk=
+Abil/Name/SCVMengskDropMorphTrooper=
+Abil/Name/SCVMengskEnlistNearby=
+Abil/Name/SCVMengskMorphTrooperAA=
+Abil/Name/SCVMengskMorphTrooperFlamethrower=
+Abil/Name/SCVMengskMorphTrooperImproved=
+Abil/Name/SCVMengskMorphTrooperNoWeapon=
+Abil/Name/SalvageSharedMengsk=
+Abil/Name/SiegeModeMengsk=Осада
+Abil/Name/SnipeMengsk=Снайперский выстрел
+Abil/Name/StarportMengskAddOns=AddOns
+Abil/Name/StarportMengskLand=Приземление
+Abil/Name/StarportMengskLiftOff=Взлететь
+Abil/Name/StarportMengskTrain=
+Abil/Name/TerranBuildMengsk=Строительство
+Abil/Name/ThorMengskSiege=
+Abil/Name/ThorMengskSiegeTargeted=
+Abil/Name/ThorMengskSiegeTargetedIncreasedRange=
+Abil/Name/ThorMengskSiegeTargetedLargeAoE=
+Abil/Name/ThorMengskUnsiege=
+Abil/Name/TrooperMengskBuild=
+Abil/Name/TrooperMengskCalldown=
+Abil/Name/TrooperMengskDropMorphSCV=
+Abil/Name/TrooperMengskEnlist=
+Abil/Name/TrooperMengskEnlistNearby=
+Abil/Name/TrooperMengskMorphSCV=
+Abil/Name/TrooperMengskSpecializeAA=
+Abil/Name/TrooperMengskSpecializeFlamethrower=
+Abil/Name/TrooperMengskSpecializeImproved=
+Abil/Name/UnsiegeMengsk=
+Abil/Name/VehicleAfterburnersMengsk=Транспортный форсаж
+Behavior/Name/ArtilleryMengskCargoGlobal=
+Behavior/Name/ArtilleryMengskCloudSickness=Грязный обстрел
+Behavior/Name/ArtilleryMengskFear=Страх
+Behavior/Name/BattlecruiserMengskBonusRange=Системы наведения полевой поддержки
+Behavior/Name/EMPMengskDecloak=Демаскировка от ЭМИ
+Behavior/Name/GhostMengskEMPStun=
+Behavior/Name/GhostMengskHoldFire=Запрет атаки
+Behavior/Name/GhostMengskHoldFireB=Запрет атаки
+Behavior/Name/GhostMengskIrradiate=Пирокинетический удар
+Behavior/Name/GhostMengskSuperCloak=Лабиринтная маскировка
+Behavior/Name/MarauderMengskAbsorb=Щит «Эгида»
+Behavior/Name/MarauderMengskAttackSpeedBoost=Высококлассные стимуляторы
+Behavior/Name/MarauderMengskShrapnelSlow=Замедление
+Behavior/Name/MedivacMengskSpeedBoost=«Форсаж» активирован
+Behavior/Name/MengskVeterancyBattlecruiserMengsk=
+Behavior/Name/MengskVeterancyGhostMengsk=
+Behavior/Name/MengskVeterancyMarauderMengsk=
+Behavior/Name/MengskVeterancyMedivacMengsk=
+Behavior/Name/MengskVeterancySiegeTankMengsk=
+Behavior/Name/MengskVeterancyThorMengsk=
+Behavior/Name/MengskVeterancyVikingMengsk=
+Behavior/Name/MengskZergCalldownLevel1On=
+Behavior/Name/MengskZergCalldownLevel2On=
+Behavior/Name/MengskZergCalldownLevel3On=
+Behavior/Name/MengskZergCalldownLevel4On=
+Behavior/Name/MutaliskMengskAirDropDelay=
+Behavior/Name/PropagandaBlastMengsk=Идеологическая обработка
+Behavior/Name/SiegeTankMengskSlowHeroic=
+Behavior/Name/SiegeTankMengskStun=
+Behavior/Name/ThorMengskArmorAuraTarget=Охранное поле
+Behavior/Name/VehicleAfterburnersMengsk=Форсаж
+Behavior/Name/VikingMengskAirAttackDamage=Тактическая переориентация
+Behavior/Name/VikingMengskCheatDeath=Протокол «Феникс»
+Behavior/Name/VikingMengskGroundAttackDamage=Тактическая переориентация
+Behavior/RankName/MengskRank0=0-й ранг
+Behavior/RankName/MengskRank1=1-й ранг
+Behavior/RankName/MengskRank2=2-й ранг
+Behavior/RankName/MengskRank3=3-й ранг
+Behavior/Tooltip/ArtilleryMengskCloudSickness=Периодический урон от «Грязного обстрела».
+Behavior/Tooltip/ArtilleryMengskFear=Бежит в страхе.
+Behavior/Tooltip/BattlecruiserMengskBonusRange=+<d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/> к дальности атаки за счет «Гордости Августграда».
+Behavior/Tooltip/EMPMengskDecloak=Цель недавно подверглась воздействию электромагнитного импульса и в течение некоторого времени не может использовать маскировку.
+Behavior/Tooltip/GhostMengskEMPStun=Шок и трепет
+Behavior/Tooltip/GhostMengskIrradiate=Жертва «Пирокинетического удара». Находящиеся рядом войска получают урон.
+Behavior/Tooltip/GhostMengskSuperCloak=Невосприимчивость к урону.
+Behavior/Tooltip/MarauderMengskAbsorb=При использовании щит «Эгида» блокирует получаемый урон. Максимум – <d ref="Behavior,MarauderMengskAbsorb,DamageResponse.ModifyLimit"/> ед.
+Behavior/Tooltip/MarauderMengskAttackSpeedBoost=Скорость атаки повышена за счет высококлассных стимуляторов.
+Behavior/Tooltip/MarauderMengskShrapnelSlow=Скорость передвижения снижена.
+Behavior/Tooltip/MarauderMengskSlamSlow=Скорость атаки и передвижения снижена.
+Behavior/Tooltip/MedivacMengskSpeedBoost=Скорость передвижения повышена на <d ref="(Behavior,MedivacMengskSpeedBoost,Modification.MoveSpeedMultiplier-1)*100"/>%.
+Behavior/Tooltip/PropagandaBlastMengsk=Скорость атаки и передвижения повышена.
+Behavior/Tooltip/SiegeTankMengskSlowHeroic=Скорость передвижения снижена на короткое время.
+Behavior/Tooltip/SiegeTankMengskStun=Шок и трепет
+Behavior/Tooltip/ThorMengskArmorAuraTarget=Под защитой «Черного молота». +<d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> к броне.
+Behavior/Tooltip/VehicleAfterburnersMengsk=Скорость передвижения повышена.
+Behavior/Tooltip/VikingMengskAirAttackDamage=Атаки наносят больше урона воздушным целям.
+Behavior/Tooltip/VikingMengskCheatDeath=При использовании «Звездная ярость» блокирует получаемый урон. Максимум – <d ref="Behavior,VikingMengskCheatDeath,DamageResponse.ModifyLimit"/> ед.
+Behavior/Tooltip/VikingMengskGroundAttackDamage=Атаки наносят больше урона наземным целям.
+Button/Name/ArmoryMengsk=Построить арсенал
+Button/Name/ArtilleryMengsk=Построить орудие «Раскол»
+Button/Name/ArtilleryMengskBombardment=Артиллерийский обстрел
+Button/Name/ArtilleryMengskExperimentalStrike=Грязный обстрел
+Button/Name/ArtilleryMengskExperimentalStrikeLocked=Грязный обстрел
+Button/Name/ArtilleryMengskExperimentalStrikePassive=Грязный обстрел
+Button/Name/ArtilleryMengskExperimentalStrikePassiveLocked=Грязный обстрел
+Button/Name/ArtilleryMengskExperimentalStrikePassiveUpgraded=Грязный обстрел
+Button/Name/ArtilleryMengskExperimentalStrikeUpgraded=Грязный обстрел
+Button/Name/ArtilleryMengskLoad=Загрузить
+Button/Name/ArtilleryMengskPassive=Орудие «Раскол»
+Button/Name/ArtilleryMengskRange=Полусферические ускорители
+Button/Name/ArtilleryMengskRangeLocked=Полусферические ускорители
+Button/Name/ArtilleryMengskRangeResearch=Разработать полусферические ускорители
+Button/Name/ArtilleryMengskRangeResearchLocked=Разработать полусферические ускорители
+Button/Name/ArtilleryMengskUnloadAll=Выгрузить всех
+Button/Name/AssaultModeMengsk=Штурмовой режим
+Button/Name/BarracksMengsk=Построить казармы
+Button/Name/BattlecruiserMengsk=Построить «Гордость Августграда»
+Button/Name/BattlecruiserMengskHyperjump=Тактический скачок
+Button/Name/BattlecruiserMengskImperialMandateGeneration=Мощь империи
+Button/Name/BattlecruiserMengskRangeAura=Системы наведения полевой поддержки
+Button/Name/BattlecruiserMengskRangeAuraLocked=Системы наведения полевой поддержки
+Button/Name/BattlecruiserMengskRangeAuraResearch=Разработать системы наведения полевой поддержки
+Button/Name/BattlecruiserMengskRangeAuraResearchLocked=Разработать системы наведения полевой поддержки
+Button/Name/BattlecruiserMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/BlimpMengskTopbarRegen=Мощные радиоволны
+Button/Name/BlimpMengskTopbarRegenLocked=Мощные радиоволны
+Button/Name/BlimpMengskTopbarRegenResearch=Разработать мощные радиоволны
+Button/Name/BlimpMengskTopbarRegenResearchLocked=Разработать мощные радиоволны
+Button/Name/BuildArtilleryMengskLocked=Построить орудие «Раскол»
+Button/Name/BuildArtilleryMengskPassiveLocked=Орудие «Раскол»
+Button/Name/BuildBattlecruiserMengskLocked=Построить «Гордость Августграда»
+Button/Name/BuildThorMengskLocked=Построить «Черный молот»
+Button/Name/BunkerDepotMengskDrop=Срочный призыв
+Button/Name/BunkerDepotMengskLoad=Загрузить
+Button/Name/BunkerDepotMengskRange=Амбразуры с автоприцелом
+Button/Name/BunkerDepotMengskRangeLocked=Амбразуры с автоприцелом
+Button/Name/BunkerDepotMengskRangeResearch=Разработать амбразуры с автоприцелом
+Button/Name/BunkerDepotMengskRangeResearchLocked=Разработать амбразуры с автоприцелом
+Button/Name/BunkerDepotMengskUnloadAll=Выгрузить всех
+Button/Name/BunkerMengsk=Построить складской бункер
+Button/Name/BunkerMengskSalvage=Демонтировать
+Button/Name/CommandCenterMengsk=Построить центр вербовки
+Button/Name/CommanderPrestigeMengskArmamentStabilizersLocked=Разработать орудийные стабилизаторы
+Button/Name/CommanderPrestigeMengskMedivacLocked=Построить «Имперский заступник»
+Button/Name/CommanderPrestigeMengskNuclearAnnihilationLocked=Ядерная аннигиляция
+Button/Name/EngineeringBayMengsk=Построить инженерный комплекс
+Button/Name/FactoryMengsk=Построить завод
+Button/Name/FighterModeMengsk=Режим истребителя
+Button/Name/FusionCoreMengsk=Построить центр синтеза
+Button/Name/GatherMengsk=Добывать
+Button/Name/GhostAcademyMengsk=Построить императорскую академию
+Button/Name/GhostMengsk=Обучить тень императора
+Button/Name/GhostMengskEMP=Электромагнитный импульс
+Button/Name/GhostMengskEMPLongStun=Электромагнитный импульс
+Button/Name/GhostMengskGuidedStrike=Тактические ракеты «Монарх»
+Button/Name/GhostMengskGuidedStrikeLocked=Тактические ракеты «Монарх»
+Button/Name/GhostMengskGuidedStrikeRessearch=Разработать тактические ракеты «Монарх»
+Button/Name/GhostMengskGuidedStrikeRessearchLocked=Разработать тактические ракеты «Монарх»
+Button/Name/GhostMengskHoldFire=Запретить атаку
+Button/Name/GhostMengskImperialMandateGeneration=Мощь империи
+Button/Name/GhostMengskIrradiate=Пирокинетический удар
+Button/Name/GhostMengskIrradiateBigDamage=Пирокинетический удар
+Button/Name/GhostMengskSuperCloak=Лабиринтная маскировка
+Button/Name/GhostMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/HealMengsk=Лечение
+Button/Name/IgniteAfterburnersMengsk=Форсаж
+Button/Name/InstantTrooperMengskTransform=Разработать военно-полевую подготовку
+Button/Name/MarauderMengsk=Обучить бойца отряда «Эгида»
+Button/Name/MarauderMengskAttackSpeedBoost=Высококлассные стимуляторы
+Button/Name/MarauderMengskAttackSpeedBoostLocked=Высококлассные стимуляторы
+Button/Name/MarauderMengskImperialMandateGeneration=Мощь империи
+Button/Name/MarauderMengskShield=Щит «Эгида»
+Button/Name/MarauderMengskSlow=Контузящие гранаты
+Button/Name/MarauderMengskSlowLocked=Контузящие гранаты
+Button/Name/MarauderMengskSlowResearch=Разработать контузящие гранаты
+Button/Name/MarauderMengskSlowResearchLocked=Разработать контузящие гранаты
+Button/Name/MarauderMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/MaraurderMengskShield=Щит «Эгида»
+Button/Name/MechTransformationSpeedMengsk=Разработать универсальные приводы
+Button/Name/MedivacMengsk=Построить «Имперский заступник»
+Button/Name/MedivacMengskDoubleHealBeam=Синхронные реаниматоры
+Button/Name/MedivacMengskDoubleHealBeamResearch=Разработать синхронные реаниматоры
+Button/Name/MedivacMengskPermanentCloak=Рассеивающее поле
+Button/Name/MedivacMengskPermanentCloakResearch=Разработать рассеивающее поле
+Button/Name/MedivacMengskSiegeTankAirlift=Орудийные стабилизаторы
+Button/Name/MedivacMengskSiegeTankAirliftLocked=Орудийные стабилизаторы
+Button/Name/MedivacMengskSiegeTankAirliftResearch=Разработать орудийные стабилизаторы
+Button/Name/MedivacMengskSiegeTankAirliftResearchLocked=Разработать орудийные стабилизаторы
+Button/Name/MengskAbilityAttackDamageLocked=Тактическая переориентация
+Button/Name/MengskAbilitySpecializeAALocked=Вооружить ракетометом «Град»
+Button/Name/MengskAbilitySpecializeFlamethrowerLocked=Вооружить огнеметом СПО-7 «Саламандра»
+Button/Name/MengskStructureArmorResearch=Разработать укрепленную обшивку из неостали
+Button/Name/MengskTrooperArmorLevel1=Усилить броню войск Доминиона, 1-й уровень
+Button/Name/MengskTrooperArmorLevel2=Усилить броню войск Доминиона, 2-й уровень
+Button/Name/MengskTrooperArmorLevel3=Усилить броню войск Доминиона, 3-й уровень
+Button/Name/MengskTrooperWeaponsLevel1=Улучшить вооружение войск Доминиона, 1-й уровень
+Button/Name/MengskTrooperWeaponsLevel2=Улучшить вооружение войск Доминиона, 2-й уровень
+Button/Name/MengskTrooperWeaponsLevel3=Улучшить вооружение войск Доминиона, 3-й уровень
+Button/Name/MengskZergCalldown=Псы войны
+Button/Name/MengskZergCalldownLevel1=Псы войны
+Button/Name/MengskZergCalldownLevel2=Псы войны
+Button/Name/MengskZergCalldownLevel3=Псы войны
+Button/Name/MengskZergCalldownLevel4=Псы войны (4-й уровень)
+Button/Name/MissileTurretMengsk=Построить ракетную турель
+Button/Name/MissileTurretMengskPassive=Ракетная турель
+Button/Name/MorphtoRavenMengsk=Выйти из патриотического режима
+Button/Name/MorphtoRavenMengskSieged=Патриотический режим
+Button/Name/NuclearAnnihilationMengsk=Ядерная аннигиляция
+Button/Name/NuclearAnnihilationMengskLocked=Ядерная аннигиляция
+Button/Name/NukeCalldownMengsk=Тактический ракетный удар
+Button/Name/NukeMengskArm=Подготовить тактическую ракету
+Button/Name/PropagandaBlastMengsk=Идеологическая обработка
+Button/Name/RavenMengsk=Построить «Имперский вестник»
+Button/Name/RefineryMengsk=Построить перерабатывающий завод
+Button/Name/RoyalGuardMengsk=Императорская гвардия Доминиона
+Button/Name/RoyalGuardMengskImperialMandateGenerationLocked=Мощь империи
+Button/Name/SCVMengsk=Мобилизовать работника Доминиона
+Button/Name/SCVMengskAdvancedConstruction=Рабочая бригада
+Button/Name/SCVMengskEnlist=Вызваться в работники
+Button/Name/SCVMengskEnlistCC=Призыв к труду
+Button/Name/SetArtilleryMengskRallyPoint=Задать точку сбора для орудия «Раскол»
+Button/Name/SetCommandCenterRallyPointLaborer=Задать точку сбора для работников
+Button/Name/SetCommandCenterRallyPointTrooper=Задать точку сбора для солдат
+Button/Name/SetSupplyBunkerRallyPoint=Задать точку сбора для складского бункера
+Button/Name/SiegeModeMengsk=Осадный режим
+Button/Name/SiegeTankMengsk=Построить шоковый танк
+Button/Name/SiegeTankMengskAirlift=Орудийные стабилизаторы
+Button/Name/SiegeTankMengskImperialMandateGeneration=Мощь империи
+Button/Name/SiegeTankMengskStun=Шок и трепет
+Button/Name/SiegeTankMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/SnipeMengsk=Снайперский выстрел
+Button/Name/StarportMengsk=Построить космопорт
+Button/Name/StructureArmorMengsk=Укрепленная обшивка из неостали
+Button/Name/StructureArmorMengskResearch=Разработать укрепленную обшивку из неостали
+Button/Name/ThorMengsk=Построить «Черный молот»
+Button/Name/ThorMengskArmorAura=Охранное поле
+Button/Name/ThorMengskArmorAuraLocked=Охранное поле
+Button/Name/ThorMengskArmorAuraResearch=Разработать охранное поле
+Button/Name/ThorMengskArmorAuraResearchLocked=Разработать охранное поле
+Button/Name/ThorMengskImperialMandateGeneration=Мощь империи
+Button/Name/ThorMengskSiege=Режим дозора
+Button/Name/ThorMengskUnsiege=Мобильный режим
+Button/Name/ThorMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/TrooperMengsk=Мобилизовать солдата Доминиона
+Button/Name/TrooperMengskBuild=Построить боевое здание
+Button/Name/TrooperMengskDropTrain=Орбитальные десантные капсулы
+Button/Name/TrooperMengskDropTrainResearch=Разработать орбитальные десантные капсулы
+Button/Name/TrooperMengskEnlist=Вызваться в солдаты
+Button/Name/TrooperMengskEnlistCC=Призыв к оружию
+Button/Name/TrooperMengskImperialMandateGeneration=Воля народа
+Button/Name/TrooperMengskImperialMandateGenerationLocked=Воля народа
+Button/Name/TrooperMengskSpecializeAA=Вооружить ракетометом «Град»
+Button/Name/TrooperMengskSpecializeFlamethrower=Вооружить огнеметом СПО-7 «Саламандра»
+Button/Name/TrooperMengskSpecializeImproved=Вооружить крупнокалиберным пулеметом Б-2
+Button/Name/UnsiegeMengsk=Режим танка
+Button/Name/VikingMengskAttackDamage=Тактическая переориентация
+Button/Name/VikingMengskCheatDeath=Протокол «Феникс»
+Button/Name/VikingMengskCheatDeathLocked=Протокол «Феникс»
+Button/Name/VikingMengskDodge=Маневры уклонения
+Button/Name/VikingMengskDodgeLocked=Маневры уклонения
+Button/Name/VikingMengskFighter=Построить «Звездную ярость»
+Button/Name/VikingMengskImperialMandateGeneration=Мощь империи
+Button/Name/VikingMengskSpeed=Турбины «Асгард»
+Button/Name/VikingMengskSpeedLocked=Турбины «Асгард»
+Button/Name/VikingMengskSpeedResearch=Разработать турбины «Асгард»
+Button/Name/VikingMengskSpeedResearchLocked=Разработать турбины «Асгард»
+Button/Name/VikingMengskVeterancy=Императорская гвардия Доминиона
+Button/Name/WeaponsFreeMengsk=Разрешить атаку
+Button/Name/YamatoGunMengsk=Орудие «Ямато»
+Button/Tooltip/AbilLockedLevel05=Откройте доступ, достигнув 5-го уровня командира.
+Button/Tooltip/AbilLockedLevel08=Откройте доступ, достигнув 8-го уровня командира.
+Button/Tooltip/ArmoryMengsk=Позволяет улучшать боевые единицы, производимые на заводе и в космопорте. <n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– производство «Черных молотов» на заводе
+Button/Tooltip/ArtilleryMengsk=Случайным образом обстреливает область вокруг указанной точки, нанося урон находящимся в ней наземным войскам. Открывает способность «Грязный обстрел» на верхней панели.<n/><n/><c val="#ColorAttackInfo">Атакует наземные цели.</c>
+Button/Tooltip/ArtilleryMengskBombardment=Поражает указанную область разрывными снарядами, которые падают в случайных местах, нанося <d ref="Effect,ArtilleryMengskBombardmentDamage,Amount"/> ед. урона наземным войскам противника.
+Button/Tooltip/ArtilleryMengskExperimentalStrike=Заряжает орудие «Раскол» экспериментальными снарядами и обстреливает любую точку на карте. Снаряды падают в случайном порядке вокруг указанной точки, заставляя противников бегать в страхе и заражая область поражения радиацией, которая наносит противникам <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current" precision="1"/> ед. урона в секунду. Пораженные войска не могут использовать маскировку.
+Button/Tooltip/ArtilleryMengskExperimentalStrikePassive=Это орудие можно зарядить экспериментальными снарядами и обстрелять любую точку на карте. Снаряды падают в случайном порядке вокруг указанной точки, заставляя противников бегать в страхе и заражая область поражения радиацией, которая наносит противникам <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current" precision ="1"/> ед. урона в секунду. Эта способность активируется с помощью верхней панели.
+Button/Tooltip/ArtilleryMengskExperimentalStrikePassiveUpgraded=Это орудие можно зарядить экспериментальными снарядами и обстрелять любую точку на карте. Снаряды падают в случайном порядке вокруг указанной точки, заставляя противников бегать в страхе и заражая область поражения радиацией, которая наносит противникам <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current"/> ед. урона в секунду. Эта способность активируется с помощью верхней панели.
+Button/Tooltip/ArtilleryMengskExperimentalStrikeUpgraded=Заряжает орудие «Раскол» экспериментальными снарядами и обстреливает любую точку на карте. Снаряды падают в случайном порядке вокруг указанной точки, заставляя противников бегать в страхе и заражая область поражения радиацией, которая наносит противникам <d ref="Effect,ArtilleryMengskExperimentalStrikePeriodicDamage,Amount" player="current"/> ед. урона в секунду. Пораженные войска не могут использовать маскировку.
+Button/Tooltip/ArtilleryMengskLoad=Загружает работников и солдат в орудие «Раскол». Каждый работник повышает частоту «Артиллерийского обстрела».
+Button/Tooltip/ArtilleryMengskPassive=Инженерный комплекс позволяет строить орудия «Раскол».
+Button/Tooltip/ArtilleryMengskRange=Увеличивают дальность «Артиллерийского обстрела» орудия «Раскол» на <d ref="$UpgradeEffectArrayValue:ArtilleryMengskRange:Weapon,ArtilleryMengskBombardment,Range$"/>.
+Button/Tooltip/ArtilleryMengskRangeResearch=Увеличивают дальность «Артиллерийского обстрела» <c val="ffff8a">орудия «Раскол»</c> на <d ref="$UpgradeEffectArrayValue:ArtilleryMengskRange:Weapon,ArtilleryMengskBombardment,Range$"/>.
+Button/Tooltip/ArtilleryMengskUnloadAll=Выгружает все войска.
+Button/Tooltip/AssaultModeMengsk=«Звездная ярость» переходит в штурмовой режим. В этом режиме она передвигается по земле и атакует только наземные цели.
+Button/Tooltip/BarracksMengsk=Тренировочный комплекс пехоты императорской гвардии.<n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– обучение бойцов отряда «Эгида»
+Button/Tooltip/BarracksMengskFlying=Казармы должны приземлиться, чтобы начать обучение войск.
+Button/Tooltip/BattlecruiserMengsk=Мощный боевой корабль императорской гвардии. Может использовать орудие «Ямато» и способность «Тактический скачок».<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/BattlecruiserMengskHyperjump=Переносится в указанную точку. Во время переноса «Гордость Августграда» неуязвима.
+Button/Tooltip/BattlecruiserMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyBattlecruiserMengsk$*Unit,BattlecruiserMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/BattlecruiserMengskRangeAura=Увеличивают дальность атаки находящихся рядом союзных наземных войск дальнего боя на <d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/>.
+Button/Tooltip/BattlecruiserMengskRangeAuraResearch=Позволяют <c val="ffff8a">«Гордости Августграда»</c> увеличивать дальность атаки находящихся рядом союзных наземных войск дальнего боя на <d ref="Behavior,BattlecruiserMengskBonusRange,Modification.RangedWeaponRange"/>.
+Button/Tooltip/BattlecruiserMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> увеличивает количество зарядов орудия «Ямато» и «Тактического скачка» на 1.
+Button/Tooltip/BattlecruiserMengskRank1Preview=<n/><c val="777777">1-й ранг: увеличивает количество зарядов орудия «Ямато» и «Тактического скачка» на 1.</c>
+Button/Tooltip/BattlecruiserMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> орудие «Ямато» наносит урон по области вокруг цели.
+Button/Tooltip/BattlecruiserMengskRank2Preview=<n/><c val="777777">2-й ранг: орудие «Ямато» наносит урон по области вокруг цели.</c>
+Button/Tooltip/BattlecruiserMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> орудие «Ямато» стреляет еще <d ref="Effect,BattlecruiserMengskYamatoMultiple,ValidateMax"/> <lang rule="plural" val="">раз,раза,раз</lang>, переключаясь на новые цели.
+Button/Tooltip/BattlecruiserMengskRank3Preview=<n/><c val="777777">3-й ранг: орудие «Ямато» стреляет еще <d ref="Effect,BattlecruiserMengskYamatoMultiple,ValidateMax"/> <lang rule="plural" val="">раз,раза,раз</lang>, переключаясь на новые цели.</c>
+Button/Tooltip/BlimpMengskTopbarRegen=Удваивают поддержку императора за счет идеологически обработанных работников и солдат.
+Button/Tooltip/BlimpMengskTopbarRegenResearch=Удваивают поддержку императора за счет работников и солдат, идеологически обработанных <c val="ffff8a">«Имперским вестником»</c>.
+Button/Tooltip/BunkerDepotMengsk=Оборонительное строение, служащее для хранения припасов.<n/>Увеличивает максимальный размер армии.<n/>Солдаты могут отстреливаться, находясь внутри. <n/><n/><c val="#ColorAttackInfo">Бонус: +<d ref="Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange"/> к дальности атаки находящихся внутри войск.</c>
+Button/Tooltip/BunkerDepotMengskDrop=Сбрасывает с орбиты складской бункер с <d ref="Abil,BunkerMengskTransport,TotalCargoSpace"/> <lang rule="plural" val="">невезучим солдатом,невезучими солдатами,невезучими солдатами</lang>.
+Button/Tooltip/BunkerDepotMengskLoad=Загружает работников и солдат в складской бункер.
+Button/Tooltip/BunkerDepotMengskRange=Увеличивают дальность атаки войск в складских бункерах еще на <d ref="$UpgradeEffectArrayValue:BunkerDepotMengskRange:Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange$"/>.
+Button/Tooltip/BunkerDepotMengskRangeResearch=Увеличивают дальность атаки войск в <c val="ffff8a">складских бункерах</c> еще на <d ref="$UpgradeEffectArrayValue:BunkerDepotMengskRange:Behavior,BunkerMengskWeaponRangeBonus,Modification.WeaponRange$"/>.
+Button/Tooltip/BunkerDepotMengskUnloadAll=Выгружает все войска.
+Button/Tooltip/BunkerMengsk=Оборонительное сооружение, служащее для хранения припасов.<n/>Увеличивает максимальный размер армии.<n/>Солдаты могут отстреливаться, находясь внутри.<n/><n/><c val="#ColorAttackInfo">Бонус: +1 к дальности стрельбы находящихся внутри войск.</c>
+Button/Tooltip/BunkerMengskSalvage=Демонтирует строение, возвращая <d ref="Effect,SalvageSharedMengsk,SalvageFactor.Resource[Minerals]*(-100)"/>% затраченных на его постройку ресурсов. Демонтаж занимает <d ref="Behavior,SalvageSharedMengsk,Duration"/> сек. Внимание: начатый процесс демонтажа невозможно остановить.
+Button/Tooltip/CommandCenterMengsk=Основное строение, служащее для хранения добытых ресурсов и мобилизации работников и солдат Доминиона. Может взлетать.<n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– мобилизация работников Доминиона<n/>– мобилизация солдат Доминиона<n/>– строительство складских бункеров работниками и солдатами
+Button/Tooltip/CommandCenterMengskFlying=Основное строение. Центр вербовки должен приземлиться, чтобы производить войска, принимать на хранение ресурсы и использовать способности.
+Button/Tooltip/CommanderPrestigeMengskArmamentStabilizersLocked=Это улучшение открывается на определенном уровне престижа командира.
+Button/Tooltip/CommanderPrestigeMengskContaminatedStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Престиж:</s> эффект страха от «Грязного обстрела» длится на <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskFear,Duration$/Behavior,ArtilleryMengskFear,Duration*100" player="0"/></s>% дольше, а эффект периодического урона увеличивает наносимый целям урон на <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskCloudSickness,DamageResponse.ModifyFraction$*100"/></s>%.
+Button/Tooltip/CommanderPrestigeMengskMedivacLocked=Эта боевая единица открывается на определенном уровне престижа командира.
+Button/Tooltip/CommanderPrestigeMengskNuclearAnnihilationLocked=Эта способность открывается на определенном уровне престижа командира.
+Button/Tooltip/CommanderPrestigeMengskRoyalGuardUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Престиж:</s> увеличивает объем получаемого опыта на <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskRoyalGuard:Effect,MengskRoyalGuardExperienceGainDummy,Amount$"/></s>%.
+Button/Tooltip/CommanderPrestigeMengskTrooperMandateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Престиж:</s> эта боевая единица обеспечивает поддержку императора, когда помещена в орудие «Раскол».
+Button/Tooltip/CommanderPrestigeMengskTrooperWeaponsUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Престиж:</s> экипированные солдаты перед смертью запускают механизм самоуничтожения своего оружия, а не оставляют его после себя.
+Button/Tooltip/EngineeringBayMengsk=Позволяет улучшать строения и солдат Доминиона. <n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– строительство ракетных турелей работниками и солдатами<n/>– строительство орудий «Раскол» работниками и солдатами
+Button/Tooltip/FactoryMengsk=Завод по производству бронетехники императорской гвардии. <n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– производство шоковых танков на заводе
+Button/Tooltip/FactoryMengskFlying=Завод должен приземлиться, чтобы начать производство.
+Button/Tooltip/FighterModeMengsk=«Звездная ярость» переходит в режим истребителя. В этом режиме она летает, но атакует только воздушные цели.
+Button/Tooltip/FusionCoreMengsk=Позволяет улучшать боевые единицы, производимые в космопорте. <n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– производство крейсеров «Гордость Августграда» в космопорте
+Button/Tooltip/GatherMengsk=Приказывает работнику добывать ресурсы на месторождении минералов или из веспенового гейзера.
+Button/Tooltip/GhostAcademyMengsk=Дает доступ к улучшениям для бойцов отряда «Эгида» и теней императора. Производит тактические ракеты, наводимые тенями императора.<n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– обучение теней императора в казармах
+Button/Tooltip/GhostMengsk=Боец особого назначения из рядов императорской гвардии. Может использовать способности «Пирокинетический удар» и «Электромагнитный импульс». Наводит на цель тактические ракеты, производимые в императорской академии<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/GhostMengskEMP=Наносит <d ref="Effect,GhostMengskEMPDamage,ShieldBonus"/> ед. урона щитам и сжигает энергию войск противника в указанной области. Выводит из строя механические боевые единицы на <d ref="Effect,GhostMengskEMPStunShortAB,Duration"/> сек. Замаскированные войска, попавшие под действие импульса, становятся видимыми на <d ref="Behavior,EMPMengskDecloak,Duration"/> сек.
+Button/Tooltip/GhostMengskEMPLongStun=Наносит <d ref="Effect,GhostMengskEMPDamage,ShieldBonus"/> ед. урона щитам и сжигает энергию войск противника в указанной области. Выводит из строя механические боевые единицы на <d ref="Effect,GhostMengskEMPStunLongAB,Duration"/> сек. Замаскированные войска, попавшие под действие импульса, становятся видимыми на <d ref="Behavior,EMPMengskDecloak,Duration"/> сек.
+Button/Tooltip/GhostMengskGuidedStrike=Тактический ракетный удар наводится мгновенно.
+Button/Tooltip/GhostMengskGuidedStrikeRessearch=<c val="ffff8a">Тени императора</c> получают возможность наводить тактический ядерный удар мгновенно.
+Button/Tooltip/GhostMengskHoldFire=Приказывает выбранным войскам не открывать огонь и избегать контакта с противником до получения прямого приказа. Будучи атакованными, эти войска будут отступать.
+Button/Tooltip/GhostMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyGhostMengsk$*Unit,GhostMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/GhostMengskIrradiate=Поражает указанного органического противника, после чего он наносит <d ref="Effect,GhostMengskIrradiateSmallDamage,Amount"/> ед. урона в секунду себе и другим находящимся рядом органическим войскам противника в течение <d ref="Behavior,GhostMengskIrradiate,Duration"/> сек.
+Button/Tooltip/GhostMengskIrradiateBigDamage=Поражает указанного органического противника, после чего он наносит <d ref="Effect,GhostMengskIrradiateBigDamage,Amount"/> ед. урона в секунду себе и другим находящимся рядом органическим войскам противника в течение <d ref="Behavior,GhostMengskIrradiate,Duration"/> сек.
+Button/Tooltip/GhostMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> способность «Лабиринтная маскировка».
+Button/Tooltip/GhostMengskRank1Preview=<n/><c val="777777">1-й ранг: способность «Лабиринтная маскировка».</c>
+Button/Tooltip/GhostMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> увеличивает периодический урон от «Пирокинетического удара» на <d ref="(Effect,GhostMengskIrradiateBigDamage,Amount/Effect,GhostMengskIrradiateSmallDamage,Amount-1)*100" precision="0"/>%. Увеличивает время оглушения от «Электромагнитного импульса» на <d time="[d ref='Effect,GhostMengskEMPStunLongAB,Duration-Effect,GhostMengskEMPStunShortAB,Duration'/]" precision="0"/> сек.
+Button/Tooltip/GhostMengskRank2Preview=<n/><c val="777777">2-й ранг: увеличивает периодический урон от «Пирокинетического удара» на <d ref="(Effect,GhostMengskIrradiateBigDamage,Amount/Effect,GhostMengskIrradiateSmallDamage,Amount-1)*100" precision="0"/>%. Увеличивает время оглушения от «Электромагнитного импульса» на <d time="[d ref='Effect,GhostMengskEMPStunLongAB,Duration-Effect,GhostMengskEMPStunShortAB,Duration'/]" precision="0"/> сек.</c>
+Button/Tooltip/GhostMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> после гибели цели «Пирокинетический удар» наносит<d ref="Effect,GhostMengskIrradiateDeathDamage,Amount"/> ед. урона находящимся рядом противникам. «Электромагнитный импульс» сжигает всю энергию цели и наносит урон, равный объему сожженной энергии.
+Button/Tooltip/GhostMengskRank3Preview=<n/><c val="777777">3-й ранг: после гибели цели «Пирокинетический удар» наносит<d ref="Effect,GhostMengskIrradiateDeathDamage,Amount"/> ед. урона находящимся рядом противникам. «Электромагнитный импульс» сжигает всю энергию цели и наносит урон, равный объему сожженной энергии.</c>
+Button/Tooltip/GhostMengskSuperCloak=Блокирует весь урон, получаемый тенями императора в течение <d ref="Behavior,GhostMengskSuperCloak,Duration"/> сек. после того, как они подверглись атаке. Срабатывает не чаще раза в <d ref="Behavior,GhostMengskSuperCloakController,DamageResponse.Cost.Cooldown.TimeUse"/> сек.
+Button/Tooltip/HealMengsk=Применяется к союзным органическим войскам.<n/><n/><c val="f078ff">Восполняет <d ref="Effect,MedivacMengskHealLevel1,RechargeVitalRate[0]"/> ед. здоровья за <d ref="1/Effect,MedivacMengskHealLevel1,DrainVitalCostFactor"/> ед. энергии.</c>
+Button/Tooltip/HydraliskMengsk=«Тщательно проверьте привязь, убедитесь в ее надежности. Эта особь может быть агрессивной, и я бы не хотел потерять из-за нее еще одного стажера. На этой неделе Шерил мне больше никого на замену не пришлет».<n/><n/>– Доктор Субсурьян об одном из первых подопытных экземпляров гидралиска.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/IgniteAfterburnersMengsk=Повышает скорость передвижения на <d ref="(Behavior,MedivacMengskSpeedBoost,Modification.MoveSpeedMultiplier-1)*100"/>% на <d ref="Behavior,MedivacMengskSpeedBoost,Duration"/> сек.
+Button/Tooltip/InstantTrooperMengskTransform=Позволяет <c val="ffff8a">работникам</c> и <c val="ffff8a">солдатам</c> менять режим прямо на поле боя.
+Button/Tooltip/MarauderMengsk=Тяжелая штурмовая пехота императорской гвардии.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>
+Button/Tooltip/MarauderMengskAttackSpeedBoost=Повышают скорость атаки на <d ref="(Behavior,MarauderMengskAttackSpeedBoost,Modification.AttackSpeedMultiplier-1)*100"/>% на <d ref="Behavior,MarauderMengskAttackSpeedBoost,Duration"/> сек.
+Button/Tooltip/MarauderMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyMarauderMengsk$*Unit,MarauderMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/MarauderMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> щит «Эгида».
+Button/Tooltip/MarauderMengskRank1Preview=<n/><c val="777777">1-й ранг: щит «Эгида».</c>
+Button/Tooltip/MarauderMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> атаки поражают шрапнелью противников позади цели, нанося им <d ref="Effect,MarauderMengskShrapnelDamage,Amount/Effect,PunisherGrenadesMengskU,Amount*100" precision="0"/>% урона.
+Button/Tooltip/MarauderMengskRank2Preview=<n/><c val="777777">2-й ранг: атаки поражают шрапнелью противников позади цели, нанося им <d ref="Effect,MarauderMengskShrapnelDamage,Amount/Effect,PunisherGrenadesMengskU,Amount*100" precision="0"/>% урона.</c>
+Button/Tooltip/MarauderMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> способность «Высококлассные стимуляторы».
+Button/Tooltip/MarauderMengskRank3Preview=<n/><c val="777777">3-й ранг: способность «Высококлассные стимуляторы».</c>
+Button/Tooltip/MarauderMengskShield=Дает бойцу отряда «Эгида» щит, поглощающий <d ref="Behavior,MarauderMengskAbsorb,DamageResponse.ModifyLimit"/> ед. урона. Поглотив смертельный урон, щит выпускает энергетический импульс, который отбрасывает находящиеся рядом наземные войска. Щит полностью восстанавливается раз в <d ref="Behavior,MarauderMengskAbsorbReapplicator,Cost.Cooldown.TimeUse"/> сек.
+Button/Tooltip/MarauderMengskSlow=Атаки бойцов отряда «Эгида» временно замедляют противников.<n/><n/><c val="#ColorAttackInfo">Не действует на крупные боевые единицы.</c>
+Button/Tooltip/MarauderMengskSlowResearch=Атаки <c val="ffff8a">бойцов отряда «Эгида»</c> замедляют войска противника.
+Button/Tooltip/MasteryMengskRoyalGuardCostAppend=<n/><n/><c val="FFFF8A">Умение:</c> стоимость снижена на <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardCostDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardExperienceGainRateAppend=<n/><n/><c val="FFFF8A">Умение:</c> объем получаемого опыта увеличен на <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardExperienceGainRateDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardImperialMandateRegenerationAppend=<n/><n/><c val="FFFF8A">Умение:</c> поддержка императора за счет императорской гвардии усилена на <c val="FFFF8A"><d ref="Effect,MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskRoyalGuardMengskRanks=<n/><n/><c val="ffff8a">С каждым новым рангом эта боевая единица будет получать новые способности или пассивные бонусы.</c><n/>
+Button/Tooltip/MasteryMengskStartingImperialMandateAppend=<n/><n/><c val="FFFF8A">Умение:</c> начальная сила императорского мандата повышена на <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c> ед.
+Button/Tooltip/MasteryMengskTopBarPowerAppend=<n/><n/><c val="FFFF8A">Умение:</c> периодический урон увеличен на <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerAppend=<n/><n/><c val="FFFF8A">Умение:</c> периодический урон увеличен на <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerNuclearAppend=<n/><n/><c val="FFFF8A">Умение:</c> наносимый урон увеличен на <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTopPanelPowerZergAppend=<n/><n/><c val="FFFF8A">Умение:</c> урон порабощенных зергов увеличен на <c val="FFFF8A"><d ref="Effect,MasteryMengskTopPanelPowerDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryMengskTrooperImperialMandateRegenerationAppend=<n/><n/><c val="FFFF8A">Умение:</c> поддержка императора за счет идеологически обработанных работников и солдат усилена на <c val="FFFF8A"><d ref="Effect,MasteryMengskTrooperImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.
+Button/Tooltip/MasteryRaynorMarauderMengskStimDurationAppend=<n/><n/><c val="FFFF8A">Умение:</c> время действия увеличено на <c val="FFFF8A"><d ref="Effect,MasteryRaynorStimDurationDisplayDummy,Amount" precision="1"/></c>%.
+Button/Tooltip/MasteryRaynorStimMengskDurationAppend=<n/><n/><c val="FFFF8A">Умение:</c> время действия увеличено на <c val="FFFF8A"><d ref="Effect,MasteryRaynorStimDurationDisplayDummy,Amount" precision="1"/></c>%.
+Button/Tooltip/MechTransformationSpeedMengsk=Ускоряют смену режима <c val="ffff8a">шоковых танков</c>, <c val="ffff8a">«Черных молотов»</c> и боевых машин <c val="ffff8a">«Звездная ярость»</c>.
+Button/Tooltip/MedivacMengsk=Транспортный корабль. Лечит находящиеся рядом органические войска. Может использовать способность «Форсаж».
+Button/Tooltip/MedivacMengskDoubleHealBeam=Позволяют «Имперским заступникам» лечить две цели одновременно.
+Button/Tooltip/MedivacMengskDoubleHealBeamResearch=Позволяют <c val="ffff8a">«Имперским заступникам»</c> лечить две цели одновременно.
+Button/Tooltip/MedivacMengskPermanentCloak=Дает «Имперским заступникам» постоянную маскировку и щит, поглощающий <d ref="$UpgradeEffectArrayValue:MedivacMengskPermanentCloak:Unit,MedivacMengsk,ShieldsMax$"/> ед. урона.
+Button/Tooltip/MedivacMengskPermanentCloakResearch=Дает <c val="ffff8a">«Имперским заступникам»</c> постоянную маскировку и щит, поглощающий <d ref="$UpgradeEffectArrayValue:MedivacMengskPermanentCloak:Unit,MedivacMengsk,ShieldsMax$"/> ед. урона.
+Button/Tooltip/MedivacMengskSiegeTankAirlift=Шоковые танки, перевозимые «Имперскими заступниками» в осадном режиме, получают возможность с пониженной периодичностью стрелять по воздушным целям.
+Button/Tooltip/MedivacMengskSiegeTankAirliftResearch=<c val="ffff8a">Шоковые танки</c>, перевозимые <c val="ffff8a">«Имперскими заступниками»</c> в осадном режиме, получают возможность с пониженной периодичностью стрелять по воздушным целям.
+Button/Tooltip/MengskStructureArmorResearch=Увеличивает запас прочности и усиливает броню <c val="ffff8a">складских бункеров</c>, <c val="ffff8a">ракетных турелей</c> и <c val="ffff8a">орудий «Раскол»</c>.
+Button/Tooltip/MengskTrooperArmorLevel1=Укрепляет броню солдат Доминиона, имперских кораблей и порабощенных зергов.
+Button/Tooltip/MengskTrooperArmorLevel2=Значительно укрепляет броню солдат Доминиона, имперских кораблей и порабощенных зергов.
+Button/Tooltip/MengskTrooperArmorLevel3=Максимально укрепляет броню солдат Доминиона, имперских кораблей и порабощенных зергов.
+Button/Tooltip/MengskTrooperWeaponsLevel1=Увеличивает урон, наносимый солдатами Доминиона, имперскими кораблями и порабощенными зергами.
+Button/Tooltip/MengskTrooperWeaponsLevel2=Значительно увеличивает урон, наносимый солдатами Доминиона, имперскими кораблями и порабощенными зергами.
+Button/Tooltip/MengskTrooperWeaponsLevel3=Максимально увеличивает урон, наносимый солдатами Доминиона, имперскими кораблями и порабощенными зергами.
+Button/Tooltip/MengskZergCalldown=Выпускает в указанном месте <d ref="Effect,ZerglingMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">порабощенного зерглинга,порабощенных зерглингов,порабощенных зерглингов</lang> на <d ref="Behavior,MengskZergTimedLife,Duration" player="current" precision="1"/> сек. Зерги преследуют и атакуют ближайшего противника.<n/><n/><c val="ffff8a">Количество порабощенных зергов растет с увеличением силы императорского мандата.</c><n/>
+Button/Tooltip/MengskZergCalldownLevel2Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel2,Cost[0].Vital[Energy]"/>%: +<d ref="Effect,HydraliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">гидралиск,гидралиска,гидралисков</lang>.</c>
+Button/Tooltip/MengskZergCalldownLevel2On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel2,Cost[0].Vital[Energy]"/>%:</c> +<d ref="Effect,HydraliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">гидралиск,гидралиска,гидралисков</lang>.
+Button/Tooltip/MengskZergCalldownLevel3Locked=<n/><c val="ff0000"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>%: откройте доступ, достигнув 7-го уровня командира.</c><n/><c val="ff0000"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>%: откройте доступ, достигнув 7-го уровня командира.</c>
+Button/Tooltip/MengskZergCalldownLevel3Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>%: +<d ref="Effect,MutaliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">муталиск,муталиска,муталисков</lang>.</c>
+Button/Tooltip/MengskZergCalldownLevel3On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel3,Cost[0].Vital[Energy]"/>%:</c> +<d ref="Effect,MutaliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">муталиск,муталиска,муталисков</lang>.
+Button/Tooltip/MengskZergCalldownLevel4Off=<n/><c val="777777"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>%: +<d ref="Effect,UltraliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">ультралиск,ультралиска,ультралисков</lang>.</c>
+Button/Tooltip/MengskZergCalldownLevel4On=<n/><c val="ffff8a"><d ref="Abil,MengskZergCalldownLevel4,Cost[0].Vital[Energy]"/>%:</c> +<d ref="Effect,UltraliskMengskSpawnCP,PeriodCount" player="current"/> <lang rule="plural">ультралиск,ультралиска,ультралисков</lang>.
+Button/Tooltip/MissileTurretMengsk=Средство противовоздушной обороны.<n/><n/><c val="#ColorAttackInfo">Атакует только воздушные цели.</c><n/><c val="FFE303">Детектор</c>
+Button/Tooltip/MissileTurretMengsk2=Средство противовоздушной обороны.<n/><n/><c val="#ColorAttackInfo">Атакует только воздушные цели.</c><n/><c val="FFE303">Детектор</c>
+Button/Tooltip/MissileTurretMengskPassive=Инженерный комплекс позволяет строить ракетные турели.
+Button/Tooltip/MorphtoRavenMengsk=Прекращает идеологическую обработку. «Имперский вестник» снова сможет двигаться.
+Button/Tooltip/MorphtoRavenMengskSieged=«Имперский вестник» получает возможность проводить идеологическую обработку находящихся рядом союзников, но перестает двигаться.
+Button/Tooltip/MutaliskMengsk=Чтобы изучить естественное поведение муталисков, ученые хотели сделать вольер как можно больше. Администрацию же в первую очередь волновало количество пропавших без вести участников проекта.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/NuclearAnnihilationMengsk=Обстреливает указанную область <d ref="Effect,NuclearAnnihilationMengskSmallNukeDummyCP,PeriodCount" player="current"/> <lang rule="plural">тактической ракетой,тактическими ракетами,тактическими ракетами</lang>, каждая из которых наносит <d ref="Effect,NuclearAnnihilationMengskSmallNukeDamage,Amount" player = "current"/> ед. урона (+<d ref="Effect,NuclearAnnihilationMengskSmallNukeDamage,AttributeBonus[Structure]"/> ед. урона по строениям) в небольшой области и завершает обстрел ядерным ударом, наносящим <d ref="Effect,NuclearAnnihilationMengskDamage,Amount" player = "current"/> ед. урона (+<d ref="Effect,NuclearAnnihilationMengskDamage,AttributeBonus[Structure]"/> ед. урона по строениям) в большой области.
+Button/Tooltip/NukeCalldownMengsk=Вызывает тактический ракетный удар в указанной области. С момента запуска ракеты до взрыва проходит <d ref="Effect,GhostMengskNukeCP,InitialDelay + Effect,GhostMengskNukeCP,ExpireDelay + Effect,GhostMengskNukeDetonateCP,InitialDelay"/> сек. Взрыв наносит до <d ref="Effect,GhostMengskNukeDamage,Amount"/> ед. урона (+<d ref="Effect,GhostMengskNukeDamage,AttributeBonus[Structure]"/> ед. урона по строениям) в небольшом радиусе.<n/><n/>Ракеты производятся в императорской академии.
+Button/Tooltip/NukeMengskArm=Готовит к запуску тактическую ракету.<n/><n/>С момента запуска ракеты до взрыва проходит <d ref="Effect,GhostMengskNukeCP,InitialDelay + Effect,GhostMengskNukeCP,ExpireDelay + Effect,GhostMengskNukeDetonateCP,InitialDelay"/> сек. Взрыв наносит до <d ref="Effect,GhostMengskNukeDamage,Amount"/> ед. урона (+<d ref="Effect,GhostMengskNukeDamage,AttributeBonus[Structure]"/> ед. урона по строениям) в небольшом радиусе.<n/><n/>Укажите цель с помощью тени императора.
+Button/Tooltip/PropagandaBlastMengsk=Повышает скорость атаки и передвижения находящихся рядом союзных войск на <d ref="(Behavior,PropagandaBlastMengsk,Modification.AttackSpeedMultiplier-1)*100"/>%.
+Button/Tooltip/PropagandaBlastMengskUpgraded=Повышает скорость атаки и передвижения находящихся рядом союзных войск на <d ref="(Behavior,PropagandaBlastMengsk,Modification.AttackSpeedMultiplier-1)*100"/>%. Идеологически обработанные солдаты и работники усиливают <c val="#ColorAttackInfo">поддержку императора</c>, ускоряя рост силы <c val="#ColorAttackInfo">императорского мандата</c>.
+Button/Tooltip/RaiseMengsk=Поднимает строение на поверхность и закрывает проход для наземных войск.
+Button/Tooltip/RavenMengsk=Воздушная боевая единица поддержки. Может переходить в патриотический режим для идеологической обработки находящихся рядом союзников.<n/><n/><c val="FFE303">Детектор</c>
+Button/Tooltip/RavenMengskSieged=Воздушная боевая единица поддержки.<n/><n/><c val="FFE303">Детектор</c>
+Button/Tooltip/RefineryMengsk=Позволяет добывать веспен. Строится на веспеновом гейзере.
+Button/Tooltip/ResearchLockedLevel05=Откройте доступ, достигнув 5-го уровня командира.
+Button/Tooltip/RoyalGuardMengsk=При уничтожении войск противника находящиеся рядом войска <c val="ffff8a">императорской гвардии</c> получают опыт. Если в момент уничтожения противника рядом нет императорской гвардии, опыт делится поровну между всеми войсками гвардии. С получением опыта и повышением <c val="ffff8a">ранга</c> увеличивается наносимый урон и запас здоровья и усиливается броня.
+Button/Tooltip/RoyalGuardMengskEnergy=При уничтожении войск противника находящиеся рядом войска <c val="ffff8a">императорской гвардии</c> получают опыт. Если в момент уничтожения противника рядом нет императорской гвардии, опыт делится поровну между всеми войсками гвардии. С получением опыта и повышением <c val="ffff8a">ранга</c> увеличивается наносимый урон и запас здоровья, усиливается броня и ускоряется восполнение энергии.
+Button/Tooltip/RoyalGuardMengskRank3Locked=<n/><c val="ff0000">3-й ранг: откройте доступ, достигнув 15-го уровня командира.</c>
+Button/Tooltip/RoyalGuardMengskRanks=<n/><n/><c val="ffff8a">С каждым новым рангом эта боевая единица будет получать новые способности или пассивные бонусы.</c><n/>
+Button/Tooltip/RoyalGuardMengskTopBarEnergy=Увеличивает силу императорского мандата в зависимости от ранга и стоимости в припасах.
+Button/Tooltip/SCVMengsk=Базовая рабочая единица. Добывает ресурсы, строит здания и проводит ремонтные работы. Может стать солдатом.<n/><n/><c val="#ColorAttackInfo">Атакует наземные цели.</c>
+Button/Tooltip/SCVMengskAdvancedConstruction=Несколько работников и солдат могут возводить строение одновременно за меньшее время.
+Button/Tooltip/SCVMengskEnlist=Приказывает солдату стать работником в ближайшем центре вербовке или складском бункере.
+Button/Tooltip/SCVMengskEnlistCC=Приказывает находящимся рядом солдатам надеть рабочую экипировку в центре вербовки или складском бункере.
+Button/Tooltip/SetArtilleryMengskRallyPoint=Отправляет выгруженных работников и солдат в указанную точку.
+Button/Tooltip/SetCommandCenterRallyPointLaborer=Отправляет завербованных работников в указанную точку. Работники, отправленные на месторождение минералов или к перерабатывающему заводу, автоматически начнут добычу ресурсов.
+Button/Tooltip/SetCommandCenterRallyPointTrooper=Отправляет завербованных солдат в указанную точку.
+Button/Tooltip/SetSupplyBunkerRallyPoint=Отправляет выгруженных работников и солдат в указанную точку.
+Button/Tooltip/SiegeModeMengsk=Переводит танк в осадный режим. В этом режиме он имеет увеличенную дальность атаки и наносит урон по области, но не может передвигаться и вести бой на малых расстояниях.
+Button/Tooltip/SiegeTankMengsk=Тяжелый танк императорской гвардии. В осадном режиме становится дальнобойной артиллерийской установкой.<n/><n/><c val="FFFF8A">Атакует только наземные цели.</c>
+Button/Tooltip/SiegeTankMengskAirlift=Шоковые танки, перевозимые «Имперскими заступниками» в осадном режиме, получают возможность с пониженной периодичностью стрелять по воздушным целям.
+Button/Tooltip/SiegeTankMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancySiegeTankMengsk$*Unit,SiegeTankMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/SiegeTankMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> способность «Шок и трепет».
+Button/Tooltip/SiegeTankMengskRank1Preview=<n/><c val="777777">1-й ранг: способность «Шок и трепет».</c>
+Button/Tooltip/SiegeTankMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> увеличивает дальность обзора и атаки в осадном режиме на 2.
+Button/Tooltip/SiegeTankMengskRank2Preview=<n/><c val="777777">2-й ранг: увеличивает дальность обзора и атаки в осадном режиме на 2.</c>
+Button/Tooltip/SiegeTankMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> увеличивает область поражения атак в осадном режиме на <d ref="(Effect,SiegeTankMengskSiegedImprovedAoEBlast,AreaArray[2].Radius/Effect,SiegeTankMengskSiegedBlast,AreaArray[2].Radius-1)*100" precision="0"/>%.
+Button/Tooltip/SiegeTankMengskRank3Preview=<n/><c val="777777">3-й ранг: увеличивает область поражения атак в осадном режиме на <d ref="(Effect,SiegeTankMengskSiegedImprovedAoEBlast,AreaArray[2].Radius/Effect,SiegeTankMengskSiegedBlast,AreaArray[2].Radius-1)*100" precision="0"/>%.</c>
+Button/Tooltip/SiegeTankMengskSieged=Тяжелый танк императорской гвардии. В режиме танка может передвигаться и обеспечивать огневую поддержку.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>
+Button/Tooltip/SiegeTankMengskStun=В осадном режиме атаки оглушают войска противника на <d ref="Behavior,SiegeTankMengskStun,Duration"/> сек. Каждая цель может быть оглушена не чаще раза в <d ref="Behavior,SiegeTankMengskStunImmunity,Duration"/> сек.<n/><n/><c val="#ColorAttackInfo">Крупные боевые единицы замедляются.</c>
+Button/Tooltip/SnipeMengsk=Наносит <d ref="Effect,SnipeDamage,Amount"/> ед. урона (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> ед. урона псионикам). Игнорирует броню.<n/><n/><c val="#ColorAttackInfo">Может применяться только против органических боевых единиц.</c>
+Button/Tooltip/SnipeMengskNovaGhost=Наносит <d ref="Effect,SnipeDamage,Amount"/> ед. урона. Игнорирует броню.<n/><n/><c val="#ColorAttackInfo">Может применяться только против органических боевых единиц.</c>
+Button/Tooltip/StarportMengsk=Авиационный завод императорской гвардии. <n/><n/><c val="ffff8a">Открывает возможности:</c><n/>– производство «Имперских заступников»<n/>– производство «Имперских вестников»<n/>– производство боевых машин «Звездная ярость»
+Button/Tooltip/StarportMengskFlying=Космопорт должен приземлиться, чтобы начать производство.
+Button/Tooltip/StructureArmorMengsk=Увеличивает запас прочности и усиливает броню этого строения.
+Button/Tooltip/StructureArmorMengskResearch=Увеличивает запас прочности и усиливает броню <c val="ffff8a">складских бункеров</c>, <c val="ffff8a">ракетных турелей</c> и <c val="ffff8a">орудий «Раскол»</c>.
+Button/Tooltip/ThorMengsk=Тяжелый осадный робот императорской гвардии. Может переходить в режим дозора.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/ThorMengskArmorAura=Дает находящимся рядом наземным союзным войскам +<d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> к броне.
+Button/Tooltip/ThorMengskArmorAuraResearch=<c val="ffff8a">«Черные молоты»</c> дают находящимся рядом наземным союзным войскам +<d ref="Behavior,ThorMengskArmorAuraTarget,Modification.LifeArmorBonus"/> к броне.
+Button/Tooltip/ThorMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyThorMengsk$*Unit,ThorMengsk,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/ThorMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> увеличивает область поражения атак в режиме дозора на <d ref="(Effect,ThorMengskSiegeTargetLargeAoESearch,AreaArray[0].Radius/Effect,ThorMengskSiegeTargetSearch,AreaArray[0].Radius-1)*100" precision="0"/>%.
+Button/Tooltip/ThorMengskRank1Preview=<n/><c val="777777">1-й ранг: увеличивает область поражения атак в режиме дозора на <d ref="(Effect,ThorMengskSiegeTargetLargeAoESearch,AreaArray[0].Radius/Effect,ThorMengskSiegeTargetSearch,AreaArray[0].Radius-1)*100" precision="0"/>%.</c>
+Button/Tooltip/ThorMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> увеличивает дальность атаки в режиме дозора на <d ref="Abil,ThorMengskSiegeTargetedIncreasedRange,Range[0]-Abil,ThorMengskSiegeTargeted,Range[0]"/>.
+Button/Tooltip/ThorMengskRank2Preview=<n/><c val="777777">2-й ранг: увеличивает дальность атаки в режиме дозора на <d ref="Abil,ThorMengskSiegeTargetedIncreasedRange,Range[0]-Abil,ThorMengskSiegeTargeted,Range[0]"/>.</c>
+Button/Tooltip/ThorMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> повышает скорость атаки в режиме дозора на <d ref="(Behavior,ThorMengskSiegeAttackRate,Modification.AttackSpeedMultiplier-1)*100" precision="0"/>%.
+Button/Tooltip/ThorMengskRank3Preview=<n/><c val="777777">3-й ранг: повышает скорость атаки в режиме дозора на <d ref="(Behavior,ThorMengskSiegeAttackRate,Modification.AttackSpeedMultiplier-1)*100" precision="0"/>%.</c>
+Button/Tooltip/ThorMengskSiege=Активирует режим дозора. В этом режиме «Черные молоты» атакуют воздушные цели, нанося большой урон по области, но не могут передвигаться.
+Button/Tooltip/ThorMengskSieged=Неподвижный тяжелый осадный робот императорской гвардии. Наносит большой урон по области воздушным целям. Может перейти в мобильный режим и стать единицей огневой поддержки.<n/><n/><c val="#ColorAttackInfo">Атакует только воздушные цели.</c>
+Button/Tooltip/ThorMengskUnsiege=Активирует мобильный режим. В этом режиме «Черный молот» может передвигаться.
+Button/Tooltip/TrooperMengsk=Пехота общего назначения. Может экипироваться разным оружием в зависимости от боевых задач. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/TrooperMengskAA=Служит для борьбы с авиацией противника. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/TrooperMengskBuild=Открывает список боевых строений.
+Button/Tooltip/TrooperMengskDropTrain=Работники и солдаты доставляются сразу в точку сбора строения.
+Button/Tooltip/TrooperMengskDropTrainResearch=<c val="ffff8a">Работники</c> и <c val="ffff8a">солдаты</c> Доминиона доставляются сразу в точку сбора центра вербовки.
+Button/Tooltip/TrooperMengskEnlist=Приказывает работнику стать солдатом в ближайшем центре вербовке или складском бункере.
+Button/Tooltip/TrooperMengskEnlistCC=Приказывает находящимся рядом работникам экипироваться для боевых действий в центре вербовки или складском бункере.
+Button/Tooltip/TrooperMengskFlamethrower=Служит для борьбы с пехотой противника. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные цели.</c>
+Button/Tooltip/TrooperMengskImperialMandateGeneration=После идеологической обработки «Имперским вестником» эта боевая единица будет усиливать <c val="#ColorAttackInfo">подержку императора</c> на <c val="FFFF8A"><d ref="Effect,PropagandaMengskTopbarRegenDummy,Amount*Effect,MasteryMengskTrooperImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.
+Button/Tooltip/TrooperMengskImproved=Улучшенная пехота общего назначения. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/TrooperMengskSpecializeAA=Экипирует солдата более мощным оружием, особенно эффективным против бронированных воздушных войск. Если солдат погибает, его оружие остается на поле боя, где его могут подобрать другие солдаты.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/TrooperMengskSpecializeFlamethrower=Экипирует солдата более мощным оружием, особенно эффективным против легких наземных войск. Если солдат погибает, его оружие остается на поле боя, где его могут подобрать другие солдаты.<n/><n/><c val="FFFF8A">Атакует наземные цели.</c>
+Button/Tooltip/TrooperMengskSpecializeImproved=Экипирует солдата более мощным оружием, эффективным против всех типов войск. Если солдат погибает, его оружие остается на поле боя, где его могут подобрать другие солдаты.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>
+Button/Tooltip/TrooperMengskWeaponRefundText=<s val="Kicker_Minerals">+<d ref="Effect,TrooperMengskWeaponRefund,Resources[0]"/> </s><IMG path="Assets\Textures\icon-mineral-terran.dds" alignment="absolutemiddle" height="28" width="28"/>
+Button/Tooltip/UltraliskMengsk=«Полезай туда и положи механизм на краю рядом с его головой. Да, вот так. И Герберт, пожалуйста, постарайся не разъярить животное. Если оно впадет в ярость, сегодня нам точно его не усмирить».<n/><n/>– Доктор Субсурьян своему ассистенту.<n/><n/><c val="ffff8a">Атакует только наземные цели.</c>
+Button/Tooltip/UnsiegeMengsk=Переводит в режим танка. В этом режиме шоковый танк может передвигаться, но наносит меньше урона.
+Button/Tooltip/VikingMengskAssault=Единица огневой поддержки. Может переходить в режим истребителя для ведения боя с воздушными войсками.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>
+Button/Tooltip/VikingMengskAttackDamage=Смена режима увеличивает наносимый урон на <d ref="(Behavior,VikingMengskAirAttackDamage,DamageResponse.ModifyFraction-1)*100"/>% на <d ref="Behavior,VikingMengskAirAttackDamage,Duration"/> сек. Срабатывает не чаще раза в <d ref="Behavior,VikingMengskAttackDamageCooldown,Cost.Cooldown.TimeUse"/> сек.
+Button/Tooltip/VikingMengskCheatDeath=Получив критический урон, «Звездная ярость» переходит в режим истребителя и получает временный защитный барьер, поглощающий <d ref="Behavior,VikingMengskCheatDeath,DamageResponse.ModifyLimit"/> ед. урона в течение <d ref="Behavior,VikingMengskCheatDeath,Duration"/> сек. Срабатывает не чаще раза в <d ref="Behavior,VikingMengskCheatDeathCooldown,Cost.Cooldown.TimeUse"/> сек.
+Button/Tooltip/VikingMengskDodge=<d ref="Behavior,VikingMengskFighterDodge,DamageResponse.Chance*100"/>%-я вероятность избежать атаки.
+Button/Tooltip/VikingMengskFighter=Воздушная единица поддержки императорской гвардии, вооруженная мощными противовоздушными ракетами. Может переходить в штурмовой режим для ведения боя с наземными войсками.<n/><n/><c val="#ColorAttackInfo">Атакует только воздушные цели.</c>
+Button/Tooltip/VikingMengskImperialMandateGeneration=<c val="#ColorAttackInfo">Императорская гвардия</c> усиливает <c val="#ColorAttackInfo">поддержку императора</c> в зависимости от <c val="#ColorAttackInfo">ранга</c> и стоимости в припасах. За каждую единицу поддержки императора Менгск накапливает 1 ед. силы <c val="#ColorAttackInfo">императорского мандата</c> раз в <d ref="Effect,TopbarMengskBonusRegenFactorDummy,Amount"/> сек.<n/><n/>Эта боевая единица усиливает поддержку императора на <c val="#ColorAttackInfo"><d ref="$BehaviorStackCount:MengskVeterancyVikingMengsk$*Unit,VikingMengskFighter,Food*(-1)*Effect,RoyalGuardMengskTopbarRegenDummy,Amount*Effect,MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy,Amount" player="current" precision="0"/></c> ед.
+Button/Tooltip/VikingMengskRank1=<n/><c val="ffff8a">1-й ранг:</c> увеличивает урон по крупным целям.
+Button/Tooltip/VikingMengskRank1Preview=<n/><c val="777777">1-й ранг: увеличивает урон по крупным целям.</c>
+Button/Tooltip/VikingMengskRank2=<n/><c val="ffff8a">2-й ранг:</c> способность «Тактическая переориентация».
+Button/Tooltip/VikingMengskRank2Preview=<n/><c val="777777">2-й ранг: способность «Тактическая переориентация».</c>
+Button/Tooltip/VikingMengskRank3=<n/><c val="ffff8a">3-й ранг:</c> протокол «Феникс» и способность «Маневры уклонения».
+Button/Tooltip/VikingMengskRank3Preview=<n/><c val="777777">3-й ранг: протокол «Феникс» и способность «Маневры уклонения».</c>
+Button/Tooltip/VikingMengskSpeed=Скорость передвижения повышена на <d ref="$UpgradeEffectArrayValue:VikingMengskSpeed:Unit,VikingMengskFighter,Speed$/Unit,VikingMengskFighter,Speed*100" player="0"/>%.
+Button/Tooltip/VikingMengskSpeedResearch=Повышают скорость передвижения боевых машин <c val="ffff8a">«Звездная ярость»</c> на <d ref="$UpgradeEffectArrayValue:VikingMengskSpeed:Unit,VikingMengskFighter,Speed$/Unit,VikingMengskFighter,Speed*100" player="0"/>%.
+Button/Tooltip/WeaponsFreeMengsk=Приказывает выбранным войскам атаковать по собственному усмотрению. Они будут самостоятельно вступать в бой с противником и преследовать его.
+Button/Tooltip/YamatoGunMengsk=Поражает цель мощным зарядом плазмы, нанося <d ref="Effect,BattlecruiserMengskYamatoDamage,Amount"/> ед. урона.
+Button/Tooltip/ZerglingMengsk=Во время правления Арктура Менгска самые талантливые ученые, участвовавшие в программе «Цербер», получили секретное задание начать опыты над зергами из изолированной стаи Магуро. Зерглинги были одним из первых видов, которые попали к ним в лабораторию.<n/><n/><c val="FFFF8A">Атакует только наземные цели.</c>
+DocInfo/DescLong=Включает модификацию с Арктуром Менгском
+DocInfo/Name=Командир Менгск
+Effect/Name/90mmCannonsMengskLookAt=
+Effect/Name/ATALaserBatteryMengskLM=Лазерная батарея «воздух-воздух»
+Effect/Name/ATALaserBatteryMengskU=Лазерная батарея «воздух-воздух»
+Effect/Name/ATSLaserBatteryMengskLM=Лазерная батарея «воздух-земля»
+Effect/Name/ATSLaserBatteryMengskU=Лазерная батарея «воздух-земля»
+Effect/Name/ArtilleryMengskBombardmentDamage=
+Effect/Name/ArtilleryMengskBombardmentDamageSearch=
+Effect/Name/ArtilleryMengskBombardmentDropDelayCP=
+Effect/Name/ArtilleryMengskBombardmentDummy=
+Effect/Name/ArtilleryMengskCargoTrigger=
+Effect/Name/ArtilleryMengskExperimentalStrikeClearFacing=
+Effect/Name/ArtilleryMengskExperimentalStrikeCloudCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeCloudSearch=
+Effect/Name/ArtilleryMengskExperimentalStrikeCouldSicknessAB=
+Effect/Name/ArtilleryMengskExperimentalStrikeDropDeplayCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeDummy=
+Effect/Name/ArtilleryMengskExperimentalStrikeFaceTargetCP=
+Effect/Name/ArtilleryMengskExperimentalStrikeFearAB=
+Effect/Name/ArtilleryMengskExperimentalStrikeInitialSearch=
+Effect/Name/ArtilleryMengskExperimentalStrikePeriodicDamage=
+Effect/Name/ArtilleryMengskExperimentalStrikeSet=
+Effect/Name/ArtilleryMengskExperimentalStrikeSetFacing=
+Effect/Name/ArtilleryMengskGlobalExperimentalStrikeDummy=
+Effect/Name/BattlecruiserMengskAttackSwitch=
+Effect/Name/BattlecruiserMengskBonusRangeAB=
+Effect/Name/BattlecruiserMengskBonusRangeSearch=
+Effect/Name/BattlecruiserMengskVeterancyAB=
+Effect/Name/BattlecruiserMengskVeterancyCappedAB=
+Effect/Name/BattlecruiserMengskVeterancySwitch=
+Effect/Name/BattlecruiserMengskYamatoAoEDamage=
+Effect/Name/BattlecruiserMengskYamatoAoELM=
+Effect/Name/BattlecruiserMengskYamatoDamage=
+Effect/Name/BattlecruiserMengskYamatoLM=
+Effect/Name/BattlecruiserMengskYamatoLevelSwitch=
+Effect/Name/BattlecruiserMengskYamatoMultiple=
+Effect/Name/BattlecruiserMengskYamatoMultipleDelayCP=
+Effect/Name/BattlecruiserMengskYamatoMultipleNewTargetSearch=
+Effect/Name/BattlecruiserMengskYamatoMultipleSet=
+Effect/Name/BattlecruiserMengskYamatoMultipleSwitch=
+Effect/Name/BattlecruiserMengskYamatoTargetMarkerAB=
+Effect/Name/BattlecruiserMengskYamatoTargetMarkerRB=
+Effect/Name/BunkerDepotMengskDropMorph=
+Effect/Name/C10CanisterRifleMengsk=Карабин C-10
+Effect/Name/CommandCenterMengskOrbitalStrikeAssignRally=
+Effect/Name/CommanderPrestigeMengskTrooperBoomCU=
+Effect/Name/GhostMengskEMPAoESwitch=
+Effect/Name/GhostMengskEMPBigLM=
+Effect/Name/GhostMengskEMPBigSearch=
+Effect/Name/GhostMengskEMPDamage=
+Effect/Name/GhostMengskEMPDecloakAB=
+Effect/Name/GhostMengskEMPFeedbackDamage=
+Effect/Name/GhostMengskEMPRemoveEnergy=
+Effect/Name/GhostMengskEMPSet=
+Effect/Name/GhostMengskEMPSmallLM=
+Effect/Name/GhostMengskEMPSmallSearch=
+Effect/Name/GhostMengskEMPStunLongAB=
+Effect/Name/GhostMengskEMPStunShortAB=
+Effect/Name/GhostMengskEMPStunSwitch=
+Effect/Name/GhostMengskHoldFire=
+Effect/Name/GhostMengskHoldFireB=
+Effect/Name/GhostMengskIrradiateAB=
+Effect/Name/GhostMengskIrradiateBigDamage=
+Effect/Name/GhostMengskIrradiateBigSearch=
+Effect/Name/GhostMengskIrradiateDamageSwitch=
+Effect/Name/GhostMengskIrradiateDeathDamage=
+Effect/Name/GhostMengskIrradiateDeathSearch=
+Effect/Name/GhostMengskIrradiatePreMarkerAB=
+Effect/Name/GhostMengskIrradiatePreMarkerRB=
+Effect/Name/GhostMengskIrradiateSearchSwitch=
+Effect/Name/GhostMengskIrradiateSmallDamage=
+Effect/Name/GhostMengskIrradiateSmallSearch=
+Effect/Name/GhostMengskNukeCP=
+Effect/Name/GhostMengskNukeCalldown=
+Effect/Name/GhostMengskNukeDamage=
+Effect/Name/GhostMengskNukeDetonateCP=
+Effect/Name/GhostMengskNukeGuidedCP=
+Effect/Name/GhostMengskNukeSuicide=
+Effect/Name/GhostMengskNukeSwitch=
+Effect/Name/GhostMengskSuperCloakAB=
+Effect/Name/GhostMengskVeterancyAB=
+Effect/Name/GhostMengskVeterancyCappedAB=
+Effect/Name/GhostMengskVeterancySwitch=
+Effect/Name/GhostMengskWeaponsFree=
+Effect/Name/HydraliskMengskCU=
+Effect/Name/HydraliskMengskExplosiveSpinesDamage=
+Effect/Name/HydraliskMengskMeleeDamage=
+Effect/Name/HydraliskMengskMeleeSet=
+Effect/Name/HydraliskMengskSpawnCP=
+Effect/Name/HydraliskMengskSpawnTrigger=
+Effect/Name/HydraliskMengskTimedLifeExpireAB=
+Effect/Name/HyperjumpMengskCreatePrecursor=
+Effect/Name/HyperjumpMengskTeleport=
+Effect/Name/HyperjumpMengskTeleportAB=
+Effect/Name/HyperjumpMengskTeleportInAB=
+Effect/Name/HyperjumpMengskTeleportOutAB=
+Effect/Name/HyperjumpMengskTeleportOutABSet=
+Effect/Name/HyperjumpMengskTeleportOutTargetAB=
+Effect/Name/HyperjumpMengskTeleportSet=
+Effect/Name/ImperialMandateGenerationFactorDummy=
+Effect/Name/JavelinMissileLaunchersMengskDamage=
+Effect/Name/JavelinMissileLaunchersMengskLM=
+Effect/Name/JavelinMissileLaunchersMengskPersistent=
+Effect/Name/LanzerTorpedoesMengsk=
+Effect/Name/LanzerTorpedoesMengskDamage=
+Effect/Name/LanzerTorpedoesMengskLM=
+Effect/Name/MarauderMengskAbsorbAB=
+Effect/Name/MarauderMengskAbsorbKnockbackSearch=
+Effect/Name/MarauderMengskAbsorbReapplicatorAB=
+Effect/Name/MarauderMengskAbsorbReapplicatorMU=
+Effect/Name/MarauderMengskAbsorbReapplicatorSet=
+Effect/Name/MarauderMengskAttackSpeedBoostAB=
+Effect/Name/MarauderMengskLevel2Set=
+Effect/Name/MarauderMengskShrapnelDamage=
+Effect/Name/MarauderMengskShrapnelImpactSet=
+Effect/Name/MarauderMengskShrapnelSearch=
+Effect/Name/MarauderMengskShrapnelSet=
+Effect/Name/MarauderMengskShrapnelSlowAB=
+Effect/Name/MarauderMengskVeterancyAB=
+Effect/Name/MarauderMengskVeterancyCappedAB=
+Effect/Name/MarauderMengskVeterancySwitch=
+Effect/Name/MasteryMengskRoyalGuardCostDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardExperienceGainRateDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy=
+Effect/Name/MasteryMengskRoyalGuardImperialMandateRegenerationFactorDummy=
+Effect/Name/MasteryMengskStartingImperialMandateDisplayDummy=
+Effect/Name/MasteryMengskTopPanelPowerDisplayDummy=
+Effect/Name/MasteryMengskTrooperImperialMandateRegenerationDisplayDummy=
+Effect/Name/MasteryMengskTrooperImperialMandateRegenerationFactorDummy=
+Effect/Name/MedivacMengskHealApplyBehaviorSet=
+Effect/Name/MedivacMengskHealApplyCasterBehavior=
+Effect/Name/MedivacMengskHealApplyTargetBehavior=
+Effect/Name/MedivacMengskHealInitialSet=
+Effect/Name/MedivacMengskHealInitialSwitch=
+Effect/Name/MedivacMengskHealIssueHealOrder=
+Effect/Name/MedivacMengskHealIssueHealOrderDelay=
+Effect/Name/MedivacMengskHealIssueOrderSet=
+Effect/Name/MedivacMengskHealIssueStopOrder=
+Effect/Name/MedivacMengskHealLevel1=
+Effect/Name/MedivacMengskHealModifyCasterEnergy=
+Effect/Name/MedivacMengskHealModifySet=
+Effect/Name/MedivacMengskHealModifyTargetLife=
+Effect/Name/MedivacMengskHealRemoveBehaviorSet=
+Effect/Name/MedivacMengskHealRemoveCasterBehavior=
+Effect/Name/MedivacMengskHealRemoveTargetBehavior=
+Effect/Name/MedivacMengskHealScanPersistent=
+Effect/Name/MedivacMengskHealSearch=
+Effect/Name/MedivacMengskHealTargetPersistent=
+Effect/Name/MedivacMengskLoadSet=
+Effect/Name/MedivacMengskSiegeTankAirliftBlast=
+Effect/Name/MedivacMengskSiegeTankAirliftDirected=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEBlast=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEDirected=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoESet=
+Effect/Name/MedivacMengskSiegeTankAirliftImprovedAoEStunSearch=
+Effect/Name/MedivacMengskSiegeTankAirliftLoadTrigger=
+Effect/Name/MedivacMengskSiegeTankAirliftSet=
+Effect/Name/MedivacMengskSiegeTankAirliftStunSearch=
+Effect/Name/MedivacMengskSiegeTankAirliftSwitch=
+Effect/Name/MedivacMengskSiegeTankAirliftUnloadTrigger=
+Effect/Name/MedivacMengskSpeedBoost=
+Effect/Name/MedivacMengskThorAirliftAB=
+Effect/Name/MedivacMengskThorAirliftRB=
+Effect/Name/MedivacMengskThorPickupUnsiege=
+Effect/Name/MedivacMengskUnloadSet=
+Effect/Name/MedivacMengskUnloadTracker=
+Effect/Name/MengskLevelUpDummyMU=
+Effect/Name/MengskRoyalGuardExperienceGainDummy=
+Effect/Name/MengskSeekDestroyTrigger=
+Effect/Name/MengskTopBarEnergyRegenTrooperDummy=MengskTopBarEnergyRegenTrooperDummy
+Effect/Name/MengskVeteranLevelUpDummy=
+Effect/Name/MengskVeteranMaxedTrigger=
+Effect/Name/MengskVeteranTrigger=
+Effect/Name/MengskZergCalldownAreaDummy=
+Effect/Name/MengskZergCalldownLevel2Set=
+Effect/Name/MengskZergCalldownLevel3Set=
+Effect/Name/MengskZergCalldownLevel4Set=
+Effect/Name/MengskZergSpawnDelay=
+Effect/Name/MengskZergSpawnDelayAB=
+Effect/Name/MengskZergSpawnFinalSet=
+Effect/Name/MengskZergSpawnMakePrecursorAB=
+Effect/Name/MengskZergSpawnPrecursorRB=
+Effect/Name/MengskZergSpawnSet=
+Effect/Name/MengskZergTimedLifeAB=
+Effect/Name/MengskZergTimedLifeExpireSwitch=
+Effect/Name/MissileTurretMengskAttackCP=
+Effect/Name/MissileTurretMengskAttackDamage=
+Effect/Name/MissileTurretMengskAttackLM=
+Effect/Name/MutaliskMengskAirDropAB=
+Effect/Name/MutaliskMengskAirDropDelayAB=
+Effect/Name/MutaliskMengskAirDropLowerAB=
+Effect/Name/MutaliskMengskCU=
+Effect/Name/MutaliskMengskGlaiveWurmDamage=
+Effect/Name/MutaliskMengskGlaiveWurmDamageFirstBounceSearch=
+Effect/Name/MutaliskMengskGlaiveWurmFirstSet=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchFirstBounceMissile=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchMissile=
+Effect/Name/MutaliskMengskGlaiveWurmLaunchSecondBounceMissile=
+Effect/Name/MutaliskMengskGlaiveWurmSecondBounceSearch=
+Effect/Name/MutaliskMengskGlaiveWurmSecondImpactDamage=
+Effect/Name/MutaliskMengskGlaiveWurmSecondSet=
+Effect/Name/MutaliskMengskGlaiveWurmThirdImpactDamage=
+Effect/Name/MutaliskMengskGlaiveWurmThirdSet=
+Effect/Name/MutaliskMengskRaiseAB=
+Effect/Name/MutaliskMengskSpawnCP=
+Effect/Name/MutaliskMengskSpawnTrigger=
+Effect/Name/NeedleSpinesMengskDamage=
+Effect/Name/NeedleSpinesMengskLaunchMissile=
+Effect/Name/NuclearAnnihilationMengskBigNukeDamageSearch=
+Effect/Name/NuclearAnnihilationMengskBigNukeDropDelayCP=
+Effect/Name/NuclearAnnihilationMengskDamage=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDamage=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDamageSearch=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDropDelayCP=
+Effect/Name/NuclearAnnihilationMengskSmallNukeDummyCP=
+Effect/Name/PropagandaBlastMengskAB=
+Effect/Name/PropagandaBlastMengskPermanentAB=
+Effect/Name/PropagandaBlastMengskPermanentRB=
+Effect/Name/PropagandaBlastMengskSearch=
+Effect/Name/PropagandaMengskTopbarRegenDummy=
+Effect/Name/PunisherGrenadesMengskLM=
+Effect/Name/PunisherGrenadesMengskSet=
+Effect/Name/PunisherGrenadesMengskSlow=
+Effect/Name/PunisherGrenadesMengskU=
+Effect/Name/RoyalGuardMengskTopbarRegenDummy=
+Effect/Name/SCVMengskAttackDamage=SCVMengskAttackDamage
+Effect/Name/SCVMengskDropMorphTrooperCP=
+Effect/Name/SCVMengskEnlistOrder=
+Effect/Name/SCVMengskEnlistSearch=
+Effect/Name/SalvageSharedMengsk=
+Effect/Name/SiegeTankMengskDamage=
+Effect/Name/SiegeTankMengskSiegedBlast=
+Effect/Name/SiegeTankMengskSiegedDirected=
+Effect/Name/SiegeTankMengskSiegedDummy=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEBlast=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEDirected=
+Effect/Name/SiegeTankMengskSiegedImprovedAoESet=
+Effect/Name/SiegeTankMengskSiegedImprovedAoEStunSearch=
+Effect/Name/SiegeTankMengskSiegedSet=
+Effect/Name/SiegeTankMengskSiegedSlowHeroicAB=
+Effect/Name/SiegeTankMengskSiegedStunAB=
+Effect/Name/SiegeTankMengskSiegedStunImmunityAB=
+Effect/Name/SiegeTankMengskSiegedStunSearch=
+Effect/Name/SiegeTankMengskSiegedStunSet=
+Effect/Name/SiegeTankMengskSiegedSwitch=
+Effect/Name/SiegeTankMengskVeterancyAB=
+Effect/Name/SiegeTankMengskVeterancySwitch=
+Effect/Name/SiegeTankMengskVeterancyyCappedAB=
+Effect/Name/SnipeMengskDamage=
+Effect/Name/ThorMengskArmorAuraSearch=
+Effect/Name/ThorMengskArmorAuraTargetAB=
+Effect/Name/ThorMengskSiegeOrder=
+Effect/Name/ThorMengskSiegeTargetAB=
+Effect/Name/ThorMengskSiegeTargetCP=
+Effect/Name/ThorMengskSiegeTargetDelayCP=
+Effect/Name/ThorMengskSiegeTargetLargeAoECP=
+Effect/Name/ThorMengskSiegeTargetLargeAoEDelayCP=
+Effect/Name/ThorMengskSiegeTargetLargeAoESearch=
+Effect/Name/ThorMengskSiegeTargetSearch=
+Effect/Name/ThorMengskSiegeTargetSuddenUpgradeWrapper=
+Effect/Name/ThorMengskSiegedDamage=
+Effect/Name/ThorMengskSiegedLM=
+Effect/Name/ThorMengskVeterancyAB=
+Effect/Name/ThorMengskVeterancyCappedAB=
+Effect/Name/ThorMengskVeterancySwitch=
+Effect/Name/ThorsHammerMengsk=
+Effect/Name/ThorsHammerMengskDamage=
+Effect/Name/TopbarMengskBonusRegenFactorDummy=
+Effect/Name/TrooperMengskAA=
+Effect/Name/TrooperMengskCalldownCU=
+Effect/Name/TrooperMengskDamage=
+Effect/Name/TrooperMengskDeathSwitch=
+Effect/Name/TrooperMengskDropMorphSCVSet=
+Effect/Name/TrooperMengskDropTrainCP=
+Effect/Name/TrooperMengskDropTrainFinalSet=
+Effect/Name/TrooperMengskDropTrainSet=
+Effect/Name/TrooperMengskEnlistOrder=
+Effect/Name/TrooperMengskEnlistSearch=
+Effect/Name/TrooperMengskEnlistingAB=
+Effect/Name/TrooperMengskEnlistingRB=
+Effect/Name/TrooperMengskFlamethrower=
+Effect/Name/TrooperMengskFlamethrowerCP=
+Effect/Name/TrooperMengskFlamethrowerDamage=
+Effect/Name/TrooperMengskFlamethrowerDamageWrapper=
+Effect/Name/TrooperMengskFlamethrowerRangeSwitch=
+Effect/Name/TrooperMengskFlamethrowerSearch=
+Effect/Name/TrooperMengskImprovedDamage=
+Effect/Name/TrooperMengskMorphNoWeaponSet=
+Effect/Name/TrooperMengskMorphSCV=
+Effect/Name/TrooperMengskMorphSCVSet=
+Effect/Name/TrooperMengskMorphSet=
+Effect/Name/TrooperMengskMorphSwitch=
+Effect/Name/TrooperMengskRocketCP=
+Effect/Name/TrooperMengskRocketDamage=
+Effect/Name/TrooperMengskRocketLM=
+Effect/Name/TrooperMengskWeaponAA=
+Effect/Name/TrooperMengskWeaponAACU=
+Effect/Name/TrooperMengskWeaponDropDelayAACP=
+Effect/Name/TrooperMengskWeaponDropDelayFlamethrowerCP=
+Effect/Name/TrooperMengskWeaponDropDelayImprovedCP=
+Effect/Name/TrooperMengskWeaponDropDelaySwitch=
+Effect/Name/TrooperMengskWeaponDropSwitch=
+Effect/Name/TrooperMengskWeaponEquipSet=
+Effect/Name/TrooperMengskWeaponExpireSet=
+Effect/Name/TrooperMengskWeaponFlamethrower=
+Effect/Name/TrooperMengskWeaponFlamethrowerCU=
+Effect/Name/TrooperMengskWeaponImproved=
+Effect/Name/TrooperMengskWeaponImprovedCU=
+Effect/Name/TrooperMengskWeaponPickerUpperRegister=
+Effect/Name/TrooperMengskWeaponPickerupperUnregister=
+Effect/Name/TrooperMengskWeaponPickupRegister=
+Effect/Name/TrooperMengskWeaponRefund=
+Effect/Name/TwinGatlingCannonsMengsk=
+Effect/Name/UltraliskMengskCU=
+Effect/Name/UltraliskMengskKaiserBladesDamage=
+Effect/Name/UltraliskMengskSpawnCP=
+Effect/Name/UltraliskMengskSpawnTrigger=
+Effect/Name/UltraliskMengskTimedLifeExpireAB=
+Effect/Name/VehicleAfterburnersMengskAB=
+Effect/Name/VikingMengskAttackDamageCooldownAB=
+Effect/Name/VikingMengskAttackDamageCooldownMU=
+Effect/Name/VikingMengskAttackDamageCooldownSet=
+Effect/Name/VikingMengskCheatDeathCooldownMU=
+Effect/Name/VikingMengskVeterancyAB=
+Effect/Name/VikingMengskVeterancyCappedAB=
+Effect/Name/VikingMengskVeterancySwitch=
+Effect/Name/ZerglingMengskAttackDamage=
+Effect/Name/ZerglingMengskCU=
+Effect/Name/ZerglingMengskSpawnCP=
+Effect/Name/ZerglingMengskSpawnTrigger=
+Effect/Name/ZerglingMengskTimedLifeExpireAB=
+Error/MaximumSupply=
+MasteryMengskStartingImperialMandateAppend=<n/><n/><c val="FFFF8A">Умение:</c> начальная сила императорского мандата повышена на <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c> ед.
+Race/Name/TerM=Терраны Менгска
+RequirementNode/Tooltip/CountBehaviorArtilleryMengskCargoGlobalCompleteOnly2675143439=Орудие «Раскол» с загруженным персоналом
+RequirementNode/Tooltip/CountBehaviorPropagandaBlastMengskCompleteOnlyAtUnit1474688104=Идеологическая обработка «Имперским вестником»
+RequirementNode/Tooltip/CountUnitAlias_BarracksMengskCompleteOnly92025031TechTreeCheat=Казармы
+RequirementNode/Tooltip/CountUnitAlias_CommandCenterMengskCompleteOnly1787385606TechTreeCheat=Центр вербовки
+RequirementNode/Tooltip/CountUnitAlias_FactoryMengskCompleteOnly3975202633TechTreeCheat=Завод
+RequirementNode/Tooltip/CountUnitAlias_StarportMengskCompleteOnly880601908TechTreeCheat=Космопорт
+RequirementNode/Tooltip/CountUnitArtilleryMengskCompleteOnly2292951859TechTreeCheat=Орудие «Раскол»
+RequirementNode/Tooltip/CountUnitEngineeringBayMengskCompleteOnly1938945142TechTreeCheat=Инженерный комплекс
+RequirementNode/Tooltip/CountUnitFusionCoreMengskCompleteOnly203485344TechTreeCheat=Центр синтеза
+RequirementNode/Tooltip/CountUnitGhostAcademyMengskCompleteOnly2782960886=Императорская академия
+RequirementNode/Tooltip/CountUnitNukeMengskCompleteOnly3727871538=Построить тактическую ракету в императорской академии
+RequirementNode/Tooltip/CountUpgradeArtilleryMengskRangeCompleteOnly3576403734=Разработать полусферические ускорители в инженерном комплексе
+RequirementNode/Tooltip/CountUpgradeBattlecruiserMengskRangeAuraCompleteOnly2725800310=Разработать системы наведения полевой поддержки в центре синтеза
+RequirementNode/Tooltip/CountUpgradeBlimpMengskTopbarRegenCompleteOnly3221082208=Разработать мощные радиоволны в центре синтеза
+RequirementNode/Tooltip/CountUpgradeBunkerDepotMengskRangeCompleteOnly3144739092=Разработать амбразуры с автоприцелом в инженерном комплексе
+RequirementNode/Tooltip/CountUpgradeGhostMengskGuidedStrikeCompleteOnly989769884=Разработать тактические ракеты «Монарх» в императорской академии
+RequirementNode/Tooltip/CountUpgradeMarauderMengskSlowCompleteOnly2342204682=Разработать контузящие гранаты в императорской академии
+RequirementNode/Tooltip/CountUpgradeMedivacMengskDoubleHealBeamCompleteOnly269547913=Разработать синхронные реаниматоры в центре синтеза
+RequirementNode/Tooltip/CountUpgradeMedivacMengskPermanentCloakCompleteOnly511910073=Разработать рассеивающее поле в центре синтеза
+RequirementNode/Tooltip/CountUpgradeMedivacMengskSiegeTankAirliftCompleteOnly4291057663=Разработать орудийные стабилизаторы в арсенале
+RequirementNode/Tooltip/CountUpgradeMedivacMengskSiegeTankAirliftQueuedOrBetter4291057663=Разработать орудийные стабилизаторы в арсенале
+RequirementNode/Tooltip/CountUpgradeMengskStructureArmorCompleteOnly2054151329=Разработать укрепленную обшивку из неостали в инженерном комплексе
+RequirementNode/Tooltip/CountUpgradeThorMengskArmorAuraCompleteOnly618094651=Разработать охранное поле в арсенале
+RequirementNode/Tooltip/CountUpgradeTrooperMengskDropTrainCompleteOnly480319619=Разработать орбитальные десантные капсулы в инженерном комплексе
+RequirementNode/Tooltip/CountUpgradeTrooperMengskInstantTransformCompleteOnly1095005716=Разработать военно-полевую подготовку в инженерном комплексе
+RequirementNode/Tooltip/CountUpgradeVikingMengskSpeedCompleteOnly1841791773=Разработать турбины «Асгард» в центре синтеза
+RequirementNode/Tooltip/Eq1349852341CountUpgradeMengskTrooperArmorsLevel2CompleteOnly1=Броня войск Доминиона 2-го уровня
+RequirementNode/Tooltip/Eq2456287108CountUpgradeMengskTrooperArmorsLevel1CompleteOnly1=Броня войск Доминиона 1-го уровня
+RequirementNode/Tooltip/Eq3878729167CountUpgradeMengskTrooperWeaponsLevel2CompleteOnly1=Вооружение войск Доминиона 2-го уровня
+RequirementNode/Tooltip/Eq843366628CountUpgradeMengskTrooperWeaponsLevel1CompleteOnly1=Вооружение войск Доминиона 1-го уровня
+RequirementNode/Tooltip/GTE1737461815CountBehaviorArtilleryMengskCargoCompleteOnlyAtUnit1=Загруженные работники
+RequirementNode/Tooltip/Not2895527276CountUnitNukeMengskQueuedOrBetterAtUnit=Отсутствие тактической ракеты в императорской академии
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancyGhostMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancyGhostMengskCappedCompleteOnlyAtUnit2=1-й ранг
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit2=1-й ранг
+RequirementNode/Tooltip/Or3593657712GTECountBehaviorMengskVeterancySiegeTankMengskCompleteOnlyAtUnit2GTECountBehaviorMengskVeterancySiegeTankMengskCappedCompleteOnlyAtUnit2=1-й ранг
+RequirementNode/Tooltip/Or3604015190GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit4GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit4=3-й ранг
+RequirementNode/Tooltip/Or4116208132GTECountBehaviorMengskVeterancyMarauderMengskCompleteOnlyAtUnit3GTECountBehaviorMengskVeterancyMarauderMengskCappedCompleteOnlyAtUnit3=2-й ранг
+RequirementNode/Tooltip/Or4116208132GTECountBehaviorMengskVeterancyVikingMengskCompleteOnlyAtUnit3GTECountBehaviorMengskVeterancyVikingMengskCappedCompleteOnlyAtUnit3=2-й ранг
+RequirementNode/Tooltip/Or858529743GTECountBehaviorMengskVeterancyVikingMengskCompleteOnlyAtUnit4GTECountBehaviorMengskVeterancyVikingMengskCappedCompleteOnlyAtUnit4=3-й ранг
+TrooperOrLaborer=Целью должен быть солдат или работник.
+UI/MengskTopBarEnergyAddendum=<n/><n/><c val="ffff8a">Умение:</c> начальная сила императорского мандата повышена на <c val="ffff8a"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c> ед.</c>
+UI/MengskTopBarEnergyDesc=Императорский мандат дает доступ к чрезвычайным полномочиям.<n/><n/>Вы получаете +<d ref="Unit,CoopCasterMengsk,EnergyRegenRate+Effect,MengskTopBarEnergyRegenRoyalGuardDummy,Amount+Effect,MengskTopBarEnergyRegenTrooperDummy,Amount" player="current" precision="0"/> к силе императорского мандата раз в <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>
+UI/MengskTopBarEnergyName=Императорский мандат
+UI/MengskTopBarEnergyRegenRoyalGuardAddendum=<n/><n/><c val="ffff8a">Умение:</c> поддержка императора за счет императорской гвардии усилена на <c val="ffff8a"><d ref="Effect,MasteryMengskRoyalGuardImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.</c>
+UI/MengskTopBarEnergyRegenRoyalGuardDesc=Поддержка императорской гвардии повышает силу императорского мандата на <d ref="Effect,MengskTopBarEnergyRegenRoyalGuardDummy,Amount" player="current" precision="0"/> ед. раз в <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>
+UI/MengskTopBarEnergyRegenRoyalGuardName=Мощь империи
+UI/MengskTopBarEnergyRegenTrooperAddendum=<n/><n/><c val="ffff8a">Умение:</c> поддержка императора за счет идеологически обработанных работников усилена на <c val="ffff8a"><d ref="Effect,MasteryMengskTrooperImperialMandateRegenerationDisplayDummy,Amount" player="current"/></c>%.</c>
+UI/MengskTopBarEnergyRegenTrooperDesc=Поддержка идеологически обработанных работников и солдат повышает силу императорского мандата на <d ref="Effect,MengskTopBarEnergyRegenTrooperDummy,Amount" player="current" precision="0"/> ед. в <d time="[d ref='Effect,TopbarMengskBonusRegenFactorDummy,Amount'/]" player="current" precision="0"/>
+UI/MengskTopBarEnergyRegenTrooperName=Воля народа
+UI/TeamColor01=Красный
+Unit/Category/MengskUnits=Доминион терранов
+Unit/Name/ATALaserBatteryMengskLMWeapon=Лазерная батарея «воздух-воздух» Менгска
+Unit/Name/ATSLaserBatteryMengskLMWeapon=Лазерная батарея «воздух-земля» Менгска
+Unit/Name/ArmoryMengsk=Арсенал
+Unit/Name/ArtilleryMengsk=Орудие «Раскол»
+Unit/Name/ArtilleryMengskExperimentalStrikeMissile=
+Unit/Name/BarracksMengsk=Казармы
+Unit/Name/BattlecruiserMengsk=«Гордость Августграда»
+Unit/Name/BattlecruiserMengskYamato=
+Unit/Name/BattlecruiserMengskYamatoAoE=
+Unit/Name/BunkerDepotMengsk=Складской бункер
+Unit/Name/CommandCenterMengsk=Центр вербовки
+Unit/Name/CoopCasterMengsk=Coop Caster Mengsk
+Unit/Name/EMPMengskWeapon=ЭМИ Менгска
+Unit/Name/EngineeringBayMengsk=Инженерный комплекс
+Unit/Name/FactoryMengsk=Завод
+Unit/Name/FusionCoreMengsk=Центр синтеза
+Unit/Name/GhostAcademyMengsk=Императорская академия
+Unit/Name/GhostMengsk=Тень императора
+Unit/Name/HydraliskMengsk=Порабощенный гидралиск
+Unit/Name/HydraliskMengskWeapon=
+Unit/Name/MarauderMengsk=Боец отряда «Эгида»
+Unit/Name/MedivacMengsk=«Имперский заступник»
+Unit/Name/MissileTurretMengsk=Ракетная турель
+Unit/Name/MissileTurretMengskWeapon=
+Unit/Name/MutaliskMengsk=Порабощенный муталиск
+Unit/Name/MutaliskMengskGlaiveWurmAttack1Missile=
+Unit/Name/MutaliskMengskGlaiveWurmAttack2Missile=
+Unit/Name/MutaliskMengskGlaiveWurmAttack3Missile=
+Unit/Name/NukeMengsk=Тактическая ракета
+Unit/Name/PunisherGrenadesMengskLMWeapon=Гранаты «Каратель» Менгска
+Unit/Name/RavenMengsk=«Имперский вестник»
+Unit/Name/RefineryMengsk=Перерабатывающий завод
+Unit/Name/SCVMengsk=Работник Доминиона
+Unit/Name/SiegeTank=Осадный танк
+Unit/Name/SiegeTankMengsk=Шоковый танк
+Unit/Name/SiegeTankMengskSieged=Осадный танк
+Unit/Name/StarportMengsk=Космопорт
+Unit/Name/ThorMengsk=«Черный молот»
+Unit/Name/ThorMengskAAWeapon=«Тор» Менска – ПВО
+Unit/Name/ThorMengskSiegedWeapon=
+Unit/Name/TrooperMengsk=Солдат Доминиона
+Unit/Name/TrooperMengskAA=Ракетометчик Доминиона
+Unit/Name/TrooperMengskFlamethrower=Огнеметчик Доминиона
+Unit/Name/TrooperMengskImproved=Штурмовик Доминиона
+Unit/Name/TrooperMengskRocketAttackMissile=
+Unit/Name/TrooperMengskWeaponAAPickup=Ракетомет «Град»
+Unit/Name/TrooperMengskWeaponFlamethrowerPickup=Огнемет СПО-7 «Саламандра»
+Unit/Name/TrooperMengskWeaponImprovedPickup=Крупнокалиберный пулемет Б-2
+Unit/Name/UltraliskMengsk=Порабощенный ультралиск
+Unit/Name/VikingFighter=«Викинг»
+Unit/Name/VikingMengskFighter=«Звездная ярость»
+Unit/Name/VikingMengskFighterWeapon=
+Unit/Name/ZerglingMengsk=Порабощенный зерглинг
+Upgrade/Name/ArtilleryMengskRange=Полусферические ускорители
+Upgrade/Name/BattlecruiserMengskRangeAura=Системы наведения полевой поддержки
+Upgrade/Name/BlimpMengskTopbarRegen=Мощные радиоволны
+Upgrade/Name/BunkerDepotMengskRange=Амбразуры с автоприцелом	
+Upgrade/Name/GhostMengskGuidedStrike=Тактические ракеты «Монарх»
+Upgrade/Name/ImperialMandateGenerationFactor=
+Upgrade/Name/MarauderMengskSlow=Контузящие гранаты
+Upgrade/Name/MasteryMengskRoyalGuardCost=
+Upgrade/Name/MasteryMengskRoyalGuardExperienceGainRate=
+Upgrade/Name/MasteryMengskRoyalGuardImperialMandateRegeneration=
+Upgrade/Name/MasteryMengskStartingImperialMandate=
+Upgrade/Name/MasteryMengskTopPanelPower=
+Upgrade/Name/MasteryMengskTrooperImperialMandateRegeneration=
+Upgrade/Name/MechTransformationSpeedMengsk=Универсальные приводы
+Upgrade/Name/MedivacMengskDoubleHealBeam=Синхронные реаниматоры
+Upgrade/Name/MedivacMengskPermanentCloak=Рассеивающее поле
+Upgrade/Name/MedivacMengskSiegeTankAirlift=Орудийные стабилизаторы
+Upgrade/Name/MengskCommander=Менгск
+Upgrade/Name/MengskStructureArmor=Укрепленная обшивка из неостали
+Upgrade/Name/MengskTrooperArmorsLevel1=Броня войск Доминиона 1-го уровня
+Upgrade/Name/MengskTrooperArmorsLevel2=Броня войск Доминиона 2-го уровня
+Upgrade/Name/MengskTrooperArmorsLevel3=Броня войск Доминиона 3-го уровня
+Upgrade/Name/MengskTrooperWeaponsLevel1=Вооружение войск Доминиона 1-го уровня
+Upgrade/Name/MengskTrooperWeaponsLevel2=Вооружение войск Доминиона 2-го уровня
+Upgrade/Name/MengskTrooperWeaponsLevel3=Вооружение войск Доминиона 3-го уровня
+Upgrade/Name/ThorMengskArmorAura=Охранное поле
+Upgrade/Name/TrooperMengskDropTrain=Орбитальные десантные капсулы
+Upgrade/Name/VikingMengskSpeed=Турбины «Асгард»
+Upgrade/Name/ZergMengskCalldownLevel=
+UserData/MasteryUpgrades/MengskMastery1_Name=Рост силы мандата за счет солдат
+UserData/MasteryUpgrades/MengskMastery1_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery2_Name=Рост силы мандата за счет императорской гвардии
+UserData/MasteryUpgrades/MengskMastery2_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery3_Name=Урон от способностей командира
+UserData/MasteryUpgrades/MengskMastery3_ValueFormat=+~A~%
+UserData/MasteryUpgrades/MengskMastery4_Name=Стоимость императорской гвардии
+UserData/MasteryUpgrades/MengskMastery4_ValueFormat=-~A~%
+UserData/MasteryUpgrades/MengskMastery5_Name=Начальная сила мандата
+UserData/MasteryUpgrades/MengskMastery5_ValueFormat=+~A~ ед.
+UserData/MasteryUpgrades/MengskMastery6_Name=Опыт императорской гвардии
+UserData/MasteryUpgrades/MengskMastery6_ValueFormat=+~A~%
+UserData/PlayerCommanders/TerranMengsk_Description=Император Доминиона
+UserData/PlayerCommanders/TerranMengsk_Name=Менгск
+Weapon/Name/90mmCannonsMengskLookAt=
+Weapon/Name/ArtilleryMengskBombardment=Артиллерийский обстрел
+Weapon/Name/C10CanisterRifleMengsk=Карабин C-10
+Weapon/Name/CommanderPrestigeMengskTrooperBoom=
+Weapon/Name/FusionCutterMengsk=Терморезак
+Weapon/Name/HydraliskMengskMelee=
+Weapon/Name/JavelinMissileLaunchersMengsk=Ракетные установки «Дротик»
+Weapon/Name/LanzerTorpedoesMengsk=Торпеды «Копье»
+Weapon/Name/MedivacMengskSiegeTankAirlift=
+Weapon/Name/MissileTurretMengskMissile=Дальнобойные ракеты
+Weapon/Name/MutaliskMengskGlaiveWurm=Чакрум
+Weapon/Name/NeedleSpinesMengsk=Костяные иглы
+Weapon/Name/PunisherGrenadesMengsk=Гранаты «Каратель»
+Weapon/Name/SiegeTankMengsk=90-мм орудия
+Weapon/Name/SiegeTankMengskSieged=Осадная пушка «Круцио»
+Weapon/Name/SwitchLaserBatteryMengsk=Лазерная батарея
+Weapon/Name/ThorMengskSieged=Батарея «Преисподняя»
+Weapon/Name/ThorsHammerMengsk=«Молот Тора»
+Weapon/Name/TrooperMengsk=Пистолет-пулемет «Ферромаг»
+Weapon/Name/TrooperMengskFlamethrower=Огнемет СПО-7 «Саламандра»
+Weapon/Name/TrooperMengskImproved=Крупнокалиберный пулемет Б-2
+Weapon/Name/TrooperMengskRocket=Ракетомет «Град»
+Weapon/Name/TwinGatlingCannonMengks=Шестиствольный пулемет
+Weapon/Name/UltraliskMengskKaiserBlades=Костяные клинки
+Weapon/Name/VikingMengskAir=Торпеды «Копье»
+Weapon/Name/VikingMengskAirMassive=Торпеды «Копье»
+Weapon/Name/VikingMengskGround=Шестиствольный пулемет
+Weapon/Name/VikingMengskGroundMassive=Шестиствольный пулемет
+Weapon/Name/ZerglingMengskClaws=Когти
