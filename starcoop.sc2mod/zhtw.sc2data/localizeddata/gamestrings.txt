@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=吞噬：空中單位效果
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=兇猛強襲
 Behavior/Name/CommanderPrestigeSwannDrillSlow=擾亂
 Behavior/Name/CommanderPrestigeTychusLoneWolf=讓我一個人
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=虛空旋風
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=虛空追尋者之影
 Behavior/Name/CoopMurvarPukePuddleDisable=駭人臭氣 /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=腐蝕黏液 /// Corrosive Goo
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=<c val="ffff8a">高階聖堂武�
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=<c val="ffff8a">高階聖堂武士</c>和<c val="ffff8a">執政官</c>的初始能量值提高<d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>點。 /// Increases the starting energy of <c val="ffff8a">High Templar</c> and <c val="ffff8a">Archons</c> by <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=使<c val="ffff8a">先驅者</c>散射加農砲射出的彈藥量提高1倍。
 Button/Tooltip/ResearchImprovedSiegeMode=降低<c val="ffff8a">攻城坦克</c>的變形時間。<c val="ffff8a">攻城坦克</c>在攻城模式下，裝甲值提高3點。
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=<c val="ffff8a">所有砲台</c>的攻擊速度提高25%。 /// Increases the attack speed of <c val="ffff8a">all Turrets</c> by 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=<c val="ffff8a">所有砲台</c>的攻擊速度提高50%。
 Button/Tooltip/ResearchIncineratorGauntlets=<c val="ffff8a">火焰兵</c>的傷害範圍提高40%。
 Button/Tooltip/ResearchIncineratorNozzles=火焰兵的攻擊範圍提高40%。
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=
 Effect/Name/SpecialDeliveryDropAB=
 Effect/Name/SpecialDeliveryDropABSet=
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=受感染的兵營
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=數量上限 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=受感染的軍工廠
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>點生物質
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>點生物質
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=軍工廠
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=巔峰天賦：自殺蟲后的數量上限為 1
 Shape/Name/ZenithStone=天極石
 SimpleDisplay/HealAttack=按<s val="@@SimpleCommandRow">%hotkey 鍵</c>後</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">地面以自動攻擊</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBomberJunker
 Skin/Name/HHRavenJunker=HHRavenJunker
 Skin/Name/HHVikingJunker=HHVikingJunker
@@ -9488,7 +9495,7 @@ Upgrade/Name/ColossusSkin=巨像造型
 Upgrade/Name/CommanderLevel=指揮官等級
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=合作任務 - A.I. - 飛螳花費
 Upgrade/Name/CoopAIReaperCost=合作任務 - A.I. - 死神花費
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=機會釋出 /// Opportun
 UserData/MutatorChallenges/OutOfControl_Name=全面錯亂 /// Flipping Out
 UserData/MutatorChallenges/Pain Train_Name=核爆戰區 /// Boom Town
 UserData/MutatorChallenges/PerfectStorm_Name=風暴降臨 /// The Perfect Storm
-UserData/MutatorChallenges/PointDefenseNetwork_Name=定點防禦網路
 UserData/MutatorChallenges/PropagatorIntro_Name=無效反擊 /// Futile Resistance
 UserData/MutatorChallenges/PureVengeance_Name=過度反應 /// Inordinate Response
 UserData/MutatorChallenges/QuickKillers_Name=俐落殺手
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=病原體危機 /// Sick Micro
 UserData/MutatorChallenges/SilentKiller_Name=沉默殺手
 UserData/MutatorChallenges/SlowAndSteady_Name=出手慢半拍 /// Slow and Steady
 UserData/MutatorChallenges/SpectreOfDeath_Name=死亡幽魂 /// Specter of Death
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=包圍與恐懼
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=適者生存 /// Survival of the Fittest
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=苦痛神殿 /// Temple of Pain
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=芙菈森 /// Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=印第安那凱恩。 /// Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=澤拉圖
-UserData/PlayerCommanders/TerranHorner_Name=霍納
+UserData/PlayerCommanders/TerranHorner_Name=韓與霍納
 UserData/PlayerCommanders/TerranNova_Name=諾娃 /// Nova
 UserData/PlayerCommanders/TerranRaynor_Description=優秀的步兵指揮官。 /// Excellent infantry commander
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=呼叫海伯利昂號

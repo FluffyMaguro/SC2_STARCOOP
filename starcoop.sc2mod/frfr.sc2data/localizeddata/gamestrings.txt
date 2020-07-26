@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Assimiler : unités aériennes
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Déferlement
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Distraction
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Préfère la solitude
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Derviche du Vide
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Ombre du Chercheur du Vide
 Behavior/Name/CoopMurvarPukePuddleDisable=Pestilence oppressante /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=Glaire corrosive
@@ -4797,6 +4797,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Augmente l’énergie de départ
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Augmente l’énergie de départ du <c val="ffff8a">haut templier</c> et de l’<c val="ffff8a">archonte</c> de <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/> points.
 Button/Tooltip/ResearchImprovedScatterCannon=Double le nombre de tirs du Canon à dispersion du <c val="ffff8a">pénitent</c>.
 Button/Tooltip/ResearchImprovedSiegeMode=Réduit la durée de transformation du <c val="ffff8a">char de siège</c> et lui confère +3 points d’armure en mode Siège.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Augmente de 25% la vitesse d’attaque de <c val="ffff8a">toutes les tourelles</c>.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Augmente de 50% la vitesse d’attaque de <c val="ffff8a">toutes les tourelles</c>.
 Button/Tooltip/ResearchIncineratorGauntlets=Augmente de 40% le rayon des dégâts du <c val="ffff8a">flammeur</c>.
 Button/Tooltip/ResearchIncineratorNozzles=La zone d’attaque des flammeurs augmente de 40%.
@@ -7051,6 +7052,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7830,7 +7836,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=Commande de capacité ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Techspam ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Définir l’index de prestige ~A~ pour le joueur ~B~
 Param/Expression/lib_COOC_5DED9532=Amélioration ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Valeurs de score signalées trop nombreuses, impossible de suivre ~A~
 Param/Expression/lib_COOC_6DCBB62D=Version de banque pour le joueur ~A~ dépassée (~B~ au lieu de ~C~), réglage par défaut
@@ -7838,7 +7844,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~ : ~B~
 Param/Expression/lib_COOC_94AB0648=Commande de capacité ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Techsuperspam ~A~
 Param/Expression/lib_COOC_B56724DE=Amélioration ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Appliquer le prestige ~A~ pour le joueur ~B~
 Param/Expression/lib_COOC_D0741390=~A~ : ~B~
 Param/Expression/lib_COOC_D5B22955=Bnet dit que le joueur ~A~ (~B~) a choisi le commandant ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~
@@ -7855,7 +7861,7 @@ Param/Expression/lib_COUI_2FCDA0A6=~A~<n/><c val="ff0000">Vos alliés et vous de
 Param/Expression/lib_COUI_31343A11=~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentées de <c val="FFFF8A">~ENERGY~</c> points.
 Param/Expression/lib_COUI_35ABC314=~A~<n/><n/>Peut être sélectionné à plusieurs reprises.
 Param/Expression/lib_COUI_458413D1=~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentés de <c val="FFFF8A">~ENERGY~</c> points.
-Param/Expression/lib_COUI_4A080472=<s val="Coop_Prestige_Tooltip_Title">~A~</s><n/><s val="Coop_Prestige_Tooltip_Subtitle">~B~</s><n/><n/><s val="@@StandardTooltip">~C~</s>
+Param/Expression/lib_COUI_4A080472=<s val="Coop_Prestige_Tooltip_Title">~A~</s><n/><s val="Coop_Prestige_Tooltip_Subtitle">~B~</s><n/><n/><s val="@@@StandardTooltip">~C~</s>
 Param/Expression/lib_COUI_4B308295=~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentée de <c val="FFFF8A">~ENERGY~</c> points.
 Param/Expression/lib_COUI_5987FE56=(DEBUG) Possibilités : ~A~ (~B~ points)
 Param/Expression/lib_COUI_5B6F4ABC=~A~/~B~
@@ -8562,13 +8568,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Caserne contaminée
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Limite de 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Usine contaminée
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> unités de biomasse
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limite de 3 ou prestige : le sans-limites
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limite de 3 ou prestige : le sans-limites
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> unités de biomasse
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limite de 3 ou prestige : le sans-limites
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limite de 3 ou prestige : le sans-limites
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Usine
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Limite de 1 avec Prestige : Reine des fléaux
 Shape/Name/ZenithStone=Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c> puis</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">au sol pour attaquer en se déplaçant</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HH - Bombardier - Ferrailleur
 Skin/Name/HHRavenJunker=HH - Corbeau - Ferrailleur
 Skin/Name/HHVikingJunker=HH - Viking - Ferrailleur
@@ -9495,7 +9502,7 @@ Upgrade/Name/ColossusSkin=Modèle de Colosse
 Upgrade/Name/CommanderLevel=Niveau du commandant
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=Coop - IA - Coût du mutalisk
 Upgrade/Name/CoopAIReaperCost=Coop - IA - Coût du faucheur
@@ -11824,7 +11831,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Chaos robotique
 UserData/MutatorChallenges/OutOfControl_Name=Vent de panique
 UserData/MutatorChallenges/Pain Train_Name=Chaos nucléaire
 UserData/MutatorChallenges/PerfectStorm_Name=La tempête ultime
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Réseau de défense rapprochée
 UserData/MutatorChallenges/PropagatorIntro_Name=Une résistance futile
 UserData/MutatorChallenges/PureVengeance_Name=Réponse démesurée
 UserData/MutatorChallenges/QuickKillers_Name=Tueurs exaltés
@@ -11849,7 +11855,6 @@ UserData/MutatorChallenges/SickMicro_Name=Une microgestion de malade
 UserData/MutatorChallenges/SilentKiller_Name=Silence de mort
 UserData/MutatorChallenges/SlowAndSteady_Name=Lentement mais sûrement
 UserData/MutatorChallenges/SpectreOfDeath_Name=L’ombre de la mort
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Cerné et apeuré
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=La loi du plus apte
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=Le temple de la douleur
@@ -11951,7 +11956,7 @@ UserData/Mutators/Insubordination_Description=Vos unités ne suivent pas les ord
 UserData/Mutators/Insubordination_Name=Insubordination
 UserData/Mutators/JustDie_Description=Les unités ennemies ressuscitent automatiquement à leur mort.
 UserData/Mutators/JustDie_Name=Mais crevez !
-UserData/Mutators/KillBots_Description=De mystérieux robots d’attaque, programmés pour tout détruire, déferlent dans le secteur de Koprulu. Grâce à leur conception ingénieuse, ils sont invincibles jusqu’à avoir exécuté un nombre de victimes prédéfini. Une fois leur quota de victimes atteint, ils se désactivent. Mais survivrez-vous jusque-là ?
+UserData/Mutators/KillBots_Description=De mystérieux robots d’attaque, programmés pour tout détruire, déferlent dans le secteur de Koprulu. Grâce à leur conception ingénieuse, ils sont invincibles jusqu’à avoir exécuté un nombre de victimes prédéfini. Une fois leur quota atteint, ils se désactivent. Mais survivrez-vous jusque-là ?
 UserData/Mutators/KillBots_Name=Robots exterminateurs
 UserData/Mutators/KillKarma_Description=Les unités et bâtiments du joueur subissent davantage de dégâts chaque fois qu’ils éliminent un ennemi.
 UserData/Mutators/KillKarma_Name=Un mal nécessaire
@@ -12253,7 +12258,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=Matt Horner
+UserData/PlayerCommanders/TerranHorner_Name=Han et Horner
 UserData/PlayerCommanders/TerranNova_Name=Nova
 UserData/PlayerCommanders/TerranRaynor_Description=Excellent commandant d’infanterie
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Appelle l’Hypérion.

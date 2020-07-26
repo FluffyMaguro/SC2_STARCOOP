@@ -77,7 +77,7 @@ Abil/Name/CommanderPrestigeDehakaPackLeadersRetreat=CommanderPrestigeDehakaPackL
 Abil/Name/CommanderPrestigeStukovBansheeTransport=
 Abil/Name/CommanderPrestigeStukovBansheesDeploy=
 Abil/Name/CommanderPrestigeVorazunTimeStop=
-Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=
+Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=CommanderPrestigeZagaraMaxSupplyScourgeSpawner
 Abil/Name/CommanderPrestigeZagaraZagaraDeepTunnel=
 Abil/Name/CommanderPrestigeZeratulVoidSeeker=
 Abil/Name/ConstructDrakkenLaserDrillCoop=Construir Taladro láser Drakken - Cooperativo /// Construct Drakken Laser Drill Coop
@@ -1241,13 +1241,13 @@ Behavior/Tooltip/DefensiveMatrixNew=Mientras está activa, la Matriz defensiva b
 Behavior/Tooltip/DefensiveMatrixTerranzineHarvester=Mientras está activa, la Matriz defensiva bloquea todo el daño recibido hasta un máximo de 500. /// While active, the Defensive Matrix blocks all incoming damage, up to a maximum of 500.
 Behavior/Tooltip/DehakaAttEssence=Recolecta esencia de los enemigos asesinados para aumentar el poder de Dehaka. Por cada esencia recolectada Dehaka se cura por <d ref="Effect,DehakaStompDamageB,Amount"/> y obtiene +<d ref="Effect,DehakaMaxLifeAmountPerEssenceDummy,Amount"  precision="2"/> de vida máxima.<n><n>Puede caminar sobre las unidades más pequeñas y se vuelve gigante en nivel 6.
 Behavior/Tooltip/DehakaAttEssenceMastery=Recolecta esencia de los enemigos asesinados para aumentar el poder de Dehaka. Por cada esencia recolectada Dehaka se cura por <d ref="Effect,DehakaStompDamageB,Amount"/> y obtiene +<d ref="Effect,DehakaMaxLifeAmountPerEssenceDummy,Amount"  precision="2"/> de vida máxima.<n><n>Puede caminar sobre las unidades más pequeñas y se vuelve gigante en nivel 6.<n/><n/><c val="FFFF8A">Maestría:</c> Dehaka ataca un <c val="FFFF8A"><d ref="Effect,MasteryDehakaAttackSpeedDisplayDummy,Amount" player="current" precision="1"/>%</c> más rápido.
-Behavior/Tooltip/DehakaConsumeEffectAir=Esta unidad tiene un ataque de largo alcance.
-Behavior/Tooltip/DehakaConsumeEffectArmored=Esta unidad inflige daño adicional contra enemigos blindados.
+Behavior/Tooltip/DehakaConsumeEffectAir=Esta unidad tiene un ataque de largo alcance. /// This unit has a ranged attack.
+Behavior/Tooltip/DehakaConsumeEffectArmored=Esta unidad inflige daño adicional contra enemigos blindados. /// This unit is dealing extra damage versus armored enemies.
 Behavior/Tooltip/DehakaConsumeEffectDetector=Dehaka tiene capacidad de detección. /// Dehaka has Detection.
-Behavior/Tooltip/DehakaConsumeEffectLight=Esta unidad se mueve más rápido.
-Behavior/Tooltip/DehakaConsumeEffectMassive=Esta unidad tiene armadura adicional y un aura de Espinas.
-Behavior/Tooltip/DehakaConsumeEffectMechanical=Esta unidad ataca más rápido.
-Behavior/Tooltip/DehakaConsumeEffectPsionic=Reduce el tiempo de recuperación de las habilidades de esta unidad.
+Behavior/Tooltip/DehakaConsumeEffectLight=Esta unidad se mueve más rápido. /// This unit is moving faster.
+Behavior/Tooltip/DehakaConsumeEffectMassive=Esta unidad tiene armadura adicional y un aura de Espinas. /// This unit has extra armor and Thorns aura.
+Behavior/Tooltip/DehakaConsumeEffectMechanical=Esta unidad ataca más rápido. /// This unit is attacking faster.
+Behavior/Tooltip/DehakaConsumeEffectPsionic=Reduce el tiempo de recuperación de las habilidades de esta unidad. /// This unit's Ability cooldowns are reduced.
 Behavior/Tooltip/DehakaEssenceDropPickupBuff=Vida aumentada. /// Increased life.
 Behavior/Tooltip/DehakaGuardianRage1=Aumenta la velocidad de ataque un <d ref="(Behavior,DehakaGuardianRage1,Modification.AttackSpeedMultiplier - 1) * 100"/>%. /// Attack speed increased by <d ref="(Behavior,DehakaGuardianRage1,Modification.AttackSpeedMultiplier - 1) * 100"/>%.
 Behavior/Tooltip/DehakaGuardianRage2=Aumenta la velocidad de ataque un <d ref="(Behavior,DehakaGuardianRage2,Modification.AttackSpeedMultiplier - 1) * 100"/>%. /// Attack speed increased by <d ref="(Behavior,DehakaGuardianRage2,Modification.AttackSpeedMultiplier - 1) * 100"/>%.
@@ -1638,30 +1638,30 @@ Button/Name/ColarionDragoonBattleShout=Grito de batalla /// Battle Shout
 Button/Name/ColossusIceBeam=Cronodistorsión /// Chronal Distortion
 Button/Name/ColossusTaldarim=Transposicionar Trotafurias /// Warp In Wrathwalker
 Button/Name/CombatDropLocked=Cápsula de combate /// Combat Drop
-Button/Name/CommanderPrestigeAbathurBrutaliskLocked=Evolucionar a Brutalisco
-Button/Name/CommanderPrestigeAbathurLeviathanLocked=Evolucionar a Leviatán
+Button/Name/CommanderPrestigeAbathurBrutaliskLocked=Evolucionar a Brutalisco /// Evolve to Brutalisk
+Button/Name/CommanderPrestigeAbathurLeviathanLocked=Evolucionar a Leviatán /// Evolve to Leviathan
 Button/Name/CommanderPrestigeAlarakDeathFleetLocked=Invocar Flota de la Muerte
 Button/Name/CommanderPrestigeAlarakMechBuff=Relicario de Almas
 Button/Name/CommanderPrestigeArtanisGuardianShellLocked=Coraza protectora
-Button/Name/CommanderPrestigeArtanisOrbitalStrikesPeriodicDamage=
+Button/Name/CommanderPrestigeArtanisOrbitalStrikesPeriodicDamage=Radicales libres
 Button/Name/CommanderPrestigeDehakaPackLeadersRetreat=Abran paso al rey
-Button/Name/CommanderPrestigeKaraxChronoBoostLocked=Cronoimpulso
-Button/Name/CommanderPrestigeKaraxChronoFieldLocked=Cronoproducción
-Button/Name/CommanderPrestigeKaraxChronoWaveLocked=Multicrono
-Button/Name/CommanderPrestigeKaraxKhaydarinMonolithBuildLocked=Transposicionar Monolito khaydarín
-Button/Name/CommanderPrestigeKaraxKhaydarinMonolithLocked=Monolito khaydarín
-Button/Name/CommanderPrestigeKaraxOptimizedAttackSpeedResearchLocked=Investigar Ordenanza optimizada
-Button/Name/CommanderPrestigeKaraxPhotonCannonBuildLocked=Transposicionar Cañón de fotones
-Button/Name/CommanderPrestigeKaraxPhotonCannonLocked=Cañón de fotones
-Button/Name/CommanderPrestigeKerriganNydusWormBuildLocked=Mutar en Red Nydus
-Button/Name/CommanderPrestigeNovaAssaultModeLocked=Modo Asalto
-Button/Name/CommanderPrestigeNovaGriffinAirstrikeLocked=Ataque aéreo del Grifonte
-Button/Name/CommanderPrestigeNovaHoloDecoyLocked=Holoseñuelo
-Button/Name/CommanderPrestigeNovaShotgunResearchLocked=Investigar Proyectiles infernales
-Button/Name/CommanderPrestigeNovaStanceDanceLocked=Postura de baile
-Button/Name/CommanderPrestigeRaynorMULELocked=Llamado: EMUL
+Button/Name/CommanderPrestigeKaraxChronoBoostLocked=Cronoimpulso /// Chrono Boost
+Button/Name/CommanderPrestigeKaraxChronoFieldLocked=Cronoproducción /// Chrono Field
+Button/Name/CommanderPrestigeKaraxChronoWaveLocked=Multicrono /// Chrono Wave
+Button/Name/CommanderPrestigeKaraxKhaydarinMonolithBuildLocked=Transposicionar Monolito khaydarín /// Warp In Khaydarin Monolith
+Button/Name/CommanderPrestigeKaraxKhaydarinMonolithLocked=Monolito khaydarín /// Khaydarin Monolith
+Button/Name/CommanderPrestigeKaraxOptimizedAttackSpeedResearchLocked=Investigar Ordenanza optimizada /// Research Optimized Ordnance
+Button/Name/CommanderPrestigeKaraxPhotonCannonBuildLocked=Transposicionar Cañón de fotones /// Warp In Photon Cannon
+Button/Name/CommanderPrestigeKaraxPhotonCannonLocked=Cañón de fotones /// Photon Cannon
+Button/Name/CommanderPrestigeKerriganNydusWormBuildLocked=Mutar en Red Nydus /// Mutate into Nydus Network
+Button/Name/CommanderPrestigeNovaAssaultModeLocked=Modo asalto /// Assault Mode
+Button/Name/CommanderPrestigeNovaGriffinAirstrikeLocked=Ataque aéreo del Grifonte /// Griffin Airstrike
+Button/Name/CommanderPrestigeNovaHoloDecoyLocked=Holoseñuelo /// Holo Decoy
+Button/Name/CommanderPrestigeNovaShotgunResearchLocked=Investigar Proyectiles infernales /// Research Infernal Projectiles
+Button/Name/CommanderPrestigeNovaStanceDanceLocked=Postura de baile /// Stance Dance
+Button/Name/CommanderPrestigeRaynorMULELocked=Llamado: EMUL /// Calldown: MULE
 Button/Name/CommanderPrestigeStukovBansheeTransportLoad=Cargar
-Button/Name/CommanderPrestigeStukovBansheesDeploy=Despliegue rápido
+Button/Name/CommanderPrestigeStukovBansheesDeploy=Despliegue remoto
 Button/Name/CommanderPrestigeStukovInfestedCompoundLocked=Construir Complejo de colonos infestados
 Button/Name/CommanderPrestigeSwannConcentratedBeamLocked=Rayo concentrado
 Button/Name/CommanderPrestigeSwannPulseCannonLocked=Cañón de pulso
@@ -1676,10 +1676,10 @@ Button/Name/CommanderPrestigeTychusUltReaperLocked=Comprar Kit de hostilidades m
 Button/Name/CommanderPrestigeTychusUltSpectreLocked=Comprar Conexión N3
 Button/Name/CommanderPrestigeTychusUltTychusLocked=Comprar Casco en red TiroCertero
 Button/Name/CommanderPrestigeTychusUltWarhoundLocked=Comprar Marco de torreta umojana
-Button/Name/CommanderPrestigeVorazunRecallLocked=Replegar
+Button/Name/CommanderPrestigeVorazunRecallLocked=Repliegue
 Button/Name/CommanderPrestigeZagaraBirthingChamberLocked=Cámara de incubación
 Button/Name/CommanderPrestigeZagaraHeroicFortitudeResearchLocked=Evolucionar Fortaleza heroica
-Button/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=
+Button/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=Nido de incubación
 Button/Name/CommanderPrestigeZagaraMedusaBladesResearchLocked=Evolucionar Cuchillas Medusa
 Button/Name/CommanderPrestigeZagaraZagaraDeepTunnel=Deep Tunnel
 Button/Name/CommanderPrestigeZeratulVoidSeekerSummon=Desplegar Cazador del Vacío
@@ -2188,7 +2188,7 @@ Button/Name/InfinityVoidResearchLocked=Mejora de Artefacto: Vacío infinito /// 
 Button/Name/InjectLarvaPassive=Inyectar larvas /// Inject Larvae
 Button/Name/InstantHunterSeekerMissile=Misil depredador /// Predator Missile
 Button/Name/K5CooldownsLocked=Eficiencia de habilidad /// Ability Efficiency
-Button/Name/KaraxCarrierInterceptorLaunchSpeedPassive=
+Button/Name/KaraxCarrierInterceptorLaunchSpeedPassive=Catapulta de transposición de gravitones
 Button/Name/KaraxEnergyRegenUpgrade=Recarga rápida /// Rapid Recharging
 Button/Name/KaraxTurretAttackSpeed=Ordenanza optimizada /// Optimized Ordnance
 Button/Name/KaraxTurretRange=Focalización mejorada /// Enhanced Targeting
@@ -2636,7 +2636,7 @@ Button/Name/ResearchJackhammerConcussionGrenade=Investigar Cartuchos de concusi�
 Button/Name/ResearchJuggernautPlating=Investigar Coraza de fuerza destructiva /// Research Juggernaut Plating
 Button/Name/ResearchJuggernautPlatingLocked=Investigar Coraza de fuerza destructiva /// Research Juggernaut Plating
 Button/Name/ResearchJumpJetAssaultLocked=Investigar Asalto propulsado /// Research Jump Jet Assault
-Button/Name/ResearchKaraxCarrerInterceptorLaunchSpeed=
+Button/Name/ResearchKaraxCarrerInterceptorLaunchSpeed=Investigar Catapulta de transposición de gravitones
 Button/Name/ResearchKaraxEnergyRegenLocked=Investigar Recarga rápida /// Research Rapid Recharging
 Button/Name/ResearchKaraxEnergyRegenUpgrade=Investigar Recarga rápida /// Research Rapid Recharging
 Button/Name/ResearchKaraxTurretAttackSpeed=Investigar Ordenanza optimizada /// Research Optimized Ordnance
@@ -2886,7 +2886,7 @@ Button/Name/SOASuperChronoMapWide=Cronodinámica global /// Map-Wide Chrono Surg
 Button/Name/SOATimeStopLocked=Interrupción temporal /// Time Stop
 Button/Name/SOAVorazunBlackHole=Agujero negro /// Black Hole
 Button/Name/ScourgeNest=Mutar en Nido de azotes /// Mutate into Scourge Nest
-Button/Name/ScourgeNestSpawnerLocked=
+Button/Name/ScourgeNestSpawnerLocked=Nido de incubación
 Button/Name/ScourgePassive=Azote /// Scourge
 Button/Name/ScourgeSplashDamagePassive=Esporas virulentas /// Virulent Spores
 Button/Name/SeismicSpines=Espinas sísmicas /// Seismic Spines
@@ -3678,78 +3678,78 @@ Button/Tooltip/ColossusIceBeam=Los ataques debilitan a las unidades enemigas y r
 Button/Tooltip/ColossusPurifier=Zancudo de batalla con un poderoso ataque de área. Puede escalar y descender riscos. Puede mejorarse para que los ataques prendan fuego el terreno e inflijan daño adicional a los enemigos con el tiempo.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c> /// Battle strider with a powerful area attack. Can walk up and down cliffs. Attacks can be upgraded to set fire to the ground, dealing extra damage to enemies over time.<n/><n/><c val="ffff8a">Can attack ground units.</c>
 Button/Tooltip/ColossusTaldarim=Zancudo de batalla con un poderoso ataque sobre un solo objetivo. Puede escalar y descender riscos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c> /// Battle strider with a powerful single target attack. Can walk up and down cliffs.<n/><n/><c val="ffff8a">Can attack ground units.</c>
 Button/Tooltip/ColossusTaldarimAA=Zancudo de batalla con un poderoso ataque sobre un solo objetivo. Puede escalar y descender riscos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c> /// Battle strider with a powerful single target attack. Can walk up and down cliffs.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
-Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=
+Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=Los Marines obtienen +20 de vida.
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=Permite que la investigación de Portal de transposición afecte a los Portales estelares y los Complejos de robótica para que puedan transposicionar unidades en cualquier lugar que disponga de potencia Pilón. /// Enables Warp Gate research to affect Stargates and Robotics Facilities. This allows them to warp in units at any location with Pylon power.
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">Prestigio:</s> Esta unidad tiene un <s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>% de probabilidad de soltar su biomasa al morir.
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Flota de la Muerte ya no tiene una duración y su daño y recursos vitales se reducen un <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%. Además, el tiempo de recuperación de Teletransportación en masa aumenta en <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> y ya no teletransporta unidades aliadas.
-Button/Tooltip/CommanderPrestigeAlarakMechBuff=
-Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=
-Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=
-Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesBuildTimeUpgrade=
-Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesCooldownUpgrade=
-Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesDamageUpgrade=
-Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesSpeedUpgrade=
-Button/Tooltip/CommanderPrestigeArtanisOrbitalStrikeUpgrade=<s val="Coop_Prestige_Tooltip">Prestigio:</s> Cada ataque transposiciona un Fanático inestable, que expulsa energía dañina periódicamente.
+Button/Tooltip/CommanderPrestigeAlarakMechBuff=Esta unidad puede recolectar hasta <d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/> almas de adoradores, lo que aumenta la velocidad de ataque un <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>% y el daño un <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>% por cada alma recolectada.
+Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
+Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Aumenta la absorción de daño.
+Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesBuildTimeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El tiempo de construcción se reduce.
+Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesCooldownUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El tiempo de recuperación se reduce.
+Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesDamageUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Aumenta el daño.
+Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesSpeedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Aumenta la velocidad.
+Button/Tooltip/CommanderPrestigeArtanisOrbitalStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Cada ataque transposiciona un Fanático desatado, que expulsa energía dañina periódicamente.
 Button/Tooltip/CommanderPrestigeArtanisOrbitalStrikesArchon=Atacante psiónico poderoso.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>
-Button/Tooltip/CommanderPrestigeArtanisOrbitalStrikesPeriodicDamage=
+Button/Tooltip/CommanderPrestigeArtanisOrbitalStrikesPeriodicDamage=El Fanático desatado lanza rayos de energía inestable periódicamente que infligen <d ref="Effect,CommanderPrestigeArtanisOrbitalStrikesArchonEnergyDamage,Amount/Behavior,CommanderPrestigeArtanisOrbitalStrikesArchonEnergy,Period"/> de daño por segundo a las unidades enemigas.
 Button/Tooltip/CommanderPrestigeArtanisPowerFieldUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Todas tus unidades de combate dentro de un campo de energía existente se transposicionan inmediatamente a la nueva ubicación.
 Button/Tooltip/CommanderPrestigeArtanisShieldOverchargeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Ahora esta habilidad puede usarse como objetivo.
 Button/Tooltip/CommanderPrestigeDehakaDevourUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Los beneficios se comparten con todas las unidades aliadas cercanas.
 Button/Tooltip/CommanderPrestigeDehakaPackLeadersRetreat=Obliga a este Líder de manada a retirarse para que Dehaka regrese al terreno.
 Button/Tooltip/CommanderPrestigeFenixSuitSwapUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Inflige un <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeFenixSuitSwapTimedLife,Modification.DamageDealtFraction[Melee]*100"/></s>% más de daño y los tiempos de recuperación de las habilidades se reducen un <s val="Coop_Prestige_Tooltip">50</s>%. La regeneración de vida, escudos y energía aumentan un <s val="Coop_Prestige_Tooltip">100</s>% cuando está almacenado. Dura <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeFenixSuitSwapTimedLife,Duration"/></s> segundos una vez invocado.
 Button/Tooltip/CommanderPrestigeKaraxDefensiveChronoUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Esta habilidad también aumenta la velocidad de ataque de las estructuras defensivas.
-Button/Tooltip/CommanderPrestigeKaraxKhaydarinMonolithLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeKaraxPhotonCannonBuildLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeKaraxPhotonCannonLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
+Button/Tooltip/CommanderPrestigeKaraxKhaydarinMonolithLocked=Esta unidad está bloqueada por el prestigio de tu comandante. /// This unit is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeKaraxPhotonCannonBuildLocked=Esta unidad está bloqueada por el prestigio de tu comandante. /// This unit is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeKaraxPhotonCannonLocked=Esta unidad está bloqueada por el prestigio de tu comandante. /// This unit is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeKaraxRepairBeamUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Esta habilidad solo puede usarse sobre estructuras.
 Button/Tooltip/CommanderPrestigeKerriganAbilitiesUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Kerrigan consume todas sus acumulaciones de Furia cuando usa esta habilidad, lo que aturde durante <d ref="Behavior,CommanderPrestigeKerriganAbilitiesStun,Duration"/> segundos e inflige <d ref="Effect,CommanderPrestigeKerriganAbilitiesDamage,Amount"/> de daño a una cantidad de enemigos cercanos según la cantidad de acumulaciones consumidas.
-Button/Tooltip/CommanderPrestigeKerriganAssimilationAuraUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Los enemigos sueltan un <d ref="$UpgradeEffectArrayValue:CommanderPrestigeKerriganAssimilationAuraShared:Effect,KR5,Resources[Minerals]$/Effect,KR5,Resources[Minerals]*100" player="0"/>% más de recursos.
-Button/Tooltip/CommanderPrestigeKerriganNydusWormBuildLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaAssaultModeLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaGriffinAirstrikeLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaHoloDecoyLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaNuclearStrikeUpgrade=
-Button/Tooltip/CommanderPrestigeNovaShotgunResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaStanceDanceLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeNovaStealthUpgrade=
-Button/Tooltip/CommanderPrestigeRaynorAfterburnersUpgrade=
-Button/Tooltip/CommanderPrestigeRaynorCombatShieldResearchUpgrade=
-Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=
-Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=
-Button/Tooltip/CommanderPrestigeRaynorMULELocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=
+Button/Tooltip/CommanderPrestigeKerriganAssimilationAuraUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Los enemigos sueltan un <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeKerriganAssimilationAuraShared:Effect,KR5,Resources[Minerals]$/Effect,KR5,Resources[Minerals]*100" player="0"/></s>% más de recursos. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Enemies drop <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeKerriganAssimilationAuraShared:Effect,KR5,Resources[Minerals]$/Effect,KR5,Resources[Minerals]*100" player="0"/></s>% more resources.
+Button/Tooltip/CommanderPrestigeKerriganNydusWormBuildLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaAssaultModeLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaGriffinAirstrikeLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaHoloDecoyLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaNuclearStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El radio de efecto aumenta un <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeNovaSuperCloak:Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius$/Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius*100" player="0"/></s>%.
+Button/Tooltip/CommanderPrestigeNovaShotgunResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante. /// This upgrade is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaStanceDanceLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeNovaStealthUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Nova es indetectable mientras está camuflada. Atacar o usar la habilidad Francotirar deshabilita el efecto de camuflaje de Nova durante <s val="Coop_Prestige_Tooltip"><d time="[d ref='Behavior,CommanderPrestigeNovaSuperCloakCombat,Duration'/]"/></s>.
+Button/Tooltip/CommanderPrestigeRaynorAfterburnersUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> También aumenta la velocidad de ataque un <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeRaynorMechAfterburners:Behavior,VehicleAfterburners,Modification.AttackSpeedMultiplier$*100"/></s>%.
+Button/Tooltip/CommanderPrestigeRaynorCombatShieldResearchUpgrade=Los <c val="ffff8a">Marines</c> obtienen +20 de vida.
+Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=Los <c val="ffff8a">Camazotes</c> obtienen +200 de vida y +2 de armadura.
+Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=Los Camazotes obtienen +200 de vida y +2 de armadura. /// Firebats gain +200 life and +2 armor.
+Button/Tooltip/CommanderPrestigeRaynorMULELocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> La velocidad del tiempo de recuperación aumenta un <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>% de acuerdo con los suministros utilizados por las unidades aéreas.
 Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=Carga infantería infestada en la Banshee.
-Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=Lanza el cargamento de la unidad sobre la ubicación objetivo e inflige <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/> de daño a las unidades enemigas terrestres cercanas cuando impacta.
-Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=
-Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeSwannConcentratedBeamLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeSwannDrillAttackUpgrade=
-Button/Tooltip/CommanderPrestigeSwannHerculesDeploySpeedUpgrade=
-Button/Tooltip/CommanderPrestigeSwannPulseCannonLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeTychusBarrageLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
+Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=Lanza el cargamento de la Banshee infestada sobre la ubicación objetivo e inflige <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/> de daño a las unidades enemigas terrestres cercanas cuando impacta.
+Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El Búnker infestado engendra Soldados infestados un <s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>% más rápido y no tiene capacidad de carga.
+Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeSwannConcentratedBeamLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeSwannDrillAttackUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El Taladro láser Drakken inflige daño y ralentiza a las unidades en un área alrededor del objetivo principal.
+Button/Tooltip/CommanderPrestigeSwannHerculesDeploySpeedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El Hércules despliega las tropas cargadas al instante y tiene el doble de capacidad de carga.
+Button/Tooltip/CommanderPrestigeSwannPulseCannonLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeTychusBarrageLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeTychusBigRedButtonResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeTychusOdinUpgrade=
-Button/Tooltip/CommanderPrestigeVorazunCombatUnitUpgrade=
-Button/Tooltip/CommanderPrestigeVorazunEmergencyRecallUpgrade=
-Button/Tooltip/CommanderPrestigeVorazunRecallLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeVorazunStasisDoTUpgrade=
-Button/Tooltip/CommanderPrestigeVorazunTimeStopUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraBirthingChamberLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeZagaraBirthingChamberUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraConstructUpgrade=
+Button/Tooltip/CommanderPrestigeTychusOdinUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> El Odín ya no necesita a Tychus como su piloto y no lo revivirá.
+Button/Tooltip/CommanderPrestigeVorazunCombatUnitUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Las unidades de combate infligen un <s val="Coop_Prestige_Tooltip"><d ref="(1-PlayerResponse,CommanderPrestigeVorazunStasisDamageReduction,ModifyFraction)*100"/></s>% menos de daño.
+Button/Tooltip/CommanderPrestigeVorazunEmergencyRecallUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Las unidades aliadas se repliegan hasta el Nexo o Pilón oscuro más cercano y recuperan la vida y los escudos al máximo.
+Button/Tooltip/CommanderPrestigeVorazunRecallLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeVorazunStasisDoTUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Las unidades afectadas por esta habilidad pierden <s val="Coop_Prestige_Tooltip"><d ref="Effect,CommanderPrestigeVorazunStasisDamage,Amount/Behavior,CommanderPrestigeVorazunStasisDoT,Period"/></s> de vida por segundo mientras dure el efecto. Este efecto no mata.
+Button/Tooltip/CommanderPrestigeVorazunTimeStopUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Interrupción temporal puede apuntarse y resucita a toda la Guardia sombría que hay en la ubicación del efecto.
+Button/Tooltip/CommanderPrestigeZagaraBirthingChamberLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeZagaraBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Engendra <s val="Coop_Prestige_Tooltip"><d ref="Abil,ZagaraVoidCoopBanelingSpawnerTrain,InfoArray[Train1].Charge.CountMax"/></s> Uetzis adicionales.
+Button/Tooltip/CommanderPrestigeZagaraConstructUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Esta unidad tiene más regeneración de vida.
 Button/Tooltip/CommanderPrestigeZagaraHeroicFortitudeResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeZagaraMassFrenzyUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=
-Button/Tooltip/CommanderPrestigeZagaraMaxSupplyUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraScourgeNestUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraScourgeUpgrade=
+Button/Tooltip/CommanderPrestigeZagaraMassFrenzyUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Frenesí en masa solo afecta a Zagara y sus unidades.
+Button/Tooltip/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=Los Nido de azotes engendran Azotes automáticamente.
+Button/Tooltip/CommanderPrestigeZagaraMaxSupplyUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Los suministros máximos de Zagara aumentan a 150.
+Button/Tooltip/CommanderPrestigeZagaraScourgeNestUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Zagara queda limitada a 1 Nido de azotes.
+Button/Tooltip/CommanderPrestigeZagaraScourgeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Engendra un Azote adicional.
 Button/Tooltip/CommanderPrestigeZagaraZagaraDeepTunnel=Se transporta rápidamente bajo tierra hasta la ubicación objetivo.
-Button/Tooltip/CommanderPrestigeZagaraZagaraUpgrade=
-Button/Tooltip/CommanderPrestigeZagaraZerglingUpgrade=
-Button/Tooltip/CommanderPrestigeZeratulProphecyLimitedUpgrade=
-Button/Tooltip/CommanderPrestigeZeratulProphecyUnlimitedUpgrade=
-Button/Tooltip/CommanderPrestigeZeratulShadowCleaveUpgrade=
+Button/Tooltip/CommanderPrestigeZagaraZagaraUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Zagara tiene más regeneración de vida y de energía.
+Button/Tooltip/CommanderPrestigeZagaraZerglingUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Engendra un zerguezno adicional.
+Button/Tooltip/CommanderPrestigeZeratulProphecyLimitedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Solo pueden recolectarse <s val="Coop_Prestige_Tooltip"><d ref="Effect,ZeratulArtifactLimitDummy,Amount"/></s> fragmentos de Artefacto.
+Button/Tooltip/CommanderPrestigeZeratulProphecyUnlimitedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Se puede recolectar una cantidad ilimitada de fragmentos de Artefacto.
+Button/Tooltip/CommanderPrestigeZeratulShadowCleaveUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Cada fragmento de Artefacto recolectado reduce en <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeZeratulTornadoesShadowCleave1:Abil,ZeratulShadowCleave,Cost[0].Cooldown.TimeUse$'/]"/></s> el tiempo de recuperación. Hendidura de las sombras crea un tornado que daña y ralentiza a las unidades enemigas.
 Button/Tooltip/CommanderPrestigeZeratulVoidSeekerSummon=Despliega el Cazador del Vacío en la ubicación objetivo, camufla todas las unidades y estructuras aliadas en el área y las vuelve indetectables. Dura <d ref="Effect,CommanderPrestigeZeratulVoidSeekerSuperCloakCP,PeriodCount*Effect,CommanderPrestigeZeratulVoidSeekerSuperCloakCP,PeriodicPeriodArray[0]"/> segundos.
 Button/Tooltip/CommanderSwannCombatDrop=Invoca 4 Guerrabots A.R.E.S. que aturden a las unidades terrestres enemigas en la zona de aterrizaje. Los Guerrabots pueden controlarse y pelean durante <d ref="Behavior,ARESTimedLife,Duration"/> segundos. /// Calls down 4 A.R.E.S. War Bots, stunning enemy ground units in the drop zone. The War Bots are controllable and fight for <d ref="Behavior,ARESTimedLife,Duration"/> seconds.
 Button/Tooltip/CommanderSwannImprovedSCVs=Varios VCE pueden construir una estructura y así reducir el tiempo de construcción. Las reparaciones no tienen costo. /// Multiple SCVs can build a structure, reducing its construction time. Repair has no resource cost.
@@ -3805,7 +3805,7 @@ Button/Tooltip/DehakaCloakAura=Dehaka camufla a las unidades aliadas debajo de �
 Button/Tooltip/DehakaConsume=Asesina a la unidad enemiga objetivo para curarse por un <d ref="Effect,DehakaConsumeEffectHealOther,VitalArray[Life].ChangeFraction*100"/>% de vida y recibir habilidades pasivas según el tipo de enemigo durante <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> segundos. El tiempo de recuperación depende de la cantidad de vida que el enemigo tenga al morir.<n/><n/><ul text="•"><li>Aérea: Obtiene un ataque de largo alcance</li><li>Blindada: Obtiene daño adicional contra unidades blindadas</li><li>Biológica: Recupera un <d ref="Effect,DehakaConsumeEffectHealOther,VitalArray[Life].ChangeFraction*100"/>% de vida</li><li>Ligera: Obtiene velocidad de movimiento</li><li>Gigante: Obtiene armadura y devuelve el daño a los atacantes</li><li>Mecánica: Obtiene velocidad de ataque</li><li>Psiónica: Libera una explosión de energía psiónica y el tiempo de recuperación de las habilidades se reduce un 50%</li>
 Button/Tooltip/DehakaCoop=Líder de manada primigenia. Recolecta esencia de los enemigos caídos para cambiar y aumentar su fuerza.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c> /// Primal Pack Leader. Collects essence from his fallen enemies to change and grow in strength.<n/><n/><c val="ffff8a">Can attack ground units.</c>
 Button/Tooltip/DehakaCoop2=Líder de manada primigenia. Recolecta esencia de los enemigos caídos para cambiar y aumentar su fuerza.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>
-Button/Tooltip/DehakaCoopClone=El brazo de Dehaka se desprendió. Se transformó en Zweihaka. Después el brazo de Zweihaka se desprendió. No estamos seguros de qué fue lo que pasó.
+Button/Tooltip/DehakaCoopClone=El brazo de Dehaka se desprendió. Se transformó en Zweihaka. Después el brazo de Zweihaka se desprendió. No estamos seguros de qué fue lo que pasó. /// Dehaka's arm fell off. Grew into Zweihaka. Then Zweihaka's arm fell off. Not sure what happened to that.
 Button/Tooltip/DehakaCoopReviveCocoon=Dehaka revivirá dentro de este cubil. /// Dehaka will revive within this den.
 Button/Tooltip/DehakaCreeperAirSuicide=Permite que los Furtivos ataquen unidades aéreas y aumenta su velocidad de movimiento. /// Allows Creepers to target air and increases their movement speed.
 Button/Tooltip/DehakaCreeperFlying=Se engendra a partir del Huésped furtivo. Los Furtivos explosivos duran <d ref="Behavior,DehakaCreeperTimedLife,Duration"/> segundos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c> /// Spawns from Creeper hosts. Explosive Creepers last <d ref="Behavior,DehakaCreeperTimedLife,Duration"/> seconds.<n/><n/><c val="ffff8a">Can attack ground units.</c>
@@ -3844,9 +3844,9 @@ Button/Tooltip/DehakaIntimidatingRoar=Dehaka aterroriza a los enemigos cercanos,
 Button/Tooltip/DehakaIntimidatingRoarLv2=Dehaka aterroriza a los enemigos cercanos, reduce su velocidad de movimiento un <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveMoveSpeedFactor * (-1 ) * 100" precision="2"/>% y su velocidad de ataque un <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveAttackSpeedFactor * (-1 ) * 100" precision="2"/>% durante <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> segundos<n/>Los enemigos afectados por Rugido intimidante no pueden usar habilidades que cuestan energía. /// Dehaka terrifies nearby enemies, reducing their movement speed by <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveMoveSpeedFactor * (-1 ) * 100" precision="2"/>% and attack speed by <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveAttackSpeedFactor * (-1 ) * 100" precision="2"/>% for for <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> seconds<n/>Enemies affected by Intimidating Roar cannot use abilities that cost energy.
 Button/Tooltip/DehakaIntimidatingRoarLv3=Dehaka aterroriza a los enemigos cercanos, reduce su velocidad de movimiento un <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveMoveSpeedFactor * (-1 ) * 100" precision="2"/>% y su velocidad de ataque un <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveAttackSpeedFactor * (-1 ) * 100" precision="2"/>% durante <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> segundos<n/>Los enemigos afectados por Rugido intimidante tienen 2 menos de armadura y no pueden usar habilidades que cuestan energía. /// Dehaka terrifies nearby enemies, reducing their movement speed by <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveMoveSpeedFactor * (-1 ) * 100" precision="2"/>% and attack speed by <d ref="Behavior,DehakaIntimidatingRoar,Modification.AdditiveAttackSpeedFactor * (-1 ) * 100" precision="2"/>% for for <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> seconds<n/>Enemies affected by Intimidating Roar have their armor reduced by 2 and cannot use abilities that cost energy.
 Button/Tooltip/DehakaLarva=Se transforma en unidades zerg. /// Morphs into Zerg units.
-Button/Tooltip/DehakaLeapStomp=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas.
-Button/Tooltip/DehakaLeapStomp2=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas.
-Button/Tooltip/DehakaLeapStomp3=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas. Cada enemigo golpeado otorga <d ref="Behavior,DehakaLeapStompArmor,Modification.LifeArmorBonus"/> de armadura a Dehaka durante <d ref="Behavior,DehakaLeapStompArmor,Duration"/> segundos.
+Button/Tooltip/DehakaLeapStomp=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas. /// Dehaka leaps to the target location, dealing <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> damage to nearby enemy ground units.
+Button/Tooltip/DehakaLeapStomp2=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas. /// Dehaka leaps to the target location, dealing <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> damage to nearby enemy ground units.
+Button/Tooltip/DehakaLeapStomp3=Dehaka salta hacia la ubicación objetivo e inflige <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> de daño a las unidades enemigas terrestres cercanas. Cada enemigo golpeado otorga <d ref="Behavior,DehakaLeapStompArmor,Modification.LifeArmorBonus"/> de armadura a Dehaka durante <d ref="Behavior,DehakaLeapStompArmor,Duration"/> segundos. /// Dehaka leaps to the target location, dealing <d ref="$AccumulatedValue:Effect,DehakaStompDamageC,Amount$"/> damage to nearby enemy ground units. Each enemy hit grants Dehaka <d ref="Behavior,DehakaLeapStompArmor,Modification.LifeArmorBonus"/> armor for <d ref="Behavior,DehakaLeapStompArmor,Duration"/> seconds.
 Button/Tooltip/DehakaLearnAbilities=Tienes puntos de mutación sin gastar. Haz clic aquí para gastarlos. /// You have unspent mutation points. Click here to spend them.
 Button/Tooltip/DehakaLearnPrimalArmorLevel1=Mejora la armadura de todas las unidades zerg primigenias. /// Upgrades the armor of all Primal Zerg units.
 Button/Tooltip/DehakaLearnPrimalArmorLevel2=Mejora aún más la armadura de todas las unidades zerg primigenias. /// Further upgrades the armor of all Primal Zerg units.
@@ -4293,7 +4293,7 @@ Button/Tooltip/K5Cooldowns=Reduce un 20% el costo y el tiempo de recuperación d
 Button/Tooltip/K5CreepBonuses=Aumenta la velocidad de ataque de las unidades aliadas un <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>% cuando están sobre talo. Aumenta la regeneración de vida de las unidades aliadas en talo. Los tumores de talo propagan talo más rápido y más lejos.
 Button/Tooltip/K5TwoDrones=Los Obreros se transforman en grupos de dos y necesitan menos suministros. Aumenta un 50% el costo de recursos y el tiempo de construcción. /// Drones morph in groups of two and require less supply. Resource cost and build time increased by 50%.
 Button/Tooltip/Kaboomer=Infestado especial que explota cuando muere.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c> /// Special infested that explodes on death.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Esta unidad lanza interceptores más rápido y sus interceptores tienen un <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>% más de velocidad de ataque.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Aumenta la regeneración de energía de un 200%. /// Increases energy regeneration rate by 200%.
 Button/Tooltip/KaraxTurretAttackSpeed=Aumenta un 25% la velocidad de ataque de las estructuras defensivas. /// Increases the attack speed of defensive structures by 25%.
 Button/Tooltip/KaraxTurretRange=Las estructuras defensivas obtienen +2 de alcance. /// Defensive structures gain +2 range.
@@ -4320,7 +4320,7 @@ Button/Tooltip/LearnDehakaConsume=<c val ="ffff8a">Dehaka</c> asesina a la unida
 Button/Tooltip/LearnDehakaDetector=Permite que <c val ="ffff8a">Dehaka</c> detecte unidades camufladas, enterradas y alucinadas. /// Allows <c val ="ffff8a">Dehaka</c> to detect cloaked, burrowed, and hallucinated units.
 Button/Tooltip/LearnDehakaIntimidatingRoar=<c val ="ffff8a">Dehaka</c> intimida a los enemigos cercanos y les reduce la velocidad de movimiento un 75% y la velocidad de ataque un 25% durante <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> segundos.<n/><n/><c val="ffffcc00">Nivel 2</c> - Los enemigos afectados por Rugido intimidante no pueden usar habilidades que cuestan energía.<n/><c val="ffffcc00">Nivel 3</c> - Reduce la armadura de los enemigos afectados por Rugido intimidante en <d ref="Behavior,DehakaIntimidatingRoarLv3,Modification.LifeArmorBonus * (-1)"/>. /// <c val ="ffff8a">Dehaka</c> intimidates nearby enemies, reducing their movement speed by 75% and attack speed by 25% for <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> seconds.<n/><n/><c val="ffffcc00">Level 2</c> - Enemies affected by Intimidating Roar also cannot use abilities that cost energy.<n/><c val="ffffcc00">Level 3</c> - Enemies affected by Intimidating Roar also have armor reduced by <d ref="Behavior,DehakaIntimidatingRoarLv3,Modification.LifeArmorBonus * (-1)"/>.
 Button/Tooltip/LearnDehakaLeapStomp=<c val ="ffff8a">Dehaka</c> salta hacia la ubicación objetivo e inflige 25 + 50% de daño de arma a todas las unidades terrestres enemigas en el área.<n/><n/><c val="ffffcc00">Nivel 2</c> - El alcance de Salto aumenta en 6 y el daño aumenta a 25 + 75% de daño de arma.<n/><c val="ffffcc00">Nivel 3</c> - Por cada enemigo que golpea, Dehaka recibe <d ref="Behavior,DehakaArmorUpgrade1,Modification.LifeArmorBonus"/> de armadura durante <d ref="Behavior,DehakaIntimidatingRoar,Duration"/> segundos.
-Button/Tooltip/LearnDehakaMammothBreath=El aliento ardiente de <c val ="ffff8a">Dehaka</c> abrasa la tierra e inflige daño (<d ref="$AccumulatedValue:Effect,MammothBreathDamage,Amount$"/>) a todas las unidades terrestres enemigas que encuentra a su paso.
+Button/Tooltip/LearnDehakaMammothBreath=El aliento ardiente de <c val ="ffff8a">Dehaka</c> abrasa la tierra e inflige daño (<d ref="$AccumulatedValue:Effect,MammothBreathDamage,Amount$"/>) a todas las unidades terrestres enemigas que encuentra a su paso. /// <c val ="ffff8a">Dehaka's</c> fiery breath scorches the earth, dealing weapon damage (<d ref="$AccumulatedValue:Effect,MammothBreathDamage,Amount$"/>) to all enemy ground units in its path.
 Button/Tooltip/LearnDehakaMendingAura=<c val ="ffff8a">Dehaka</c> cura de manera pasiva a todas las unidades aliadas cercanas.<n/><n/><c val="ffffcc00">Nivel 2</c> - 2 de vida por segundo.<n/><c val="ffffcc00">Nivel 3</c> - 3 de vida por segundo. /// <c val ="ffff8a">Dehaka</c> passively heals all allied units nearby.<n/><n/><c val="ffffcc00">Level 2</c> - 2 life per second.<n/><c val="ffffcc00">Level 3</c> - 3 life per second.
 Button/Tooltip/LearnDehakaStomp=Inflige daño a las unidades terrestres enemigas alrededor de Dehaka.<n/><n/><c val="ffffcc00">Nivel 1</c> - <d ref="Effect,DehakaStompDamageA,Amount"/> de daño.<n/><c val="ffffcc00">Nivel 2</c> - <d ref="Effect,DehakaStompDamageB,Amount"/> de daño.<n/><c val="ffffcc00">Nivel 3</c> - <d ref="Effect,DehakaStompDamageC,Amount"/> de daño, cura a Dehaka por un 100% del daño infligido. /// Deals damage to enemy ground units around Dehaka.<n/><n/><c val="ffffcc00">Level 1</c> - <d ref="Effect,DehakaStompDamageA,Amount"/> damage.<n/><c val="ffffcc00">Level 2</c> - <d ref="Effect,DehakaStompDamageB,Amount"/> damage.<n/><c val="ffffcc00">Level 3</c> - <d ref="Effect,DehakaStompDamageC,Amount"/> damage, heals Dehaka for 100% of damage dealt.
 Button/Tooltip/LearnDehakaSwipe=Inflige daño a las unidades enemigas frente a Dehaka.<n/><n/><c val="ffffcc00">Nivel 1</c> - 50 de daño.<n/><c val="ffffcc00">Nivel 2</c> - 100 de daño.<n/><c val="ffffcc00">Nivel 3</c> - 100 de daño, cura a Dehaka por un 100% del daño infligido. /// Deals damage to enemy units in front of Dehaka.<n/><n/><c val="ffffcc00">Level 1</c> - 50 damage.<n/><c val="ffffcc00">Level 2</c> - 100 damage.<n/><c val="ffffcc00">Level 3</c> - 100 damage, heals Dehaka for 100% of damage dealt.
@@ -4620,7 +4620,7 @@ Button/Tooltip/PnPSingleTargetLockOn2=Despliega un dron que marca a una unidad c
 Button/Tooltip/PointDefense=Láser defensivo automatizado que intercepta varios proyectiles enemigos. No intercepta ataques especiales.<n/><n/><c val="f078ff">Cada disparo consume 10 de energía.</c> /// Automated defensive laser that intercepts a variety of enemy projectiles. Does not intercept special attacks.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
 Button/Tooltip/PointDefenseDrone_BlackOps=Utiliza un láser para destruir misiles enemigos. <n/>No puede interceptar ataques especiales. <n/>Pierde efecto después de <d ref="Behavior,PointDefenseDrone_BlackOpsTimedLife,Duration"/> segundos.<n/><n/><c val="f078ff">Cada disparo consume 10 de energía.</c> /// Uses a laser to shoot down enemy missiles.  <n/>Cannot target special attacks. <n/>Times out after <d ref="Behavior,PointDefenseDrone_BlackOpsTimedLife,Duration"/> seconds.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
 Button/Tooltip/PredictiveBlinkPassive=Permite que esta unidad se teletransporte a una ubicación objetivo cercana. Los Emboscadores Xel'Naga se teletransportarán automáticamente a un sitio seguro cuando atraviesen su casco. /// Allows this unit to teleport to a nearby target location. Xel'Naga Ambushers will automatically teleport to safety once their hulls have been breached.
-Button/Tooltip/PrestigeAbilLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
+Button/Tooltip/PrestigeAbilLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/PrestigeBuildUnitLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
 Button/Tooltip/PrestigeResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
 Button/Tooltip/PrimalGuardianPassive=El Cubil de Murvar te permite evolucionar al Guardián primigenio. /// Murvar's Den allows you to evolve Primal Guardian.
@@ -4657,7 +4657,7 @@ Button/Tooltip/RallyCasual=Envía a las unidades construidas al punto designado.
 Button/Tooltip/RallyEggCasual=Envía a las unidades trabajadoras y a los Amos supremos transformados al punto designado. Los trabajadores enviados a los campos de minerales o a los extractores iniciarán la recolección automáticamente. /// Sends morphed worker units and Overlords to the designated point. Workers rallied to Mineral Fields or Extractors will begin gathering automatically.
 Button/Tooltip/RallySCV=Envía a las unidades trabajadoras al punto designado. Los trabajadores enviados a los campos de minerales o a los extractores iniciarán la recolección automáticamente. /// Sends worker units to the designated point. Workers rallied to Mineral Fields or Extractors will begin gathering automatically.
 Button/Tooltip/RallyZeratulTopBarRedirect=Envía a la Legión legendaria al punto designado. /// Sends the Legendary Legion to the designated point.
-Button/Tooltip/RapidDeploymentHercules=
+Button/Tooltip/RapidDeploymentHercules=El Hércules despliega las tropas cargadas el doble de rápido.
 Button/Tooltip/RapidDeploymentResearchVessel=El Navío de investigación despliega las tropas cargadas casi al instante. /// The Research Vessel deploys loaded troops almost instantly.
 Button/Tooltip/RavagerAbathurCorrosiveBile=Lanza un misil hacia la ubicación objetivo e inflige <d ref="Effect,RavagerCorrosiveBileAoeDamage,Amount"/> de daño a las unidades enemigas que están en el área de impacto.<n/><n/><c val="#ColorAttackInfo">Puede destruir los campos de fuerza protoss.</c> /// Launch a missile at the target location, dealing <d ref="Effect,RavagerCorrosiveBileAoeDamage,Amount"/> damage to enemy units in the area upon impact.<n/><n/><c val="#ColorAttackInfo">Can destroy Protoss Force Fields.</c>
 Button/Tooltip/RavagerPassive=La Madriguera de cucarachas permite que las Cucarachas se transformen en Devastadores. /// Roach Warren enables you to morph Ravagers from Roaches.
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Aumenta la energía inicial de l
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Aumenta la energía inicial de los <c val="ffff8a">Altos templarios</c> y los <c val="ffff8a">Arcontes</c> en <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>. /// Increases the starting energy of <c val="ffff8a">High Templar</c> and <c val="ffff8a">Archons</c> by <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=Duplica la cantidad de disparos del Cañón dispersivo de las <c val="ffff8a">Vanguardias</c> . /// Doubles the amount of shots from the <c val="ffff8a">Vanguard's</c> Scatter Cannon.
 Button/Tooltip/ResearchImprovedSiegeMode=Reduce el tiempo de transformación de los <c val="ffff8a">Tanques de asedio</c>. Los <c val="ffff8a">Tanques de asedio</c> obtienen +3 de armadura en Modo asedio. /// Reduces the transformation time of <c val="ffff8a">Siege Tanks</c>. <c val="ffff8a">Siege Tanks</c> gain +3 armor in Siege Mode.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Aumenta la velocidad de ataque de <c val="ffff8a">todas las Torretas</c> un 25%. /// Increases the attack speed of <c val="ffff8a">all Turrets</c> by 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Aumenta la velocidad de ataque de <c val="ffff8a">todas las Torretas</c> un 50%.
 Button/Tooltip/ResearchIncineratorGauntlets=Aumenta el área de daño del <c val="ffff8a">Camazot</c> un 40%. /// Widens the <c val="ffff8a">Firebat</c>'s damage radius by 40%.
 Button/Tooltip/ResearchIncineratorNozzles=Aumenta un 40% el ataque de área de los Camazotes. /// Firebats gain a 40% larger area attack.
@@ -4801,7 +4802,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=Los <c val="ffff8a">Búnkeres inf
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=Los <c val = "ffff8a">Tanques de asedio infestados</c> infligen +15 de daño a las unidades blindadas y a las estructuras en los dos modos. /// <c val = "ffff8a">Infested Siege Tanks</c> deal an additional +15 damage to armored units and structures in both modes.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=El ataque del Merodeador ralentiza temporalmente a todas las unidades del área.<n/><n/><c val="#ColorAttackInfo">Las unidades gigantes son inmunes.</c> /// Marauder attack temporarily slows all units in target area.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
 Button/Tooltip/ResearchJuggernautPlating=Los <c val="ffff8a">Camazotes</c> obtienen +100 de vida y +2 de armadura. /// <c val="ffff8a">Firebats</c> gain +100 life and +2 armor.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Hace que el <c val="ffff8a">Portanaves</c> lance interceptores más rápido y aumenta la velocidad de ataque de sus interceptores un <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Aumenta la velocidad de regeneración de energía de los <c val="ffff8a">Energizadores</c> y las <c val="ffff8a">Baterías de escudos</c> un 200%. /// Increases the energy regeneration rate of <c val="ffff8a">Energizers</c> and <c val="ffff8a">Shield Batteries</c> by 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Aumenta la velocidad de ataque de los <c val="ffff8a">Cañones de fotones</c> y los <c val="ffff8a">Monolitos khaydarín</c> un 25%. /// Increases the attack speed of <c val="ffff8a">Photon Cannons</c> and <c val="ffff8a">Khaydarin Monoliths</c> by 25%.
 Button/Tooltip/ResearchKaraxTurretRange=Los <c val="ffff8a">Cañones de fotones</c>, los <c val="ffff8a">Monolitos khaydarín</c> y las <c val="ffff8a">Baterías de escudos</c> obtienen +2 de alcance. /// <c val="ffff8a">Photon Cannons</c>, <c val="ffff8a">Khaydarin Monoliths</c>, and <c val="ffff8a">Shield Batteries</c> gain +2 range.
@@ -4871,7 +4872,7 @@ Button/Tooltip/ResearchSILiberatorImprovedAoeAttack=Aumenta el daño que los <c 
 Button/Tooltip/ResearchSIQueenEnergy=Aumenta la velocidad de regeneración de energía de la <c val="ffff8a">Reina de la colonia</c> un 100%. Las <c val="ffff8a">Reinas de la colonia</c> se engendran con toda la energía. /// Increases the <c val="ffff8a">Brood Queen's</c> energy regeneration rate by 100%. <c val="ffff8a">Brood Queens</c> spawn with full energy.
 Button/Tooltip/ResearchSIQueenFungalGrowth=Permite que las <c val="ffff8a">Reinas de la colonia</c> inmovilicen a las unidades enemigas, les inflijan <d ref="(Behavior,SIQueenFungalGrowth,Duration / Behavior,SIQueenFungalGrowth,Period) * Effect,SIQueenFungalGrowthDamage,Amount"/> de daño durante <d time="4"/> y las revelen si están camufladas o enterradas. /// Allows <c val="ffff8a">Brood Queens</c> to immobilize enemy units and deal <d ref="(Behavior,SIQueenFungalGrowth,Duration / Behavior,SIQueenFungalGrowth,Period) * Effect,SIQueenFungalGrowthDamage,Amount"/> damage to them over <d time="4"/>, and reveal them if they are cloaked or burrowed.
 Button/Tooltip/ResearchSOAOrbitalStrikeUpgrade=El Ataque orbital de la <c val="ffff8a">Lanza de Adún</c> aturde a las unidades enemigas del área objetivo durante <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> segundos. /// The <c val="ffff8a">Spear of Adun's</c> Orbital Strike stuns enemy units in the target area for <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> seconds.
-Button/Tooltip/ResearchSOARepairBeamExtraTarget=Permite que el Rayo reconstructor de la <c val="ffff8a">Lanza de Adún</c> se aplique sobre <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> objetivos adicionales.
+Button/Tooltip/ResearchSOARepairBeamExtraTarget=Permite que el Rayo reconstructor de la <c val="ffff8a">Lanza de Adún</c> se aplique sobre <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> objetivos adicionales. /// Allows the <c val="ffff8a">Spear of Adun's</c> Reconstruction Beam to affect <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> additional targets.
 Button/Tooltip/ResearchSOASolarLanceUpgrade=La Heliolanza de la <c val="ffff8a">Lanza de Adún</c> prende fuego el terreno a su paso e inflige <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,ThermalLancesFireBeamDamage,Amount"/> más de daño durante <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,SOASolarLanceFireBeamCP,PeriodicPeriodArray[0]"/> segundos. /// The <c val="ffff8a">Spear of Adun's</c> Solar Lance sets fire to the ground along its path, dealing <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,ThermalLancesFireBeamDamage,Amount"/> extra damage over <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,SOASolarLanceFireBeamCP,PeriodicPeriodArray[0]"/> seconds.
 Button/Tooltip/ResearchScienceVesselFreeRepair=La nanoreparación de los <c val="ffff8a">Navíos científicos</c> ya no cuesta energía. /// <c val="ffff8a">Science Vessel's</c> Nano-Repair no longer costs energy.
 Button/Tooltip/ResearchSeismicSpinesAbathur=Aumenta el alcance de ataque de los <c val="ffff8a">Empaladores</c> y los <c val="ffff8a">Acechadores</c> en +3. /// Increases the attack range of <c val="ffff8a">Impalers</c> and <c val="ffff8a">Lurkers</c> by +3.
@@ -4995,9 +4996,9 @@ Button/Tooltip/SOAOrbitalStrike=Dispara 5 láseres desde la órbita al campo de 
 Button/Tooltip/SOAOrbitalStrikeKarax=Dispara láseres desde la órbita al campo de batalla que infligen <d ref="Effect,SOAOrbitalStrikeDamage,Amount"/> de daño de área (<d ref="Effect,SOAOrbitalStrikeDamage,AttributeBonus[Armored]+Effect,SOAOrbitalStrikeDamage,Amount"/> contra unidades blindadas). /// Fire lasers onto the battlefield from orbit, each of them dealing <d ref="Effect,SOAOrbitalStrikeDamage,Amount"/> (<d ref="Effect,SOAOrbitalStrikeDamage,AttributeBonus[Armored]+Effect,SOAOrbitalStrikeDamage,Amount"/> vs armored units) area damage.
 Button/Tooltip/SOAOrbitalStrikeKaraxUpgraded=Dispara láseres desde la órbita al campo de batalla que infligen <d ref="Effect,SOAOrbitalStrikeDamage,Amount"/> de daño de área (<d ref="Effect,SOAOrbitalStrikeDamage,AttributeBonus[Armored]+Effect,SOAOrbitalStrikeDamage,Amount"/> contra unidades blindadas) y aturden a las unidades durante <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> segundos. /// Fire lasers onto the battlefield from orbit, each of them dealing <d ref="Effect,SOAOrbitalStrikeDamage,Amount"/> (<d ref="Effect,SOAOrbitalStrikeDamage,AttributeBonus[Armored]+Effect,SOAOrbitalStrikeDamage,Amount"/> vs armored units) area damage and stunning units for <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> seconds.
 Button/Tooltip/SOAOrbitalStrikeUpgradePassive=El Ataque orbital de la Lanza de Adún aturde a las unidades enemigas que están en el área objetivo durante <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> segundos. /// The Spear of Adun's Orbital Strike stuns enemy units in the target area for <d ref="Behavior,OrbitalStrikeStun,Duration" precision="1"/> seconds.
-Button/Tooltip/SOARepairBeam=Repara automáticamente a las unidades mecánicas y les restablece <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate" player="current"/> de vida por segundo (<d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate" player="current"/> a estructuras). Se pueden reparar hasta <d ref="Effect,KaraxRepairBeamLimit,Amount" player="current"/> objetivos a la vez.<n/><n/><c val="ffff8a">Habilidad pasiva.</c>
+Button/Tooltip/SOARepairBeam=Repara automáticamente a las unidades mecánicas y les restablece <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate" player="current"/> de vida por segundo (<d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate" player="current"/> a estructuras). Se pueden reparar hasta <d ref="Effect,KaraxRepairBeamLimit,Amount" player="current"/> objetivos a la vez.<n/><n/><c val="ffff8a">Habilidad pasiva.</c> /// Mechanical units are automatically repaired for <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate" player="current"/>  (<d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate" player="current"/> for structures) life per second. Up to <d ref="Effect,KaraxRepairBeamLimit,Amount" player="current"/> targets can be repaired at once.<n/><n/><c val="ffff8a">Passive ability.</c>
 Button/Tooltip/SOARepairBeamExtraTarget=Repara automáticamente las unidades mecánicas y les restablece <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate"/> de vida por segundo (<d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate"/> para estructuras). Se pueden reparar hasta 5 objetivos a la vez.<n/><n/><c val="ffff8a">Habilidad pasiva.</c> /// Mechanical units are automatically repaired for <d ref="Effect,SOARepairBeamHeal,RechargeVitalRate"/>  (<d ref="Effect,SOARepairBeamHealStructure,RechargeVitalRate"/> for structures) life per second. Up to 5 targets can be repaired at once.<n/><n/><c val="ffff8a">Passive ability.</c>
-Button/Tooltip/SOARepairBeamExtraTargetPassive=Permite que el Rayo reconstructor de la Lanza de Adún se aplique sobre <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> objetivos adicionales.
+Button/Tooltip/SOARepairBeamExtraTargetPassive=Permite que el Rayo reconstructor de la Lanza de Adún se aplique sobre <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> objetivos adicionales. /// Allows the Spear of Adun's Reconstruction Beam to affect <d ref="$UpgradeEffectArrayValue:SOARepairBeamExtraTarget:Effect,KaraxRepairBeamLimit,Amount$"/> additional targets.
 Button/Tooltip/SOAShadowGuardCalldown=Despliega <d ref="Effect,ShadowGuardCU,SpawnCount" player="current"/> Templarios oscuros de élite en la ubicación objetivo que duran <d ref="Behavior,ShadowGuardTimedLife,Duration" player="current" precision="1"/> segundos. /// Deploys <d ref="Effect,ShadowGuardCU,SpawnCount" player="current"/> elite Dark Templar at the target location that last for <d ref="Behavior,ShadowGuardTimedLife,Duration" player="current" precision="1"/> seconds.
 Button/Tooltip/SOAShadowGuardCalldownUpgraded=Despliega cuatro Templarios oscuros de élite en la ubicación objetivo. La Guardia sombría puede usar las habilidades Furia sombría, Parpadeo y Velo del Vacío. /// Deploys 4 elite Dark Templar at the target location. Shadow Guard can use Shadow Fury, Blink, and Void Shroud abilities.
 Button/Tooltip/SOASolarLanceUpgradePassive=La Heliolanza de la Lanza de Adún prende fuego el terreno a su paso e inflige <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,ThermalLancesFireBeamDamage,Amount"/> más de daño durante <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,SOASolarLanceFireBeamCP,PeriodicPeriodArray[0]"/> segundos. /// The Spear of Adun's Solar Lance sets fire to the ground along its path, dealing <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,ThermalLancesFireBeamDamage,Amount"/> extra damage over <d ref="Effect,SOASolarLanceFireBeamCP,PeriodCount*Effect,SOASolarLanceFireBeamCP,PeriodicPeriodArray[0]"/> seconds.
@@ -5190,7 +5191,7 @@ Button/Tooltip/TychusACPiercingRoundsLearn=Los ataques de <c val="ffff8a">Tychus
 Button/Tooltip/TychusACRageGrenades=Aumenta el daño de la Granada destructora de Tychus en <d ref="$UpgradeEffectArrayValue:TychusACRageGrenades:Effect,TychusShredderGrenadeDamage,Amount$"/>. /// Increases the damage of Tychus' Shredder Grenade by <d ref="$UpgradeEffectArrayValue:TychusACRageGrenades:Effect,TychusShredderGrenadeDamage,Amount$"/>.
 Button/Tooltip/TychusACRageGrenadesLearn=Aumenta el daño de la Granada destructora de <c val="ffff8a">Tychus</c> en <d ref="$UpgradeEffectArrayValue:TychusACRageGrenades:Effect,TychusShredderGrenadeDamage,Amount$)"/>. /// Increases the damage of <c val="ffff8a">Tychus'</c> Shredder Grenade by <d ref="$UpgradeEffectArrayValue:TychusACRageGrenades:Effect,TychusShredderGrenadeDamage,Amount$)"/>.
 Button/Tooltip/TychusArmory=Contiene mejoras de equipamiento para los Acorazados: Blaze, Bala de cañón y Serpiente de cascabel.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Blaze en el Bar de Joeyray<n/>- Bala de cañón en el Bar de Joeyray<n/>- Serpiente de cascabel en el Bar de Joeyray /// Contains gear upgrades for the Muscle: Blaze, Cannonball, and Rattlesnake.<n/><n/><c val="ffff8a">Enables:</c><n/>- Blaze from Joeyray's Bar<n/>- Cannonball from Joeyray's Bar<n/>- Rattlesnake from Joeyray's Bar
-Button/Tooltip/TychusCalldownOdin=Llama al Odín en la ubicación objetivo e inflige <d ref="Effect,TychusCalldownOdinDamage,Amount"/> de daño al impactar. El Odín utiliza a Tychus como piloto y lo revive si está inactivo. Puedes controlarlo en la batalla durante <d ref="Behavior,TychusOdinTimedLife,Duration"/> segundos.
+Button/Tooltip/TychusCalldownOdin=Llama al Odín en la ubicación objetivo e inflige <d ref="Effect,TychusCalldownOdinDamage,Amount"/> de daño al impactar. El Odín utiliza a Tychus como piloto y lo revive si está inactivo. Puedes controlarlo en la batalla durante <d ref="Behavior,TychusOdinTimedLife,Duration" player="current"/> segundos. /// Calls down the Odin at the target location, dealing <d ref="Effect,TychusCalldownOdinDamage,Amount"/> damage on impact. The Odin takes Tychus as the pilot and revives him if he is inactive. It is controllable and will fight for <d ref="Behavior,TychusOdinTimedLife,Duration" player="current"/> seconds.
 Button/Tooltip/TychusCommandCenter=Estructura primaria. Se usa para recibir los recursos que se recolectan. Puede usar la habilidad Despegar.<n/><n/><c val="ffff8a">Habilita:</c><n/>- VCE /// Primary structure. Used to receive gathered resources. Can use the Lift Off ability.<n/><n/><c val="ffff8a">Enables:</c><n/>- SCVs
 Button/Tooltip/TychusCommandCenterFlying=Estructura primaria. Debe aterrizar para recibir recursos, producir unidades o usar habilidades. /// Primary structure. Must land to receive resources, produce units, or use abilities.
 Button/Tooltip/TychusEngineeringBay=Contiene mejoras para Tychus, sus Forajidos y el Odín.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Construcción de Torreta automática con VCE /// Contains upgrades for Tychus, his Outlaws, and the Odin.<n/><n/><c val="ffff8a">Enables:</c><n/>- Auto-Turrets from SCVs
@@ -6249,7 +6250,7 @@ Effect/Name/InstantMorphDehaka=
 Effect/Name/InstantMorphSelf=Instant Morph Self
 Effect/Name/InstantSeekerMissileLaunchMissile=Misil buscador instantáneo
 Effect/Name/InstantUnburrowDehaka=
-Effect/Name/InterceptorAiurLaunchUpgradedPersistent=
+Effect/Name/InterceptorAiurLaunchUpgradedPersistent=InterceptorAiurLaunchUpgradedPersistent
 Effect/Name/InvulnerableTemp=
 Effect/Name/ItemKnockbackBy2=
 Effect/Name/ItemKnockbackBy2AB=
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=
 Effect/Name/SpecialDeliveryDropAB=
 Effect/Name/SpecialDeliveryDropABSet=
@@ -7824,7 +7830,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~ /// ~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=Comando de habilidad ~A~ ~B~ /// Ability command ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Techspam ~A~ /// Techspam ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Configurando índice de prestigio ~A~ para el jugador ~B~
 Param/Expression/lib_COOC_5DED9532=Mejora ~A~ ~B~ /// Upgrade ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Demasiados valores de puntuación reportados. No se puede hacer un seguimiento de ~A~ /// Too many score values reported, cannot track ~A~
 Param/Expression/lib_COOC_6DCBB62D=Información de jugador ~A~ guardada en el banco de datos obsoleta (~B~ vs ~C~). Se usarán valores predeterminados /// Bank version for player ~A~ out of date (~B~ vs ~C~), setting to default
@@ -7832,7 +7838,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~ /// ~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=Comando de habilidad ~A~ ~B~ /// Ability command ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Techsuperspam ~A~ /// Techsuperspam ~A~
 Param/Expression/lib_COOC_B56724DE=Mejora ~A~ ~B~ /// Upgrade ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Aplicando prestigio ~A~ al jugador ~B~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~ /// ~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=BNet dice que el jugador ~A~ (~B~) ha elegido al comandante ~C~ /// BNet says player ~A~ (~B~) picked commander ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~ /// ~A~,~B~
@@ -7849,7 +7855,7 @@ Param/Expression/lib_COUI_2FCDA0A6=~A~<n/><c val="ff0000">Tú y tu aliado deben 
 Param/Expression/lib_COUI_31343A11=~STDTOOLTIP~<c val="FFFF8A">Maestría:</c> Energía inicial y máxima aumentadas en <c val="FFFF8A">~ENERGY~</c>. /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
 Param/Expression/lib_COUI_35ABC314=~A~<n/><n/>Puede seleccionarse varias veces. /// ~A~<n/><n/>Can be selected multiple times.
 Param/Expression/lib_COUI_458413D1=~STDTOOLTIP~<c val="FFFF8A">Maestría:</c> Energía inicial y máxima aumentadas en <c val="FFFF8A">~ENERGY~</c>. /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
-Param/Expression/lib_COUI_4A080472=
+Param/Expression/lib_COUI_4A080472=<s val="Coop_Prestige_Tooltip_Title">~A~</s><n/><s val="Coop_Prestige_Tooltip_Subtitle">~B~</s><n/><n/><s val="@@@StandardTooltip">~C~</s>
 Param/Expression/lib_COUI_4B308295=~STDTOOLTIP~<c val="FFFF8A">Maestría:</c> Energía inicial y máxima aumentadas en <c val="FFFF8A">~ENERGY~</c>. /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
 Param/Expression/lib_COUI_5987FE56=
 Param/Expression/lib_COUI_5B6F4ABC=~A~/~B~ /// ~A~/~B~
@@ -8178,7 +8184,7 @@ RequirementNode/Tooltip/And4155980472CountUpgradeTychusMedicAdvancedHealingSpray
 RequirementNode/Tooltip/And433302610CountUpgradeNovaNoGearDummyCompleteOnly=Investigar dispositivos en la Academia de Fantasmas /// Research gadgets at the Ghost Academy.
 RequirementNode/Tooltip/And621839826NotCountBehaviorCommanderPrestigeDehakaPackLeadersExitGameCompleteOnlyNotCountBehaviorCommanderPrestigeDehakaPackLeadersExitGameEndCompleteOnly=No hay Líder de manada rival
 RequirementNode/Tooltip/And647805936CountUnitNovaReviveBeaconCompleteOnlyCountUpgradeNovaBuybackUnlockCompleteOnly=Nova recuperándose en estasis /// Nova recovering in stasis
-RequirementNode/Tooltip/CountBehaviorHHArmyOOCRegenSpeedCompleteOnlyAtUnit1713895594=
+RequirementNode/Tooltip/CountBehaviorHHArmyOOCRegenSpeedCompleteOnlyAtUnit1713895594=Hangar de drones instalado
 RequirementNode/Tooltip/CountBehaviorTychusWarhoundNearyByCompleteOnlyAtUnit447399319=Hay un Can de guerra junior cerca.
 RequirementNode/Tooltip/CountUnitAlias_ArmoryCompleteOnly609241497TechTreeCheat=Armería /// Armory
 RequirementNode/Tooltip/CountUnitAlias_BarracksCompleteOnly789532539TechTreeCheat=Cuartel /// Barracks
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Cuartel infestado
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Límite 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Fábrica infestada
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> de biomasa
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Límite de 3 o Prestigio: Sin límite
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Límite de 3 o Prestigio: Sin límite
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> de biomasa
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Límite de 3 o Prestigio: Sin límite
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Límite de 3 o Prestigio: Sin límite
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Fábrica
-RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=
+RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Límite de 1 con prestigio: Reina del azote
 Shape/Name/ZenithStone=Piedra cenital /// Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c> y, a continuación,</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">en el terreno para Atacar automáticamente</s> /// <s val="@@SimpleCommandRow">%hotkey</c> then</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">ground to Auto-attack</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBomberJunker /// HHBomberJunker
 Skin/Name/HHRavenJunker=HHRavenJunker /// HHRavenJunker
 Skin/Name/HHVikingJunker=HHVikingJunker /// HHVikingJunker
@@ -8779,7 +8786,7 @@ Unit/Name/DehakaConsumeLaunchTargetMissile=Dehaka - Consumir - Lanzar - Objetivo
 Unit/Name/DehakaConsumeMissile=Dehaka - Consumir - Misil /// Dehaka Consume Missile
 Unit/Name/DehakaCoop=Dehaka /// Dehaka
 Unit/Name/DehakaCoopBurrowed=Dehaka /// Dehaka
-Unit/Name/DehakaCoopClone=Zweihaka
+Unit/Name/DehakaCoopClone=Zweihaka /// Zweihaka
 Unit/Name/DehakaCoopReviveCocoon=Cubil de Dehaka /// Dehaka's Den
 Unit/Name/DehakaCreeper=Furtivo /// Creeper
 Unit/Name/DehakaCreeperFlying=Furtivo explosivo /// Explosive Creeper
@@ -9488,8 +9495,8 @@ Upgrade/Name/ColossusSkin=Diseño de Coloso /// Colossus Skin
 Upgrade/Name/CommanderLevel=Nivel de comandante /// Commander Level
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
-Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=Cooperativo - IA - Mutalisco - Costo /// Coop AI Mutalisk Cost
 Upgrade/Name/CoopAIReaperCost=Cooperativo - IA - Yum-Kimil - Costo /// Coop AI Reaper Cost
 Upgrade/Name/CoopBanelingHunter=Cooperativo - Uetzi - Cazador /// Coop Baneling Hunter
@@ -9626,7 +9633,7 @@ Upgrade/Name/InfestedSiegeTankAmmo=Mitosis automatizada /// Automated Mitosis
 Upgrade/Name/InfestedSiegeTankArmoredDamage=Encimas ácidas /// Acidic Enzymes
 Upgrade/Name/K5ChainLightning=Reacción en cadena /// Chain Reaction
 Upgrade/Name/K5Cooldowns=Eficiencia de habilidad /// Ability Efficiency
-Upgrade/Name/KaraxCarrierInterceptorLaunchSpeed=
+Upgrade/Name/KaraxCarrierInterceptorLaunchSpeed=Catapulta de transposición de gravitones
 Upgrade/Name/KaraxCarrierUpgrade=Karax - Portanaves - Mejora /// Karax Carrier Upgrade
 Upgrade/Name/KaraxCommander=Karax /// Karax
 Upgrade/Name/KaraxEnergyRegenUpgrade=Recarga rápida /// Rapid Recharging
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Oportunidades desatadas /
 UserData/MutatorChallenges/OutOfControl_Name=Fuera de control /// Flipping Out
 UserData/MutatorChallenges/Pain Train_Name=Ciudad nuclear /// Boom Town
 UserData/MutatorChallenges/PerfectStorm_Name=La tormenta perfecta /// The Perfect Storm
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Red de defensa puntual
 UserData/MutatorChallenges/PropagatorIntro_Name=Resistencia fútil /// Futile Resistance
 UserData/MutatorChallenges/PureVengeance_Name=Respuesta desmedida /// Inordinate Response
 UserData/MutatorChallenges/QuickKillers_Name=Asesinos ágiles /// Quick Killers
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=Megacoordinación /// Sick Micro
 UserData/MutatorChallenges/SilentKiller_Name=Asesina silenciosa
 UserData/MutatorChallenges/SlowAndSteady_Name=Lento pero seguro /// Slow and Steady
 UserData/MutatorChallenges/SpectreOfDeath_Name=Espectro de muerte /// Specter of Death
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Rodeados y asustados
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=Supervivencia del más apto /// Survival of the Fittest
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=Templo del dolor /// Temple of Pain
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Vorazún /// Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=Indiana Cain /// Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=Zeratul /// Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=Horner /// Horner
+UserData/PlayerCommanders/TerranHorner_Name=Han y Horner /// Han & Horner
 UserData/PlayerCommanders/TerranNova_Name=Nova /// Nova
 UserData/PlayerCommanders/TerranRaynor_Description=Excelente comandante de infantería /// Excellent infantry commander
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Llama al Hiperión /// Calls in the Hyperion

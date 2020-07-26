@@ -190,8 +190,8 @@ Button/Name/BunkerMengsk=Versorgungsbunker bauen
 Button/Name/BunkerMengskSalvage=Wiederverwertung
 Button/Name/CommandCenterMengsk=Einberufungszentrale bauen
 Button/Name/CommanderPrestigeMengskArmamentStabilizersLocked=Geschützstabilisierung erforschen
-Button/Name/CommanderPrestigeMengskMedivacLocked=Imperialen Boten bauen
-Button/Name/CommanderPrestigeMengskNuclearAnnihilationLocked=Nukleare Auslöschung
+Button/Name/CommanderPrestigeMengskMedivacLocked=Imperialen Boten bauen /// Build Imperial Intercessor
+Button/Name/CommanderPrestigeMengskNuclearAnnihilationLocked=Nukleare Auslöschung /// Nuclear Annihilation
 Button/Name/EngineeringBayMengsk=Maschinendock bauen
 Button/Name/FactoryMengsk=Fabrik bauen
 Button/Name/FighterModeMengsk=Kampffliegermodus
@@ -356,10 +356,10 @@ Button/Tooltip/BunkerMengsk=Verteidigungsgebäude, das Versorgung bietet.<n/>Ver
 Button/Tooltip/BunkerMengskSalvage=Verwertet das Gebäude wieder, wodurch es entfernt wird und <d ref="Effect,SalvageSharedMengsk,SalvageFactor.Resource[Minerals]*(-100)"/>% seiner Mineralien- und Gaskosten zurückerstattet werden. Die Wiederverwertung benötigt <d ref="Behavior,SalvageSharedMengsk,Duration"/> Sek. Warnung: Wenn die Wiederverwertung ausgelöst wird, kann sie nicht abgebrochen werden.
 Button/Tooltip/CommandCenterMengsk=Hauptgebäude. Dient als Abgabestelle für abgebaute Ressourcen und zur Umwandlung von Arbeitern und Miliz-Einheiten. Kann die Fähigkeit "Abheben" einsetzen.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Liga-Arbeiter<n/>- Ligamiliz-Einheiten<n/>- Bau von Versorgungsbunkern durch Arbeiter und Miliz-Einheiten
 Button/Tooltip/CommandCenterMengskFlying=Hauptgebäude. Muss landen um abgebaute Ressourcen entgegenzunehmen, Einheiten zu produzieren oder Fähigkeiten einzusetzen.
-Button/Tooltip/CommanderPrestigeMengskArmamentStabilizersLocked=Dieses Upgrade ist durch das Prestige Ihres Kommandanten gesperrt.
+Button/Tooltip/CommanderPrestigeMengskArmamentStabilizersLocked=Dieses Upgrade ist durch das Prestige Ihres Kommandanten gesperrt. /// This upgrade is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeMengskContaminatedStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Der Furchteffekt von "Kontaminationsschlag" hält <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskFear,Duration$/Behavior,ArtilleryMengskFear,Duration*100" player="0"/></s>% länger an und der regelmäßige Schadenseffekt erhöht den erlittenen Schaden um <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskArtillery:Behavior,ArtilleryMengskCloudSickness,DamageResponse.ModifyFraction$*100"/></s>%.
-Button/Tooltip/CommanderPrestigeMengskMedivacLocked=Diese Einheit ist durch das Prestige Ihres Kommandanten gesperrt.
-Button/Tooltip/CommanderPrestigeMengskNuclearAnnihilationLocked=Diese Fähigkeit ist durch das Prestige Ihres Kommandanten gesperrt.
+Button/Tooltip/CommanderPrestigeMengskMedivacLocked=Diese Einheit ist durch das Prestige Ihres Kommandanten gesperrt. /// This unit is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeMengskNuclearAnnihilationLocked=Diese Fähigkeit ist durch das Prestige Ihres Kommandanten gesperrt. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeMengskRoyalGuardUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Erhöht die erhaltene Erfahrung um <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeMengskRoyalGuard:Effect,MengskRoyalGuardExperienceGainDummy,Amount$"/></s>%.
 Button/Tooltip/CommanderPrestigeMengskTrooperMandateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Diese Einheit gewährt Imperiale Unterstützung, während sie eine Nuklearsplitterartillerie bemannt.
 Button/Tooltip/CommanderPrestigeMengskTrooperWeaponsUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Miliz-Einheiten mit ausgerüsteten Waffen aktivieren bei ihrem Tod einen Selbstzerstörungsmechanismus, anstatt ihre Waffe fallen zu lassen.

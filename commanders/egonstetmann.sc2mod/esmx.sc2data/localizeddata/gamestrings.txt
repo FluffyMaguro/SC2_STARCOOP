@@ -119,7 +119,7 @@ Behavior/Name/StetmannStetelliteChargesUsed=StetmannStetelliteChargesUsed /// St
 Behavior/Name/StetmannStetelliteChargesUsed1=StetmannStetelliteChargesUsed1 /// StetmannStetelliteChargesUsed1
 Behavior/Name/SuperGaryStetmannTheBestOil=El mejor aceite /// The Best Oil
 Behavior/Name/UltraliskStetmannBurrowChargeMechanicalStun=¡Sorpresa electrostática! /// Electrostatic Surprise!
-Behavior/Tooltip/CommanderPrestigeStetmannCombatBuff=
+Behavior/Tooltip/CommanderPrestigeStetmannCombatBuff=Esta unidad tiene más velocidad de ataque y regeneración de vida.
 Behavior/Tooltip/FASTOverloadStetmann=Esta unidad ataca más rápido. /// This unit has increased attack speed.
 Behavior/Tooltip/HUGSOverloadStetmann=Esta unidad está absorbiendo el daño que recibe. /// This unit is absorbing damage dealt to it.
 Behavior/Tooltip/InfestorStetmannHealingTentacle=Esta unidad está regenerando vida, egonergía y energía. La tasa de recuperación de sus habilidades está aumentando. /// This unit is regenerating health, Egonergy, and energy. Its ability cooldown rate is being increased.
@@ -337,9 +337,9 @@ Button/Name/ZerglingStetmannPassive=Mecazerguezno /// Mecha Zergling
 Button/Name/ZerglingStetmannRespawn=Reciclar Mecazerguezno /// Recycle Mecha Zergling
 Button/Name/ZerglingStetmannRespawnLocked=Reciclar Mecazerguezno /// Recycle Mecha Zergling
 Button/Name/ZerglingStetmannScrapDrop=Reciclable /// Recyclable
-Button/Tooltip/AbilLockedLevel05=Esta habilidad se desbloquea en el nivel de Comandante 5.
-Button/Tooltip/AbilLockedLevel09=Esta habilidad se desbloquea en el nivel de Comandante 9.
-Button/Tooltip/AbilLockedLevel15=Esta habilidad se desbloquea en el nivel de Comandante 15.
+Button/Tooltip/AbilLockedLevel05=Esta habilidad se desbloquea en el nivel de Comandante 5. /// This ability unlocks at Commander Level 5.
+Button/Tooltip/AbilLockedLevel09=Esta habilidad se desbloquea en el nivel de Comandante 9. /// This ability unlocks at Commander Level 9.
+Button/Tooltip/AbilLockedLevel15=Esta habilidad se desbloquea en el nivel de Comandante 15. /// This ability unlocks at Commander Level 15.
 Button/Tooltip/AlarakMothershipMassTeleport=Teletransporta la Nave nodriza y todas las unidades cercanas que controlas a la ubicación de una unidad o estructura aliada.</n></n><c val="#ColorAttackInfo">Solo puede seleccionar unidades o estructuras aliadas como objetivo.</c> /// Teleports the Mothership and all nearby units you control to target friendly unit or structure's location.</n></n><c val="#ColorAttackInfo">Can only target friendly units or structures.</c>
 Button/Tooltip/BanelingNestStetmann=Contiene mejoras para los Mecauetzis.<n/><n/><c val="ffff8a">Activa:</c><n/>- Transformación de Mecazergueznos en Mecauetzis /// Contains upgrades for Mecha Banelings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Mecha Banelings from Mecha Zerglings
 Button/Tooltip/BanelingStetmann=Unidad suicida. Al morir, inflige daño sobre un área pequeña. <n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c> /// Suicide unit. Does damage over a small area on death. <n/><n/><c val="ffff8a">Can attack ground units.</c>
@@ -363,15 +363,15 @@ Button/Tooltip/BroodlingStetmann=Criatura rápida de melé que durará un perío
 Button/Tooltip/CancelMutateMorph2=Cancela la orden de mutación y devuelve a la estructura a su estado original. /// Cancels the mutation order, returning the structure to its original state.
 Button/Tooltip/CancelSuperGaryStetmannMorph=Cancela la orden de mejora y regresa a la unidad a su estado original. /// Cancels the upgrade order, returning the unit to its original state.
 Button/Tooltip/CausticSprayStetmann=Emite una corriente de solvente que inflige <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> de daño por segundo durante <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> segundos y que luego aumenta a <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/> de daño por segundo.<n/><n/><c val="ffff8a">Habilidad canalizada.</c><c val="#ColorAttackInfo"> Puede hacer objetivo en unidades terrestres y estructuras enemigas.</c> /// Emits a solvent stream that deals <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> damage per second for <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> seconds, then increases to <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/> damage per second.<n/><n/><c val="ffff8a">Channeled ability.</c><c val="#ColorAttackInfo"> Can target enemy ground units and structures.</c>
-Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=
+Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Matar a un enemigo le otorga una acumulación de El mejor aceite a esta unidad, lo que aumenta temporalmente su velocidad de ataque y su regeneración de vida.
 Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
 Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=Esta mejora está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=
-Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=
+Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> Cuando están en línea, los satélites son invulnerables y generan una Stetzona un <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>% más grande.
+Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestigio:</s> La velocidad de movimiento de Gary se reduce un <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% fuera de las Stetzonas.
 Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
 Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=Esta unidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
-Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=Esta habilidad está bloqueada por el prestigio de tu comandante.
+Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=Esta habilidad está bloqueada por el prestigio de tu comandante. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CorruptorStetmann=Unidad voladora antiaérea. Puede usar Destructores superiores y Solvente Terralimp.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades aéreas.</c> /// Anti-air flyer. Can use Cluster Busters and Terraclean Solvent.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
 Button/Tooltip/CorruptorStetmannBiggerAoE=Aumenta el radio de búsqueda de los Destructores superiores del <c val="ffff8a">Mecacorruptor</c> un <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%. /// Increases the search radius of <c val="ffff8a">Mecha Corruptor's</c> Cluster Busters by <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%.
 Button/Tooltip/CorruptorStetmannMissilePods=Lanza una andanada de misiles que inflige <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> de daño a las unidades aéreas enemigas que están en el área objetivo (+<d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> contra unidades ligeras). /// Fires a barrage of missiles dealing <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> (+<d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> vs. light) damage to enemy air units in a target area.
@@ -559,7 +559,7 @@ Card/Name/RoachStetmannBurrowed=Enterrado /// Burrowed
 Card/Name/SuperGaryStetmann=Súper mejor amigo /// Super Best Friend
 Card/Name/UltraliskStetmannBurrowed=Enterrado /// Burrowed
 Card/Name/ZerglingStetmannBurrowed=Enterrado /// Burrowed
-DataCollection/Name/CommanderPrestigeStetmannCombatBuff=
+DataCollection/Name/CommanderPrestigeStetmannCombatBuff=Potenciación de combate
 DocInfo/DescLong=Incluye modificación para Egon Stetmann /// Include mod for Egon Stetmann
 DocInfo/Name=Comandante Stetmann /// Commander Stetmann
 Effect/Name/BanelingDeathExplodeLargeSetStetmann=
@@ -595,6 +595,9 @@ Effect/Name/BroodLordStetmannBomberSwitch=
 Effect/Name/BroodLordStetmannBroodlingEscortArm=
 Effect/Name/BroodLordStetmannBroodlingEscortArmDelay=
 Effect/Name/BroodLordStetmannDeathRespawnAddCharge=
+Effect/Name/BroodLordStetmannReadyBroodling=
+Effect/Name/BroodLordStetmannReadyBroodlingFinish=
+Effect/Name/BroodLordStetmannReadyBroodlingSet=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolCP=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolIssueOrder=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolLeftTurnCP=
@@ -626,7 +629,14 @@ Effect/Name/BroodlingStetmannTimedLife=
 Effect/Name/BroodlingTimedLifeStetmann=
 Effect/Name/CommanderPrestigeStetmannCombatBuff=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Attribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@AttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@FindSpawningUnit=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitialSwitch=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Initialize=Inicializar
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitializeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Target=
 Effect/Name/CommanderPrestigeStetmannGaryPowerUser=
 Effect/Name/CommanderPrestigeStetmannStetellitesPowerSource=
 Effect/Name/CommanderPrestigeStetmannStetzonesEnergy=
@@ -906,7 +916,7 @@ RequirementNode/Tooltip/Eq3804783965CountUnitInfestationPitStetmannQueuedOrBette
 RequirementNode/Tooltip/Eq3804783965CountUnitSpawningPoolStetmannQueuedOrBetter0=Límite 1 /// Limit 1
 RequirementNode/Tooltip/Eq3804783965CountUnitUltraliskCavernStetmannQueuedOrBetter0=Límite 1 /// Limit 1
 RequirementNode/Tooltip/LT211851015CountUnitInterceptorStetmannQueuedOrBetterAtUnit6=Debes tener menos de 6 Mecalangosceptores /// Must have fewer than 6 Mecha Locusceptors
-RequirementNode/Tooltip/LT3877048067CountUnitBroodlingEscortStetmannQueuedOrBetterAtUnit2=Los Mecaácaros no están completamente armados /// Mecha Broodlings not fully armed
+RequirementNode/Tooltip/LT3877048067SumCountUnitBroodlingEscortStetmannQueuedOrBetterAtUnitCountBehaviorBroodLordStetmannReadyBroodlingCompleteOnlyAtUnit2=Los Mecaácaros no están completamente armados
 Unit/Category/ZergMecha=Zerg - Meca /// Zerg - Mecha
 Unit/InfoText/PartsPickup4=Usa cualquier unidad terrestre para recoger piezas del Arcángel. /// Use any ground unit to collect Archangel Parts.
 Unit/LifeArmorName/MechaZergAirArmor=Coraza de mecazerg volador /// Mecha Zerg Flyer Plating

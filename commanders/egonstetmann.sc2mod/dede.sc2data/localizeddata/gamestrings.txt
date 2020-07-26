@@ -337,9 +337,9 @@ Button/Name/ZerglingStetmannPassive=Mecha-Zergling
 Button/Name/ZerglingStetmannRespawn=Mecha-Zergling wiederverwerten
 Button/Name/ZerglingStetmannRespawnLocked=Mecha-Zergling wiederverwerten
 Button/Name/ZerglingStetmannScrapDrop=Wiederverwertbar
-Button/Tooltip/AbilLockedLevel05=Diese Fähigkeit wird erst ab Kommandantenstufe 5 freigeschaltet.
-Button/Tooltip/AbilLockedLevel09=Diese Fähigkeit wird erst ab Kommandantenstufe 9 freigeschaltet.
-Button/Tooltip/AbilLockedLevel15=Diese Fähigkeit wird erst ab Kommandantenstufe 15 freigeschaltet.
+Button/Tooltip/AbilLockedLevel05=Diese Fähigkeit wird erst ab Kommandantenstufe 5 freigeschaltet. /// This ability unlocks at Commander Level 5.
+Button/Tooltip/AbilLockedLevel09=Diese Fähigkeit wird erst ab Kommandantenstufe 9 freigeschaltet. /// This ability unlocks at Commander Level 9.
+Button/Tooltip/AbilLockedLevel15=Diese Fähigkeit wird erst ab Kommandantenstufe 15 freigeschaltet. /// This ability unlocks at Commander Level 15.
 Button/Tooltip/AlarakMothershipMassTeleport=Teleportiert das Mutterschiff mitsamt allen von Ihnen kontrollierten Einheiten in der Nähe zur Position einer anvisierten verbündeten Einheit oder eines anvisierten verbündeten Gebäudes.</n></n><c val="#ColorAttackInfo">Kann nur verbündete Einheiten oder Gebäude anvisieren.</c>
 Button/Tooltip/BanelingNestStetmann=Bietet Upgrademöglichkeiten für Mecha-Berstlinge. <n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Mecha-Berstlinge aus Mecha-Zerglingen
 Button/Tooltip/BanelingStetmann=Selbstmordeinheit. Verursacht bei ihrem Tod Schaden in einem kleinen Bereich. <n/><n/><c val="ffff8a">Kann Bodeneinheiten angreifen.</c>
@@ -595,6 +595,9 @@ Effect/Name/BroodLordStetmannBomberSwitch=BroodLordStetmannBomberSwitch
 Effect/Name/BroodLordStetmannBroodlingEscortArm=Broodling Escort Arm
 Effect/Name/BroodLordStetmannBroodlingEscortArmDelay=Broodling Escort Arm Delay
 Effect/Name/BroodLordStetmannDeathRespawnAddCharge=Brood Lord Death Respawn Add Charge
+Effect/Name/BroodLordStetmannReadyBroodling=
+Effect/Name/BroodLordStetmannReadyBroodlingFinish=
+Effect/Name/BroodLordStetmannReadyBroodlingSet=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolCP=BroodLordStetmannReleaseBombersPatrolCP
 Effect/Name/BroodLordStetmannReleaseBombersPatrolIssueOrder=BroodLordStetmannReleaseBombersPatrolIssueOrder
 Effect/Name/BroodLordStetmannReleaseBombersPatrolLeftTurnCP=BroodLordStetmannReleaseBombersPatrolLeftTurnCP
@@ -626,7 +629,14 @@ Effect/Name/BroodlingStetmannTimedLife=Mecha Broodling Timed Life
 Effect/Name/BroodlingTimedLifeStetmann=Broodling Timed Life Stetmann
 Effect/Name/CommanderPrestigeStetmannCombatBuff=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Attribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@AttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@FindSpawningUnit=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitialSwitch=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Initialize=Initialisieren
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitializeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Target=
 Effect/Name/CommanderPrestigeStetmannGaryPowerUser=
 Effect/Name/CommanderPrestigeStetmannStetellitesPowerSource=
 Effect/Name/CommanderPrestigeStetmannStetzonesEnergy=
@@ -906,7 +916,7 @@ RequirementNode/Tooltip/Eq3804783965CountUnitInfestationPitStetmannQueuedOrBette
 RequirementNode/Tooltip/Eq3804783965CountUnitSpawningPoolStetmannQueuedOrBetter0=Maximal 1
 RequirementNode/Tooltip/Eq3804783965CountUnitUltraliskCavernStetmannQueuedOrBetter0=Maximal 1
 RequirementNode/Tooltip/LT211851015CountUnitInterceptorStetmannQueuedOrBetterAtUnit6=Muss weniger als 6 Schreckceptoren haben
-RequirementNode/Tooltip/LT3877048067CountUnitBroodlingEscortStetmannQueuedOrBetterAtUnit2=Mecha Broodlings not fully armed
+RequirementNode/Tooltip/LT3877048067SumCountUnitBroodlingEscortStetmannQueuedOrBetterAtUnitCountBehaviorBroodLordStetmannReadyBroodlingCompleteOnlyAtUnit2=Mecha-Brütlinge nicht vollständig geladen.
 Unit/Category/ZergMecha=Zerg - Mecha
 Unit/InfoText/PartsPickup4=Setzen Sie eine beliebige Bodeneinheit ein, um Mecha-Schrott aufzusammeln.
 Unit/LifeArmorName/MechaZergAirArmor=Fliegerpanzer (Mecha-Schwarm)

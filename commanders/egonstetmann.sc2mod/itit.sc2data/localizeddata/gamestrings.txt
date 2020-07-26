@@ -364,14 +364,14 @@ Button/Tooltip/CancelMutateMorph2=Annulla l'ordine di mutazione, riportando la s
 Button/Tooltip/CancelSuperGaryStetmannMorph=Annulla l'ordine di potenziamento, riportando l'unità allo stato precedente.
 Button/Tooltip/CausticSprayStetmann=Emette un getto di solvente che infligge <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> danni al secondo per <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> secondi, quindi aumenta a <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/> danni al secondo.<n/><n/><c val="ffff8a">Abilità incanalata.</c><c val="#ColorAttackInfo"> Può colpire solo unità e strutture nemiche terrestri.</c>
 Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Uccidere un'unità nemica fornisce un accumulo di Olio migliore, incrementando temporaneamente velocità d'attacco e rigenerazione vitale.
-Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Una volta attivi, gli Stetelliti sono invulnerabili e generano Sterreni più grandi del <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>%.
 Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> La velocità di movimento di Gary è ridotta del <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% fuori dagli Sterreni.
-Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=Questa unità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=Questa unità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=Questa unità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=Questa unità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CorruptorStetmann=Unità volante antiaerea. Può usare Granata a grappolo e Solvente scioglitutto.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree.</c>
 Button/Tooltip/CorruptorStetmannBiggerAoE=Estende il raggio di ricerca di Esplosione di razzi del <c val="ffff8a">Corruttore Mech</c> del <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%.
 Button/Tooltip/CorruptorStetmannMissilePods=Lancia una scarica di missili che infligge <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> (+<d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> contro leggere) danni alle unità aeree nell'area bersaglio.
@@ -595,6 +595,9 @@ Effect/Name/BroodLordStetmannBomberSwitch=BroodLordStetmannBomberSwitch
 Effect/Name/BroodLordStetmannBroodlingEscortArm=Broodling Escort Arm
 Effect/Name/BroodLordStetmannBroodlingEscortArmDelay=Broodling Escort Arm Delay
 Effect/Name/BroodLordStetmannDeathRespawnAddCharge=Brood Lord Death Respawn Add Charge
+Effect/Name/BroodLordStetmannReadyBroodling=
+Effect/Name/BroodLordStetmannReadyBroodlingFinish=
+Effect/Name/BroodLordStetmannReadyBroodlingSet=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolCP=BroodLordStetmannReleaseBombersPatrolCP
 Effect/Name/BroodLordStetmannReleaseBombersPatrolIssueOrder=BroodLordStetmannReleaseBombersPatrolIssueOrder
 Effect/Name/BroodLordStetmannReleaseBombersPatrolLeftTurnCP=BroodLordStetmannReleaseBombersPatrolLeftTurnCP
@@ -626,7 +629,14 @@ Effect/Name/BroodlingStetmannTimedLife=Mecha Broodling Timed Life
 Effect/Name/BroodlingTimedLifeStetmann=Broodling Timed Life Stetmann
 Effect/Name/CommanderPrestigeStetmannCombatBuff=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Attribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@AttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@FindSpawningUnit=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitialSwitch=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Initialize=Inizializzazione
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitializeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Target=
 Effect/Name/CommanderPrestigeStetmannGaryPowerUser=
 Effect/Name/CommanderPrestigeStetmannStetellitesPowerSource=
 Effect/Name/CommanderPrestigeStetmannStetzonesEnergy=
@@ -906,7 +916,7 @@ RequirementNode/Tooltip/Eq3804783965CountUnitInfestationPitStetmannQueuedOrBette
 RequirementNode/Tooltip/Eq3804783965CountUnitSpawningPoolStetmannQueuedOrBetter0=Limite 1
 RequirementNode/Tooltip/Eq3804783965CountUnitUltraliskCavernStetmannQueuedOrBetter0=Limite 1
 RequirementNode/Tooltip/LT211851015CountUnitInterceptorStetmannQueuedOrBetterAtUnit6=Devono esserci meno di 6 Locuscettori Mech.
-RequirementNode/Tooltip/LT3877048067CountUnitBroodlingEscortStetmannQueuedOrBetterAtUnit2=Progenidi Mech non armati
+RequirementNode/Tooltip/LT3877048067SumCountUnitBroodlingEscortStetmannQueuedOrBetterAtUnitCountBehaviorBroodLordStetmannReadyBroodlingCompleteOnlyAtUnit2=Progenidi Mech non armati
 Unit/Category/ZergMecha=Zerg - Mech
 Unit/InfoText/PartsPickup4=Usa qualunque unità di terra per raccogliere i componenti dell'Archangel.
 Unit/LifeArmorName/MechaZergAirArmor=Blindatura zerg mech aerei

@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Pożarcie: Jednostki powietrzne
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Obezwładnienie
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Rozkojarzenie
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Sami Swoi
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Derwisz Otchłani
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Cień Poszukiwacza Otchłani
 Behavior/Name/CoopMurvarPukePuddleDisable=Przytłaczający Odór /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=Żrący szlam
@@ -1644,8 +1644,8 @@ Button/Name/CommanderPrestigeAlarakDeathFleetLocked=Wezwanie Floty Śmierci
 Button/Name/CommanderPrestigeAlarakMechBuff=Relikwiarz Dusz
 Button/Name/CommanderPrestigeArtanisGuardianShellLocked=Powłoka Obronna
 Button/Name/CommanderPrestigeArtanisOrbitalStrikesPeriodicDamage=Darmowi Radykałowie
-Button/Name/CommanderPrestigeDehakaPackLeadersRetreat=Z Drogi Ludzie To Król Idzie
-Button/Name/CommanderPrestigeKaraxChronoBoostLocked=Zagięcie Czasoprzestrzeni
+Button/Name/CommanderPrestigeDehakaPackLeadersRetreat=Przejście dla Króla
+Button/Name/CommanderPrestigeKaraxChronoBoostLocked=Zagięcie czasoprzestrzeni
 Button/Name/CommanderPrestigeKaraxChronoFieldLocked=Pole Czasoprzestrzenne
 Button/Name/CommanderPrestigeKaraxChronoWaveLocked=Fala Czasu
 Button/Name/CommanderPrestigeKaraxKhaydarinMonolithBuildLocked=Przyzwij monolit khaydarinowy
@@ -1679,7 +1679,7 @@ Button/Name/CommanderPrestigeTychusUltWarhoundLocked=Kup Umojański Korpus Wież
 Button/Name/CommanderPrestigeVorazunRecallLocked=Przywołanie
 Button/Name/CommanderPrestigeZagaraBirthingChamberLocked=Komora Rodna
 Button/Name/CommanderPrestigeZagaraHeroicFortitudeResearchLocked=Wyewoluuj Heroiczną Wytrzymałość
-Button/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=Gniazdo Rodne
+Button/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=Gniazdo rodne
 Button/Name/CommanderPrestigeZagaraMedusaBladesResearchLocked=Wyewoluuj Ostrza Meduzy
 Button/Name/CommanderPrestigeZagaraZagaraDeepTunnel=Głęboki Przekop
 Button/Name/CommanderPrestigeZeratulVoidSeekerSummon=Przyzwanie Poszukiwacza Otchłani
@@ -3712,7 +3712,7 @@ Button/Tooltip/CommanderPrestigeNovaHoloDecoyLocked=Ta zdolność jest zablokowa
 Button/Tooltip/CommanderPrestigeNovaNuclearStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Promień efektu wzrasta o <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeNovaSuperCloak:Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius$/Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius*100" player="0"/></s>%.
 Button/Tooltip/CommanderPrestigeNovaShotgunResearchLocked=To ulepszenie jest zablokowane przez poziom prestiżowy twojego dowódcy.
 Button/Tooltip/CommanderPrestigeNovaStanceDanceLocked=Ta zdolność jest zablokowana przez poziom prestiżowy twojego dowódcy.
-Button/Tooltip/CommanderPrestigeNovaStealthUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Nova jest niewykrywalna, gdy znajduje się pod wpływem maskowania. Wykonanie ataku lub użycie Strzału Snajperskiego wyłącza efekt maskowania Novy na <s val="Coop_Prestige_Tooltip"><d time="[d ref='Behavior,CommanderPrestigeNovaSuperCloakCombat,Duration'/]"/></s>.
+Button/Tooltip/CommanderPrestigeNovaStealthUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Nova jest niewykrywalna, gdy znajduje się pod wpływem maskowania. Wykonanie ataku lub użycie Strzału Snajperskiego wyłącza efekt maskowania Novy na <s val="Coop_Prestige_Tooltip"><d time="[d ref='Behavior,CommanderPrestigeNovaSuperCloakCombat,Duration'/]"/></s>
 Button/Tooltip/CommanderPrestigeRaynorAfterburnersUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Dodatkowo zwiększa szybkość ataku o <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeRaynorMechAfterburners:Behavior,VehicleAfterburners,Modification.AttackSpeedMultiplier$*100"/></s>%.
 Button/Tooltip/CommanderPrestigeRaynorCombatShieldResearchUpgrade=<c val="ffff8a">Marines</c> zyskują +20 pkt. życia.
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=<c val="ffff8a">Wypalacze</c> otrzymują +200 pkt. życia i +2 do pancerza.
@@ -3747,9 +3747,9 @@ Button/Tooltip/CommanderPrestigeZagaraScourgeUpgrade=<n/><n/><s val="Coop_Presti
 Button/Tooltip/CommanderPrestigeZagaraZagaraDeepTunnel=Szybki przekop we wskazane miejsce.
 Button/Tooltip/CommanderPrestigeZagaraZagaraUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Zagara:</s> Zwiększona regeneracja energii i życia Zagary.
 Button/Tooltip/CommanderPrestigeZagaraZerglingUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Powija dodatkowego zerglinga.
-Button/Tooltip/CommanderPrestigeZeratulProphecyLimitedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Można zebrać tylko <s val="Coop_Prestige_Tooltip"><d ref="Effect,ZeratulArtifactLimitDummy,Amount"/></s> fragmentów artefaktu.
+Button/Tooltip/CommanderPrestigeZeratulProphecyLimitedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Można zebrać tylko <s val="Coop_Prestige_Tooltip"><d ref="Effect,ZeratulArtifactLimitDummy,Amount"/></s> fragmenty artefaktu.
 Button/Tooltip/CommanderPrestigeZeratulProphecyUnlimitedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Można zebrać nieograniczoną liczbę fragmentów artefaktu.
-Button/Tooltip/CommanderPrestigeZeratulShadowCleaveUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Każdy zebrany fragment artefaktu skraca czas odnowienia o <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeZeratulTornadoesShadowCleave1:Abil,ZeratulShadowCleave,Cost[0].Cooldown.TimeUse$'/]"/></s>. Mroczne Rozdarcie tworzy tornado, które rani i spowalnia wrogie jednostki.
+Button/Tooltip/CommanderPrestigeZeratulShadowCleaveUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Poziom prestiżowy:</s> Każdy zebrany fragment artefaktu skraca czas odnowienia o <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeZeratulTornadoesShadowCleave1:Abil,ZeratulShadowCleave,Cost[0].Cooldown.TimeUse$'/]"/></s> Mroczne Rozdarcie tworzy tornado, które rani i spowalnia wrogie jednostki.
 Button/Tooltip/CommanderPrestigeZeratulVoidSeekerSummon=Wysyła we wskazane miejsce Poszukiwacza Otchłani, który maskuje wszystkie jednostki sojusznicze na obszarze i sprawia, że są niewykrywalne. Działa <d ref="Effect,CommanderPrestigeZeratulVoidSeekerSuperCloakCP,PeriodCount*Effect,CommanderPrestigeZeratulVoidSeekerSuperCloakCP,PeriodicPeriodArray[0]"/> sek.
 Button/Tooltip/CommanderSwannCombatDrop=Wzywa 4 roboty bojowe A.R.E.S. i ogłusza wrogie jednostki naziemne w strefie zrzutu. Roboty bojowe pozostają na polu walki przez <d ref="Behavior,ARESTimedLife,Duration"/> sek. i można je kontrolować.
 Button/Tooltip/CommanderSwannImprovedSCVs=Budowlę może konstruować kilka ERK jednocześnie, by skrócić czas budowy. Naprawy nie zużywają już zasobów.
@@ -4061,7 +4061,7 @@ Button/Tooltip/FenixKaldalisZealotDownloadUpgrade=Przygotuj osobowość SI Kalda
 Button/Tooltip/FenixKaldalisZealotGuardianShield=Tworzy aurę o zasięgu 4, która redukuje o 2 pkt. wszystkie obrażenia zadawane jednostkom sojuszniczym. Działa <d time="15"/>
 Button/Tooltip/FenixKaldalisZealotUpgrade=Osobowość SI Kaldalisa zostaje przesłana do dowolnego legionisty.
 Button/Tooltip/FenixLockedPH=Ta zdolność jest zablokowana.
-Button/Tooltip/FenixMojoMissiles=Wystrzeliwuje salwę pocisków z antymaterią, które zadają <d ref="Effect,FenixMojoScoutAOEAirDamage,Amount-Effect,FenixNetworkedSuperiorityScout,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityScout,Amount" precision="1"/>)</c> (<d ref="Effect,FenixMojoScoutAOEAirDamage,Amount+Effect,FenixMojoScoutAOEAirDamage,AttributeBonus[Armored]-(Effect,FenixNetworkedSuperiorityScout,Amount+Effect,FenixNetworkedSuperiorityScout,AttributeBonus[Armored])"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityScout,Amount+Effect,FenixNetworkedSuperiorityScout,AttributeBonus[Armored]" precision="1"/>)</c> celom opancerzonym) obrażeń na obszarze i ogłuszają pobliskie jednostki powietrzne wroga na <d time="[d ref='Behavior,FenixMojoScoutAirStun,Duration'/]"/>.
+Button/Tooltip/FenixMojoMissiles=Wystrzeliwuje salwę pocisków z antymaterią, które zadają <d ref="Effect,FenixMojoScoutAOEAirDamage,Amount-Effect,FenixNetworkedSuperiorityScout,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityScout,Amount" precision="1"/>)</c> (<d ref="Effect,FenixMojoScoutAOEAirDamage,Amount+Effect,FenixMojoScoutAOEAirDamage,AttributeBonus[Armored]-(Effect,FenixNetworkedSuperiorityScout,Amount+Effect,FenixNetworkedSuperiorityScout,AttributeBonus[Armored])"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityScout,Amount+Effect,FenixNetworkedSuperiorityScout,AttributeBonus[Armored]" precision="1"/>)</c> celom opancerzonym) obrażeń na obszarze i ogłuszają pobliskie jednostki powietrzne wroga na <d time="[d ref='Behavior,FenixMojoScoutAirStun,Duration'/]"/>
 Button/Tooltip/FenixMojoMissilesSuperiorityAppend=<n/><n/><c val="00ffff">Taktyczna Sieć Danych</c><n/>Protokół Zaporowy zadaje dodatkowo <d ref="$UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,Amount$*Effect,FenixNetworkedSuperiorityStacksPerSupplyDummy,Amount*Unit,Scout,Food*(-1)" precision="1"/> (<d ref="($UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,Amount$+$UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,AttributeBonus[Armored]$)*Effect,FenixNetworkedSuperiorityStacksPerSupplyDummy,Amount*Unit,Scout,Food*(-1)" precision="1"/> celom opancerzonym) pkt. obrażeń za każdego zwiadowcę w sieci (maksymalnie <d ref="$UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,Amount$*Effect,FenixNetworkedSuperiorityMaxCountDummy,Amount"/> (<d ref="($UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,Amount$+$UpgradeEffectArrayValue:FenixNetworkedSuperiorityScout:Effect,FenixMojoScoutAOEAirDamage,AttributeBonus[Armored]$)*Effect,FenixNetworkedSuperiorityMaxCountDummy,Amount"/> celom opancerzonym) pkt. obrażeń).
 Button/Tooltip/FenixMojoScout=Frakcja czyścicieli<n/>Śmiały pretor, który uciekł z niewoli i odzyskał kryształ khaydarinowy skradziony przez terran z Korhalu. Jego ataki ogłuszają wrogie jednostki powietrzne.<n/><n/><c val="ffff8a">Może atakować jednostki naziemne i powietrzne.</c>
 Button/Tooltip/FenixMojoScoutAirStunPassive=Ataki ogłuszają wskazaną jednostkę powietrzną na <d time="[d ref='Behavior,FenixMojoScoutAirStun,Duration'/]"/>
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Zwiększa energię początkową 
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Zwiększa energię początkową <c val="ffff8a">wysokich templariuszy</c> i <c val="ffff8a">archontów</c> o <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=Podwaja ilość wystrzałów z działa rozrzucającego <c val="ffff8a">awangardiera</c>.
 Button/Tooltip/ResearchImprovedSiegeMode=Skraca czas transformacji <c val="ffff8a">czołgów oblężniczych</c>. <c val="ffff8a">Czołgi</c> otrzymują +3 do pancerza w trybie oblężniczym.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Zwiększa szybkość ataku wszystkich <c val="ffff8a">wieżyczek</c> o 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Zwiększa szybkość ataku wszystkich <c val="ffff8a">wieżyczek</c> o 50%.
 Button/Tooltip/ResearchIncineratorGauntlets=Zwiększa obszar rażenia broni <c val="ffff8a">wypalacza</c> o 40%.
 Button/Tooltip/ResearchIncineratorNozzles=Obszar ataku wypalaczy zostaje zwiększony o 40%.
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7824,7 +7830,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=Komenda umiejętności ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Techspam ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Ustawianie indeksu prestiżu ~A~ dla gracza ~B~
 Param/Expression/lib_COOC_5DED9532=Ulepsz ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Zgłoszono zbyt wiele wartości dla wyników, nie można śledzić ~A~
 Param/Expression/lib_COOC_6DCBB62D=Nieaktualna wersja banku danych dla gracza ~A~ (~B~ vs ~C~), włączanie ustawień domyślnych
@@ -7832,7 +7838,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=Komenda umiejętności ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Techsuperspam ~A~
 Param/Expression/lib_COOC_B56724DE=Ulepsz ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Zastosowywanie prestiżu ~A~ dla gracza ~B~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=BNet mówi, że gracz ~A~ (~B~) wybrał komendę ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Zainfekowane koszary
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Limit: 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Zainfekowana fabryka
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=Biomateriał: <d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limit: 3 lub na poziomie prestiżowym: Nieograniczony
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limit: 3 lub na poziomie prestiżowym: Nieograniczony
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=Biomateriał: <d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limit: 3 lub na poziomie prestiżowym: Bez ograniczeń
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limit: 3 lub na poziomie prestiżowym: Bez ograniczeń
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Fabryka
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Limit 1 z poziomem prestiżowym: Królowa Zmory
 Shape/Name/ZenithStone=Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c> i</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow"> – ruch z atakiem.</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBombowiecZłomiarz
 Skin/Name/HHRavenJunker=HHKrukZłomiarz
 Skin/Name/HHVikingJunker=HHWikingZłomiarz
@@ -9488,8 +9495,8 @@ Upgrade/Name/ColossusSkin=Skórka kolosa
 Upgrade/Name/CommanderLevel=Poziom dowódcy
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
-Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=DowódcaPrestiżVorazunPrzywołanieAwaryjneSzukajPylona
 Upgrade/Name/CoopAIMutaliskCost=Współpraca, SI, Mutalisk, Koszt
 Upgrade/Name/CoopAIReaperCost=Współpraca, SI, Żniwiarz, Koszt
 Upgrade/Name/CoopBanelingHunter=Kooperacja, Tępiciel, łowca
@@ -9583,7 +9590,7 @@ Upgrade/Name/HHHellionRocket=Bomby smoliste
 Upgrade/Name/HHHellionStimDeath=Emitery aerozolu stymulującego
 Upgrade/Name/HHMattUnitStat=HHMattJednostkaStatystykiWGórę
 Upgrade/Name/HHMercStarportHangarBay=HHPortGwiezdnyNajemnikówHangar
-Upgrade/Name/HHMercStarportLimitCount=
+Upgrade/Name/HHMercStarportLimitCount=HHNajemnicyPortGwiezdnyLimitLiczba
 Upgrade/Name/HHMultiLock=Czujniki wielokierunkowe
 Upgrade/Name/HHReaperFlight=Dopalacz plecaka odrzutowego
 Upgrade/Name/HHReaperG4ClusterBombs=Ładunek KD8
@@ -9633,7 +9640,7 @@ Upgrade/Name/KaraxEnergyRegenUpgrade=Szybkie doładowanie
 Upgrade/Name/KaraxInstantStructureWarp=Natychmiastowy przesył budowli Karaksa
 Upgrade/Name/KaraxKhaydarinMonolithUnlock=Karax, Monolit kyahdarinowy, Odblokuj
 Upgrade/Name/KaraxPylonOvercharge=Przeciążenie pylonu Karaksa
-Upgrade/Name/KaraxRepairBeamLimit=
+Upgrade/Name/KaraxRepairBeamLimit=KaraxWiązkaNaprawczaLimit
 Upgrade/Name/KaraxSOAChronoPassive=Karax, WA, Chrono, Pasywne
 Upgrade/Name/KaraxTurretAttackSpeed=Optymalizacja uzbrojenia
 Upgrade/Name/KaraxTurretRange=Ulepszone systemy celownicze
@@ -10120,7 +10127,7 @@ Upgrade/Name/ZeratulReaverHangarBuildTime=ZeratulRozrywaczHangarCzasTworzenia
 Upgrade/Name/ZeratulSupportMechanicsUpgrade=Zeratul, Wsparcie, Mechanika, Ulepszenie
 Upgrade/Name/ZeratulTalentQuickBuild=Zeratul, Talent, Szybkie budowanie
 Upgrade/Name/ZeratulTalentUltimatePurity=Zeratul, Talent, Najwyższa czystość
-Upgrade/Name/ZeratulThirdArtifactUpgrade=
+Upgrade/Name/ZeratulThirdArtifactUpgrade=ZeratulTrzeciArtefaktUlepszenie
 Upgrade/Name/ZeratulWeaponsLevel1=Uzbrojenie protosów – poziom 1
 Upgrade/Name/ZeratulWeaponsLevel2=Uzbrojenie protosów – poziom 2
 Upgrade/Name/ZeratulWeaponsLevel3=Uzbrojenie protosów – poziom 3
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Nawał możliwości
 UserData/MutatorChallenges/OutOfControl_Name=Pomieszanie
 UserData/MutatorChallenges/Pain Train_Name=Czas apokalipsy
 UserData/MutatorChallenges/PerfectStorm_Name=Burza stulecia
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Robot obrony punktowej
 UserData/MutatorChallenges/PropagatorIntro_Name=Bezcelowy opór
 UserData/MutatorChallenges/PureVengeance_Name=Niewspółmierna reakcja /// Inordinate Response
 UserData/MutatorChallenges/QuickKillers_Name=Szybcy zabójcy
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=Chora zagrywka
 UserData/MutatorChallenges/SilentKiller_Name=Cicha Zabójczyni
 UserData/MutatorChallenges/SlowAndSteady_Name=Powoli i spokojnie
 UserData/MutatorChallenges/SpectreOfDeath_Name=Widmo śmierci
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Otoczeni i przerażeni
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=Przetrwanie najsilniejszych
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=Świątynia cierpienia
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=Horner
+UserData/PlayerCommanders/TerranHorner_Name=Han i Horner
 UserData/PlayerCommanders/TerranNova_Name=Nova
 UserData/PlayerCommanders/TerranRaynor_Description=Znakomity dowódca sił piechoty.
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Wzywa Hyperiona

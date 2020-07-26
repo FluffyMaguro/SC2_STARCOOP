@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=吞食：对空效果
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=承受无边的怒火
 Behavior/Name/CommanderPrestigeSwannDrillSlow=受到干扰
 Behavior/Name/CommanderPrestigeTychusLoneWolf=宁愿孤独
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=虚空苦行者
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=虚空寻觅者号之影
 Behavior/Name/CoopMurvarPukePuddleDisable=恶臭压迫 /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=腐蚀粘液 /// Corrosive Goo
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=使<c val="ffff8a">高阶圣堂�
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=使<c val="ffff8a">高阶圣堂武士</c>和<c val="ffff8a">执政官</c>的初始能量值提高<d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>点。 /// Increases the starting energy of <c val="ffff8a">High Templar</c> and <c val="ffff8a">Archons</c> by <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=使<c val="ffff8a">先锋</c>的离散光炮的弹幕数量加倍。
 Button/Tooltip/ResearchImprovedSiegeMode=<c val="ffff8a">攻城坦克</c>变形时间减少。<c val="ffff8a">攻城坦克</c>在攻城模式下护甲+3。 /// Reduces the transformation time of <c val="ffff8a">Siege Tanks</c>. <c val="ffff8a">Siege Tanks</c> gain +3 armor in Siege Mode.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=<c val="ffff8a">所有炮台</c>的攻击速度提高25%。 /// Increases the attack speed of <c val="ffff8a">all Turrets</c> by 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=使<c val="ffff8a">所有炮台</c>的攻击速度提高50%。
 Button/Tooltip/ResearchIncineratorGauntlets=使<c val="ffff8a">火蝠</c>的攻击半径提高40%。 /// Widens the <c val="ffff8a">Firebat</c>'s damage radius by 40%.
 Button/Tooltip/ResearchIncineratorNozzles=火蝠的范围攻击扩大40%。 /// Firebats gain a 40% larger area attack.
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7824,7 +7830,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~，~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=技能命令 ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Techspam ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=为玩家~B~设置威望索引~A~
 Param/Expression/lib_COOC_5DED9532=升级 ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=报告的得分值过多，无法追踪~A~
 Param/Expression/lib_COOC_6DCBB62D=Bank version for player ~A~ out of date (~B~ vs ~C~), setting to default
@@ -7832,7 +7838,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=技能命令 ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Techsuperspam ~A~
 Param/Expression/lib_COOC_B56724DE=升级 ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=对玩家~B~应用威望~A~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=BNet says player ~A~ (~B~) picked commander ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~，~B~
@@ -7849,7 +7855,7 @@ Param/Expression/lib_COUI_2FCDA0A6=~A~<n/><c val="ff0000">你和你的盟友必�
 Param/Expression/lib_COUI_31343A11=~STDTOOLTIP~<c val="FFFF8A">精通：</c> 起始能量值和最大能量值提高<c val="FFFF8A">~ENERGY~</c>点。 /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
 Param/Expression/lib_COUI_35ABC314=~A~<n/><n/>可以被选择多次。 /// ~A~<n/><n/>Can be selected multiple times.
 Param/Expression/lib_COUI_458413D1=~STDTOOLTIP~<c val="FFFF8A">精通：</c> 起始能量值和最大能量值提高<c val="FFFF8A">~ENERGY~</c>点。 /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
-Param/Expression/lib_COUI_4A080472=<s val="Coop_Prestige_Tooltip_Title">~A~</s><n/><s val="Coop_Prestige_Tooltip_Subtitle">~B~</s><n/><n/><s val="@@StandardTooltip">~C~</s>
+Param/Expression/lib_COUI_4A080472=<s val="Coop_Prestige_Tooltip_Title">~A~</s><n/><s val="Coop_Prestige_Tooltip_Subtitle">~B~</s><n/><n/><s val="@@@StandardTooltip">~C~</s>
 Param/Expression/lib_COUI_4B308295=~STDTOOLTIP~<c val="FFFF8A">精通：</c> 起始能量值和最大能量值提高<c val="FFFF8A">~ENERGY~</c>点。 /// ~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.
 Param/Expression/lib_COUI_5987FE56=(DEBUG) ~A~ possibilities (~B~ points)
 Param/Expression/lib_COUI_5B6F4ABC=~A~/~B~
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=被感染的兵营
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=限制10个
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=被感染的重工厂
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>生物质
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=限制3个或者威望：无限进化
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=限制3个或者威望：无限进化
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>生物质
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=限制3个或者威望：无限进化
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=限制3个或者威望：无限进化
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=重工厂
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=威望：爆蚊虫后使数量限制为1个
 Shape/Name/ZenithStone=泽尼斯巨石 /// Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">按%hotkey键</c>然后</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">地面自动攻击</s> /// <s val="@@SimpleCommandRow">%hotkey</c> then</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">ground to Auto-attack</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=飞车党轰炸机 /// HHBomberJunker
 Skin/Name/HHRavenJunker=飞车党铁鸦 /// HHRavenJunker
 Skin/Name/HHVikingJunker=飞车党维京战机 /// HHVikingJunker
@@ -9488,7 +9495,7 @@ Upgrade/Name/ColossusSkin=巨像皮肤
 Upgrade/Name/CommanderLevel=指挥官等级
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=合作任务 电脑 异龙消耗
 Upgrade/Name/CoopAIReaperCost=合作任务 电脑 收割者消耗
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=机会尽出
 UserData/MutatorChallenges/OutOfControl_Name=失心疯 /// Flipping Out
 UserData/MutatorChallenges/Pain Train_Name=全面核战 /// Boom Town
 UserData/MutatorChallenges/PerfectStorm_Name=完美风暴
-UserData/MutatorChallenges/PointDefenseNetwork_Name=定点防御网络
 UserData/MutatorChallenges/PropagatorIntro_Name=异形进击 /// Futile Resistance
 UserData/MutatorChallenges/PureVengeance_Name=过度反应
 UserData/MutatorChallenges/QuickKillers_Name=杀劫迫临 /// Quick Killers
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=死疫横生 /// Sick Micro
 UserData/MutatorChallenges/SilentKiller_Name=鬼魅杀手
 UserData/MutatorChallenges/SlowAndSteady_Name=步步为营 /// Slow and Steady
 UserData/MutatorChallenges/SpectreOfDeath_Name=死亡鬼影 /// Specter of Death
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=四面楚歌
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=适者生存 /// Survival of the Fittest
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=痛苦神庙
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="▪"><
 UserData/PlayerCommanders/ProtossVorazun_Name=沃拉尊 /// Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=印第安纳·凯恩 /// Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=泽拉图 /// Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=霍纳 /// Horner
+UserData/PlayerCommanders/TerranHorner_Name=霍纳与汉
 UserData/PlayerCommanders/TerranNova_Name=诺娃
 UserData/PlayerCommanders/TerranRaynor_Description=杰出的步战指挥官 /// Excellent infantry commander
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=召唤休伯利安号 /// Calls in the Hyperion

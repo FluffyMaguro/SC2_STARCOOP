@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Consunzione: unità aerea
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Travolto
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Distratto
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Meglio soli
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Derviscio del Vuoto
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Ombra del Cercatore del Vuoto
 Behavior/Name/CoopMurvarPukePuddleDisable=Fetore opprimente /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=Melma corrosiva
@@ -3681,7 +3681,7 @@ Button/Tooltip/ColossusTaldarimAA=Camminatore da battaglia con potente attacco s
 Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=Aumenta di +20 la vita dei Marine.
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=Portali stellari e Fabbriche robotiche possono sfruttare la tecnologia dimensionale, permettendo loro di evocare unità in qualsiasi posizione alimentata da un Pilone.
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">Prestige:</s> Questa unità ha una probabilità del <s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>% di rilasciare biomassa alla morte.
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Flotta della Morte non ha più una durata e i suoi valori vitali sono ridotti del <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%. Tempo di recupero di Teletrasporto di massa aumentato del <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> e non può teletrasportare le unità alleate.
 Button/Tooltip/CommanderPrestigeAlarakMechBuff=Questa unità può raccogliere fino a <d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/> anime di Supplice, aumentando la propria velocità d'attacco del <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>% e i danni del <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>% per ogni anima raccolta.
 Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
@@ -3699,46 +3699,46 @@ Button/Tooltip/CommanderPrestigeDehakaDevourUpgrade=<n/><n/><s val="Coop_Prestig
 Button/Tooltip/CommanderPrestigeDehakaPackLeadersRetreat=Obbliga questo capobranco a ritirarsi per schierare Dehaka sul campo di battaglia.
 Button/Tooltip/CommanderPrestigeFenixSuitSwapUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Infligge il <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeFenixSuitSwapTimedLife,Modification.DamageDealtFraction[Melee]*100"/></s>% di danni aggiuntivi e i tempi di recupero delle sue abilità sono ridotti del <s val="Coop_Prestige_Tooltip">50</s>%. Rigenerazione vitale, di energia e scudi aumentati del <s val="Coop_Prestige_Tooltip">100</s>% quando non attive. Dura <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeFenixSuitSwapTimedLife,Duration"/></s> secondi.
 Button/Tooltip/CommanderPrestigeKaraxDefensiveChronoUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Quest'abilità aumenta anche la velocità d'attacco delle strutture difensive.
-Button/Tooltip/CommanderPrestigeKaraxKhaydarinMonolithLocked=Questa unità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeKaraxPhotonCannonBuildLocked=Questa unità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeKaraxPhotonCannonLocked=Questa unità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeKaraxKhaydarinMonolithLocked=Questa unità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeKaraxPhotonCannonBuildLocked=Questa unità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeKaraxPhotonCannonLocked=Questa unità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeKaraxRepairBeamUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Questa abilità può avere come bersaglio solo le strutture.
 Button/Tooltip/CommanderPrestigeKerriganAbilitiesUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Kerrigan consuma tutti gli accumuli di Furia quando usa questa abilità, stordendo per <d ref="Behavior,CommanderPrestigeKerriganAbilitiesStun,Duration"/> secondi e infliggendo <d ref="Effect,CommanderPrestigeKerriganAbilitiesDamage,Amount"/> danni a un numero di nemici vicini pari al numero di accumuli consumati.
 Button/Tooltip/CommanderPrestigeKerriganAssimilationAuraUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> I nemici rilasciano il <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeKerriganAssimilationAuraShared:Effect,KR5,Resources[Minerals]$/Effect,KR5,Resources[Minerals]*100" player="0"/></s>% in più di risorse.
-Button/Tooltip/CommanderPrestigeKerriganNydusWormBuildLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeNovaAssaultModeLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeNovaGriffinAirstrikeLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeNovaHoloDecoyLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeKerriganNydusWormBuildLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeNovaAssaultModeLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeNovaGriffinAirstrikeLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeNovaHoloDecoyLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeNovaNuclearStrikeUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Raggio d'effetto aumentato del <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeNovaSuperCloak:Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius$/Effect,NovaCoopCasterNukeDamage,AreaArray[0].Radius*100" player="0"/></s>%.
-Button/Tooltip/CommanderPrestigeNovaShotgunResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeNovaStanceDanceLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeNovaShotgunResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeNovaStanceDanceLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeNovaStealthUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Nova non può essere rivelata quando è occultata. Attaccare o usare Tiro di precisione disattiva l'occultamento per <s val="Coop_Prestige_Tooltip"><d time="[d ref='Behavior,CommanderPrestigeNovaSuperCloakCombat,Duration'/]"/></s>.
 Button/Tooltip/CommanderPrestigeRaynorAfterburnersUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Aumenta la velocità d'attacco del <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeRaynorMechAfterburners:Behavior,VehicleAfterburners,Modification.AttackSpeedMultiplier$*100"/></s>%.
 Button/Tooltip/CommanderPrestigeRaynorCombatShieldResearchUpgrade=Aumenta di +20 la vita dei <c val="ffff8a">Marine</c>.
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=Aumenta di +200 la vita e di +2 la corazza dei <c val="ffff8a">Piromani</c>.
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=Aumenta di +200 la vita e di +2 la corazza dei Piromani.
-Button/Tooltip/CommanderPrestigeRaynorMULELocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeRaynorMULELocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Il tempo di recupero scorre più velocemente del <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>% in base ai rifornimenti usati dalle unità aeree.
 Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=Carica fanteria infestata nella stiva della Banshee.
 Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=Spara le unità nella stiva della Banshee Infestata sul punto selezionato, infliggendo <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/> danni alle unità terrestri nemiche vicine all'impatto.
 Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> I Bunker infestati generano Soldati infestati il <s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>% più rapidamente, ma non possono ospitare unità.
-Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeSwannConcentratedBeamLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeSwannConcentratedBeamLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeSwannDrillAttackUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> La Trivella laser drakken infligge danni e rallenta in un'area attorno al suo bersaglio principale.
 Button/Tooltip/CommanderPrestigeSwannHerculesDeploySpeedUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> L'Hercules sbarca le truppe a bordo istantaneamente e ha il doppio della capacità di carico.
-Button/Tooltip/CommanderPrestigeSwannPulseCannonLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeTychusBarrageLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/CommanderPrestigeTychusBigRedButtonResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeSwannPulseCannonLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeTychusBarrageLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/CommanderPrestigeTychusBigRedButtonResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeTychusOdinUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> L'Odin non richiede più Tychus come pilota e non lo rianima più.
 Button/Tooltip/CommanderPrestigeVorazunCombatUnitUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Le unità da combattimento infliggono il <s val="Coop_Prestige_Tooltip"><d ref="(1-PlayerResponse,CommanderPrestigeVorazunStasisDamageReduction,ModifyFraction)*100"/></s>% di danni in meno.
 Button/Tooltip/CommanderPrestigeVorazunEmergencyRecallUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Le unità alleate vengono richiamate al Nexus o Pilone oscuro più vicino e la loro vita e scudi sono completamente ripristinati.
-Button/Tooltip/CommanderPrestigeVorazunRecallLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeVorazunRecallLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeVorazunStasisDoTUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Questa abilità fa perdere ai nemici bersaglio <s val="Coop_Prestige_Tooltip"><d ref="Effect,CommanderPrestigeVorazunStasisDamage,Amount/Behavior,CommanderPrestigeVorazunStasisDoT,Period"/></s> vita al secondo per la durata dell'effetto. Questo effetto non può uccidere.
 Button/Tooltip/CommanderPrestigeVorazunTimeStopUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Arresto temporale richiede un bersaglio e rianima tutte le Guardie dell'ombra perdute sulla posizione dell'effetto.
-Button/Tooltip/CommanderPrestigeZagaraBirthingChamberLocked=Questa abilità si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeZagaraBirthingChamberLocked=Questa abilità è bloccata dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeZagaraBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Genera <s val="Coop_Prestige_Tooltip"><d ref="Abil,ZagaraVoidCoopBanelingSpawnerTrain,InfoArray[Train1].Charge.CountMax"/></s> Baneling aggiuntivi.
 Button/Tooltip/CommanderPrestigeZagaraConstructUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> La rigenerazione vitale di questa unità è aumentata.
-Button/Tooltip/CommanderPrestigeZagaraHeroicFortitudeResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
+Button/Tooltip/CommanderPrestigeZagaraHeroicFortitudeResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
 Button/Tooltip/CommanderPrestigeZagaraMassFrenzyUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Frenesia di massa influenza solo Zagara e le sue unità evocate.
 Button/Tooltip/CommanderPrestigeZagaraMaxSupplyScourgeSpawn=I Nidi di Flagelli generano automaticamente Flagelli.
 Button/Tooltip/CommanderPrestigeZagaraMaxSupplyUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> I rifornimenti massimi di Zagara sono aumentati a 150.
@@ -4620,9 +4620,9 @@ Button/Tooltip/PnPSingleTargetLockOn2=Schiera un drone che segue per qualche tem
 Button/Tooltip/PointDefense=Laser di difesa automatico che intercetta i proiettili nemici. Non intercetta gli attacchi speciali.<n/><n/><c val="f078ff">Ogni colpo consuma 10 energia.</c>
 Button/Tooltip/PointDefenseDrone_BlackOps=Usa un laser per abbattere i missili nemici. <n/>Inefficace contro gli attacchi speciali. <n/>Si disattiva dopo <d ref="Behavior,PointDefenseDrone_BlackOpsTimedLife,Duration"/> secondi.<n/><n/><c val="f078ff">Ogni colpo consuma 10 punti energia.</c>
 Button/Tooltip/PredictiveBlinkPassive=Consente all'unità di teletrasportarsi in un punto vicino selezionato. Gli Assalitori xel'naga si teletrasportano automaticamente in un luogo sicuro quando vengono colpiti.
-Button/Tooltip/PrestigeAbilLocked=Questa abilità si sblocca con il tuo livello Prestige.
-Button/Tooltip/PrestigeBuildUnitLocked=Questa unità si sblocca con il tuo livello Prestige.
-Button/Tooltip/PrestigeResearchLocked=Questo potenziamento si sblocca con il tuo livello Prestige.
+Button/Tooltip/PrestigeAbilLocked=Questa abilità è bloccata dal tuo Prestige.
+Button/Tooltip/PrestigeBuildUnitLocked=Questa unità è bloccata dal tuo Prestige.
+Button/Tooltip/PrestigeResearchLocked=Questo potenziamento è bloccato dal tuo Prestige.
 Button/Tooltip/PrimalGuardianPassive=La Tana di Murvar consente di evolvere Guardiani primordiali.
 Button/Tooltip/PrimalHostPassive=La Tana di Murvar consente di evolvere Ospiti primordiali.
 Button/Tooltip/PrimalHydraliskPassive=La Tana di Glevig consente di evolvere Idralische primordiali.
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Aumenta l'energia iniziale degli
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Aumenta l'energia iniziale di <c val="ffff8a">Alti templari</c> e <c val="ffff8a">Arconti</c> di <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=Raddoppia il numero di colpi del Cannone dispersivo dei <c val="ffff8a">Pretoriani</c>.
 Button/Tooltip/ResearchImprovedSiegeMode=Riduce il tempo di trasformazione dei <c val="ffff8a">Carri d'assedio</c>. Aumenta di 3 la corazza dei <c val="ffff8a">Carri</c> in Assetto d'assedio.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Aumenta del 25% la velocità di attacco delle <c val="ffff8a">Torrette</c>.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Aumenta del 50% la velocità d'attacco delle <c val="ffff8a">Torrette</c>.
 Button/Tooltip/ResearchIncineratorGauntlets=Amplia del 40% il raggio dei danni dei <c val="ffff8a">Piromani</c>.
 Button/Tooltip/ResearchIncineratorNozzles=Estende del 40% l'area d'attacco dei Piromani.
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7824,7 +7830,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=Controllo abilità ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Spam tecnologico ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Imposta indice Prestige ~A~ per il giocatore ~B~
 Param/Expression/lib_COOC_5DED9532=Potenziamento ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Troppi valori di punteggio riportati, impossibile tenere traccia di ~A~
 Param/Expression/lib_COOC_6DCBB62D=Versione banco per il giocatore ~A~ non aggiornata (~B~ vs ~C~), impostazione valore predefinito.
@@ -7832,7 +7838,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=Controllo abilità ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Super spam tecnologico ~A~
 Param/Expression/lib_COOC_B56724DE=Potenziamento ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Applica Prestige ~A~ al giocatore ~B~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=BNet riferisce che ~A~ (~B~) ha scelto il comandante ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Caserma infestata
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Limite 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Fabbrica infestata
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> biomassa
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limite 3 o Prestige: Senza limiti
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Limite 3 o Prestige: Senza limiti
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> biomassa
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limite 3 o Prestige: Senza limiti
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Limite 3 o Prestige: Senza limiti
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Fabbrica
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Limite a 1 con il Prestige: Regina dei Flagelli
 Shape/Name/ZenithStone=Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c> e</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">Attacco automatico</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBomberJunker
 Skin/Name/HHRavenJunker=HHRavenJunker
 Skin/Name/HHVikingJunker=HHVikingJunker
@@ -9488,8 +9495,8 @@ Upgrade/Name/ColossusSkin=Skin Colosso
 Upgrade/Name/CommanderLevel=Livello comandante
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
-Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=Cooperativa - IA - Costo Mutalisca
 Upgrade/Name/CoopAIReaperCost=Cooperativa - IA - Costo Mietitore
 Upgrade/Name/CoopBanelingHunter=Cooperativa - Baneling Cacciatore
@@ -9583,7 +9590,7 @@ Upgrade/Name/HHHellionRocket=Bombe bituminose
 Upgrade/Name/HHHellionStimDeath=Emettitori terminali
 Upgrade/Name/HHMattUnitStat=HHMattUnitStat
 Upgrade/Name/HHMercStarportHangarBay=HHMercStarportHangarBay
-Upgrade/Name/HHMercStarportLimitCount=
+Upgrade/Name/HHMercStarportLimitCount=HHMercStarportLimitCount
 Upgrade/Name/HHMultiLock=Sensori multipli
 Upgrade/Name/HHReaperFlight=Propulsore dorsale superiore
 Upgrade/Name/HHReaperG4ClusterBombs=Carica KD8
@@ -9633,7 +9640,7 @@ Upgrade/Name/KaraxEnergyRegenUpgrade=Ricarica rapida
 Upgrade/Name/KaraxInstantStructureWarp=Karax - Evocazione istantanea strutture
 Upgrade/Name/KaraxKhaydarinMonolithUnlock=Karax -Sblocca Monolite Khaydarin
 Upgrade/Name/KaraxPylonOvercharge=Karax - Sovraccarico pilone
-Upgrade/Name/KaraxRepairBeamLimit=
+Upgrade/Name/KaraxRepairBeamLimit=KaraxRepairBeamLimit
 Upgrade/Name/KaraxSOAChronoPassive=Karax - LdA temporale passiva
 Upgrade/Name/KaraxTurretAttackSpeed=Munizioni ottimizzate
 Upgrade/Name/KaraxTurretRange=Puntamento migliorato
@@ -9965,7 +9972,7 @@ Upgrade/Name/SwannSpecialDelivery=Swann - Consegna speciale
 Upgrade/Name/SwannTurretIncreasedAttackSpeed=Caricatori automatici KMC
 Upgrade/Name/SwannUnlockThor=Swann - Sblocca Thor
 Upgrade/Name/TempestDisintegration=Disintegrazione
-Upgrade/Name/TerranBuildingArmor2=
+Upgrade/Name/TerranBuildingArmor2=Corazza strutture terran - Copia
 Upgrade/Name/TerranInfantryArmorsLevel4=Corazza fanteria terran livello 4
 Upgrade/Name/TerranInfantryWeaponsLevel32=Armi fanteria terran livello 4
 Upgrade/Name/TerranInfantryWeaponsLevel4Level32=Armi fanteria terran livello 4
@@ -10120,7 +10127,7 @@ Upgrade/Name/ZeratulReaverHangarBuildTime=ZeratulReaverHangarBuildTime
 Upgrade/Name/ZeratulSupportMechanicsUpgrade=Potenziamento meccaniche di supporto
 Upgrade/Name/ZeratulTalentQuickBuild=Configurazione rapida talenti
 Upgrade/Name/ZeratulTalentUltimatePurity=Purezza definitiva
-Upgrade/Name/ZeratulThirdArtifactUpgrade=
+Upgrade/Name/ZeratulThirdArtifactUpgrade=ZeratulThirdArtifactUpgrade
 Upgrade/Name/ZeratulWeaponsLevel1=Armi protoss livello 1
 Upgrade/Name/ZeratulWeaponsLevel2=Armi protoss livello 2
 Upgrade/Name/ZeratulWeaponsLevel3=Armi protoss livello 3
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Opportunismo
 UserData/MutatorChallenges/OutOfControl_Name=Fuori controllo
 UserData/MutatorChallenges/Pain Train_Name=Deflagrazione
 UserData/MutatorChallenges/PerfectStorm_Name=Tempesta perfetta
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Rete di difesa puntuale
 UserData/MutatorChallenges/PropagatorIntro_Name=Resistenza inutile
 UserData/MutatorChallenges/PureVengeance_Name=Eccesso di difesa
 UserData/MutatorChallenges/QuickKillers_Name=Uccisione rapida
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=Micro-germinazione /// Sick Micro
 UserData/MutatorChallenges/SilentKiller_Name=Assassina Silenziosa
 UserData/MutatorChallenges/SlowAndSteady_Name=Andamento lento
 UserData/MutatorChallenges/SpectreOfDeath_Name=Spettro della morte
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Impauriti e circondati
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=Sopravvivenza del più forte
 UserData/MutatorChallenges/TaxDay_Name=
 UserData/MutatorChallenges/TempleOfPain_Name=Tempio del dolore /// Temple of Pain
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=Horner
+UserData/PlayerCommanders/TerranHorner_Name=Han e Horner
 UserData/PlayerCommanders/TerranNova_Name=Nova
 UserData/PlayerCommanders/TerranRaynor_Description=Eccellente comandante di fanteria.
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Richiama l'Hyperion.

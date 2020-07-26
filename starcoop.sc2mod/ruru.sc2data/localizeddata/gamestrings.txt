@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Пожирание воздушн
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Ошеломление
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Отвлечение
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Лучше в одиночку
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Дервиш Пустоты
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Тень «Искателя Пустоты»
 Behavior/Name/CoopMurvarPukePuddleDisable=Удушающая вонь /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=Едкая слизь
@@ -3480,7 +3480,7 @@ Button/Tooltip/AbathurBrutaliskLeviathanSymbiote=Получает симбион
 Button/Tooltip/AbathurDeepTunnel=Быстро закапывается и передвигается под землей в указанную видимую точку.
 Button/Tooltip/AbathurGenerateCreep=Окопавшийся или закопавшийся пронзатель распространяет слизь.
 Button/Tooltip/AbathurMend=Мгновенно восстанавливает союзным органическим и механическим боевым единицам и строениям <d ref="Effect,AbathurMendInitialHealer,RechargeVitalRate" player="current"/> ед. здоровья или прочности. Дополнительно восстанавливает <d ref="Effect,AbathurMendSecondaryHealer,RechargeVitalRate*Behavior,AbathurMendPeriodicHeal,Duration" player="current"/> ед. здоровья или прочности в течение <d ref="Behavior,AbathurMendPeriodicHeal,Duration" player="current"/> сек. Максимум зарядов – 3.
-Button/Tooltip/AbathurMendUpgraded=Мгновенно восстанавливает союзным органическим и механическим боевым единицам и строениям<d ref="Effect,AbathurMendInitialHealer,RechargeVitalRate"  player="current"/> ед. здоровья или прочности. Дополнительно восстанавливает <d ref="Effect,AbathurMendSecondaryHealer,RechargeVitalRate*Behavior,AbathurMendPeriodicHeal,Duration"  player="current"/> ед. здоровья или прочности в течение <d ref="Behavior,AbathurMendPeriodicHeal,Duration"  player="current"/> сек. Максимум зарядов – 3
+Button/Tooltip/AbathurMendUpgraded=Мгновенно восстанавливает союзным органическим и механическим боевым единицам и строениям <d ref="Effect,AbathurMendInitialHealer,RechargeVitalRate"  player="current"/> ед. здоровья или прочности. Дополнительно восстанавливает <d ref="Effect,AbathurMendSecondaryHealer,RechargeVitalRate*Behavior,AbathurMendPeriodicHeal,Duration"  player="current"/> ед. здоровья или прочности в течение <d ref="Behavior,AbathurMendPeriodicHeal,Duration"  player="current"/> сек. Максимум зарядов – 3
 Button/Tooltip/AbathurSpawningPool=Основное производственное строение Абатура – рассадник тараканов, а не омут рождения.
 Button/Tooltip/AbathurVoidCoopBioMassDrop12Text=<s val="Kicker_Minerals">+12 </s><IMG path="Assets\Textures\btn-upgrade-zerg-corrosiveacid.dds" height="28" width="28"/>
 Button/Tooltip/AbathurVoidCoopBioMassDrop1Text=<s val="Kicker_Minerals">+1 </s><IMG path="Assets\Textures\btn-upgrade-zerg-corrosiveacid.dds" height="28" width="28"/>
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Увеличивает нача�
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Увеличивает начальный запас энергии <c val="ffff8a">высших тамплиеров</c> и <c val="ffff8a">архонтов</c> на <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/> ед.
 Button/Tooltip/ResearchImprovedScatterCannon=Удваивает количество выстрелов при использовании «Кассетной пушки» <c val="ffff8a">ревнителя</c>.
 Button/Tooltip/ResearchImprovedSiegeMode=Уменьшает время смены режима <c val="ffff8a">осадных танков</c>. В осадном режиме <c val="ffff8a">осадные танки</c> получают +3 к броне.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Скорость атаки всех <c val="ffff8a">турелей</c> увеличивается на 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Повышает скорость атаки <c val="ffff8a">всех турелей</c> на 50%.
 Button/Tooltip/ResearchIncineratorGauntlets=Увеличивают радиус атаки <c val="ffff8a">огнеметчиков</c> на 40%.
 Button/Tooltip/ResearchIncineratorNozzles=Увеличивают радиус атаки огнеметчиков на 40%.
@@ -7046,6 +7047,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7825,7 +7831,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~НАЗВАНИЕ~</s><n/><s val="@@StandardTooltip">~ОПИСАНИЕ~</s>
 Param/Expression/lib_COOC_3030B119=Команда способности ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Техспам ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Назначение индекса престижа ~A~ для игрока ~B~
 Param/Expression/lib_COOC_5DED9532=Улучшение ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Получено слишком много результатов; невозможно отследить ~A~
 Param/Expression/lib_COOC_6DCBB62D=Версия банка игрока ~A~ устарела (~B~ – ~C~), применяются параметры по умолчанию.
@@ -7833,7 +7839,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=Команда способности ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Супертехспам ~A~
 Param/Expression/lib_COOC_B56724DE=Улучшение ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Назначение уровня престижа ~A~ для игрока ~B~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=Сервер сообщает, что игрок ~A~ (~B~) выбрал командира ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~
@@ -8557,13 +8563,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Зараженные казармы
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Максимум: 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Зараженный завод
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> ед. биомассы
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Максимум 3 или престиж: «Безграничный»
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Максимум 3 или престиж: «Безграничный»
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> ед. биомассы
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Максимум 3 или престиж: «Безграничный»
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Максимум 3 или престиж: «Безграничный»
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Завод
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Максимум 1 при таланте престижа «Королева слепней»
 Shape/Name/ZenithStone=Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c>, затем</s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">по земле – автоатака</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBomberJunker
 Skin/Name/HHRavenJunker=HHRavenJunker
 Skin/Name/HHVikingJunker=HHVikingJunker
@@ -9489,7 +9496,7 @@ Upgrade/Name/ColossusSkin=Облик колосса
 Upgrade/Name/CommanderLevel=Уровень командира
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=ИИ (совм.) – затраты на муталиска
 Upgrade/Name/CoopAIReaperCost=ИИ (совм.) – затраты на головореза
@@ -11818,7 +11825,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Бешеные возмо
 UserData/MutatorChallenges/OutOfControl_Name=Вырубание
 UserData/MutatorChallenges/Pain Train_Name=Город-полигон
 UserData/MutatorChallenges/PerfectStorm_Name=Идеальный штурм
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Сеть точечной обороны
 UserData/MutatorChallenges/PropagatorIntro_Name=Бесполезное сопротивление
 UserData/MutatorChallenges/PureVengeance_Name=Несдержанный ответ
 UserData/MutatorChallenges/QuickKillers_Name=Молниеносные убийцы
@@ -11843,7 +11849,6 @@ UserData/MutatorChallenges/SickMicro_Name=Кошмарный микроконт�
 UserData/MutatorChallenges/SilentKiller_Name=Бесшумный убийца
 UserData/MutatorChallenges/SlowAndSteady_Name=Медленно, но верно
 UserData/MutatorChallenges/SpectreOfDeath_Name=Аспекты смерти
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Окружены и напуганы
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=Выживает сильнейший
 UserData/MutatorChallenges/TaxDay_Name=День транзакций
 UserData/MutatorChallenges/TempleOfPain_Name=Храм боли
@@ -12247,7 +12252,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Воразун
 UserData/PlayerCommanders/ProtossZeratul_Description=Индиана Кейн
 UserData/PlayerCommanders/ProtossZeratul_Name=Зератул
-UserData/PlayerCommanders/TerranHorner_Name=Хорнер
+UserData/PlayerCommanders/TerranHorner_Name=Хан и Хорнер
 UserData/PlayerCommanders/TerranNova_Name=Нова
 UserData/PlayerCommanders/TerranRaynor_Description=Выдающийся командир пехоты.
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Вызывает на поле боя «Гиперион».

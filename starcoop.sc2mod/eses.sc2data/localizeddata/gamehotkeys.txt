@@ -2956,6 +2956,7 @@ Button/Hotkey/ResearchZeratulPhaseCannonWarp=E
 Button/Hotkey/ResearchZeratulSentryEnergyRegen=C
 Button/Hotkey/Roach=C
 Button/Hotkey/Roach_USD=R
+Button/Hotkey/SIBansheeUnloadAll=Y
 Button/Hotkey/SICivilianStructure=E
 Button/Hotkey/SICivilianStructure_NRS=U
 Button/Hotkey/SICivilianStructure_SC1=V

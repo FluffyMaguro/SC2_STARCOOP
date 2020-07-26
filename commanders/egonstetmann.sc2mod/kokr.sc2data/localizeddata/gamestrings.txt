@@ -106,7 +106,7 @@ Abil/Name/UpgradeToLurkerDenStetmann=건물 변태 (히드라리스크 굴 스�
 Abil/Name/ZergBuildStetmann=유닛 변태 (일벌레 -> 스텟먼 건물)
 Abil/Name/ZerglingStetmannRespawn=저글링 재생성
 Behavior/Name/BanelingMovementSpeedStetmann=메카 원심 고리
-Behavior/Name/CommanderPrestigeStetmannCombatBuff=최고급 기름
+Behavior/Name/CommanderPrestigeStetmannCombatBuff=최고급 기름 /// The Best Oil
 Behavior/Name/FASTOverloadStetmann="빨리빨리" 과부하 /// F.A.S.T. Overload
 Behavior/Name/GaryStetmannOrbDamage=개리 구체 대상 검색 /// Gary Orb Target Search
 Behavior/Name/GaryStetmannOrbTowerSearch=개리 구체 탑 검색 /// Gary Orb Tower Search
@@ -119,7 +119,7 @@ Behavior/Name/StetmannStetelliteChargesUsed=StetmannStetelliteChargesUsed
 Behavior/Name/StetmannStetelliteChargesUsed1=StetmannStetelliteChargesUsed1
 Behavior/Name/SuperGaryStetmannTheBestOil=최고급 기름 /// The Best Oil
 Behavior/Name/UltraliskStetmannBurrowChargeMechanicalStun=정전기 깜짝! /// Electrostatic Surprise!
-Behavior/Tooltip/CommanderPrestigeStetmannCombatBuff=이 유닛은 공격 속도와 체력 재생 속도가 증가했습니다.
+Behavior/Tooltip/CommanderPrestigeStetmannCombatBuff=이 유닛은 공격 속도와 체력 재생 속도가 증가했습니다. /// This unit has increased attack speed and life regeneration.
 Behavior/Tooltip/FASTOverloadStetmann=이 유닛은 공격 속도가 증가했습니다. /// This unit has increased attack speed.
 Behavior/Tooltip/HUGSOverloadStetmann=이 유닛은 받는 피해를 흡수합니다. /// This unit is absorbing damage dealt to it.
 Behavior/Tooltip/InfestorStetmannHealingTentacle=이 유닛은 체력, 이곤에너지, 에너지를 회복하는 중입니다. 능력 재사용 대기시간 회복 속도 또한 증가했습니다. /// This unit is regenerating health, Egonergy, and energy. Its ability cooldown rate is being increased.
@@ -155,12 +155,12 @@ Button/Name/CancelSuperGaryStetmannMorph=취소 /// Cancel
 Button/Name/CausticAcidLocked=완전깔끔 용제 /// Terraclean Solvent
 Button/Name/CausticSprayStetmann=완전깔끔 용제 /// Terraclean Solvent
 Button/Name/ChannelingSpinesLocked=집중 타격 알고리즘 /// Focused Strike Algorithm
-Button/Name/CommanderPrestigeStetmannBonusRavagerResearchLocked=보너스 궤멸충! 연구
-Button/Name/CommanderPrestigeStetmannChargingProtocolResearchLocked=UMI-C 충전 프로토콜 연구
-Button/Name/CommanderPrestigeStetmannMechaInfestorBuildLocked=메카 감염충으로 변태
-Button/Name/CommanderPrestigeStetmannMechaInfestorLocked=메카 감염충
-Button/Name/CommanderPrestigeStetmannRecycleMechaInfestorLocked=메카 감염충 재생
-Button/Name/CommanderPrestigeStetmannSuperGaryLocked=슈퍼 개리 변형 과정
+Button/Name/CommanderPrestigeStetmannBonusRavagerResearchLocked=보너스 궤멸충! 연구 /// Research BONUS Ravager!
+Button/Name/CommanderPrestigeStetmannChargingProtocolResearchLocked=UMI-C 충전 프로토콜 연구 /// Research UMI-C Charging Protocol
+Button/Name/CommanderPrestigeStetmannMechaInfestorBuildLocked=메카 감염충으로 변태 /// Morph to Mecha Infestor
+Button/Name/CommanderPrestigeStetmannMechaInfestorLocked=메카 감염충 /// Mecha Infestor
+Button/Name/CommanderPrestigeStetmannRecycleMechaInfestorLocked=메카 감염충 재생 /// Recycle Mecha Infestor
+Button/Name/CommanderPrestigeStetmannSuperGaryLocked=슈퍼 개리 변형 과정 /// Super Gary Transformation Sequence
 Button/Name/CorruptorStetmann=메카 타락귀로 변태 /// Morph to Mecha Corruptor
 Button/Name/CorruptorStetmannBiggerAoE=광범위 집속 파괴기 연구 /// Research Wide Area Cluster Busters
 Button/Name/CorruptorStetmannMissilePods=집속 파괴기 /// Cluster Busters
@@ -363,15 +363,15 @@ Button/Tooltip/BroodlingStetmann=짧은 시간 동안 싸울 수 있는 빠른 �
 Button/Tooltip/CancelMutateMorph2=변이 명령을 취소하여 이 구조물을 원상태로 되돌립니다. /// Cancels the mutation order, returning the structure to its original state.
 Button/Tooltip/CancelSuperGaryStetmannMorph=업그레이드 명령을 취소하여 유닛을 원상태로 되돌립니다. /// Cancels the upgrade order, returning the unit to its original state.
 Button/Tooltip/CausticSprayStetmann=한 줄기 용제를 분출하여 처음 <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/>초 동안은 초당 <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/>의 피해를 주고, 그 뒤로는 초당 <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/>의 피해를 줍니다.<n/><n/><c val="ffff8a">집중 기술</c><c val="#ColorAttackInfo"> 적 지상 유닛과 구조물만 대상 지정 가능</c> /// Emits a solvent stream that deals <d ref="Effect,CorruptorStetmannCausticLevel1Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> damage per second for <d ref="Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodCount*Effect,CorruptorStetmannCausticSprayLevel1Persistent,PeriodicPeriodArray[0]" precision="1"/> seconds, then increases to <d ref="Effect,CorruptorStetmannCausticLevel2Damage,Amount/Effect,CorruptorStetmannCausticSprayLevel2Persistent,PeriodicPeriodArray[0]" precision="1"/> damage per second.<n/><n/><c val="ffff8a">Channeled ability.</c><c val="#ColorAttackInfo"> Can target enemy ground units and structures.</c>
-Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 적 유닛을 한 기 죽이면 최고급 기름 1중첩이 쌓여 일시적으로 공격 속도와 체력 재생 속도가 증가합니다.
-Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=이 업그레이드는 사령관 위신에 의해 잠겨 있습니다.
-Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=이 업그레이드는 사령관 위신에 의해 잠겨 있습니다.
-Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 온라인 상태가 되면, 이곤위성이 무적 상태가 되고 <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>% 더 큰 이곤지역을 생성합니다.
-Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 이곤지역 밖에서 개리의 이동 속도가 <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% 감소합니다.
-Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=이 유닛은 사령관 위신에 의해 잠겨 있습니다.
-Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=이 유닛은 사령관 위신에 의해 잠겨 있습니다.
-Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다.
-Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다.
+Button/Tooltip/CommanderPrestigeStetmannBestOilUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 적 유닛을 한 기 죽이면 최고급 기름 1중첩이 쌓여 일시적으로 공격 속도와 체력 재생 속도가 증가합니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Killing an enemy unit will grant this unit a stack of The Best Oil, temporarily increasing attack speed and health regeneration.
+Button/Tooltip/CommanderPrestigeStetmannBonusRavagerResearchLocked=이 업그레이드는 사령관 위신에 의해 잠겨 있습니다. /// This upgrade is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannChargingProtocolResearchLocked=이 업그레이드는 사령관 위신에 의해 잠겨 있습니다. /// This upgrade is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannDeployStetelliteUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 온라인 상태가 되면, 이곤위성이 무적 상태가 되고 <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>% 더 큰 이곤지역을 생성합니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Once online, Stetellites are invulnerable and generate a <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannStetellites:Actor,PowerTowerStetmannRange,Range$/Actor,PowerTowerStetmannRange,Range*100" player="0"/></s>% larger Stetzone.
+Button/Tooltip/CommanderPrestigeStetmannGaryUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 이곤지역 밖에서 개리의 이동 속도가 <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% 감소합니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Gary's movement speed is reduced by <s val="Coop_Prestige_Tooltip"><d ref="$UpgradeEffectArrayValue:CommanderPrestigeStetmannGary:Unit,,GaryStetmann,Speed$/Unit,GaryStetmann,Speed*100" player="0"/></s>% outside of Stetzones.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorBuildLocked=이 유닛은 사령관 위신에 의해 잠겨 있습니다. /// This unit is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannMechaInfestorLocked=이 유닛은 사령관 위신에 의해 잠겨 있습니다. /// This unit is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannRecycleMechaInfestorLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다. /// This ability is locked by your Commander Prestige.
+Button/Tooltip/CommanderPrestigeStetmannSuperGaryLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CorruptorStetmann=대공 비행체입니다. 집속 파괴기와 완전깔끔 용제를 사용할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">공중 유닛 공격 가능</c> /// Anti-air flyer. Can use Cluster Busters and Terraclean Solvent.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c>
 Button/Tooltip/CorruptorStetmannBiggerAoE=<c val="ffff8a">메카 타락귀</c>의 집속 파괴기의 탐색 반경이 <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%만큼 증가합니다. /// Increases the search radius of <c val="ffff8a">Mecha Corruptor's</c> Cluster Busters by <d ref="$UpgradeEffectArrayValue:CorruptorStetmannBiggerAoE:Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius$/Effect,HurricaneMissileDamageStetmann,AreaArray[0].Radius*100"/>%.
 Button/Tooltip/CorruptorStetmannMissilePods=미사일을 난사하여 대상 지역에 있는 적 공중 유닛에 <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/>(경장갑 유닛에는 추가 <d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/>)의 피해를 줍니다. /// Fires a barrage of missiles dealing <d ref="Effect,HurricaneMissileDamageStetmann,Amount * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> (+<d ref="Effect,HurricaneMissileDamageStetmann,AttributeBonus[0] * Effect,HurricaneMissileDamagePersistentStetmann,PeriodCount"/> vs. light) damage to enemy air units in a target area.
@@ -559,7 +559,7 @@ Card/Name/RoachStetmannBurrowed=잠복 상태 /// Burrowed
 Card/Name/SuperGaryStetmann=진짜 최고의 친구 /// Super Best Friend
 Card/Name/UltraliskStetmannBurrowed=잠복 상태 /// Burrowed
 Card/Name/ZerglingStetmannBurrowed=잠복 상태 /// Burrowed
-DataCollection/Name/CommanderPrestigeStetmannCombatBuff=전투 강화 효과
+DataCollection/Name/CommanderPrestigeStetmannCombatBuff=전투 강화 효과 /// Combat Buff
 DocInfo/DescLong=이곤 스텟먼 모드 포함 /// Include mod for Egon Stetmann
 DocInfo/Name=사령관 스텟먼 /// Commander Stetmann
 Effect/Name/BanelingDeathExplodeLargeSetStetmann=
@@ -595,6 +595,9 @@ Effect/Name/BroodLordStetmannBomberSwitch=
 Effect/Name/BroodLordStetmannBroodlingEscortArm=
 Effect/Name/BroodLordStetmannBroodlingEscortArmDelay=
 Effect/Name/BroodLordStetmannDeathRespawnAddCharge=
+Effect/Name/BroodLordStetmannReadyBroodling=
+Effect/Name/BroodLordStetmannReadyBroodlingFinish=
+Effect/Name/BroodLordStetmannReadyBroodlingSet=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolCP=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolIssueOrder=
 Effect/Name/BroodLordStetmannReleaseBombersPatrolLeftTurnCP=
@@ -626,7 +629,14 @@ Effect/Name/BroodlingStetmannTimedLife=
 Effect/Name/BroodlingTimedLifeStetmann=
 Effect/Name/CommanderPrestigeStetmannCombatBuff=Apply Buff
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Attribute=Apply Attribute
+Effect/Name/CommanderPrestigeStetmannCombatBuff@AttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttribute=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@CooldownRateAttributeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@FindSpawningUnit=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitialSwitch=
 Effect/Name/CommanderPrestigeStetmannCombatBuff@Initialize=Initialize
+Effect/Name/CommanderPrestigeStetmannCombatBuff@InitializeTarget=
+Effect/Name/CommanderPrestigeStetmannCombatBuff@Target=
 Effect/Name/CommanderPrestigeStetmannGaryPowerUser=
 Effect/Name/CommanderPrestigeStetmannStetellitesPowerSource=
 Effect/Name/CommanderPrestigeStetmannStetzonesEnergy=
@@ -906,7 +916,7 @@ RequirementNode/Tooltip/Eq3804783965CountUnitInfestationPitStetmannQueuedOrBette
 RequirementNode/Tooltip/Eq3804783965CountUnitSpawningPoolStetmannQueuedOrBetter0=최대 1기 /// Limit 1
 RequirementNode/Tooltip/Eq3804783965CountUnitUltraliskCavernStetmannQueuedOrBetter0=최대 1기 /// Limit 1
 RequirementNode/Tooltip/LT211851015CountUnitInterceptorStetmannQueuedOrBetterAtUnit6=메카 식충격기 6기 미만으로 보유 /// Must have fewer than 6 Mecha Locusceptors
-RequirementNode/Tooltip/LT3877048067CountUnitBroodlingEscortStetmannQueuedOrBetterAtUnit2=메카 공생충 무장 미완료 /// Mecha Broodlings not fully armed
+RequirementNode/Tooltip/LT3877048067SumCountUnitBroodlingEscortStetmannQueuedOrBetterAtUnitCountBehaviorBroodLordStetmannReadyBroodlingCompleteOnlyAtUnit2=메카 공생충 무장 미완료 /// Mecha Broodlings not fully armed
 Unit/Category/ZergMecha=저그 - 메카 /// Zerg - Mecha
 Unit/InfoText/PartsPickup4=아무 유닛으로나 대천사 부품을 수집할 수 있습니다. /// Use any ground unit to collect Archangel Parts.
 Unit/LifeArmorName/MechaZergAirArmor=메카 저그 비행체 장갑 /// Mecha Zerg Flyer Plating

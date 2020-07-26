@@ -866,7 +866,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Devorar: efecto aéreo
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Abrumada
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Distraído
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Mejor solo
-Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=CommanderPrestigeZeratulTornadoesDoT
+Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Derviche del vacío
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Sombra del Buscador de Vacío
 Behavior/Name/CoopMurvarPukePuddleDisable=Hedor opresivo /// Oppressive Stench
 Behavior/Name/CoopMurvarPukePuddleSlow=Secreción corrosiva
@@ -4793,6 +4793,7 @@ Button/Tooltip/ResearchHighTemplarEnergyUpgrade=Aumenta la energía inicial de l
 Button/Tooltip/ResearchHighTemplarEnergyUpgradeHighArchon=Aumenta la energía inicial de los <c val="ffff8a">altos templarios</c> y de los <c val="ffff8a">arcontes</c> en <d ref="Upgrade,HighTemplarKhaydarinAmulet,EffectArray[0].Value"/>.
 Button/Tooltip/ResearchImprovedScatterCannon=Duplica la cantidad de disparos del cañón dispensador de la <c val="ffff8a">vanguardia</c>.
 Button/Tooltip/ResearchImprovedSiegeMode=Reduce el tiempo de transformación de los <c val="ffff8a">tanques de asedio</c>. Los <c val="ffff8a">tanques de asedio</c> obtienen +3 de armadura en modo asedio.
+Button/Tooltip/ResearchImprovedTurretAttackSpeed=Aumenta la velocidad de ataque de <c val="ffff8a">todas las torretas</c> un 25%.
 Button/Tooltip/ResearchImprovedTurretAttackSpeedPrestige=Aumenta la velocidad de ataque de <c val="ffff8a">todas las torretas</c> un 50%.
 Button/Tooltip/ResearchIncineratorGauntlets=Aumenta el radio de daño de los <c val="ffff8a">murciélagos de fuego</c> un 40%.
 Button/Tooltip/ResearchIncineratorNozzles=Los murciélagos de fuego obtienen un ataque de área un 40% más amplio.
@@ -7045,6 +7046,11 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawningUnitTracker=
+Effect/Name/SpawningUnitTrackerAddCaster=
+Effect/Name/SpawningUnitTrackerCopyToTarget=
+Effect/Name/SpawningUnitTrackerCopyUnitsToTarget=
+Effect/Name/SpawningUnitTrackerSet=
 Effect/Name/SpecialDeliveryCU=Special Delivery CU
 Effect/Name/SpecialDeliveryDropAB=Special Delivery Drop AB
 Effect/Name/SpecialDeliveryDropABSet=Special Delivery Drop AB Set
@@ -7824,7 +7830,7 @@ Param/Expression/lib_COOC_257AA7EE=~A~,~B~
 Param/Expression/lib_COOC_25D89385=<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>
 Param/Expression/lib_COOC_3030B119=Comando de habilidad ~A~ ~B~
 Param/Expression/lib_COOC_346FD6AB=Techspam ~A~
-Param/Expression/lib_COOC_36223CF3=
+Param/Expression/lib_COOC_36223CF3=Estableciendo índice de prestigio ~A~ para el jugador ~B~
 Param/Expression/lib_COOC_5DED9532=Mejora ~A~ ~B~
 Param/Expression/lib_COOC_69E020DC=Hay demasiados valores de puntuación, no se puede rastrear ~A~
 Param/Expression/lib_COOC_6DCBB62D=Versión del banco del jugador ~A~ desactualizada (~B~ vs ~C~), restableciendo valores por defecto
@@ -7832,7 +7838,7 @@ Param/Expression/lib_COOC_8B8A68D1=~A~: ~B~
 Param/Expression/lib_COOC_94AB0648=Comando de habilidad ~A~ ~B~
 Param/Expression/lib_COOC_94BD8027=Techsuperspam ~A~
 Param/Expression/lib_COOC_B56724DE=Mejora ~A~ ~B~
-Param/Expression/lib_COOC_BCBD5063=
+Param/Expression/lib_COOC_BCBD5063=Aplicando prestigio ~A~ al jugador ~B~
 Param/Expression/lib_COOC_D0741390=~A~: ~B~
 Param/Expression/lib_COOC_D5B22955=Bnet dice que el jugador ~A~ (~B~) ha elegido como comandante a ~C~
 Param/Expression/lib_COOC_DB7366EF=~A~,~B~
@@ -8556,13 +8562,14 @@ RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountU
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Barracón infestado
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Límite 10
 RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Fábrica infestada
-RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1GTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> de biomasa
-RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Límite 3 o prestigio: El Ilimitado
-RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltimateEvoCompleteOnly=Límite 3 o prestigio: El Ilimitado
+RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> de biomasa
+RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Límite 3 o prestigio: El Ilimitado
+RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Límite 3 o prestigio: El Ilimitado
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Fábrica
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Límite de 1 con prestigio: reina de hostigadores
 Shape/Name/ZenithStone=Zenith Stone
 SimpleDisplay/HealAttack=<s val="@@SimpleCommandRow">%hotkey</c> y luego </s> <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/> <s val="@@SimpleCommandRow">en el suelo para atacar automáticamente</s>
+Skin/Name/CommanderPrestigeTychusOdin=CommanderPrestigeTychusOdin
 Skin/Name/HHBomberJunker=HHBomberJunker
 Skin/Name/HHRavenJunker=HHRavenJunker
 Skin/Name/HHVikingJunker=HHVikingJunker
@@ -9488,8 +9495,8 @@ Upgrade/Name/ColossusSkin=Diseño de coloso
 Upgrade/Name/CommanderLevel=Nivel de comandante
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
-Upgrade/Name/CommanderPrestigeAbathurUltimateEvo=
-Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=
+Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=Coop: IA: coste de mutalisco
 Upgrade/Name/CoopAIReaperCost=Coop: IA: coste de segador
 Upgrade/Name/CoopBanelingHunter=Cazador pesteling (cooperativo)
@@ -9583,7 +9590,7 @@ Upgrade/Name/HHHellionRocket=Granadas de brea
 Upgrade/Name/HHHellionStimDeath=Emisores de aerosol estimulante
 Upgrade/Name/HHMattUnitStat=HHMattUnitStat
 Upgrade/Name/HHMercStarportHangarBay=HHMercStarportHangarBay
-Upgrade/Name/HHMercStarportLimitCount=
+Upgrade/Name/HHMercStarportLimitCount=HHMercStarportLimitCount
 Upgrade/Name/HHMultiLock=Sensores multihilo
 Upgrade/Name/HHReaperFlight=Aceleración de mochila reactor
 Upgrade/Name/HHReaperG4ClusterBombs=Carga KD8
@@ -9633,7 +9640,7 @@ Upgrade/Name/KaraxEnergyRegenUpgrade=Recarga rápida
 Upgrade/Name/KaraxInstantStructureWarp=Invocación instantánea de estructura de Karax
 Upgrade/Name/KaraxKhaydarinMonolithUnlock=Karax: desbloquear monolito khaydarin
 Upgrade/Name/KaraxPylonOvercharge=Sobrecarga de pilón de Karax
-Upgrade/Name/KaraxRepairBeamLimit=
+Upgrade/Name/KaraxRepairBeamLimit=KaraxRepairBeamLimit
 Upgrade/Name/KaraxSOAChronoPassive=Cronos pasiva de Karax (Lanza de Adun)
 Upgrade/Name/KaraxTurretAttackSpeed=Artillería optimizada
 Upgrade/Name/KaraxTurretRange=Selección de objetivo mejorada
@@ -10120,7 +10127,7 @@ Upgrade/Name/ZeratulReaverHangarBuildTime=ZeratulReaverHangarBuildTime
 Upgrade/Name/ZeratulSupportMechanicsUpgrade=Zeratul: mejora de mecánicas de apoyo
 Upgrade/Name/ZeratulTalentQuickBuild=Zeratul: conjunto rápido de talentos
 Upgrade/Name/ZeratulTalentUltimatePurity=Zeratul: pureza definitiva de talentos
-Upgrade/Name/ZeratulThirdArtifactUpgrade=
+Upgrade/Name/ZeratulThirdArtifactUpgrade=ZeratulThirdArtifactUpgrade
 Upgrade/Name/ZeratulWeaponsLevel1=Armas protoss nivel 1
 Upgrade/Name/ZeratulWeaponsLevel2=Armas protoss nivel 2
 Upgrade/Name/ZeratulWeaponsLevel3=Armas protoss nivel 3
@@ -11817,7 +11824,6 @@ UserData/MutatorChallenges/OpportunitiesUnleashed_Name=Oportunidades desatadas
 UserData/MutatorChallenges/OutOfControl_Name=Confusión
 UserData/MutatorChallenges/Pain Train_Name=Ciudad explosiva
 UserData/MutatorChallenges/PerfectStorm_Name=La tormenta perfecta /// The Perfect Storm
-UserData/MutatorChallenges/PointDefenseNetwork_Name=Red de defensa de punto
 UserData/MutatorChallenges/PropagatorIntro_Name=Resistencia fútil
 UserData/MutatorChallenges/PureVengeance_Name=Reacción excesiva
 UserData/MutatorChallenges/QuickKillers_Name=Asesinos rápidos
@@ -11842,7 +11848,6 @@ UserData/MutatorChallenges/SickMicro_Name=Micro enfermiza
 UserData/MutatorChallenges/SilentKiller_Name=Asesino silencioso
 UserData/MutatorChallenges/SlowAndSteady_Name=Lento y constante
 UserData/MutatorChallenges/SpectreOfDeath_Name=Espectro de la muerte
-UserData/MutatorChallenges/SurroundedAndAfraid_Name=Rodeado y asustado
 UserData/MutatorChallenges/SurvivalOfTheFittest_Name=La supervivencia del más fuerte
 UserData/MutatorChallenges/TaxDay_Name=A gravar
 UserData/MutatorChallenges/TempleOfPain_Name=Templo del dolor /// Temple of Pain
@@ -12246,7 +12251,7 @@ UserData/PlayerCommanders/ProtossVorazun_InfoDetails=<ul indent="2" text="•"><
 UserData/PlayerCommanders/ProtossVorazun_Name=Vorazun
 UserData/PlayerCommanders/ProtossZeratul_Description=Indiana Cain
 UserData/PlayerCommanders/ProtossZeratul_Name=Zeratul
-UserData/PlayerCommanders/TerranHorner_Name=Horner
+UserData/PlayerCommanders/TerranHorner_Name=Han y Horner
 UserData/PlayerCommanders/TerranNova_Name=Nova
 UserData/PlayerCommanders/TerranRaynor_Description=Comandante de infantería excelente.
 UserData/PlayerCommanders/TerranRaynor_InfoDetails=Llama al Hyperion

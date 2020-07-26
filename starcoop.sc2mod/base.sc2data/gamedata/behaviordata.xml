@@ -106,6 +106,7 @@
     <CBehaviorBuff id="CommanderPrestigeNovaSuperCloak">
         <InfoFlags index="Hidden" value="1"/>
         <EditorCategories value="AbilityorEffectType:Units"/>
+        <RemoveValidatorArray value="CommanderPrestigeNovaSuperCloak"/>
     </CBehaviorBuff>
     <CBehaviorBuff id="CommanderPrestigeNovaSuperCloakCombat">
         <InfoFlags index="Hidden" value="1"/>
