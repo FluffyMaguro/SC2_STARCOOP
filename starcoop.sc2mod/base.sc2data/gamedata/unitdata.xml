@@ -181,8 +181,8 @@
         <LifeArmor value="3"/>
         <LifeArmorName value="Unit/LifeArmorName/ProtossArmor"/>
         <LifeArmorLevel value="3"/>
-        <ShieldsStart value="500"/>
-        <ShieldsMax value="500"/>
+        <ShieldsStart value="1000"/>
+        <ShieldsMax value="1000"/>
         <ShieldArmor value="3"/>
         <ShieldRegenDelay value="6"/>
         <ShieldRegenRate value="100"/>
