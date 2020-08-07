@@ -1142,6 +1142,7 @@ Behavior/Name/TychusShredderGrenadeStun=Atordoamento da Granada de Retalhação 
 Behavior/Name/TychusSpectreBrillianceAuraBuffLv1=Rede N3 /// N3 Networking
 Behavior/Name/TychusWarhoundFear=Munição de Terror Moebius M34 /// Moebius M34 Terror Rounds
 Behavior/Name/TychusWarhoundTurretUpgrade=Estrutura de Torre Umojana /// Umojan Turret Frame
+Behavior/Name/UnderConstructionOrDeadTracker=
 Behavior/Name/UnityBarrierCooldown=Barreira de Unidade Recarregando /// Unity Barrier Recharging
 Behavior/Name/VehicleAfterburners=Veículos com Pós-combustão /// Vehicle Afterburners
 Behavior/Name/VespeneDroneTarget=Coletor de Vespeno /// Vespene Harvester
@@ -8558,6 +8559,7 @@ RequirementNode/Tooltip/Not3360504378CountBehaviorZeratulWarpPrismAutoUnloadComp
 RequirementNode/Tooltip/Not4088493654CountUpgradeDownloadBackupPart1InProgressOnlyAtUnit=Baixando /// Downloading
 RequirementNode/Tooltip/Not761197251OrAndNotCountUpgradeTychusSpectreOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Recrutou Nux /// Recruited Nux
 RequirementNode/Tooltip/Not967556426OrAndNotCountUpgradeTychusMarauderOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Recrutou Cascavel /// Recruited Rattlesnake
+RequirementNode/Tooltip/Or1229866228CountUnitHiveCompleteOnlyCountUpgradeCommanderPrestigeAbathurDeepTunnelCompleteOnly=Colmeia
 RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=Antro /// Lair
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=Quartel infestado
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=Até 10
