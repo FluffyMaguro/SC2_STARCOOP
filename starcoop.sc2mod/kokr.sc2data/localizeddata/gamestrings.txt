@@ -72,10 +72,12 @@ Abil/Name/ChargeBuster=무기 과충전 /// Arsenal Overcharge
 Abil/Name/ChargedBuster=태양 포 /// Solar Cannon
 Abil/Name/CloakingFieldSiegeTank=은폐장 /// Cloaking Field
 Abil/Name/CommandCenterLiftOff=뿌리 들기 (사령부)
+Abil/Name/CommanderPrestigeAlarakDeathFleetWarpable=CommanderPrestigeAlarakDeathFleetWarpable /// CommanderPrestigeAlarakDeathFleetWarpable
 Abil/Name/CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted=CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted
 Abil/Name/CommanderPrestigeDehakaPackLeadersRetreat=CommanderPrestigeDehakaPackLeadersRetreat
 Abil/Name/CommanderPrestigeStukovBansheeTransport=
 Abil/Name/CommanderPrestigeStukovBansheesDeploy=
+Abil/Name/CommanderPrestigeSwannHerculesScienceVesselTacticalJump=CommanderPrestigeSwannHerculesScienceVesselTacticalJump
 Abil/Name/CommanderPrestigeVorazunTimeStop=
 Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=CommanderPrestigeZagaraMaxSupplyScourgeSpawner
 Abil/Name/CommanderPrestigeZagaraZagaraDeepTunnel=
@@ -866,6 +868,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=섭취: 공중 효과 /// Devour:
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=압도 /// Overwhelmed
 Behavior/Name/CommanderPrestigeSwannDrillSlow=혼란 /// Distracted
 Behavior/Name/CommanderPrestigeTychusLoneWolf=혼자가 나아 /// Better Off Alone
+Behavior/Name/CommanderPrestigeTychusLoneWolfPetBuff=혼자가 나아 /// Better Off Alone
 Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=공허의 춤 /// Void Dervish
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=공허의 구도자의 그림자 /// Shadow of the Void Seeker
 Behavior/Name/CoopMurvarPukePuddleDisable=억압하는 악취 /// Oppressive Stench
@@ -1045,6 +1048,7 @@ Behavior/Name/PayloadUpgrade2bBuff=이동 속도/생명력 회복
 Behavior/Name/PhaseBlinkDamage=위상 점멸 /// Phase Blink
 Behavior/Name/PitAlarakLifeRegen=Pit Alarak Life RegenBehavior/Name/PrimalSlashStun=Primal Slash Stun
 Behavior/Name/PnPHybridPuddle=공허 웅덩이 /// Void Puddle
+Behavior/Name/PowerUserWarpable=소환 중 /// Warping In
 Behavior/Name/PowerUserWarpableAnywhere=소환 중 /// Warping In
 Behavior/Name/ProphecyArtifactHintUnitRotate=ProphecyArtifactHintUnitRotate
 Behavior/Name/PsionicLiftDamage=구속의 파동 /// Immobilization Wave
@@ -1352,6 +1356,7 @@ Behavior/Tooltip/OracleStasisTrapStunTarget=이 유닛은 이동하거나 공격
 Behavior/Tooltip/PayloadRepairMechanic=이 유닛은 자체 수리 중입니다. /// This unit is repairing itself.
 Behavior/Tooltip/PhaseBlinkDamage=이 유닛의 다음 공격은 공격력이 두 배로 증가합니다. /// This unit's next attack will deal double the damage.
 Behavior/Tooltip/PnPHybridPuddle=이 유닛은 피해를 받고 있습니다. /// This unit is taking damage.
+Behavior/Tooltip/PowerUserWarpable=이 유닛은 물질화되는 중입니다. /// This unit is being materialized.
 Behavior/Tooltip/PowerUserWarpableAnywhere=이 유닛은 물질화되는 중입니다. /// This unit is being materialized.
 Behavior/Tooltip/PsionicLiftRaise=이 유닛은 기절했습니다. /// This unit is stunned.
 Behavior/Tooltip/PsionicLiftRaise2=이 유닛은 기절했습니다. /// This unit is stunned.
@@ -3516,7 +3521,7 @@ Button/Tooltip/AlarackACHavocDetection=교란기가 잠복 및 은폐한 유닛�
 Button/Tooltip/AlarackACResearchHavocDetection=교란기가 잠복 및 은폐한 유닛을 탐지합니다.
 Button/Tooltip/AlarakACMyLifefortheHighlord=광신자는 알라라크가 죽음에 가까워지면 가장 먼저 희생되어 알라라크의 체력을 회복시키는 유닛입니다. /// Supplicants are the first units sacrificed to heal Alarak when he is near death.
 Button/Tooltip/AlarakACSummonDeathfleet=탈다림 모선과 <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>기의 파멸자를 소환해 <d ref="Behavior,AlarakDestroyerTimedLife,Duration"/>초 동안 조종합니다. /// Warps in a Tal'darim Mothership and <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Destroyers that are controllable and will fight for <d ref="Behavior,AlarakDestroyerTimedLife,Duration"/> seconds.
-Button/Tooltip/AlarakACSummonDeathfleetPrestige=탈다림 모선과 <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>기의 조종 가능한 파멸자를 소환합니다. /// Warps in a Tal'darim Mothership and <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Destroyers that are controllable.
+Button/Tooltip/AlarakACSummonDeathfleetPrestige=조종 가능한 탈다림 모선을 소환합니다. /// Warps in a Tal'darim Mothership that is controllable.
 Button/Tooltip/AlarakAreaDamageUpgrade=알라라크가 날 강화하라가 활성화된 동안 공격 시 광역 피해를 줍니다. /// Alarak's attacks deal area damage while Empower Me is active.
 Button/Tooltip/AlarakAttackStun=알라라크의 공격이 적 유닛을 <d ref="Behavior,AlarakBaneBladesStun,Duration"/>초 동안 기절시킵니다.</n></n><c val="ffff8a">영웅 유닛은 느려짐</c> /// Alarak's attacks stun enemy units for <d ref="Behavior,AlarakBaneBladesStun,Duration"/> seconds.</n></n><c val="ffff8a">Heroic units are slowed.</c>
 Button/Tooltip/AlarakColossusAerialTracking=분노수호자가 공중 유닛을 공격할 수 있게 합니다. /// Allows the Wrathwalker to attack air units.
@@ -3573,7 +3578,7 @@ Button/Tooltip/AscendantPassive=승천자 기록보관소는 승천자를 소환
 Button/Tooltip/AscendantSacrifice=광신자를 희생시켜 승천자의 에너지를 다시 가득 채웁니다.<n/><n/><c val="#ColorAttackInfo">광신자만 대상으로 지정 가능</c> /// Sacrifices a Supplicant to fully restore the Ascendant's energy.<n/><n/><c val="#ColorAttackInfo">Can only target Supplicants.</c>
 Button/Tooltip/Attack=선택한 지점으로 이동하며 도중에 만나는 적을 공격합니다. 공격 명령으로 유닛을 지정하면 지정한 유닛이 파괴될 때까지 공격합니다. /// Orders selected units to move to the target point, fighting nearby enemies along the way. Targeting a unit with the Attack command orders that it be attacked until it is destroyed.
 Button/Tooltip/AttackBuilding=공격 대상이 파괴되거나 사거리 밖으로 벗어날 때까지 공격합니다. /// Targets and attacks the target unit until it is destroyed or moves out of range.
-Button/Tooltip/AutoCreateInfestedCivilianAmmo=감염된 공성 전차가 30초마다 1발의 폭발성 생체 물질을 자동으로 생성합니다. /// Infested Siege Tanks automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/AutoCreateInfestedCivilianAmmo=감염된 공성 전차가 자동으로 <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>초마다 1발의 폭발성 생체 물질을 생성합니다. /// Infested Siege Tanks automatically spawn 1 round of Volatile Biomass every <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/> seconds.
 Button/Tooltip/AutoInjectLarva=<d ref="Behavior,AutoInjectLarva,Duration"/>초마다 자동으로 부화장, 번식지, 또는 군락에 애벌레 네 마리를 생성합니다.
 Button/Tooltip/AutoTurret_BlackOps=자동 방어 포탑입니다. <d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/>초 후에 사라집니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c> /// Automated defensive turret. Times out after <d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/> seconds.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
 Button/Tooltip/AutomatedAssimilatorTextKicker1=<s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/> /// <s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
@@ -3683,7 +3688,7 @@ Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=해병의 체력이 20만
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=차원 관문 연구가 우주관문과 로봇공학 시설에도 영향을 미칩니다. 이를 통해 동력장이 있는 곳이라면 어디로든 유닛을 소환할 수 있습니다. /// Enables Warp Gate research to affect Stargates and Robotics Facilities. This allows them to warp in units at any location with Pylon power.
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">위신:</s> 이 유닛이 죽으면 <s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>% 확률로 생체 물질을 떨어트립니다. /// </n></n><s val="Coop_Prestige_Tooltip">Prestige:</s> This unit has a <s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>% chance to drop its biomass upon death.
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다. /// This ability is locked by your Commander Prestige.
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 죽음의 함대의 지속 시간이 사라지며 공격력과 생존력이 <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>% 감소합니다. 추가로, 대규모 순간이동의 재사용 대기시간이 <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> 증가하고 동맹 유닛을 이동시키지 않습니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Death Fleet no longer has a duration and its damage and vitals are reduced by <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%. Additionally, Mass Teleport's cooldown is increased by <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> and it no longer teleports allied units.
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 파멸자가 소환되지 않습니다. 추가로, 대규모 순간이동의 재사용 대기시간이 <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> 증가하고 동맹 유닛을 순간이동시키지 않습니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Destroyers are not summoned. Additionally, Mass Teleport's cooldown is increased by <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> and it no longer teleports allied units.
 Button/Tooltip/CommanderPrestigeAlarakMechBuff=이 유닛은 최대 <d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/>개의 광신자 영혼을 수집할 수 있습니다. 수집한 영혼 하나당 공격 속도가 <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>%, 공격력이 <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>% 증가합니다. /// This unit can collect up to <d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/> Supplicant souls, increasing attack speed by <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>% and damage by <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>% for each soul collected.
 Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/> /// <d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
 Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 피해 흡수량이 증가합니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Damage absorption increased.
@@ -3720,7 +3725,7 @@ Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=<c val="f
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=화염방사병의 체력이 200만큼, 방어력이 2만큼 증가합니다. /// Firebats gain +200 life and +2 armor.
 Button/Tooltip/CommanderPrestigeRaynorMULELocked=이 능력은 사령관 위신에 의해 잠겨 있습니다. /// This ability is locked by your Commander Prestige.
 Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 공중 유닛에 사용된 보급품에 기반하여 재사용 대기시간이 <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>% 더 빨리 감소합니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Cooldown rate currently increased by <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>% based on supply used by your air units.
-Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=밴시에 감염된 보병을 태웁니다. /// Loads infested infantry into the Banshee's hold.
+Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=주위의 감염된 보병을 밴시에 태웁니다. /// Loads nearby infested infantry into the Banshee's hold.
 Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=감염된 밴시의 화물을 대상 위치로 날려 충돌 시 주변 적 지상 유닛에게 <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/>의 피해를 줍니다. /// Launches the Infested Banshee's cargo content at the target location, dealing <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/> damage to nearby enemy ground units on impact.
 Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">위신:</s> 감염된 벙커가 감염된 부대원을 <s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>% 더 빨리 생성하고 수용량 제한이 사라집니다. /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> The Infested Bunker spawns Infested Troopers <s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>% faster and has no cargo capacity.
 Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=이 능력은 사령관 위신에 의해 잠겨 있습니다. /// This ability is locked by your Commander Prestige.
@@ -4699,7 +4704,7 @@ Button/Tooltip/ResearchAlarakVanguardIncreaseSplashArea=<c val="ffff8a">선봉�
 Button/Tooltip/ResearchAlarakZealotFrenziedOverload=광전사가 빠른 속도로 적을 공격하며 공격할 때마다 보호막을 재생할 수 있게 합니다.
 Button/Tooltip/ResearchAresClassTargetingSystem=<c val="ffff8a">골리앗</c>의 대공 무기 사거리가 3만큼, 지상 무기 사거리가 1만큼 증가합니다. /// Increases the <c val="ffff8a">Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
 Button/Tooltip/ResearchAresClassTargetingSystemNova=<c val="ffff8a">타격 골리앗</c>의 대공 무기 사거리가 3만큼, 지상 무기 사거리가 1만큼 증가합니다. /// Increases the <c val="ffff8a">Strike Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
-Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">감염된 공성 전차</c>가 자동으로 30초마다 1발의 폭발성 생체 물질을 생성합니다. /// <c val="ffff8a">Infested Siege Tanks</c> automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">감염된 공성 전차</c>가 자동으로 <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>초마다 1발의 폭발성 생체 물질을 생성합니다. /// <c val="ffff8a">Infested Siege Tanks</c> automatically spawn 1 round of Volatile Biomass every <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/> seconds.
 Button/Tooltip/ResearchBansheeCloak_Raynor=<c val="ffff8a">밴시</c>가 은폐 능력을 사용할 수 있습니다. 은폐 상태인 <c val="ffff8a">밴시</c>는 적에게 보이지 않으며, 탐지기나 탐지 효과로만 드러납니다. 은폐한 <c val="ffff8a">밴시</c>는 사거리가 2만큼 증가합니다. /// Enables <c val="ffff8a">Banshees</c> to use the Cloak ability. Cloak renders the <c val="ffff8a">Banshee</c> invisible to enemies unless the unit is revealed by detectors or effects. Cloaked <c val="ffff8a">Banshees</c> also have their range increased by 2. 
 Button/Tooltip/ResearchBanshee_BlackOpsAirstrike=<c val="ffff8a">비밀 밴시</c>가 로켓 포화를 사용해서 대상 지역의 적 지상 유닛들에게 <d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/>의 피해를 줄 수 있습니다. /// Allows <c val="ffff8a">Covert Banshees</c> to use Rocket Barrage, which deals <d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/> damage to enemy ground units in the target area.
 Button/Tooltip/ResearchBarrier=<c val="ffff8a">불멸자</c> 방어막의 피해 흡수량이 100%만큼 증가합니다. /// Increases the amount of damage absorbed by the <c val="ffff8a">Immortal's</c> Barrier by 100%.
@@ -5060,8 +5065,8 @@ Button/Tooltip/SolarEfficiencyPassiveLevel1=아둔의 창이 <d time = "6.3"/>�
 Button/Tooltip/SolarEfficiencyPassiveLevel2=아둔의 창이 <d time = "6.3"/>마다 <d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/>의 에너지를 재생합니다. /// Generates <d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarEfficiencyPassiveLevel3=아둔의 창이 <d time = "6.3"/>마다 <d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/>의 에너지를 재생합니다. /// Generates <d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarForge=아둔의 창을 업그레이드합니다. /// Contains upgrades for the Spear of Adun.
-Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
-Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+1</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+1</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+3</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+3</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SolarForgeBeamPickupText3=<s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SoulAbsorption=알라라크는 주위 적 유닛이 죽으면, 죽은 유닛의 보급품 수당 20의 체력과 보호막을 회복합니다.<n/><n/>알라라크는 죽음에 가까워지면 플레이어가 조종하는 주위 유닛의 생명력을 흡수합니다. 이 능력은 재사용 대기시간이 없습니다. /// When a nearby enemy unit dies, Alarak heals himself for 20 life and 20 shields per the unit's supply.<n/><n/>Alarak steals life from nearby units you control to heal himself when he is near death. This ability has no cooldown.
 Button/Tooltip/SpawnBrutalisk=크기와 힘에서 울트라리스크를 압도하는 거대 돌격수를 생성합니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>
@@ -7049,6 +7054,9 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawnedUnitTracker=
+Effect/Name/SpawnedUnitTrackerAddTarget=
+Effect/Name/SpawnedUnitTrackerSet=
 Effect/Name/SpawningUnitTracker=
 Effect/Name/SpawningUnitTrackerAddCaster=
 Effect/Name/SpawningUnitTrackerCopyToTarget=
@@ -8012,6 +8020,7 @@ Param/Value/lib_COMI_AB191283=5일
 Param/Value/lib_COMI_AB66B665={시작 위치}
 Param/Value/lib_COMI_AC873AC0=잘못된 난이도 매개 변수
 Param/Value/lib_COMI_AC99805E=제라툴 /// Zeratul
+Param/Value/lib_COMI_ACAD6923=배치 유닛을 찾을 수 없습니다. 플레이어 시작 장소를 기반으로 한 생성 지점을 이용합니다! /// Placement unit not found, falling back to spawn point based on player start!
 Param/Value/lib_COMI_ACE8A237=<c val="FF9800">사이브로스 중재자 전투복이 파괴되었습니다.</c> /// <c val="FF9800">Cybros Arbiter Suit has been destroyed.</c>
 Param/Value/lib_COMI_AFA9A35D=<s val="@@WorldTeachingTooltipHeader">드라켄 레이저 천공기</s><n/>업그레이드하거나 능력을 사용하려면 선택 /// <s val="@@WorldTeachingTooltipHeader">Drakken Laser Drill</s><n/>Select to upgrade or use abilities
 Param/Value/lib_COMI_B116A5EC=화염차 (26 처치)
@@ -8558,10 +8567,11 @@ RequirementNode/Tooltip/Not2756504230OrAndNotCountUpgradeTychusFirebatOwnedCompl
 RequirementNode/Tooltip/Not2796347345OrAndNotCountUpgradeTychusWarhoundOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=시리우스 고용함 /// Recruited Sirius
 RequirementNode/Tooltip/Not3149004287OrAndNotCountUpgradeTychusMedicOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=니카라 중위 고용함 /// Recruited Lt. Nikara
 RequirementNode/Tooltip/Not3360504378CountBehaviorZeratulWarpPrismAutoUnloadCompleteOnlyAtUnit=자동 내보내기 사용 안 함 /// Not Auto-Unloading
+RequirementNode/Tooltip/Not3804783965CountUnitSOAMothershipv4QueuedOrBetter=최대 1기 /// Limit 1
 RequirementNode/Tooltip/Not4088493654CountUpgradeDownloadBackupPart1InProgressOnlyAtUnit=다운로드 중 /// Downloading
 RequirementNode/Tooltip/Not761197251OrAndNotCountUpgradeTychusSpectreOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=넉스 고용함 /// Recruited Nux
 RequirementNode/Tooltip/Not967556426OrAndNotCountUpgradeTychusMarauderOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=방울뱀 고용함 /// Recruited Rattlesnake
-RequirementNode/Tooltip/Or1229866228CountUnitHiveCompleteOnlyCountUpgradeCommanderPrestigeAbathurDeepTunnelCompleteOnly=군락
+RequirementNode/Tooltip/Or1229866228CountUnitHiveCompleteOnlyCountUpgradeCommanderPrestigeAbathurDeepTunnelCompleteOnly=군락 /// Hive
 RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=번식지 /// Lair
 RequirementNode/Tooltip/Or2729211663TechTreeCheatCountUnitAlias_InfestedBarracksCompleteOnlyCountUpgradeCommanderPrestigeStukovMechCompleteOnly=감염된 병영 /// Infested Barracks
 RequirementNode/Tooltip/Or273136911LTCountUnitHHBomberPlatformQueuedOrBetter10CountUpgradeCommanderPrestigeHornerBombingPlatformsCompleteOnly=10 제한 /// Limit 10
@@ -8569,6 +8579,9 @@ RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryC
 RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> 생체물질 /// <d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> Biomass
 RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=한도 3 또는 위신: 무제한 /// Limit 3 or Prestige: The Limitless
 RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=한도 3 또는 위신: 무제한 /// Limit 3 or Prestige: The Limitless
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=병영 /// Barracks
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=병영 /// Barracks
+RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=군수공장 /// Factory
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=군수공장 /// Factory
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=위신 제한 1: 갈귀 여왕 /// Limit 1 with Prestige: Scourge Queen
 Shape/Name/ZenithStone=천정석 /// Zenith Stone
@@ -9500,6 +9513,7 @@ Upgrade/Name/CommanderLevel=사령관 레벨
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
 Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1=CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1 /// CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon /// CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=협동전 인공지능 뮤탈리스크 비용
 Upgrade/Name/CoopAIReaperCost=협동전 인공지능 사신 비용
@@ -10010,6 +10024,7 @@ Upgrade/Name/TychusHercGrappleArmor=긴급 대응 체제 /// Critical Response S
 Upgrade/Name/TychusHercGrappleStun=X-71 충격 장화 /// X-71 Impact Boots
 Upgrade/Name/TychusHercRage=한계 용량 축전지 /// Redline Power Cells
 Upgrade/Name/TychusHeroCapped=타이커스 영웅 봉인 /// Tychus Hero Capped
+Upgrade/Name/TychusHeroCount=타이커스 영웅 카운트
 Upgrade/Name/TychusHeroMaxed=타이커스 영웅 최대 /// Tychus Hero Maxed
 Upgrade/Name/TychusHeroPassive=TychusHeroPassive
 Upgrade/Name/TychusMarauderAttackSplash=망치 탄약 /// Hammer Munitions
@@ -10223,20 +10238,20 @@ UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Category=프로토스 함�
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Description=우주모함의 장점을 극대화한 근대 프로토스 비행 함대입니다. 우주모함은 기사단의 마음에 희망을 불어넣어 주는 웅대한 주력함으로 알려졌습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>예언자<li/>공허 포격기<li/>우주모함 /// Modern Protoss air fleet culminating in the Carrier, a magnificent capital ship known to inspire hope in the hearts of Templar.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Oracle<li/>Void Ray<li/>Carrier
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Name=칼라이의 희망 /// Hope of the Khalai
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Category=프로토스 함대 /// Protoss Armada
-UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=폭풍함의 장점을 극대화한 근대 프로토스 비행 함대입니다. 폭풍함은 코프룰루 구역에서 사거리를 견줄 상대가 없는 영예로운 주력합니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>예언자<li/>공허 포격기<li/>폭풍함 /// Modern Protoss air fleet culminating in the Tempest, a glorious capital ship known for its unmatched range throughout the Korpulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Oracle<li/>Void Ray<li/>Tempest
+UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=폭풍함의 장점을 극대화한 근대 프로토스 비행 함대입니다. 폭풍함은 코프룰루 구역에서 사거리를 견줄 상대가 없는 영예로운 주력합니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>예언자<li/>공허 포격기<li/>폭풍함 /// Modern Protoss air fleet culminating in the Tempest, a glorious capital ship known for its unmatched range throughout the Koprulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Oracle<li/>Void Ray<li/>Tempest
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Name=폭풍 포위 /// Siege of Storms
 UserData/CoopAICommanders/ProtossBuildTechy_Category=프로토스 군단 /// Protoss Legion
 UserData/CoopAICommanders/ProtossBuildTechy_Description=무차별적인 공격에도 능하지만, 이 군단에 속한 병력과 같은 여러 프로토스 병력은 전술적 접근을 더 선호합니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>피닉스<li/>암흑 기사 <c val="ff0000">(어려움+)</c><li/>분열기<c val="ff0000">(어려움+)</c>
  /// Though also adept at brute force, many Protoss troops, including the ones found in this legion, prefer a more tactical approach.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Phoenix<li/>Dark Templar <c val="ff0000">(Hard+)</c><li/>Disruptor <c val="ff0000">(Hard+)</c>
 UserData/CoopAICommanders/ProtossBuildTechy_Name=암흑 분열 /// Shadow Disruption
 UserData/CoopAICommanders/TerranBuildBioClassic_Category=테란 전투대대 /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildBioClassic_Description=보병 기반의 이 전투대대는 1차 대전쟁 당시 UED에 의해 창시되었습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>해병<li/>Medic<li/>공성 전차<li/>유령<c val="ff0000">(어려움+) /// These squads of infantry-based battalions were pioneered by the UED during the First Great War.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Marine<li/>Medic<li/>Siege Tank<li/>Ghost <c val="ff0000">(Hard+)
+UserData/CoopAICommanders/TerranBuildBioClassic_Description=보병 기반의 이 전투대대는 종족 전쟁 당시 UED에 의해 창시되었습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>해병<li/>Medic<li/>공성 전차<li/>유령<c val="ff0000">(어려움+) /// These squads of infantry-based battalions were pioneered by the UED during the Brood War.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Marine<li/>Medic<li/>Siege Tank<li/>Ghost <c val="ff0000">(Hard+)
 UserData/CoopAICommanders/TerranBuildBioClassic_Name=클래식 보병 /// Classic Infantry
 UserData/CoopAICommanders/TerranBuildBioMechStar_Category=테란 연합 부대 /// Terran Combined Forces
 UserData/CoopAICommanders/TerranBuildBioMechStar_Description=조직력이 뛰어나진 않지만, 이 각개전투식 조합은 적들을 불안에 떨게 만드는 다재다능한 연합 부대입니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>공성 전차<li/>과학선<li/>전투순양함<li/>유령 <c val="ff0000">(어려움+)</c> /// Though not the most organized, this ragtag force is a well-rounded army designed to keep enemies on their toes.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Siege Tank<li/>Science Vessel<li/>Battlecruiser<li/>Ghost <c val="ff0000">(Hard+)</c>
 UserData/CoopAICommanders/TerranBuildBioMechStar_Name=습격단 /// Raiding Party
 UserData/CoopAICommanders/TerranBuildMechClassic_Category=테란 전투대대 /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildMechClassic_Description=어떤 이들은 1차 대전쟁 당시의 이 고전 테란 기계 부대를 코프룰루 구역에서 가장 효율적인 전투 무장이라 일컬었습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>골리앗<li/>공성 전차<li/>과학선<li/>전투순양함 /// Some have called this classic Terran mechanical force from the First Great War the most efficient fighting outfit in the Korpulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Goliath<li/>Siege Tank<li/>Science Vessel<li/>Battlecruiser
+UserData/CoopAICommanders/TerranBuildMechClassic_Description=어떤 이들은 1차 대전쟁 당시의 이 고전 테란 기계 부대를 코프룰루 구역에서 가장 효율적인 전투 무장이라 일컬었습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>골리앗<li/>공성 전차<li/>과학선<li/>전투순양함 /// Some have called this classic Terran mechanical force from the First Great War the most efficient fighting outfit in the Koprulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Goliath<li/>Siege Tank<li/>Science Vessel<li/>Battlecruiser
 UserData/CoopAICommanders/TerranBuildMechClassic_Name=클래식 기계 /// Classic Mech
 UserData/CoopAICommanders/TerranBuildMechStarport_Category=테란 지상 부대 /// Terran Ground Forces
 UserData/CoopAICommanders/TerranBuildMechStarport_Description=온전히 기계화된 이 테란 부대는 테란 전쟁 기계의 가장 강력한 장갑 병력들로 구성되어 있습니다.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">핵심 유닛</c><n/><ul indent="2" text="•"><li/>공성 전차<li/>Thor<li/>과학선 /// This fully mechanized force features the strongest armored vehicles the Terran war machine has to offer.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Siege Tank<li/>Thor<li/>Science Vessel
@@ -10531,14 +10546,14 @@ UserData/MasteryUpgrades/ZagaraMastery1_Name=체력 및 에너지 재생
 UserData/MasteryUpgrades/ZagaraMastery1_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery2_Name=자동 공격력
 UserData/MasteryUpgrades/ZagaraMastery2_ValueFormat=+~A~ 공격력
-UserData/MasteryUpgrades/ZagaraMastery3_Name=맹독충 공격력
-UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~ 공격력
+UserData/MasteryUpgrades/ZagaraMastery3_Name=대규모 광란 속도 증폭 /// Mass Frenzy Speed Boost
+UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~% /// +~A~%
 UserData/MasteryUpgrades/ZagaraMastery4_Name=저글링 회피율
 UserData/MasteryUpgrades/ZagaraMastery4_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery5_Name=바퀴 투하체 공격력 및 체력
 UserData/MasteryUpgrades/ZagaraMastery5_ValueFormat=+~A~% /// +~A~%
-UserData/MasteryUpgrades/ZagaraMastery6_Name=대규모 광란 속도 증폭
-UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~% /// +~A~%
+UserData/MasteryUpgrades/ZagaraMastery6_Name=맹독충 공격력 /// Baneling Damage
+UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~ 공격력 /// +~A~ Damage
 UserData/MasteryUpgrades/ZeratulMastery1_Name=제라툴 공격 속도 /// Zeratul Attack Speed
 UserData/MasteryUpgrades/ZeratulMastery1_ValueFormat=+~A~%  /// +~A~%
 UserData/MasteryUpgrades/ZeratulMastery2_Name=전투 유닛 공격 속도 /// Combat Unit Attack Speed
@@ -12938,6 +12953,8 @@ Weapon/Tip/ImpalerDehaka=<c val="#ColorAttackInfo">잠복해야 공격할 수 �
 Weapon/Tip/InfestedBunkerFakeUprootedMelee=
 Weapon/Tip/LocustFlyingLaunch=
 Weapon/Tip/LocustLaunch=
+e_cmdCantBuildTooFarFromBuildPowerSource=동력장 안에 배치해야 합니다. /// Must place in Power Field
+e_cmdCantLandTooFarFromBuildPowerSource=동력장 안에 배치해야 합니다. /// Must place in Power Field
 e_cmdCantTargetUser1=수송 불가 대상 지정 불가 /// Can't target Untransportable
 e_cmdMustTargetUser1=수송 불가 대상 필요 /// Must target Untransportable
 e_cmdNotEnoughTerrazine=저그 생체 물질 부족 /// Not enough zerg biomass

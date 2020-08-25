@@ -72,10 +72,12 @@ Abil/Name/ChargeBuster=Arsenal Overcharge
 Abil/Name/ChargedBuster=Solar Cannon
 Abil/Name/CloakingFieldSiegeTank=Cloaking Field
 Abil/Name/CommandCenterLiftOff=Unroot (Command Center)
+Abil/Name/CommanderPrestigeAlarakDeathFleetWarpable=Kommandantenprestige (Alarak) - Todesflotte warpbar
 Abil/Name/CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted=
 Abil/Name/CommanderPrestigeDehakaPackLeadersRetreat=
 Abil/Name/CommanderPrestigeStukovBansheeTransport=
 Abil/Name/CommanderPrestigeStukovBansheesDeploy=
+Abil/Name/CommanderPrestigeSwannHerculesScienceVesselTacticalJump=CommanderPrestigeSwannHerculesScienceVesselTacticalJump
 Abil/Name/CommanderPrestigeVorazunTimeStop=
 Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=Kommandantenprestige (Zagara) - Versorgungslimit, Terror erschaffen
 Abil/Name/CommanderPrestigeZagaraZagaraDeepTunnel=
@@ -866,6 +868,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=Verschlingen: Effekt für Luftein
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=Überwältigt
 Behavior/Name/CommanderPrestigeSwannDrillSlow=Abgelenkt
 Behavior/Name/CommanderPrestigeTychusLoneWolf=Einzelkämpfer
+Behavior/Name/CommanderPrestigeTychusLoneWolfPetBuff=Einzelkämpfer
 Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=Leerenderwisch
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=Schatten der Leerensucher
 Behavior/Name/CoopMurvarPukePuddleDisable=Lähmender Gestank /// Oppressive Stench
@@ -1045,6 +1048,7 @@ Behavior/Name/PayloadUpgrade2bBuff=Bewegungsgeschwindigkeit und Trefferpunktrege
 Behavior/Name/PhaseBlinkDamage=Phasenteleport
 Behavior/Name/PitAlarakLifeRegen=Pit Alarak Life RegenBehavior/Name/PrimalSlashStun=Primal Slash Stun
 Behavior/Name/PnPHybridPuddle=Leerenpfütze
+Behavior/Name/PowerUserWarpable=Wird herangewarpt
 Behavior/Name/PowerUserWarpableAnywhere=Wird herangewarpt
 Behavior/Name/ProphecyArtifactHintUnitRotate=Prophezeiung - Artefakt, Hinweis - Einheit, drehen
 Behavior/Name/PsionicLiftDamage=Lähmende Welle /// Immobilization Wave
@@ -1352,6 +1356,7 @@ Behavior/Tooltip/OracleStasisTrapStunTarget=Diese Einheit kann sich weder bewege
 Behavior/Tooltip/PayloadRepairMechanic=Diese Einheit repariert sich selbst. /// This unit is repairing itself.
 Behavior/Tooltip/PhaseBlinkDamage=Der nächste Angriff dieser Einheit verursacht doppelten Schaden.
 Behavior/Tooltip/PnPHybridPuddle=Diese Einheit erleidet Schaden.
+Behavior/Tooltip/PowerUserWarpable=Einheit wird materialisiert.
 Behavior/Tooltip/PowerUserWarpableAnywhere=Einheit wird materialisiert.
 Behavior/Tooltip/PsionicLiftRaise=Diese Einheit ist betäubt. /// This unit is stunned.
 Behavior/Tooltip/PsionicLiftRaise2=Diese Einheit ist betäubt.
@@ -3516,7 +3521,7 @@ Button/Tooltip/AlarackACHavocDetection=Der Aggressor kann eingegrabene und getar
 Button/Tooltip/AlarackACResearchHavocDetection=Der Aggressor kann eingegrabene und getarnte Einheiten aufdecken. 
 Button/Tooltip/AlarakACMyLifefortheHighlord=Heloten sind die ersten, die geopfert werden, um Alarak zu heilen, wenn er dem Tode nahe ist.
 Button/Tooltip/AlarakACSummonDeathfleet=Warpt ein Mutterschiff der Tal'darim und <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Zerstörer heran. Diese Einheiten sind steuerbar und bleiben <d ref="Behavior,AlarakDestroyerTimedLife,Duration"/> Sek. lang im Kampf.
-Button/Tooltip/AlarakACSummonDeathfleetPrestige=Warpt ein Mutterschiff der Tal'darim und <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Zerstörer heran. Diese Einheiten sind steuerbar.
+Button/Tooltip/AlarakACSummonDeathfleetPrestige=Warpt ein Mutterschiff der Tal'darim heran. Das Mutterschiff lässt sich steuern.
 Button/Tooltip/AlarakAreaDamageUpgrade=Solange die Fähigkeit "Bemächtigung" aktiv ist, verursachen Alaraks Angriffe Flächenschaden.
 Button/Tooltip/AlarakAttackStun=Alaraks Angriffe betäuben gegnerische Einheiten <d ref="Behavior,AlarakBaneBladesStun,Duration"/> Sek. lang.</n></n><c val="ffff8a">Heroische Einheiten werden verlangsamt.</c>
 Button/Tooltip/AlarakColossusAerialTracking=Erlaubt es dem Zornbringer, Lufteinheiten anzugreifen.
@@ -3573,7 +3578,7 @@ Button/Tooltip/AscendantPassive=Das Aspirantenarchiv ermöglicht das Heranwarpen
 Button/Tooltip/AscendantSacrifice=Opfert einen Heloten, um die Energie des Aspiranten vollständig wiederherzustellen.<n/><n/><c val="#ColorAttackInfo">Kann nur Heloten anvisieren.</c>
 Button/Tooltip/Attack=Befiehlt den ausgewählten Einheiten, sich zum Zielort zu begeben und auf dem Weg nahe Feinde anzugreifen. Wird eine Einheit mit diesem Befehl anvisiert, wird sie so lange angegriffen, bis sie zerstört ist.
 Button/Tooltip/AttackBuilding=Erfasst die Zieleinheit und greift diese an, bis sie zerstört oder außer Reichweite ist.
-Button/Tooltip/AutoCreateInfestedCivilianAmmo=Verseuchte Belagerungspanzer erschaffen alle 30 Sek. 1 Ladung instabiler Biomasse.
+Button/Tooltip/AutoCreateInfestedCivilianAmmo=Verseuchte Belagerungspanzer erschaffen alle <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/> Sek. 1 Ladung instabiler Biomasse.
 Button/Tooltip/AutoInjectLarva=Brutstätte, Bau oder Schwarmstock erschaffen alle <d ref="Behavior,AutoInjectLarva,Duration"/> Sek. automatisch vier Larven.
 Button/Tooltip/AutoTurret_BlackOps=Automatisierter Verteidigungsturm. Bleibt <d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/> Sek. lang bestehen.<n/><n/><c val="#ColorAttackInfo">Kann Boden- und Lufteinheiten angreifen.</c>
 Button/Tooltip/AutomatedAssimilatorTextKicker1=<s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
@@ -3683,7 +3688,7 @@ Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=Space-Marines erhalten +2
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=Warptor-Technologie wirkt sich jetzt auch auf Raumportale und Roboterfabriken aus. Dadurch können auch diese Gebäude Einheiten überall im Energiefeld eines Pylonen heranwarpen.
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">Prestige:</s> Diese Einheit hat eine Chance von <s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>%, beim Tod ihre Biomasse zu hinterlassen.
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=Diese Fähigkeit ist durch das Prestige Ihres Kommandanten gesperrt.
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Die Todesflotte hat keine Dauer und ihr Schaden sowie ihre Vitalwerte sind um <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>% verringert. Außerdem ist die Abklingzeit von "Massenteleportation" um <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> erhöht und die Fähigkeit teleportiert keine verbündeten Einheiten mehr.
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Zerstörer werden nicht angefordert. Außerdem ist die Abklingzeit von "Massenteleportation" um <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> erhöht und die Fähigkeit teleportiert keine verbündeten Einheiten mehr.
 Button/Tooltip/CommanderPrestigeAlarakMechBuff=Diese Einheit kann bis zu <d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/> Helotenseelen sammeln. Erhöht die Angriffsgeschwindigkeit für jede Seele um <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>% und den Schaden um <d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>%.
 Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
 Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Erhöhte Schadensabsorption.
@@ -3720,7 +3725,7 @@ Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=<c val="f
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=Feuerfresser erhalten +200 Trefferpunkte und +2 Panzerung.
 Button/Tooltip/CommanderPrestigeRaynorMULELocked=Diese Fähigkeit ist durch das Prestige Ihres Kommandanten gesperrt.
 Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Die Abklingrate ist derzeit um <s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>% erhöht, basierend auf der verbrauchten Versorgung Ihrer Lufteinheiten.
-Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=Lädt verseuchte Infanterie in den Frachtraum der Banshee.
+Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=Lädt in der Nähe befindliche verseuchte Infanterie in den Frachtraum der Banshee.
 Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=Schleudert die Fracht der verseuchten Banshee auf den Zielort und fügt beim Einschlag gegnerischen Bodeneinheiten in der Nähe <d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/> Schaden zu.
 Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Der Verseuchte Bunker erschafft Verseuchte Soldaten <s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>% schneller und kann keine Einheiten aufnehmen.
 Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=Diese Fähigkeit ist durch das Prestige Ihres Kommandanten gesperrt.
@@ -4699,7 +4704,7 @@ Button/Tooltip/ResearchAlarakVanguardIncreaseSplashArea=Erhöht den Bereich des 
 Button/Tooltip/ResearchAlarakZealotFrenziedOverload=Ermöglicht es Berserkern, Gegner mit einem Hagel von Schlägen anzugreifen und stellt mit jedem Angriff Schildpunkte her.
 Button/Tooltip/ResearchAresClassTargetingSystem=Erhöht die Reichweite der Luftabwehr von <c val="ffff8a">Goliaths</c> um 3 und die Reichweite von Bodenangriffen um 1.
 Button/Tooltip/ResearchAresClassTargetingSystemNova=Erhöht die Reichweite der Luftabwehr von <c val="ffff8a">Taktischen Goliaths</c> um 3 und die Reichweite von Bodenangriffen um 1.
-Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">Verseuchte Belagerungspanzer</c> erschaffen alle 30 Sek. 1 Ladung instabiler Biomasse.
+Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">Verseuchte Belagerungspanzer</c> erschaffen alle <d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/> Sek. 1 Ladung instabiler Biomasse.
 Button/Tooltip/ResearchBansheeCloak_Raynor=Ermöglicht <c val="ffff8a">Banshees</c> den Einsatz der Fähigkeit "Tarnen". "Tarnen" macht die <c val="ffff8a">Banshee</c> für Feinde unsichtbar, bis sie durch Detektoreinheiten oder -effekte aufgedeckt wird. Erhöht außerdem die Waffenreichweite getarnter <c val="ffff8a">Banshees</c> um 2. /// Enables <c val="ffff8a">Banshees</c> to use the Cloak ability. Cloak renders the <c val="ffff8a">Banshee</c> invisible to enemies unless the unit is revealed by detectors or effects. Cloaked <c val="ffff8a">Banshees</c> also have their range increased by 2. 
 Button/Tooltip/ResearchBanshee_BlackOpsAirstrike=Ermöglicht <c val="ffff8a">Tarnkappen-Banshees</c> den Einsatz der Fähigkeit "Raketenbeschuss", die feindlichen Bodeneinheiten im Zielgebiet <d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/> Schaden zufügt.
 Button/Tooltip/ResearchBarrier=Erhöht die Menge des von der Barriere des <c val="ffff8a">Unsterblichen</c> absorbierten Schadens um 100%.
@@ -5059,8 +5064,8 @@ Button/Tooltip/SolarEfficiencyPassiveLevel1=Generiert alle <d time = "6.3"/> <d 
 Button/Tooltip/SolarEfficiencyPassiveLevel2=Generiert alle <d time = "6.3"/> <d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/> Energiepunkte für die Speer des Adun.
 Button/Tooltip/SolarEfficiencyPassiveLevel3=Generiert alle <d time = "6.3"/> <d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/> Energiepunkte für die Speer des Adun.
 Button/Tooltip/SolarForge=Bietet Upgrademöglichkeiten für die Speer des Adun. /// Contains upgrades for the Spear of Adun.
-Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
-Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+1</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+3</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SolarForgeBeamPickupText3=<s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SoulAbsorption=Wenn eine gegnerische Einheit in der Nähe stirbt, stellt Alarak pro Versorgungswert der Einheit 20 Treffer- und Schildpunkte wieder her.<n/><n/>Alarak stiehlt die Lebenskraft seiner eigenen Einheiten in der Nähe, wenn er dem Tode nahe ist. Diese Fähigkeit hat keine Abklingzeit.
 Button/Tooltip/SpawnBrutalisk=Erschafft ein riesiges Angriffsmonster, das selbst einen Ultralisken in puncto Größe und Kraft winzig wirken lässt. <n/><n/><c val="#ColorAttackInfo">Kann Boden- und Lufteinheiten angreifen.</c>
@@ -7047,6 +7052,9 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=Spawn Puddle On Death (Search Area)
 Effect/Name/SpawnPuddleOnDeathSet=Spawn Puddle On Death (Set)
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=Spawn Puddle On Death (Slime Drop Dummy)
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=Spawn Puddle On Death (Slime Drop Persistent)
+Effect/Name/SpawnedUnitTracker=Erschaffene Einheiten, Verfolger
+Effect/Name/SpawnedUnitTrackerAddTarget=Erschaffene Einheiten, Verfolger - Ziel hinzufügen
+Effect/Name/SpawnedUnitTrackerSet=Erschaffene Einheiten, Verfolger festlegen
 Effect/Name/SpawningUnitTracker=
 Effect/Name/SpawningUnitTrackerAddCaster=
 Effect/Name/SpawningUnitTrackerCopyToTarget=
@@ -8010,6 +8018,7 @@ Param/Value/lib_COMI_AB191283=5 Tage
 Param/Value/lib_COMI_AB66B665={Startort}
 Param/Value/lib_COMI_AC873AC0=Ungültiger Schwierigkeitsparameter
 Param/Value/lib_COMI_AC99805E=Zeratul
+Param/Value/lib_COMI_ACAD6923=Platzierungseinheit nicht gefunden. Nehme Spielerstartort als Ausgangsort zum Erstellen der Einheit.
 Param/Value/lib_COMI_ACE8A237=<c val="FF9800">Cybros-Arbiter wurde zerstört.</c>
 Param/Value/lib_COMI_AFA9A35D=<s val="@@WorldTeachingTooltipHeader">Drakken-Laserbohrer</s><n/>Auswählen, um ihn zu verbessern oder seine Fähigkeiten einzusetzen.
 Param/Value/lib_COMI_B116A5EC=Hellion (26 Kills)
@@ -8556,6 +8565,7 @@ RequirementNode/Tooltip/Not2756504230OrAndNotCountUpgradeTychusFirebatOwnedCompl
 RequirementNode/Tooltip/Not2796347345OrAndNotCountUpgradeTychusWarhoundOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Sirius rekrutiert
 RequirementNode/Tooltip/Not3149004287OrAndNotCountUpgradeTychusMedicOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Lt. Nikara rekrutiert
 RequirementNode/Tooltip/Not3360504378CountBehaviorZeratulWarpPrismAutoUnloadCompleteOnlyAtUnit=Automatisches Ausladen deaktiviert
+RequirementNode/Tooltip/Not3804783965CountUnitSOAMothershipv4QueuedOrBetter=Maximal 1
 RequirementNode/Tooltip/Not4088493654CountUpgradeDownloadBackupPart1InProgressOnlyAtUnit=Lade herunter
 RequirementNode/Tooltip/Not761197251OrAndNotCountUpgradeTychusSpectreOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Nux rekrutiert
 RequirementNode/Tooltip/Not967556426OrAndNotCountUpgradeTychusMarauderOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=Rattlesnake rekrutiert
@@ -8567,6 +8577,9 @@ RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryC
 RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/> Biomasse
 RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Maximal 3 oder Prestige: Der Grenzenlose
 RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=Maximal 3 oder Prestige: Der Grenzenlose
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=Kaserne
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Kaserne
+RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=Fabrik
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=Fabrik
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=Auf 1 begrenzt mit Prestige: Terrorkönigin
 Shape/Name/ZenithStone=Zenith Stone
@@ -9498,6 +9511,7 @@ Upgrade/Name/CommanderLevel=Kommandantenstufe
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
 Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1=Kommandantenprestige (Raynor) - Bio-Upgrade, Infanteriepanzerung Level 1 (Terraner)
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=Kommandantenprestige (Vorazun) - Notfallrückruf zu Pylonen
 Upgrade/Name/CoopAIMutaliskCost=Co-op-KI - Kosten für Mutalisk
 Upgrade/Name/CoopAIReaperCost=Co-op-KI, Kosten für Rächer
@@ -10008,6 +10022,7 @@ Upgrade/Name/TychusHercGrappleArmor=Lebensrettungssystem
 Upgrade/Name/TychusHercGrappleStun=X-71 Schockstiefel
 Upgrade/Name/TychusHercRage=Hochleistungsenergiezellen
 Upgrade/Name/TychusHeroCapped=Tychus - Held am Limit
+Upgrade/Name/TychusHeroCount=Tychus - Heldenanzahl
 Upgrade/Name/TychusHeroMaxed=Tychus - Held am Maximum
 Upgrade/Name/TychusHeroPassive=Tychus - Held, passiv
 Upgrade/Name/TychusMarauderAttackSplash=Hammermunition
@@ -10221,19 +10236,19 @@ UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Category=Protoss-Armada ///
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Description=Dies ist eine moderne Protoss-Flotte, an deren Spitze der Träger steht, ein prächtiges Großkampfschiff, das die Herzen der Templer mit Hoffnung erfüllt.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Orakel<li/>Phasengleiter<li/>Träger /// Modern Protoss air fleet culminating in the Carrier, a magnificent capital ship known to inspire hope in the hearts of Templar.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Oracle<li/>Void Ray<li/>Carrier
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Name=Hoffnungsträger der Khalai /// Hope of the Khalai
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Category=Protoss-Armada /// Protoss Armada
-UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=Dies ist eine moderne Protoss-Flotte, an deren Spitze die Tempest steht, ein mächtiges Großkampfschiff, dessen Reichweite im Koprulu-Sektor unerreicht ist.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Orakel<li/>Phasengleiter<li/>Tempest /// Modern Protoss air fleet culminating in the Tempest, a glorious capital ship known for its unmatched range throughout the Korpulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Oracle<li/>Void Ray<li/>Tempest
+UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=Dies ist eine moderne Protoss-Flotte, an deren Spitze die Tempest steht, ein mächtiges Großkampfschiff, dessen Reichweite im Koprulu-Sektor unerreicht ist.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Orakel<li/>Phasengleiter<li/>Tempest
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Name=Sturmbelagerung /// Siege of Storms
 UserData/CoopAICommanders/ProtossBuildTechy_Category=Protoss-Legion /// Protoss Legion
 UserData/CoopAICommanders/ProtossBuildTechy_Description=Protoss-Streitkräfte wie die in dieser Legion mögen Gegner mit ihrer Stärke überwältigen können, bevorzugen aber einen strategischeren Ansatz.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Phönix<li/>Dunkler Templer <c val="ff0000">(ab Schwer)</c><li/>Disruptor <c val="ff0000">(ab Schwer)</c> /// Though also adept at brute force, many Protoss troops, including the ones found in this legion, prefer a more tactical approach.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Phoenix<li/>Dark Templar <c val="ff0000">(Hard+)</c><li/>Disruptor <c val="ff0000">(Hard+)</c>
 UserData/CoopAICommanders/ProtossBuildTechy_Name=Schattenelemente /// Shadow Disruption
 UserData/CoopAICommanders/TerranBuildBioClassic_Category=Terranisches Bataillon /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildBioClassic_Description=Diese Infanterie-Bataillone wurden zuerst vom VED während des Ersten Krieges eingesetzt.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Space-Marine<li/>Sanitäter<li/>Belagerungspanzer<li/>Ghost <c val="ff0000">(ab Schwer) /// These squads of infantry-based battalions were pioneered by the UED during the First Great War.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Marine<li/>Medic<li/>Siege Tank<li/>Ghost <c val="ff0000">(Hard+)
+UserData/CoopAICommanders/TerranBuildBioClassic_Description=Diese Infanterie-Bataillone wurden zuerst vom VED während des Brood War eingesetzt.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Space-Marine<li/>Sanitäter<li/>Belagerungspanzer<li/>Ghost <c val="ff0000">(ab Schwer)
 UserData/CoopAICommanders/TerranBuildBioClassic_Name=Klassische Infanterie /// Classic Infantry
 UserData/CoopAICommanders/TerranBuildBioMechStar_Category=Terranischer Streitkräfteverbund /// Terran Combined Forces
 UserData/CoopAICommanders/TerranBuildBioMechStar_Description=Diesem zusammengewürfelten Haufen mag es an Disziplin fehlen, doch sorgt er dafür, dass der Gegner niemals eine Atempause bekommt.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Belagerungspanzer<li/>Forschungsschiff<li/>Schwerer Kreuzer<li/>Ghost <c val="ff0000">(ab Schwer)</c> /// Though not the most organized, this ragtag force is a well-rounded army designed to keep enemies on their toes.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Siege Tank<li/>Science Vessel<li/>Battlecruiser<li/>Ghost <c val="ff0000">(Hard+)</c>
 UserData/CoopAICommanders/TerranBuildBioMechStar_Name=Sturmtrupp /// Raiding Party
 UserData/CoopAICommanders/TerranBuildMechClassic_Category=Terranisches Bataillon /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildMechClassic_Description=Einige Stimmen bezeichnen diese klassische mechanische Streitmacht der Terraner aus dem Ersten Krieg als den effizientesten Kampfverband im Koprulu-Sektor.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Goliath<li/>Belagerungspanzer<li/>Forschungsschiff<li/>Schwerer Kreuzer /// Some have called this classic Terran mechanical force from the First Great War the most efficient fighting outfit in the Korpulu Sector.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Goliath<li/>Siege Tank<li/>Science Vessel<li/>Battlecruiser
+UserData/CoopAICommanders/TerranBuildMechClassic_Description=Einige Stimmen bezeichnen diese klassische mechanische Streitmacht der Terraner aus dem Ersten Krieg als den effizientesten Kampfverband im Koprulu-Sektor.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Goliath<li/>Belagerungspanzer<li/>Forschungsschiff<li/>Schwerer Kreuzer
 UserData/CoopAICommanders/TerranBuildMechClassic_Name=Klassische mechanische Einheiten /// Classic Mech
 UserData/CoopAICommanders/TerranBuildMechStarport_Category=Terranische Bodentruppen /// Terran Ground Forces
 UserData/CoopAICommanders/TerranBuildMechStarport_Description=Diese ausschließlich aus mechanischen Einheiten bestehenden Streitkräfte fahren die am stärksten gepanzerten Kriegmaschinen auf, die die terranische Armee zu bieten hat.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Schlüsseleinheiten</c><n/><ul indent="2" text="•"><li/>Belagerungspanzer<li/>Thor<li/>Forschungsschiff /// This fully mechanized force features the strongest armored vehicles the Terran war machine has to offer.<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">Key Units</c><n/><ul indent="2" text="•"><li/>Siege Tank<li/>Thor<li/>Science Vessel
@@ -10527,14 +10542,14 @@ UserData/MasteryUpgrades/ZagaraMastery1_Name=Energie- und Trefferpunktregenerati
 UserData/MasteryUpgrades/ZagaraMastery1_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery2_Name=Schaden durch automatische Angriffe
 UserData/MasteryUpgrades/ZagaraMastery2_ValueFormat=+~A~ Schaden
-UserData/MasteryUpgrades/ZagaraMastery3_Name=Schaden durch Berstlinge
-UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~ Schaden
+UserData/MasteryUpgrades/ZagaraMastery3_Name=Kollektive Raserei - Geschwindigkeitsbonus
+UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery4_Name=Ausweichwahrscheinlichkeit für Zerglinge
 UserData/MasteryUpgrades/ZagaraMastery4_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery5_Name=Verseuchter Abwurf - Schaden und Trefferpunkte
 UserData/MasteryUpgrades/ZagaraMastery5_ValueFormat=+~A~% /// +~A~%
-UserData/MasteryUpgrades/ZagaraMastery6_Name=Kollektive Raserei - Geschwindigkeitsbonus
-UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~% /// +~A~%
+UserData/MasteryUpgrades/ZagaraMastery6_Name=Schaden durch Berstlinge
+UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~ Schaden
 UserData/MasteryUpgrades/ZeratulMastery1_Name=Zeratuls Angriffsgeschwindigkeit
 UserData/MasteryUpgrades/ZeratulMastery1_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZeratulMastery2_Name=Angriffsgeschwindigkeit von Kampfeinheiten
@@ -12934,6 +12949,8 @@ Weapon/Tip/ImpalerDehaka=<c val="#ColorAttackInfo">Muss eingegraben sein, um ang
 Weapon/Tip/InfestedBunkerFakeUprootedMelee=
 Weapon/Tip/LocustFlyingLaunch=
 Weapon/Tip/LocustLaunch=
+e_cmdCantBuildTooFarFromBuildPowerSource=Muss in Energiefeld platziert werden.
+e_cmdCantLandTooFarFromBuildPowerSource=Muss in Energiefeld platziert werden.
 e_cmdCantTargetUser1=Kann nicht transportierbare Ziele nicht anvisieren.
 e_cmdMustTargetUser1=Muss ein nicht transportierbares Ziel anvisieren.
 e_cmdNotEnoughTerrazine=Nicht genug Zerg-Biomasse

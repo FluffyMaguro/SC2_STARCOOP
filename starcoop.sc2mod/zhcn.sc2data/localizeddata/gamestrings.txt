@@ -72,10 +72,12 @@ Abil/Name/ChargeBuster=武库超载
 Abil/Name/ChargedBuster=太阳能炮
 Abil/Name/CloakingFieldSiegeTank=隐形力场 /// Cloaking Field
 Abil/Name/CommandCenterLiftOff=站起 (指挥中心)
+Abil/Name/CommanderPrestigeAlarakDeathFleetWarpable=CommanderPrestigeAlarakDeathFleetWarpable
 Abil/Name/CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted=CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted
 Abil/Name/CommanderPrestigeDehakaPackLeadersRetreat=CommanderPrestigeDehakaPackLeadersRetreat
 Abil/Name/CommanderPrestigeStukovBansheeTransport=
 Abil/Name/CommanderPrestigeStukovBansheesDeploy=
+Abil/Name/CommanderPrestigeSwannHerculesScienceVesselTacticalJump=CommanderPrestigeSwannHerculesScienceVesselTacticalJump
 Abil/Name/CommanderPrestigeVorazunTimeStop=
 Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=CommanderPrestigeZagaraMaxSupplyScourgeSpawner
 Abil/Name/CommanderPrestigeZagaraZagaraDeepTunnel=
@@ -866,6 +868,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=吞食：对空效果
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=承受无边的怒火
 Behavior/Name/CommanderPrestigeSwannDrillSlow=受到干扰
 Behavior/Name/CommanderPrestigeTychusLoneWolf=宁愿孤独
+Behavior/Name/CommanderPrestigeTychusLoneWolfPetBuff=宁愿孤独
 Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=虚空苦行者
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=虚空寻觅者号之影
 Behavior/Name/CoopMurvarPukePuddleDisable=恶臭压迫 /// Oppressive Stench
@@ -1045,6 +1048,7 @@ Behavior/Name/PayloadUpgrade2bBuff=[ph] Movement Speed/Life Regen
 Behavior/Name/PhaseBlinkDamage=相位闪现
 Behavior/Name/PitAlarakLifeRegen=Pit Alarak Life RegenBehavior/Name/PrimalSlashStun=Primal Slash Stun
 Behavior/Name/PnPHybridPuddle=虚空泡 /// Void Puddle
+Behavior/Name/PowerUserWarpable=正在折跃
 Behavior/Name/PowerUserWarpableAnywhere=正在折跃 /// Warping In
 Behavior/Name/ProphecyArtifactHintUnitRotate=ProphecyArtifactHintUnitRotate
 Behavior/Name/PsionicLiftDamage=定身波 /// Immobilization Wave
@@ -1352,6 +1356,7 @@ Behavior/Tooltip/OracleStasisTrapStunTarget=该单位无法移动或攻击。
 Behavior/Tooltip/PayloadRepairMechanic=该单位正在自我修复。 /// This unit is repairing itself.
 Behavior/Tooltip/PhaseBlinkDamage=该单位的下一次攻击将造成双倍伤害。
 Behavior/Tooltip/PnPHybridPuddle=该单位正在承受伤害。 /// This unit is taking damage.
+Behavior/Tooltip/PowerUserWarpable=该单位正被物质化。
 Behavior/Tooltip/PowerUserWarpableAnywhere=该单位正被物质化 /// This unit is being materialized.
 Behavior/Tooltip/PsionicLiftRaise=该单位已昏迷。 /// This unit is stunned.
 Behavior/Tooltip/PsionicLiftRaise2=该单位已昏迷。
@@ -3516,7 +3521,7 @@ Button/Tooltip/AlarackACHavocDetection=浩劫可以侦测潜地和隐形的单�
 Button/Tooltip/AlarackACResearchHavocDetection=浩劫可以侦测潜地和隐形的单位 /// Havoc can detect burrowed and cloaked units
 Button/Tooltip/AlarakACMyLifefortheHighlord=死徒是阿拉纳克濒死时首先牺牲自己来为其恢复生命值的单位。 /// Supplicants are the first units sacrificed to heal Alarak when he is near death.
 Button/Tooltip/AlarakACSummonDeathfleet=折跃可控制的塔达林母舰和<d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>艘毁灭者，为你战斗<d ref="Behavior,AlarakDestroyerTimedLife,Duration"/>秒。 /// Warps in a Tal'darim Mothership and <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Destroyers that are controllable and will fight for <d ref="Behavior,AlarakDestroyerTimedLife,Duration"/> seconds.
-Button/Tooltip/AlarakACSummonDeathfleetPrestige=折跃一艘塔达林母舰和<d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>架毁灭者。这些单位可以手动控制。
+Button/Tooltip/AlarakACSummonDeathfleetPrestige=折跃一艘可以手动控制的塔达林母舰。
 Button/Tooltip/AlarakAreaDamageUpgrade=供奉我激活时，阿拉纳克的攻击造成范围伤害。 /// Alarak's attacks deal area damage while Empower Me is active.
 Button/Tooltip/AlarakAttackStun=阿拉纳克的攻击可以击晕敌方单位<d ref="Behavior,AlarakBaneBladesStun,Duration"/>秒。</n></n><c val="ffff8a">英雄单位将被减速。</c> /// Alarak's attacks stun enemy units for <d ref="Behavior,AlarakBaneBladesStun,Duration"/> seconds.</n></n><c val="ffff8a">Heroic units are slowed.</c>
 Button/Tooltip/AlarakColossusAerialTracking=允许天罚行者攻击空中单位。 /// Allows the Wrathwalker to attack air units.
@@ -3573,7 +3578,7 @@ Button/Tooltip/AscendantPassive=晋升者文献馆能使你折跃晋升者。 //
 Button/Tooltip/AscendantSacrifice=献祭一名死徒可以完全恢复晋升者的能量。<n/><n/><c val="#ColorAttackInfo">只能对死徒使用。</c> /// Sacrifices a Supplicant to fully restore the Ascendant's energy.<n/><n/><c val="#ColorAttackInfo">Can only target Supplicants.</c>
 Button/Tooltip/Attack=命令选中的单位移动到目标地点，并对沿途遭遇的敌人发起攻击。收到攻击一个目标的命令后，单位会持续攻击该目标，直到对方被消灭。 /// Orders selected units to move to the target point, fighting nearby enemies along the way. Targeting a unit with the Attack command orders that it be attacked until it is destroyed.
 Button/Tooltip/AttackBuilding=锁定并且攻击目标，直到超出射程或对方被摧毁。 /// Targets and attacks the target unit until it is destroyed or moves out of range.
-Button/Tooltip/AutoCreateInfestedCivilianAmmo=被感染的攻城坦克每30秒自动孵化一枚烈性生质。 /// Infested Siege Tanks automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/AutoCreateInfestedCivilianAmmo=被感染的攻城坦克每<d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>秒自动孵化一枚烈性生质。
 Button/Tooltip/AutoInjectLarva=孵化场、虫穴或主巢每<d ref="Behavior,AutoInjectLarva,Duration"/>秒自动孵化四只幼虫。
 Button/Tooltip/AutoTurret_BlackOps=自动化防御炮塔。持续存在<d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/>秒。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c> /// Automated defensive turret. Times out after <d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/> seconds.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
 Button/Tooltip/AutomatedAssimilatorTextKicker1=<s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/> /// <s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
@@ -3683,7 +3688,7 @@ Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=陆战队员的生命值�
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=使得折跃门科技可被用应用到星门和机械台上，这使它们能向任何被水晶塔能量场覆盖的地方折跃单位。
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">威望：</s>该单位在死亡时有<s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>%的几率掉落其生物质。
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=该技能被指挥官威望锁定。
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">威望：</s>死亡舰队永久持续并且其伤害和活力降低<s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%。另外，群体传送的冷却时间增加<s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s>秒并且不再能够传送友方单位。
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">威望：</s>不会召唤毁灭者。另外，群体传送的冷却时间增加<s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s>秒并且不再能够传送友方单位。
 Button/Tooltip/CommanderPrestigeAlarakMechBuff=该单位可以最多收集<d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/> 个死徒灵魂，每收集一个灵魂可以使攻击速度提高<d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>%，伤害提高<d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>%。
 Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
 Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">威望：</s>伤害吸收量提高。
@@ -3720,7 +3725,7 @@ Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=<c val="f
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=火蝠的生命值提高200点，护甲值提高2点
 Button/Tooltip/CommanderPrestigeRaynorMULELocked=该技能被指挥官威望锁定。
 Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">威望：</s>根据你的空中单位使用的补给，当前技能冷却速度加快<s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>%。
-Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=将被感染的步兵装入女妖的船舱。
+Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=将附近被感染的步兵装入女妖的船舱。
 Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=向目标位置发射被感染的女妖的装载单位，对地面冲击点附近的敌人造成<d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/>点伤害。
 Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">威望：</s>被感染的地堡孵化被感染的士兵的速度提高<s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>%，并且没有装载容量。
 Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=该技能被指挥官威望锁定。
@@ -4699,7 +4704,7 @@ Button/Tooltip/ResearchAlarakVanguardIncreaseSplashArea=<c val="ffff8a">先锋</
 Button/Tooltip/ResearchAlarakZealotFrenziedOverload=使狂热者可以对敌人打出一连串快速攻击，每一击都可以产生护盾。
 Button/Tooltip/ResearchAresClassTargetingSystem=使<c val="ffff8a">歌利亚</c>的对空武器射程提高3，地面武器射程提高1。 /// Increases the <c val="ffff8a">Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
 Button/Tooltip/ResearchAresClassTargetingSystemNova=使<c val="ffff8a">强击歌利亚</c>的对空武器射程提高3，对地武器射程提高1。 /// Increases the <c val="ffff8a">Strike Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
-Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">被感染的攻城坦克</c>每30秒自动孵化一枚烈性生质。 /// <c val="ffff8a">Infested Siege Tanks</c> automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">被感染的攻城坦克</c>每<d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>秒自动孵化一枚烈性生质。
 Button/Tooltip/ResearchBansheeCloak_Raynor=使<c val="ffff8a">女妖战机</c>可以使用隐形技能。隐形的<c val="ffff8a">女妖战机</c>对敌人不可见，只能被侦测单位或反隐效果暴露。隐形后还会使<c val="ffff8a">女妖战机</c>的射程增加2。 /// Enables <c val="ffff8a">Banshees</c> to use the Cloak ability. Cloak renders the <c val="ffff8a">Banshee</c> invisible to enemies unless the unit is revealed by detectors or effects. Cloaked <c val="ffff8a">Banshees</c> also have their range increased by 2. 
 Button/Tooltip/ResearchBanshee_BlackOpsAirstrike=使<c val="ffff8a">隐秘女妖</c>可以使用火箭弹幕，对目标区域内的敌方地面单位造成<d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/>点伤害。 /// Allows <c val="ffff8a">Covert Banshees</c> to use Rocket Barrage, which deals <d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/> damage to enemy ground units in the target area.
 Button/Tooltip/ResearchBarrier=使<c val="ffff8a">不朽者</c>的屏障能吸收的伤害总量增加100%。 /// Increases the amount of damage absorbed by the <c val="ffff8a">Immortal's</c> Barrier by 100%.
@@ -5059,8 +5064,8 @@ Button/Tooltip/SolarEfficiencyPassiveLevel1=每<d time = "6.3"/>为亚顿之矛�
 Button/Tooltip/SolarEfficiencyPassiveLevel2=每<d time = "6.3"/>为亚顿之矛产生<d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/>点能量值。 /// Generates <d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarEfficiencyPassiveLevel3=每<d time = "6.3"/>为亚顿之矛产生<d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/>点能量值。 /// Generates <d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarForge=为亚顿之矛提供升级方案。 /// Contains upgrades for the Spear of Adun.
-Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
-Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+1</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+3</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SolarForgeBeamPickupText3=<s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SoulAbsorption=附近有敌方单位死亡时，阿拉纳克可以治疗自己，每一点单位补给为其恢复20点生命值和20点护盾。<n/><n/>阿拉纳克频临死亡时，他可以从附近你控制的单位身上窃取生命值。该技能没有冷却时间。 /// When a nearby enemy unit dies, Alarak heals himself for 20 life and 20 shields per the unit's supply.<n/><n/>Alarak steals life from nearby units you control to heal himself when he is near death. This ability has no cooldown.
 Button/Tooltip/SpawnBrutalisk=孵化一只重型突击巨兽，其体型和力量均远超雷兽。<n/><n/><c val="#ColorAttackInfo">可以对空和对地。</c> /// Spawns a massive assault beast that dwarfs even the Ultralisk in size and strength. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
@@ -7047,6 +7052,9 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawnedUnitTracker=SpawnedUnitTracker
+Effect/Name/SpawnedUnitTrackerAddTarget=SpawnedUnitTrackerAddTarget
+Effect/Name/SpawnedUnitTrackerSet=SpawnedUnitTrackerSet
 Effect/Name/SpawningUnitTracker=
 Effect/Name/SpawningUnitTrackerAddCaster=
 Effect/Name/SpawningUnitTrackerCopyToTarget=
@@ -8010,6 +8018,7 @@ Param/Value/lib_COMI_AB191283=5天
 Param/Value/lib_COMI_AB66B665={Starting Location}
 Param/Value/lib_COMI_AC873AC0=Invalid difficulty parameter
 Param/Value/lib_COMI_AC99805E=泽拉图 /// Zeratul
+Param/Value/lib_COMI_ACAD6923=放置单位没有找到，回到基于玩家开始的出生点！
 Param/Value/lib_COMI_ACE8A237=<c val="FF9800">塞布罗斯仲裁者战甲已被摧毁。</c> /// <c val="FF9800">Cybros Arbiter Suit has been destroyed.</c>
 Param/Value/lib_COMI_AFA9A35D=<s val="@@WorldTeachingTooltipHeader">德拉肯激光钻机</s><n/>选择以升级或使用技能 /// <s val="@@WorldTeachingTooltipHeader">Drakken Laser Drill</s><n/>Select to upgrade or use abilities
 Param/Value/lib_COMI_B116A5EC=恶火（26击杀）
@@ -8556,6 +8565,7 @@ RequirementNode/Tooltip/Not2756504230OrAndNotCountUpgradeTychusFirebatOwnedCompl
 RequirementNode/Tooltip/Not2796347345OrAndNotCountUpgradeTychusWarhoundOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募“天狼星”
 RequirementNode/Tooltip/Not3149004287OrAndNotCountUpgradeTychusMedicOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募尼卡拉中尉
 RequirementNode/Tooltip/Not3360504378CountBehaviorZeratulWarpPrismAutoUnloadCompleteOnlyAtUnit=非自动卸载 /// Not Auto-Unloading
+RequirementNode/Tooltip/Not3804783965CountUnitSOAMothershipv4QueuedOrBetter=限制1个
 RequirementNode/Tooltip/Not4088493654CountUpgradeDownloadBackupPart1InProgressOnlyAtUnit=下载中 /// Downloading
 RequirementNode/Tooltip/Not761197251OrAndNotCountUpgradeTychusSpectreOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募纳克斯
 RequirementNode/Tooltip/Not967556426OrAndNotCountUpgradeTychusMarauderOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募“响尾蛇”
@@ -8567,6 +8577,9 @@ RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryC
 RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>生物质
 RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=限制3个或者威望：无限进化
 RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=限制3个或者威望：无限进化
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=兵营
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=兵营
+RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=重工厂
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=重工厂
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=威望：爆蚊虫后使数量限制为1个
 Shape/Name/ZenithStone=泽尼斯巨石 /// Zenith Stone
@@ -9498,6 +9511,7 @@ Upgrade/Name/CommanderLevel=指挥官等级
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
 Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1=CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=合作任务 电脑 异龙消耗
 Upgrade/Name/CoopAIReaperCost=合作任务 电脑 收割者消耗
@@ -10008,6 +10022,7 @@ Upgrade/Name/TychusHercGrappleArmor=临界响应系统 /// Critical Response Sys
 Upgrade/Name/TychusHercGrappleStun=X-71型震击靴 /// X-71 Impact Boots
 Upgrade/Name/TychusHercRage=红线能量电池 /// Redline Power Cells
 Upgrade/Name/TychusHeroCapped=泰凯斯英雄已达补给上限 /// Tychus Hero Capped
+Upgrade/Name/TychusHeroCount=泰凯斯英雄计数
 Upgrade/Name/TychusHeroMaxed=泰凯斯英雄已达最大补给 /// Tychus Hero Maxed
 Upgrade/Name/TychusHeroPassive=TychusHeroPassive
 Upgrade/Name/TychusMarauderAttackSplash=重锤牌爆射弹 /// Hammer Munitions
@@ -10221,19 +10236,19 @@ UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Category=星灵舰队 /// P
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Description=现代星灵空中舰队的技术进步最终孕育出航母，这是一种宏伟的主力舰，以激发圣堂武士心中的希望而闻名。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>先知<li/>虚空辉光舰<li/>航母
 UserData/CoopAICommanders/ProtossBuildSkytossCarrier_Name=卡莱的希望 /// Hope of the Khalai
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Category=星灵舰队 /// Protoss Armada
-UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=现代星灵空中舰队的技术进步最终孕育出风暴战舰，这是一种充满荣光的主力舰，因其拥有无法比拟的射程优势而闻名整个科普卢星区。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>先知<li/>虚空辉光舰<li/>风暴战舰
+UserData/CoopAICommanders/ProtossBuildSkytossTempest_Description=现代星灵空中舰队的巅峰就是风暴战舰，这是一种充满荣光的主力舰，因其拥有无法比拟的射程优势而闻名整个科普卢星区。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="•"><li/>先知<li/>虚空辉光舰<li/>风暴战舰
 UserData/CoopAICommanders/ProtossBuildSkytossTempest_Name=风暴迫临 /// Siege of Storms
 UserData/CoopAICommanders/ProtossBuildTechy_Category=星灵军团 /// Protoss Legion
 UserData/CoopAICommanders/ProtossBuildTechy_Description=虽然也擅长蛮力，但是许多星灵部队，包括这支军团，更喜欢战术上的方法。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>凤凰战机<li/>黑暗圣堂武士<c val="ff0000">(困难+)</c><li/>干扰者<c val="ff0000">(困难+)</c>
 UserData/CoopAICommanders/ProtossBuildTechy_Name=暗影袭扰 /// Shadow Disruption
 UserData/CoopAICommanders/TerranBuildBioClassic_Category=人类战斗营 /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildBioClassic_Description=第一次全面战争期间，UED率先建立了这些以步兵为基础的战斗营。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>陆战队员<li/>医疗兵<li/>攻城坦克<li/>幽灵<c val="ff0000">(困难+)
+UserData/CoopAICommanders/TerranBuildBioClassic_Description=母巢之战期间，UED率先建立了这些以步兵为基础的战斗营。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="•"><li/>陆战队员<li/>医疗兵<li/>攻城坦克<li/>幽灵<c val="ff0000">(困难+)
 UserData/CoopAICommanders/TerranBuildBioClassic_Name=旧世步兵团 /// Classic Infantry
 UserData/CoopAICommanders/TerranBuildBioMechStar_Category=人类合成部队 /// Terran Combined Forces
 UserData/CoopAICommanders/TerranBuildBioMechStar_Description=这支杂乱拼凑在一起的部队尽管组织并不严谨，但拥有全面的火力支援能力，主要用于牵制敌人。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>攻城坦克<li/>科学船<li/>战列巡航舰<li/>幽灵<c val="ff0000">(困难+)</c>
 UserData/CoopAICommanders/TerranBuildBioMechStar_Name=突击团 /// Raiding Party
 UserData/CoopAICommanders/TerranBuildMechClassic_Category=人类战斗营 /// Terran Battalion
-UserData/CoopAICommanders/TerranBuildMechClassic_Description=这支源自于第一次全面战争期间的人类机械化部队，被一些人声称是科普卢星区最具有战力的部队。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>歌利亚武装机器人<li/>攻城坦克<li/>科学船<li/>战列巡航舰
+UserData/CoopAICommanders/TerranBuildMechClassic_Description=这支源自于第一次全面战争期间的经典人类机械化部队，被一些人声称是科普卢星区最高效的战斗部队。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="•"><li/>歌利亚武装机器人<li/>攻城坦克<li/>科学船<li/>战列巡航舰
 UserData/CoopAICommanders/TerranBuildMechClassic_Name=旧世机械团 /// Classic Mech
 UserData/CoopAICommanders/TerranBuildMechStarport_Category=人类地面部队 /// Terran Ground Forces
 UserData/CoopAICommanders/TerranBuildMechStarport_Description=这支完全机械化的部队配备了泰伦人拥有最强重甲技术的各式战车。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">关键单位</c><n/><ul indent="2" text="▪"><li/>攻城坦克<li/>雷神<li/>科学船
@@ -10527,14 +10542,14 @@ UserData/MasteryUpgrades/ZagaraMastery1_Name=生命值和能量回复速度
 UserData/MasteryUpgrades/ZagaraMastery1_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery2_Name=自动攻击伤害
 UserData/MasteryUpgrades/ZagaraMastery2_ValueFormat=+~A~伤害
-UserData/MasteryUpgrades/ZagaraMastery3_Name=爆虫伤害
-UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~伤害
+UserData/MasteryUpgrades/ZagaraMastery3_Name=群体狂暴速度提升
+UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery4_Name=跳虫躲闪几率 /// Zergling Dodge Chance
 UserData/MasteryUpgrades/ZagaraMastery4_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery5_Name=空投蟑螂伤害和生命值 /// Roach Drop Damage and Health
 UserData/MasteryUpgrades/ZagaraMastery5_ValueFormat=+~A~% /// +~A~%
-UserData/MasteryUpgrades/ZagaraMastery6_Name=群体狂暴速度加成 /// Mass Frenzy Speed Boost
-UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~% /// +~A~%
+UserData/MasteryUpgrades/ZagaraMastery6_Name=爆虫伤害
+UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~伤害
 UserData/MasteryUpgrades/ZeratulMastery1_Name=泽拉图攻击速度 /// Zeratul Attack Speed
 UserData/MasteryUpgrades/ZeratulMastery1_ValueFormat=+~A~%  /// +~A~%
 UserData/MasteryUpgrades/ZeratulMastery2_Name=战斗单位攻击速度 /// Combat Unit Attack Speed
@@ -12934,6 +12949,8 @@ Weapon/Tip/ImpalerDehaka=<c val="#ColorAttackInfo">必须潜地后才能攻击�
 Weapon/Tip/InfestedBunkerFakeUprootedMelee=
 Weapon/Tip/LocustFlyingLaunch=
 Weapon/Tip/LocustLaunch=
+e_cmdCantBuildTooFarFromBuildPowerSource=必须放置在能量场
+e_cmdCantLandTooFarFromBuildPowerSource=必须放置在能量场
 e_cmdCantTargetUser1=无法以不能运输的物体为目标 /// Can't target Untransportable
 e_cmdMustTargetUser1=必须以不能运输的物体为目标 /// Must target Untransportable
 e_cmdNotEnoughTerrazine=没有足够的异虫生物质 /// Not enough zerg biomass

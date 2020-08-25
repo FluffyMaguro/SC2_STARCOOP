@@ -72,10 +72,12 @@ Abil/Name/ChargeBuster=軍械超載
 Abil/Name/ChargedBuster=日炎加農砲
 Abil/Name/CloakingFieldSiegeTank=匿蹤力場
 Abil/Name/CommandCenterLiftOff=拔根（指揮中心）
+Abil/Name/CommanderPrestigeAlarakDeathFleetWarpable=CommanderPrestigeAlarakDeathFleetWarpable
 Abil/Name/CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted=CommanderPrestigeArtanisOrbitalStrikeShieldOverchargeTargeted
 Abil/Name/CommanderPrestigeDehakaPackLeadersRetreat=CommanderPrestigeDehakaPackLeadersRetreat
 Abil/Name/CommanderPrestigeStukovBansheeTransport=
 Abil/Name/CommanderPrestigeStukovBansheesDeploy=
+Abil/Name/CommanderPrestigeSwannHerculesScienceVesselTacticalJump=CommanderPrestigeSwannHerculesScienceVesselTacticalJump
 Abil/Name/CommanderPrestigeVorazunTimeStop=
 Abil/Name/CommanderPrestigeZagaraMaxSupplyScourgeSpawner=CommanderPrestigeZagaraMaxSupplyScourgeSpawner
 Abil/Name/CommanderPrestigeZagaraZagaraDeepTunnel=
@@ -866,6 +868,7 @@ Behavior/Name/CommanderPrestigeDehakaDevourAir=吞噬：空中單位效果
 Behavior/Name/CommanderPrestigeKerriganAbilitiesStun=兇猛強襲
 Behavior/Name/CommanderPrestigeSwannDrillSlow=擾亂
 Behavior/Name/CommanderPrestigeTychusLoneWolf=讓我一個人
+Behavior/Name/CommanderPrestigeTychusLoneWolfPetBuff=讓我一個人
 Behavior/Name/CommanderPrestigeZeratulTornadoesDoT=虛空旋風
 Behavior/Name/CommanderPrestigeZeratulVoidSeekerSuperCloak=虛空追尋者之影
 Behavior/Name/CoopMurvarPukePuddleDisable=駭人臭氣 /// Oppressive Stench
@@ -1045,6 +1048,7 @@ Behavior/Name/PayloadUpgrade2bBuff=移動速度/生命值恢復速度
 Behavior/Name/PhaseBlinkDamage=相位閃現
 Behavior/Name/PitAlarakLifeRegen=Pit Alarak Life RegenBehavior/Name/PrimalSlashStun=Primal Slash Stun
 Behavior/Name/PnPHybridPuddle=虛無之池 /// Void Puddle
+Behavior/Name/PowerUserWarpable=躍傳中
 Behavior/Name/PowerUserWarpableAnywhere=躍傳中 /// Warping In
 Behavior/Name/ProphecyArtifactHintUnitRotate=ProphecyArtifactHintUnitRotate
 Behavior/Name/PsionicLiftDamage=定身波動 /// Immobilization Wave
@@ -1352,6 +1356,7 @@ Behavior/Tooltip/OracleStasisTrapStunTarget=此單位無法移動或攻擊。 //
 Behavior/Tooltip/PayloadRepairMechanic=此單位正在自我修復。 /// This unit is repairing itself.
 Behavior/Tooltip/PhaseBlinkDamage=此單位的下一次攻擊會造成兩倍傷害。 /// This unit's next attack will deal double the damage.
 Behavior/Tooltip/PnPHybridPuddle=此單位正在承受傷害。 /// This unit is taking damage.
+Behavior/Tooltip/PowerUserWarpable=這個單位正在重組。
 Behavior/Tooltip/PowerUserWarpableAnywhere=這個單位正在重組。 /// This unit is being materialized.
 Behavior/Tooltip/PsionicLiftRaise=此單位已昏迷。 /// This unit is stunned.
 Behavior/Tooltip/PsionicLiftRaise2=此單位已昏迷。
@@ -3516,7 +3521,7 @@ Button/Tooltip/AlarackACHavocDetection=浩劫者能偵測遁地和匿蹤的單�
 Button/Tooltip/AlarackACResearchHavocDetection=浩劫者能偵測遁地和匿蹤的單位
 Button/Tooltip/AlarakACMyLifefortheHighlord=亞拉瑞克在瀕臨死亡時，會優先以侍奴進行獻祭。 /// Supplicants are the first units sacrificed to heal Alarak when he is near death.
 Button/Tooltip/AlarakACSummonDeathfleet=躍傳一艘可操控的塔達力姆聖母艦和<d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>艘毀滅者進行戰鬥，持續<d ref="Behavior,AlarakDestroyerTimedLife,Duration"/>秒。 /// Warps in a Tal'darim Mothership and <d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/> Destroyers that are controllable and will fight for <d ref="Behavior,AlarakDestroyerTimedLife,Duration"/> seconds.
-Button/Tooltip/AlarakACSummonDeathfleetPrestige=躍傳塔達力姆聖母艦與<d ref="Effect,AlarakDestroyerCreationCP,PeriodCount" player="current"/>艘可控制的毀滅者。
+Button/Tooltip/AlarakACSummonDeathfleetPrestige=躍傳可控制的塔達力姆聖母艦。
 Button/Tooltip/AlarakAreaDamageUpgrade=亞拉瑞克的攻擊在「強化我的力量吧」作用期間內可造成範圍傷害。 /// Alarak's attacks deal area damage while Empower Me is active.
 Button/Tooltip/AlarakAttackStun=亞拉瑞克的攻擊會使敵方單位昏迷<d ref="Behavior,AlarakBaneBladesStun,Duration"/>秒。</n></n><c val="ffff8a">可使英雄單位緩速。</c> /// Alarak's attacks stun enemy units for <d ref="Behavior,AlarakBaneBladesStun,Duration"/> seconds.</n></n><c val="ffff8a">Heroic units are slowed.</c>
 Button/Tooltip/AlarakColossusAerialTracking=讓怒行者能攻擊空中單位。 /// Allows the Wrathwalker to attack air units.
@@ -3573,7 +3578,7 @@ Button/Tooltip/AscendantPassive=飛升文庫可讓你躍傳飛升者。 /// Asce
 Button/Tooltip/AscendantSacrifice=獻祭一名侍奴，將飛升者的能量恢復至全滿。<n/><n/><c val="#ColorAttackInfo">只能以侍奴為目標。</c> /// Sacrifices a Supplicant to fully restore the Ascendant's energy.<n/><n/><c val="#ColorAttackInfo">Can only target Supplicants.</c>
 Button/Tooltip/Attack=命令選取的單位行進至目的地，攻擊任何行進中所遭遇的敵人。當使用攻擊指令點選敵方單位，我方單位將持續攻擊直到目標毀滅。  /// Orders selected units to move to the target point, fighting nearby enemies along the way. Targeting a unit with the Attack command orders that it be attacked until it is destroyed.
 Button/Tooltip/AttackBuilding=瞄準並攻擊目標單位，直到該目標被摧毀或離開攻擊距離。 /// Targets and attacks the target unit until it is destroyed or moves out of range.
-Button/Tooltip/AutoCreateInfestedCivilianAmmo=受感染的攻城坦克每30秒會自動產生一輪易爆生物質。 /// Infested Siege Tanks automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/AutoCreateInfestedCivilianAmmo=受感染的攻城坦克每<d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>秒會自動產生一發易爆生物質。
 Button/Tooltip/AutoInjectLarva=未使用。孵化所、蟲穴或蟲巢每<d ref="Behavior,AutoInjectLarva,Duration"/>秒會自動孵化4隻幼蟲。
 Button/Tooltip/AutoTurret_BlackOps=自動防禦砲台。在<d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/>秒後損毀。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Automated defensive turret. Times out after <d ref="Behavior,AutoTurret_BlackOpsTimedLife,Duration"/> seconds.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
 Button/Tooltip/AutomatedAssimilatorTextKicker1=<s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/> /// <s val="Kicker_Refinery">+1</s><IMG path="Assets\Textures\icon-gas-protoss.dds" height="28" width="28"/>
@@ -3683,7 +3688,7 @@ Button/Tooltip/CombatPrestigeRayonrCombatShieldUpgrade=陸戰隊的生命值提�
 Button/Tooltip/CommanderArtanisSpearofAdunWarpHarmonization=將空間之門技術套用於星際之門和機械製造廠，讓這些設施能夠將單位躍傳至水晶塔的能量力場。 /// Enables Warp Gate research to affect Stargates and Robotics Facilities. This allows them to warp in units at any location with Pylon power.
 Button/Tooltip/CommanderPrestigeAbathurBiomassGathered=</n></n><s val="Coop_Prestige_Tooltip">巔峰：</s>此單位死亡時有<s val="Coop_Prestige_Tooltip"><d ref="Effect,AbathurBiomassRefundDummy,Amount"/></s>%的機率掉落生物質。
 Button/Tooltip/CommanderPrestigeAlarakDeathFleetLocked=此技能已由指揮官巔峰天賦鎖定。
-Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">巔峰：</s>死亡艦隊不再有持續時間限制，其傷害與生命值降低<s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%。此外，群體傳送的冷卻時間提高<s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s>秒，且不再傳送盟友單位。 /// <n/><n/><s val="Coop_Prestige_Tooltip">Prestige:</s> Death Fleet no longer has a duration and its damage and vitals are reduced by <s val="Coop_Prestige_Tooltip"><d ref="-100*Behavior,CommanderPrestigeAlarakDeathFleetDamage,Modification.DamageDealtFraction[Melee]"/></s>%. Additionally, Mass Teleport's cooldown is increased by <s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s> and it no longer teleports allied units.
+Button/Tooltip/CommanderPrestigeAlarakDeathFleetUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">巔峰：</s>不再召喚毀滅者。群體傳送的冷卻時間提高<s val="Coop_Prestige_Tooltip"><d time="[d ref='$UpgradeEffectArrayValue:CommanderPrestigeAlarakDeathFleet:Abil,AlarakMothershipMassRecall,Cost[0].Cooldown.TimeUse$'/]"/></s>秒，且不再傳送盟友單位。
 Button/Tooltip/CommanderPrestigeAlarakMechBuff=此單位最多可收集<d ref="Behavior,CommanderPrestigeAlarakMechBuff,MaxPoints"/>個侍奴靈魂，每個收集到的靈魂可使攻擊速度提高<d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedAttackSpeedFactor*100"/>%，傷害提高<d ref="Behavior,CommanderPrestigeAlarakMechBuff,Modification.UnifiedDamageDealtFraction[Melee]*100"/>%。
 Button/Tooltip/CommanderPrestigeAlarakMechBuffCharges=<d ref="$BehaviorStackCount:CommanderPrestigeAlarakMechBuff$"/>
 Button/Tooltip/CommanderPrestigeArtanisCombatAbilitiesAbsorptionUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">巔峰：</s>傷害吸收量提高。
@@ -3720,7 +3725,7 @@ Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingResearchUpgrade=<c val="f
 Button/Tooltip/CommanderPrestigeRaynorJuggernautPlatingUpgrade=火焰兵的生命值提高200點，裝甲值提高2點。
 Button/Tooltip/CommanderPrestigeRaynorMULELocked=此技能已由指揮官巔峰天賦鎖定。
 Button/Tooltip/CommanderPrestigeRaynorTopBarCooldownRateUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">巔峰：</s>依照你空中單位所消耗的補給值，使你當前的技能冷卻速度提高<s val="Coop_Prestige_Tooltip"><d ref="Behavior,CommanderPrestigeRaynorAir,Modification.RateMultiplierArray[1]-1*100"/></s>%。
-Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=將受感染的步兵裝載進女妖轟炸機。
+Button/Tooltip/CommanderPrestigeStukovBansheeTransportLoad=將附近受感染的步兵裝載進女妖轟炸機。
 Button/Tooltip/CommanderPrestigeStukovBansheesDeploy=將受感染的女妖轟炸機載運的內容物朝目標位置發射，命中時對附近的敵方地面單位造成<d ref="Effect,CommanderPrestigeStukovBansheesDeployDamage,Amount"/>點傷害。
 Button/Tooltip/CommanderPrestigeStukovBirthingChamberUpgrade=<n/><n/><s val="Coop_Prestige_Tooltip">巔峰：</s>受感染的碉堡產生受感染的士兵速度提高<s val="Coop_Prestige_Tooltip"><d ref="(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse/(Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse-$UpgradeEffectArrayValue:CommanderPrestigeStukovBunkers:Abil,SIInfestedBunkerTrainMarine,Cost[0].Cooldown.TimeUse$)-1)*100" player="0"/></s>%，但無法裝載人員。
 Button/Tooltip/CommanderPrestigeStukovInfestedCompoundLocked=此技能已由指揮官巔峰天賦鎖定。
@@ -4699,7 +4704,7 @@ Button/Tooltip/ResearchAlarakVanguardIncreaseSplashArea=<c val="ffff8a">先驅�
 Button/Tooltip/ResearchAlarakZealotFrenziedOverload=可讓侍奴朝敵人發動一連串的攻擊，並且每次攻擊可產生護盾值。
 Button/Tooltip/ResearchAresClassTargetingSystem=<c val="ffff8a">巨人</c>對空攻擊距離提高3格，對地攻擊距離提高1格。 /// Increases the <c val="ffff8a">Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
 Button/Tooltip/ResearchAresClassTargetingSystemNova=<c val="ffff8a">特攻巨人</c>對空攻擊距離提高3格，對地攻擊距離提高1格。 /// Increases the <c val="ffff8a">Strike Goliath's</c> anti-air weapon range by 3 and its ground weapon range by 1.
-Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">受感染的攻城坦克</c>每30秒會自動產生一輪易爆生物質。 /// <c val="ffff8a">Infested Siege Tanks</c> automatically spawn 1 round of Volatile Biomass every 30 seconds.
+Button/Tooltip/ResearchAutoCreateInfestedCivilianAmmo=<c val="ffff8a">受感染的攻城坦克</c>每<d ref="Behavior,InfestedSiegeTankAmmoAuto,Period"/>秒會自動產生一發易爆生物質。
 Button/Tooltip/ResearchBansheeCloak_Raynor=讓<c val="ffff8a">女妖轟炸機</c>可使用匿蹤。匿蹤可讓<c val="ffff8a">女妖轟炸機</c>隱形，需透過偵測單位或效果才看得見。匿蹤的<c val="ffff8a">女妖轟炸機</c>的攻擊距離提高2格。 /// Enables <c val="ffff8a">Banshees</c> to use the Cloak ability. Cloak renders the <c val="ffff8a">Banshee</c> invisible to enemies unless the unit is revealed by detectors or effects. Cloaked <c val="ffff8a">Banshees</c> also have their range increased by 2. 
 Button/Tooltip/ResearchBanshee_BlackOpsAirstrike=讓<c val="ffff8a">隱形女妖轟炸機</c>可使用火箭彈幕，對目標區域中的敵方地面單位造成<d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/>點傷害。 /// Allows <c val="ffff8a">Covert Banshees</c> to use Rocket Barrage, which deals <d ref="Effect,Banshee_BlackOpsAirstrikeDamage,Amount"/> damage to enemy ground units in the target area.
 Button/Tooltip/ResearchBarrier=<c val="ffff8a">不朽者</c>的能量屏障傷害吸收量提高100%。 /// Increases the amount of damage absorbed by the <c val="ffff8a">Immortal's</c> Barrier by 100%.
@@ -5059,8 +5064,8 @@ Button/Tooltip/SolarEfficiencyPassiveLevel1=每<d time = "6.3"/>為亞頓之矛�
 Button/Tooltip/SolarEfficiencyPassiveLevel2=每<d time = "6.3"/>為亞頓之矛產生<d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/>點能量值。 /// Generates <d ref="Effect,SolarForgeSolarEfficiency2MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarEfficiencyPassiveLevel3=每<d time = "6.3"/>為亞頓之矛產生<d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/>點能量值。 /// Generates <d ref="Effect,SolarForgeSolarEfficiency3MU,VitalArray[Energy].Change"/> points of energy for the Spear of Adun every <d time = "6.3"/>.
 Button/Tooltip/SolarForge=提供亞頓之矛的升級。 /// Contains upgrades for the Spear of Adun.
-Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+2</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
-Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+4</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText=<s val="Kicker_Energy"><c val="EADE00">+1</c></s><img path="Assets\Textures\btn-solar-solarite.dds" height="28" width="28"/>
+Button/Tooltip/SolarForgeBeamPickupText2=<s val="Kicker_Energy"><c val="EADE00">+3</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SolarForgeBeamPickupText3=<s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/> /// <s val="Kicker_Energy"><c val="EADE00">+6</c></s><img path="Assets\Textures\btn-ability-slaynelemental-solaritecocoon.dds" height="28" width="28"/>
 Button/Tooltip/SoulAbsorption=亞拉瑞克附近有敵方單位死亡時，該單位的每一點補給值可替亞拉瑞克恢復20點生命值與20點護盾值。<n/><n/>亞拉瑞克瀕臨死亡時會從附近你所控制的單位身上吸取生命值。此技能無冷卻時間。 /// When a nearby enemy unit dies, Alarak heals himself for 20 life and 20 shields per the unit's supply.<n/><n/>Alarak steals life from nearby units you control to heal himself when he is near death. This ability has no cooldown.
 Button/Tooltip/SpawnBrutalisk=孵化一隻重型突擊野獸，其體型和力量連雷獸都相形見絀。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Spawns a massive assault beast that dwarfs even the Ultralisk in size and strength. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
@@ -7047,6 +7052,9 @@ Effect/Name/SpawnPuddleOnDeathSearchArea=
 Effect/Name/SpawnPuddleOnDeathSet=
 Effect/Name/SpawnPuddleOnDeathSlimeDropDummy=
 Effect/Name/SpawnPuddleOnDeathSlimeDropPersistent=
+Effect/Name/SpawnedUnitTracker=SpawnedUnitTracker
+Effect/Name/SpawnedUnitTrackerAddTarget=SpawnedUnitTrackerAddTarget
+Effect/Name/SpawnedUnitTrackerSet=SpawnedUnitTrackerSet
 Effect/Name/SpawningUnitTracker=
 Effect/Name/SpawningUnitTrackerAddCaster=
 Effect/Name/SpawningUnitTrackerCopyToTarget=
@@ -8010,6 +8018,7 @@ Param/Value/lib_COMI_AB191283=5天
 Param/Value/lib_COMI_AB66B665={起始地點}
 Param/Value/lib_COMI_AC873AC0=無效的難度參數
 Param/Value/lib_COMI_AC99805E=澤拉圖
+Param/Value/lib_COMI_ACAD6923=未找到放置的單位，退回玩家的初始生成點！
 Param/Value/lib_COMI_ACE8A237=<c val="FF9800">賽博洛斯審判者機甲遭到摧毀。</c> /// <c val="FF9800">Cybros Arbiter Suit has been destroyed.</c>
 Param/Value/lib_COMI_AFA9A35D=<s val="@@WorldTeachingTooltipHeader">達肯雷射鑽洞機</s><n/>選取以升級或使用技能 /// <s val="@@WorldTeachingTooltipHeader">Drakken Laser Drill</s><n/>Select to upgrade or use abilities
 Param/Value/lib_COMI_B116A5EC=惡狼（26次擊殺）
@@ -8556,6 +8565,7 @@ RequirementNode/Tooltip/Not2756504230OrAndNotCountUpgradeTychusFirebatOwnedCompl
 RequirementNode/Tooltip/Not2796347345OrAndNotCountUpgradeTychusWarhoundOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募天狼星
 RequirementNode/Tooltip/Not3149004287OrAndNotCountUpgradeTychusMedicOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募尼可拉中尉
 RequirementNode/Tooltip/Not3360504378CountBehaviorZeratulWarpPrismAutoUnloadCompleteOnlyAtUnit=取消自動卸載 /// Not Auto-Unloading
+RequirementNode/Tooltip/Not3804783965CountUnitSOAMothershipv4QueuedOrBetter=數量上限 1
 RequirementNode/Tooltip/Not4088493654CountUpgradeDownloadBackupPart1InProgressOnlyAtUnit=下載中 /// Downloading
 RequirementNode/Tooltip/Not761197251OrAndNotCountUpgradeTychusSpectreOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募納克斯
 RequirementNode/Tooltip/Not967556426OrAndNotCountUpgradeTychusMarauderOwnedCompleteOnlyEqCountBehaviorTychusHeroCountCompleteOnly5=已招募響尾蛇
@@ -8567,6 +8577,9 @@ RequirementNode/Tooltip/Or2955007147TechTreeCheatCountUnitAlias_InfestedFactoryC
 RequirementNode/Tooltip/Or4146644285AndCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit1AndNotCountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnlyGTCountBehaviorBiomassBuff100CompleteOnlyAtUnit0=<d ref="Effect,AbathurBiomassMaxStacksDummy,Amount" precision="0"/>點生物質
 RequirementNode/Tooltip/Or414922528LTCountUnitAlias_BrutaliskQueuedOrBetter3CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
 RequirementNode/Tooltip/Or414922528LTCountUnitHotSLeviathanQueuedOrBetter8488000033CountUpgradeCommanderPrestigeAbathurUltEvoCompleteOnly=數量上限 3 或巔峰能力：無上限
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=兵營
+RequirementNode/Tooltip/Or789532539CountUnitAlias_BarracksCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=兵營
+RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeNovaBioCompleteOnly=軍工廠
 RequirementNode/Tooltip/Or96167438CountUnitAlias_FactoryCompleteOnlyCountUpgradeCommanderPrestigeRaynorAirCompleteOnly=軍工廠
 RequirementNode/Tooltip/Or993869882NotCountUpgradeCommanderPrestigeZagaraMaxSupplyCompleteOnlyNotCountUnitScourgeNestQueuedOrBetter=巔峰天賦：自殺蟲后的數量上限為 1
 Shape/Name/ZenithStone=天極石
@@ -9498,6 +9511,7 @@ Upgrade/Name/CommanderLevel=指揮官等級
 Upgrade/Name/CommanderPrestigeAbathurBiomass=
 Upgrade/Name/CommanderPrestigeAbathurDeepTunnel=
 Upgrade/Name/CommanderPrestigeAbathurUltEvo=
+Upgrade/Name/CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1=CommanderPrestigeRaynorBioUpgradeTerranInfantryArmorLevel1
 Upgrade/Name/CommanderPrestigeVorazunEmergencyRecallSeekPylon=CommanderPrestigeVorazunEmergencyRecallSeekPylon
 Upgrade/Name/CoopAIMutaliskCost=合作任務 - A.I. - 飛螳花費
 Upgrade/Name/CoopAIReaperCost=合作任務 - A.I. - 死神花費
@@ -10008,6 +10022,7 @@ Upgrade/Name/TychusHercGrappleArmor=致命狀況反應系統 /// Critical Respon
 Upgrade/Name/TychusHercGrappleStun=X-71衝擊靴 /// X-71 Impact Boots
 Upgrade/Name/TychusHercRage=紅線動力核 /// Redline Power Cells
 Upgrade/Name/TychusHeroCapped=泰科斯英雄已達上限
+Upgrade/Name/TychusHeroCount=泰科斯英雄數量
 Upgrade/Name/TychusHeroMaxed=泰科斯英雄已達最大值
 Upgrade/Name/TychusHeroPassive=TychusHeroPassive
 Upgrade/Name/TychusMarauderAttackSplash=巨錘彈 /// Hammer Munitions
@@ -10227,7 +10242,7 @@ UserData/CoopAICommanders/ProtossBuildTechy_Category=神族軍團
 UserData/CoopAICommanders/ProtossBuildTechy_Description=儘管也能使用蠻力取勝，但大多數的神族部隊，包括這個軍團的成員們，依然偏好利用戰術取勝。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">重要單位</c><n/><ul indent="2" text="•"><li/>鳳凰戰機<li/>黑暗聖堂武士<c val="ff0000">(困難+)</c><li/>裂光球<c val="ff0000">(困難+)</c>
 UserData/CoopAICommanders/ProtossBuildTechy_Name=暗影裂解 /// Shadow Disruption
 UserData/CoopAICommanders/TerranBuildBioClassic_Category=人類兵團
-UserData/CoopAICommanders/TerranBuildBioClassic_Description=在第一次星際戰爭期間，這些以步兵為主的軍隊都由地球聯合理事會所帶領。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">重要單位</c><n/><ul indent="2" text="•"><li/>陸戰隊<li/>醫護兵<li/>攻城坦克<li/>幽靈特務<c val="ff0000">(困難+)
+UserData/CoopAICommanders/TerranBuildBioClassic_Description=在群落戰爭期間，這些以步兵為主的軍隊都由地球聯合理事會所帶領。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">重要單位</c><n/><ul indent="2" text="•"><li/>陸戰隊<li/>醫護兵<li/>攻城坦克<li/>幽靈特務<c val="ff0000">(困難+)
 UserData/CoopAICommanders/TerranBuildBioClassic_Name=經典步兵 /// Classic Infantry
 UserData/CoopAICommanders/TerranBuildBioMechStar_Category=人類混編部隊
 UserData/CoopAICommanders/TerranBuildBioMechStar_Description=儘管不是十分有紀律，但這群雜牌軍技術精湛，敵人得要認真對付他們。<s val="StandardTooltipHalfSize"><n/><n/></s><c val="ffff8a">重要單位</c><n/><ul indent="2" text="•"><li/>攻城坦克<li/>科學研究船<li/>戰巡艦<li/>幽靈特務<c val="ff0000">(困難+)</c>
@@ -10527,14 +10542,14 @@ UserData/MasteryUpgrades/ZagaraMastery1_Name=生命與能量恢復速度 /// Hea
 UserData/MasteryUpgrades/ZagaraMastery1_ValueFormat=+~A~% /// +~A~%
 UserData/MasteryUpgrades/ZagaraMastery2_Name=自動攻擊傷害 /// Auto Attack Damage
 UserData/MasteryUpgrades/ZagaraMastery2_ValueFormat=傷害+~A~點 /// +~A~ Damage
-UserData/MasteryUpgrades/ZagaraMastery3_Name=毒爆蟲傷害 /// Baneling Damage
-UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=傷害+~A~點 /// +~A~ Damage
+UserData/MasteryUpgrades/ZagaraMastery3_Name=群體狂怒效果
+UserData/MasteryUpgrades/ZagaraMastery3_ValueFormat=+~A~%
 UserData/MasteryUpgrades/ZagaraMastery4_Name=異化蟲閃避攻擊機率 /// Zergling Dodge Chance
 UserData/MasteryUpgrades/ZagaraMastery4_ValueFormat=+~A~% /// +~A~%
 UserData/MasteryUpgrades/ZagaraMastery5_Name=蟑螂的空投囊傷害和生命值 /// Roach Drop Damage and Health
 UserData/MasteryUpgrades/ZagaraMastery5_ValueFormat=+~A~% /// +~A~%
-UserData/MasteryUpgrades/ZagaraMastery6_Name=群體狂怒效果 /// Mass Frenzy Speed Boost
-UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=+~A~% /// +~A~%
+UserData/MasteryUpgrades/ZagaraMastery6_Name=毒爆蟲傷害
+UserData/MasteryUpgrades/ZagaraMastery6_ValueFormat=傷害+~A~點
 UserData/MasteryUpgrades/ZeratulMastery1_Name=澤拉圖攻擊速度
 UserData/MasteryUpgrades/ZeratulMastery1_ValueFormat=+~A~%  /// +~A~%
 UserData/MasteryUpgrades/ZeratulMastery2_Name=戰鬥單位攻擊速度
@@ -12934,6 +12949,8 @@ Weapon/Tip/ImpalerDehaka=<c val="#ColorAttackInfo">必須遁地才能攻擊。</
 Weapon/Tip/InfestedBunkerFakeUprootedMelee=
 Weapon/Tip/LocustFlyingLaunch=
 Weapon/Tip/LocustLaunch=
+e_cmdCantBuildTooFarFromBuildPowerSource=必須在能量力場中
+e_cmdCantLandTooFarFromBuildPowerSource=必須在能量力場中
 e_cmdCantTargetUser1=無法鎖定不可運輸的目標 /// Can't target Untransportable
 e_cmdMustTargetUser1=無法鎖定不可運輸的目標 /// Must target Untransportable
 e_cmdNotEnoughTerrazine=蟲族生物質不足 /// Not enough zerg biomass
