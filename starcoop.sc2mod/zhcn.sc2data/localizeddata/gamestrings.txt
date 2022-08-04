@@ -8439,7 +8439,7 @@ RequirementNode/Tooltip/CountUpgradeSwannTurretIncreasedAttackSpeedCompleteOnly8
 RequirementNode/Tooltip/CountUpgradeTempestDisintegrationCompleteOnly3336778254=在舰队航标研究衰变 /// Research Disintegration at the Fleet Beacon
 RequirementNode/Tooltip/CountUpgradeTerranInfantryWeaponsLevel1CompleteOnly1429793488=人类步兵武器等级1 /// Terran Infantry Weapons Level 1
 RequirementNode/Tooltip/CountUpgradeTerranInfantryWeaponsLevel2CompleteOnly3342497887=人类步兵武器等级2 /// Terran Infantry Weapons Level 2
-RequirementNode/Tooltip/CountUpgradeTunnelingClawsCompleteOnly3631464287TechTreeCheat=在蟑螂温室进化掘地之爪 /// Evolve Tunneling Claws at the Roach Warren
+RequirementNode/Tooltip/CountUpgradeTunnelingClawsCompleteOnly3631464287TechTreeCheat=在蟑螂温室进化掘地之爪
 RequirementNode/Tooltip/CountUpgradeVanguardArmoredDamageCompleteOnly4002304245=在机械研究所中研究聚变迫击炮 /// Research Fusion Mortars at the Robotics Bay
 RequirementNode/Tooltip/CountUpgradeVehicleAfterburnersCompleteOnly2702986018=在军械库研究载具后燃充能 /// Research Afterburners at the Armory
 RequirementNode/Tooltip/CountUpgradeViperAbductImprovedStunCompleteOnly1025119262=在感染深渊中进化麻痹勾刺 /// Evolve Paralytic Barbs at the Infestation Pit
