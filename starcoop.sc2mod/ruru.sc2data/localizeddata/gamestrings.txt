@@ -4299,7 +4299,7 @@ Button/Tooltip/K5Cooldowns=Затраты энергии на использов
 Button/Tooltip/K5CreepBonuses=Скорость атаки дружественных боевых единиц повышается на <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>%, когда они находятся на слизи. Скорость восстановления здоровья дружественных боевых единиц также увеличивается. Опухоли распространяют слизь быстрее и дальше.
 Button/Tooltip/K5TwoDrones=При мутации из личинок получается по 2 рабочих, которые теперь требуют меньше припасов. Затраты ресурсов и время производства увеличены на 50%.
 Button/Tooltip/Kaboomer=Особая зараженная боевая единица, которая взрывается в момент гибели.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Эта боевая единица запускает перехватчики быстрее, а их скорость атаки увеличивается на <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Эта боевая единица запускает перехватчики быстрее, а их скорость атаки увеличивается на <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Скорость восстановления энергии увеличивается на 200%.
 Button/Tooltip/KaraxTurretAttackSpeed=Скорость атаки оборонительных строений увеличивается на 25%.
 Button/Tooltip/KaraxTurretRange=Дальность атаки оборонительных строений увеличивается на 2.
@@ -4808,7 +4808,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=Окопавшись, <c val="fff
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=<c val = "ffff8a">Зараженные осадные танки</c> дополнительно наносят 15 ед. урона бронированным боевым единицам и строениям в обоих режимах.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=Выстрелы мародеров временно замедляют всех противников в области атаки.<n/><n/><c val="#ColorAttackInfo">Не действует на крупные боевые единицы.</c>
 Button/Tooltip/ResearchJuggernautPlating=Запас здоровья <c val="ffff8a">огнеметчиков</c> увеличивается на 100 ед., а их броня – на 2 ед.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Позволяет <c val="ffff8a">авианосцам</c> быстрее выпускать перехватчики и повышает их скорость атаки на <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Позволяет <c val="ffff8a">авианосцам</c> быстрее выпускать перехватчики и повышает их скорость атаки на <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Скорость восстановления энергии <c val="ffff8a">заряжателей</c> и <c val="ffff8a">батарей щитов</c> увеличивается на 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Скорость атаки <c val="ffff8a">фотонных пушек</c> и <c val="ffff8a">кайдариновых монолитов</c> увеличивается на 25%.
 Button/Tooltip/ResearchKaraxTurretRange=Дальность атаки <c val="ffff8a">фотонных пушек</c>, <c val="ffff8a">кайдариновых монолитов</c>, а также дальность действия <c val="ffff8a">батарей щитов</c> увеличивается на 2.
@@ -7728,7 +7728,7 @@ Param/Expression/lib_COMI_08BB63F6=<s val="@@UnitInfoSubTipDetail">~A~</s>
 Param/Expression/lib_COMI_0B6E0658=<ignore s="strip" c="strip">~A~</ignore>
 Param/Expression/lib_COMI_0C0853FD=<c val="FF9800">Ваш герой погиб.</c>
 Param/Expression/lib_COMI_11BCBA90=<c val="FF9800">Загара погибла. Она возродится у инкубатора через ~Duration~ сек.</c>
-Param/Expression/lib_COMI_139DC70E=Задать масштаб ~A~ в 0,1
+Param/Expression/lib_COMI_139DC70E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_156ACD5F=Создание начального обеспечения для ~A~
 Param/Expression/lib_COMI_15AF2AA9=~Rank~ ~NameVar~
 Param/Expression/lib_COMI_15CE814B=~Time~ - ~Unit~/~Count~(~expected~)
@@ -7747,9 +7747,9 @@ Param/Expression/lib_COMI_39D2BF93=SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~
 Param/Expression/lib_COMI_43337540=SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~
-Param/Expression/lib_COMI_48E58677=Сигнал начала: ~UpgradeName~
+Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=И~Player~/В~Wave~/~State~
-Param/Expression/lib_COMI_4E78EA33=Сигнал завершения: ~UpgradeName~
+Param/Expression/lib_COMI_4E78EA33=Signal Stop~UpgradeName~
 Param/Expression/lib_COMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s>
 Param/Expression/lib_COMI_5386C966=<c val="FF9800">Ваш герой возродился.</c>
 Param/Expression/lib_COMI_53BFB085=~A~~B~
@@ -7758,7 +7758,7 @@ Param/Expression/lib_COMI_564A19C7=У боевой единицы ~A~ нет б�
 Param/Expression/lib_COMI_56E4E616=Выход из режима сложности «Эксперт+». Оба игрока должны выбрать режим сложности «Эксперт». 1-й игрок должен выбрать режим сложности «Эксперт+» в диапазоне [1, ~A~].
 Param/Expression/lib_COMI_5966D169=~A~ ~B~
 Param/Expression/lib_COMI_5B3422D0=Обновлено – базовый: ~Base~ случайный: ~random~
-Param/Expression/lib_COMI_61EDA91E=Задать масштаб ~A~ в 0,1
+Param/Expression/lib_COMI_61EDA91E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_6363956C=~A~~B~
 Param/Expression/lib_COMI_64DF7A24=<c val="32cd32">СОВЕТ</c> – ~A~.
 Param/Expression/lib_COMI_677DD770=Найден мутатор в индексе ~A~, установка мутатора: ~B~

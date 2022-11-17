@@ -4299,7 +4299,7 @@ Button/Tooltip/K5Cooldowns=凯瑞甘的技能冷却时间和能量消耗降低20
 Button/Tooltip/K5CreepBonuses=当处于菌毯上时，友方单位的攻击速度提高<d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>%，生命恢复速度也会提高。提高菌毯肿瘤散布菌毯的速度和范围。
 Button/Tooltip/K5TwoDrones=可以一次孵化两只工蜂。资源消耗和制造时间减少50%。 /// Drones morph in groups of two and require less supply. Resource cost and build time increased by 50%.
 Button/Tooltip/Kaboomer=特殊感染体，死亡时会爆炸。<n/><n/><c val="#ColorAttackInfo">可以对地。</c> /// Special infested that explodes on death.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=该单位发射拦截机的速度变快，并且拦截机的攻击速度提高<d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%。
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=该单位发射拦截机的速度变快，并且拦截机的攻击速度提高<d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%。
 Button/Tooltip/KaraxEnergyRegenUpgrade=能量恢复速度提高200%。 /// Increases energy regeneration rate by 200%.
 Button/Tooltip/KaraxTurretAttackSpeed=防御性建筑的攻击速度提高25%。 /// Increases the attack speed of defensive structures by 25%.
 Button/Tooltip/KaraxTurretRange=防御性建筑的射程提高2。 /// Defensive structures gain +2 range.
@@ -4808,7 +4808,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=<c val="ffff8a">被感染的地�
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=<c val = "ffff8a">被感染的攻城坦克</c>在两种模式下对重甲单位和建筑造成额外15点伤害。 /// <c val = "ffff8a">Infested Siege Tanks</c> deal an additional +15 damage to armored units and structures in both modes.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=劫掠者的攻击可暂时降低目标范围内所有单位的移动速度。<n/><n/><c val="#ColorAttackInfo">重型单位对该效果免疫</c> /// Marauder attack temporarily slows all units in target area.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
 Button/Tooltip/ResearchJuggernautPlating=<c val="ffff8a">火蝠</c>生命值+100，护甲+2。 /// <c val="ffff8a">Firebats</c> gain +100 life and +2 armor.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=使<c val="ffff8a">航母</c>发射拦截机的速度变快，并且使拦截机的攻击速度提高<d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%。
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=使<c val="ffff8a">航母</c>发射拦截机的速度变快，并且使拦截机的攻击速度提高<d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%。
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=使<c val="ffff8a">激励者</c>和<c val="ffff8a">护盾充能器</c>的能量恢复速度提高200%。 /// Increases the energy regeneration rate of <c val="ffff8a">Energizers</c> and <c val="ffff8a">Shield Batteries</c> by 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=使<c val="ffff8a">光子炮台</c>和<c val="ffff8a">凯达琳巨石</c>的攻击速度提高25%。 /// Increases the attack speed of <c val="ffff8a">Photon Cannons</c> and <c val="ffff8a">Khaydarin Monoliths</c> by 25%.
 Button/Tooltip/ResearchKaraxTurretRange=<c val="ffff8a">光子炮台</c>、<c val="ffff8a">凯达琳巨石</c>和<c val="ffff8a">护盾充能器</c>的射程提高2。 /// <c val="ffff8a">Photon Cannons</c>, <c val="ffff8a">Khaydarin Monoliths</c>, and <c val="ffff8a">Shield Batteries</c> gain +2 range.
@@ -7727,7 +7727,7 @@ Param/Expression/lib_COMI_08BB63F6=<s val="@@UnitInfoSubTipDetail">~A~</s>
 Param/Expression/lib_COMI_0B6E0658=<ignore s="strip" c="strip">~A~</ignore>
 Param/Expression/lib_COMI_0C0853FD=<c val="FF9800">你的英雄已阵亡。</c>
 Param/Expression/lib_COMI_11BCBA90=<c val="FF9800">扎加拉已阵亡。她将于~Duration~秒后在孵化场重生。</c> /// <c val="FF9800">Zagara has died. She will be revived at the Hatchery in ~Duration~ seconds.</c>
-Param/Expression/lib_COMI_139DC70E=设定比例 ~A~ 0.1
+Param/Expression/lib_COMI_139DC70E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_156ACD5F=Spawning starting stuff for ~A~
 Param/Expression/lib_COMI_15AF2AA9=~Rank~ ~NameVar~
 Param/Expression/lib_COMI_15CE814B=~Time~ - ~Unit~/~Count~(~expected~) /// ~Time~ - ~Unit~/~Count~(~expected~)
@@ -7742,9 +7742,9 @@ Param/Expression/lib_COMI_2B90ACF7=<c val="FF9800">盖瑞死了。他会在~Dura
 Param/Expression/lib_COMI_2DE837E2=Valid Point Count ~A~
 Param/Expression/lib_COMI_3704A828=<s val="@@UnitInfoTip">~A~</s>
 Param/Expression/lib_COMI_39320B7C=<c val="87ceeb">新科技可用</c><n/>~A~ /// <c val="87ceeb">NEW TECH AVAILABLE</c><n/>~A~
-Param/Expression/lib_COMI_39D2BF93=设定比例 ~A~
+Param/Expression/lib_COMI_39D2BF93=SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~
-Param/Expression/lib_COMI_43337540=设定比例 ~A~
+Param/Expression/lib_COMI_43337540=SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~
 Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=P~Player~/W~Wave~/~State~
@@ -7757,7 +7757,7 @@ Param/Expression/lib_COMI_564A19C7=单位 ~A~ 没有生物质
 Param/Expression/lib_COMI_56E4E616=正在放弃残酷+难度。两名玩家必须处于残酷难度，而且玩家1必须有范围在[1, ~A~]之间的残酷+难度。 /// Abandoning Brutal+ difficulty. Both players must be on Brutal difficulty and player 1 must have a Brutal+ difficulty within a range of [1, ~A~].
 Param/Expression/lib_COMI_5966D169=~A~ ~B~
 Param/Expression/lib_COMI_5B3422D0=更新 - 基地~Base~ 随机~random~
-Param/Expression/lib_COMI_61EDA91E=设定比例 ~A~ 0.1
+Param/Expression/lib_COMI_61EDA91E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_6363956C=~A~~B~ /// ~A~~B~
 Param/Expression/lib_COMI_64DF7A24=<c val="32cd32">提示</c> - ~A~。
 Param/Expression/lib_COMI_677DD770=已在索引~A~中找到突变因子, 正在设置突变因子: ~B~ /// Found mutator in index ~A~, setting mutator: ~B~
@@ -7782,7 +7782,7 @@ Param/Expression/lib_COMI_A49EDD0B=<c val="87ceeb">已获得新的单位</c><n/>
 Param/Expression/lib_COMI_A60635A0=<c val="ccff00">任务成功</c><n/>~A~ /// <c val="ccff00">MISSION SUCCESS</c><n/>~A~
 Param/Expression/lib_COMI_A8624C75=~A~ ~B~
 Param/Expression/lib_COMI_AC93305F=~Time~已隐形玩家~A~的攻击者
-Param/Expression/lib_COMI_AED708CF=设定比例 ~A~
+Param/Expression/lib_COMI_AED708CF=SetScale ~A~
 Param/Expression/lib_COMI_B5A3FEB8=<s val="Kicker_Minerals">~Minerals~<img path="Assets\Textures\icon-mineral.dds" height="28" width="28"/> /// <s val="Kicker_Minerals">~Minerals~<img path="Assets\Textures\icon-mineral.dds" height="28" width="28"/>
 Param/Expression/lib_COMI_BA0BF873=<c val="87ceeb">新单位可用</c><n/>~A~
 Param/Expression/lib_COMI_BA6DF236=Debug: Searching for override pack: ~A~

@@ -4299,7 +4299,7 @@ Button/Tooltip/K5Cooldowns=Reduz o custo e a recarga das habilidades de Kerrigan
 Button/Tooltip/K5CreepBonuses=Aumenta a velocidade de ataque de unidades aliadas em <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>% quando estão sobre gosma. Aumenta a regeneração de vida de unidades aliadas quando estão sobre gosma. Tumores Gosmentos espalham gosma mais rápido e mais longe.
 Button/Tooltip/K5TwoDrones=Zangões são transmutados aos pares, gastando menos suprimentos. Aumenta o custo e o tempo de construção em 50%. /// Drones morph in groups of two and require less supply. Resource cost and build time increased by 50%.
 Button/Tooltip/Kaboomer=Infestado especial que explode ao morrer.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c> /// Special infested that explodes on death.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Esta unidade lança Interceptores mais rapidamente e eles têm <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>% a mais de velocidade de ataque.
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Esta unidade lança Interceptores mais rapidamente e eles têm <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>% a mais de velocidade de ataque.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Aumenta a taxa de regeneração de energia 200%. /// Increases energy regeneration rate by 200%.
 Button/Tooltip/KaraxTurretAttackSpeed=Aumenta a velocidade de ataque das estruturas defensivas em 25%. /// Increases the attack speed of defensive structures by 25%.
 Button/Tooltip/KaraxTurretRange=As estruturas defensivas ganham +2 de alcance. /// Defensive structures gain +2 range.
@@ -4808,7 +4808,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=<c val="ffff8a">Casamatas Infesta
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=<c val = "ffff8a">Tanques de Cerco Infestados</c> causam +15 de dano adicional a unidades blindadas e estruturas em ambos os modos. /// <c val = "ffff8a">Infested Siege Tanks</c> deal an additional +15 damage to armored units and structures in both modes.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=O ataque do Demolidor desacelera temporariamente todas as unidades na área selecionada.<n/><n/><c val="#ColorAttackInfo">Unidades colossais são imunes.</c> /// Marauder attack temporarily slows all units in target area.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
 Button/Tooltip/ResearchJuggernautPlating=<c val="ffff8a">Morcegos de Fogo</c> ganham +100 de vida e +2 de armadura. /// <c val="ffff8a">Firebats</c> gain +100 life and +2 armor.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Faz <c val="ffff8a">Transportadoras</c> lançarem Interceptores mais rapidamente e aumenta a velocidade de ataque deles em <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Faz <c val="ffff8a">Transportadoras</c> lançarem Interceptores mais rapidamente e aumenta a velocidade de ataque deles em <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Aumenta a taxa de regeneração de energia de <c val="ffff8a">Energizadores</c> e <c val="ffff8a">Baterias de Escudos</c> em 200%. /// Increases the energy regeneration rate of <c val="ffff8a">Energizers</c> and <c val="ffff8a">Shield Batteries</c> by 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Aumenta a velocidade de ataque dos <c val="ffff8a">Canhões de Fótons</c> e <c val="ffff8a">Monólitos Khaydarin</c> em 25%. /// Increases the attack speed of <c val="ffff8a">Photon Cannons</c> and <c val="ffff8a">Khaydarin Monoliths</c> by 25%.
 Button/Tooltip/ResearchKaraxTurretRange=<c val="ffff8a">Canhões de Fótons</c>, <c val="ffff8a">Monólitos Khaydarin</c> e <c val="ffff8a">Baterias de Escudo</c> ganham +2 de alcance. /// <c val="ffff8a">Photon Cannons</c>, <c val="ffff8a">Khaydarin Monoliths</c>, and <c val="ffff8a">Shield Batteries</c> gain +2 range.
@@ -7746,9 +7746,9 @@ Param/Expression/lib_COMI_39D2BF93=SetScale ~A~ /// SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~ /// <s val="~A~">~SIGN~~B~
 Param/Expression/lib_COMI_43337540=SetScale ~A~ /// SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~ /// ~Name~
-Param/Expression/lib_COMI_48E58677=Início do Sinal~UpgradeName~ /// Signal Start~UpgradeName~
+Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=J~Player~/O~Wave~/~State~ /// P~Player~/W~Wave~/~State~
-Param/Expression/lib_COMI_4E78EA33=Final do Sinal~UpgradeName~ /// Signal Stop~UpgradeName~
+Param/Expression/lib_COMI_4E78EA33=Signal Stop~UpgradeName~
 Param/Expression/lib_COMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s> /// <s val="@@UnitInfoSubTip">~A~</s>
 Param/Expression/lib_COMI_5386C966=<c val="FF9800">Seu herói ressuscitou.</c> /// <c val="FF9800">Your hero has revived.</c>
 Param/Expression/lib_COMI_53BFB085=~A~~B~ /// ~A~~B~

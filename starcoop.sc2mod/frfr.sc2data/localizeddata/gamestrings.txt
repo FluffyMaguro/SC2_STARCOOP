@@ -4301,7 +4301,7 @@ Button/Tooltip/K5Cooldowns=Réduit les coûts en énergie et les temps de rechar
 Button/Tooltip/K5CreepBonuses=Augmente la vitesse d’attaque des unités alliées se trouvant sur du mucus de <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>%. Augmente la régénération de santé des unités alliées se trouvant sur du mucus. Les tumeurs muqueuses répandent aussi le mucus plus loin et plus rapidement.
 Button/Tooltip/K5TwoDrones=Les ouvriers se transforment par groupes de deux et nécessitent moins de ravitaillement. Coût en ressource et temps de construction augmentés de 50%.
 Button/Tooltip/Kaboomer=Contaminé spécial qui explose quand il meurt.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités terrestres.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Cette unité propulse des intercepteurs plus rapidement et ceux-ci ont une vitesse d’attaque augmentée de <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Cette unité propulse des intercepteurs plus rapidement et ceux-ci ont une vitesse d’attaque augmentée de <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Augmente le taux de régénération d’énergie de 200%.
 Button/Tooltip/KaraxTurretAttackSpeed=Augmente la vitesse d’attaque des bâtiments défensifs de 25%.
 Button/Tooltip/KaraxTurretRange=Les bâtiments défensifs gagnent +2 en portée.
@@ -4812,7 +4812,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=Quand ils sont enracinés, les <c
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=Les <c val = "ffff8a">chars de siège contaminés</c> infligent +15 points de dégâts supplémentaires aux unités et bâtiments blindés dans les deux modes.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=L’attaque du maraudeur ralentit temporairement toutes les unités dans une zone ciblée.<n/><n/><c val="#ColorAttackInfo">Les unités lourdes sont immunisées.</c>
 Button/Tooltip/ResearchJuggernautPlating=Les <c val="ffff8a">flammeurs</c> gagnent +100 points de vie et +2 points d’armure.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Permet au <c val="ffff8a">porte-nefs</c> de lancer ses intercepteurs plus vite et augmente leur vitesse d’attaque de <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Permet au <c val="ffff8a">porte-nefs</c> de lancer ses intercepteurs plus vite et augmente leur vitesse d’attaque de <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Augmente le taux de régénération d’énergie des <c val="ffff8a">dynamiseurs</c> et des <c val="ffff8a">batteries de boucliers</c> de 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Augmente la vitesse d’attaque des <c val="ffff8a">canons à photons</c> et des <c val="ffff8a">monolithes Khaydarin</c> de 25%.
 Button/Tooltip/ResearchKaraxTurretRange=Les <c val="ffff8a">canons à photons</c>, les <c val="ffff8a">monolithes Khaydarin</c> et les <c val="ffff8a">batteries de boucliers</c> gagnent +2 en portée.
@@ -7752,9 +7752,9 @@ Param/Expression/lib_COMI_39D2BF93=SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~
 Param/Expression/lib_COMI_43337540=SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~
-Param/Expression/lib_COMI_48E58677=Début du signal ~UpgradeName~
+Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=J~Player~/V~Wave~/~State~
-Param/Expression/lib_COMI_4E78EA33=Arrêt du signal ~UpgradeName~
+Param/Expression/lib_COMI_4E78EA33=Signal Stop~UpgradeName~
 Param/Expression/lib_COMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s>
 Param/Expression/lib_COMI_5386C966=<c val="FF9800">Votre héros a été ranimé.</c>
 Param/Expression/lib_COMI_53BFB085=~A~~B~

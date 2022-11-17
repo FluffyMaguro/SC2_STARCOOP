@@ -4299,7 +4299,7 @@ Button/Tooltip/K5Cooldowns=Riduce del 20% i tempi di recupero e il costo delle a
 Button/Tooltip/K5CreepBonuses=Aumenta del <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>% la velocità d'attacco delle unità alleate sul biostrato. Aumenta la rigenerazione vitale delle unità sul biostrato. Aumenta la velocità e l'area di diffusione del biostrato generato dai Biotumori.
 Button/Tooltip/K5TwoDrones=I Droni vengono generati in coppia e richiedono meno rifornimenti. Costo e tempo di generazione aumentati del 50%.
 Button/Tooltip/Kaboomer=Infestato speciale che esplode alla morte.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Questa unità lancia Intercettori più rapidamente e la velocità d'attacco degli Intercettori è aumentata del <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Questa unità lancia Intercettori più rapidamente e la velocità d'attacco degli Intercettori è aumentata del <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Aumenta del 200% la rigenerazione di energia.
 Button/Tooltip/KaraxTurretAttackSpeed=Aumenta del 25% la velocità di attacco delle strutture difensive.
 Button/Tooltip/KaraxTurretRange=Estende di 2 la portata delle strutture difensive.
@@ -4808,7 +4808,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=I <c val = "ffff8a">Bunker infest
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=I <c val = "ffff8a">Carri d'assedio infestati</c> infliggono 15 danni aggiuntivi a unità corazzate e strutture in entrambi gli assetti.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=L'attacco del Devastatore rallenta temporaneamente tutte le unità nell'area bersaglio.<n/><n/><c val="#ColorAttackInfo">Le unità enormi sono immuni.</c>
 Button/Tooltip/ResearchJuggernautPlating=Aumenta di 100 la vita e di 2 la corazza dei <c val="ffff8a">Piromani</c>.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Permette alla <c val="ffff8a">Portastormo</c> di lanciare gli Intercettori più rapidamente e aumenta la velocità d'attacco degli Intercettori del <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Permette alla <c val="ffff8a">Portastormo</c> di lanciare gli Intercettori più rapidamente e aumenta la velocità d'attacco degli Intercettori del <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Aumenta del 200% la rigenerazione di energia di <c val="ffff8a">Energizzatori</c> e <c val="ffff8a">Batterie di scudi</c>.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Aumenta del 25% la velocità d'attacco di <c val="ffff8a">Cannoni fotonici</c> e <c val="ffff8a">Monoliti Khaydarin</c>.
 Button/Tooltip/ResearchKaraxTurretRange=Estende di 2 la portata di <c val="ffff8a">Cannoni fotonici</c>, <c val="ffff8a">Monoliti Khaydarin</c> e <c val="ffff8a">Batterie di scudi</c>.
@@ -7727,7 +7727,7 @@ Param/Expression/lib_COMI_08BB63F6=<s val="@@UnitInfoSubTipDetail">~A~</s>
 Param/Expression/lib_COMI_0B6E0658=<ignore s="strip" c="strip">~A~</ignore>
 Param/Expression/lib_COMI_0C0853FD=<c val="FF9800">Il tuo eroe è morto.</c>
 Param/Expression/lib_COMI_11BCBA90=<c val="FF9800">Zagara è morta. Risorgerà al Vivaio fra ~Duration~ secondi.</c>
-Param/Expression/lib_COMI_139DC70E=Imposta scala ~A~ 0.1
+Param/Expression/lib_COMI_139DC70E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_156ACD5F=Generazione elementi iniziali per ~A~
 Param/Expression/lib_COMI_15AF2AA9=~Rank~ ~NameVar~
 Param/Expression/lib_COMI_15CE814B=~Time~ - ~Unit~/~Count~(~expected~)
@@ -7742,13 +7742,13 @@ Param/Expression/lib_COMI_2B90ACF7=<c val="FF9800">Gary è morto. "Risorgerà" n
 Param/Expression/lib_COMI_2DE837E2=Conteggio punto valido ~A~
 Param/Expression/lib_COMI_3704A828=<s val="@@UnitInfoTip">~A~</s>
 Param/Expression/lib_COMI_39320B7C=<c val="87ceeb">NUOVA TECNOLOGIA DISPONIBILE</c><n/>~A~
-Param/Expression/lib_COMI_39D2BF93=Imposta scala ~A~
+Param/Expression/lib_COMI_39D2BF93=SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~
-Param/Expression/lib_COMI_43337540=Imposta scala ~A~
+Param/Expression/lib_COMI_43337540=SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~
-Param/Expression/lib_COMI_48E58677=Avvio segnale ~UpgradeName~
+Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=G~Player~/O~Wave~/~State~
-Param/Expression/lib_COMI_4E78EA33=Fine segnale ~UpgradeName~
+Param/Expression/lib_COMI_4E78EA33=Signal Stop~UpgradeName~
 Param/Expression/lib_COMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s>
 Param/Expression/lib_COMI_5386C966=<c val="FF9800">Il tuo eroe è tornato in vita.</c>
 Param/Expression/lib_COMI_53BFB085=~A~~B~
@@ -7757,7 +7757,7 @@ Param/Expression/lib_COMI_564A19C7=L'unità ~A~ non possiede biomassa
 Param/Expression/lib_COMI_56E4E616=Stai abbandonando il livello Brutale+. Entrambi i giocatori devono essere a livello Brutale e il giocatore 1 deve avere un livello Brutale+ compreso tra [1, ~A~].
 Param/Expression/lib_COMI_5966D169=~A~ ~B~
 Param/Expression/lib_COMI_5B3422D0=Aggiornato - Base~Base~ Casuale~random~
-Param/Expression/lib_COMI_61EDA91E=Imposta scala ~A~ 0.1
+Param/Expression/lib_COMI_61EDA91E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_6363956C=~A~~B~
 Param/Expression/lib_COMI_64DF7A24=<c val="32cd32">CONSIGLIO</c> - ~A~
 Param/Expression/lib_COMI_677DD770=Mutageno trovato in indice ~A~, impostazione mutageno: ~B~
@@ -7782,7 +7782,7 @@ Param/Expression/lib_COMI_A49EDD0B=<c val="87ceeb">ACQUISITA NUOVA UNITÀ</c><n/
 Param/Expression/lib_COMI_A60635A0=<c val="ccff00">MISSIONE COMPIUTA</c><n/>~A~
 Param/Expression/lib_COMI_A8624C75=~A~ ~B~
 Param/Expression/lib_COMI_AC93305F=~Time~ Attaccante occultato per il giocatore ~A~
-Param/Expression/lib_COMI_AED708CF=Imposta scala ~A~
+Param/Expression/lib_COMI_AED708CF=SetScale ~A~
 Param/Expression/lib_COMI_B5A3FEB8=<s val="Kicker_Minerals">~Minerals~<img path="Assets\Textures\icon-mineral.dds" height="28" width="28"/>
 Param/Expression/lib_COMI_BA0BF873=<c val="87ceeb">DISPONIBILE NUOVA UNITÀ</c><n/>~A~
 Param/Expression/lib_COMI_BA6DF236=Debug: cerco pacchetto esclusione: ~A~

@@ -4299,7 +4299,7 @@ Button/Tooltip/K5Cooldowns=Czasy odnowienia zdolności Kerrigan zostają skróco
 Button/Tooltip/K5CreepBonuses=Zwiększa szybkość ataku jednostek sojuszniczych o <d ref="Effect,KerriganMalignantCreepAttackSpeedDummy,Amount*100"/>%. Zwiększa regenerację życia jednostek sojuszniczych, które znajdują się na biomasie. Ponadto, tumory biomasy rozprzestrzeniają ją szybciej i dalej.
 Button/Tooltip/K5TwoDrones=Robotnice przekształcają się parami i zużywają mniej zaopatrzenia. Zużycie surowców i czas tworzenia wzrastają o 50%.
 Button/Tooltip/Kaboomer=Specjalny zainfekowany, który wybucha w chwili śmierci.<n/><n/><c val="#ColorAttackInfo">Może atakować jednostki naziemne.</c>
-Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Ta jednostka wypuszcza przechwytywacze szybciej. Jej przechwytywacze mają zwiększoną o <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>% szybkość ataku.
+Button/Tooltip/KaraxCarrierInterceptorLaunchSpeedPassive=Ta jednostka wypuszcza przechwytywacze szybciej. Jej przechwytywacze mają zwiększoną o <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>% szybkość ataku.
 Button/Tooltip/KaraxEnergyRegenUpgrade=Zwiększa o 200% regenerację energii.
 Button/Tooltip/KaraxTurretAttackSpeed=Zwiększa szybkość ataku budowli obronnych o 25%.
 Button/Tooltip/KaraxTurretRange=Budowle obronne zyskują +2 zasięgu.
@@ -4808,7 +4808,7 @@ Button/Tooltip/ResearchInfestedBunkerLifeRegen=<c val="ffff8a">Zainfekowane bunk
 Button/Tooltip/ResearchInfestedSiegeTankArmoredDamage=<c val = "ffff8a">Zainfekowane czołgi oblężnicze</c> zadają w obu trybach dodatkowe +15 pkt. obrażeń jednostkom opancerzonym i budowlom.
 Button/Tooltip/ResearchJackhammerConcussionGrenade=Ataki marudera spowalniają przez pewien czas cele trafione granatem.<n/><n/><c val="#ColorAttackInfo">Nie działa na jednostki masywne.</c>
 Button/Tooltip/ResearchJuggernautPlating=<c val="ffff8a">Wypalacze</c> otrzymują +100 do życia i +2 do pancerza.
-Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Sprawia, że <c val="ffff8a">lotniskowiec</c> szybciej wypuszcza przechwytywacze. Zwiększa szybkość ataku przechwytywaczy o <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/Weapon,InterceptorBeam,Period*100" player = "0"/>%.
+Button/Tooltip/ResearchKaraxCarrerInterceptorLaunchSpeed=Sprawia, że <c val="ffff8a">lotniskowiec</c> szybciej wypuszcza przechwytywacze. Zwiększa szybkość ataku przechwytywaczy o <d ref="(Weapon,InterceptorBeam,Period-$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$)/$UpgradeEffectArrayValue:KaraxCarrierInterceptorLaunchSpeed:Weapon,InterceptorBeam,Period$*100" player = "0"/>%.
 Button/Tooltip/ResearchKaraxEnergyRegenUpgrade=Zwiększa tempo regeneracji energii <c val="ffff8a">energetyzatorów</c> i <c val="ffff8a">generatorów osłon</c> o 200%.
 Button/Tooltip/ResearchKaraxTurretAttackSpeed=Zwiększa szybkość ataku <c val="ffff8a">dział fotonowych</c> i <c val="ffff8a">monolitów khaydarinowych</c> o 25%.
 Button/Tooltip/ResearchKaraxTurretRange=<c val="ffff8a">Działa fotonowe</c>, <c val="ffff8a">monolity khaydarinowe</c> i <c val="ffff8a">generatory osłon</c> otrzymują +2 do zasięgu.
@@ -7727,7 +7727,7 @@ Param/Expression/lib_COMI_08BB63F6=<s val="@@UnitInfoSubTipDetail">~A~</s>
 Param/Expression/lib_COMI_0B6E0658=<ignore s="strip" c="strip">~A~</ignore>
 Param/Expression/lib_COMI_0C0853FD=<c val="FF9800">Twoja postać zginęła.</c>
 Param/Expression/lib_COMI_11BCBA90=<c val="FF9800">Zagara zginęła. Zostanie ożywiona w wylęgarni za ~Duration~ sek.</c>
-Param/Expression/lib_COMI_139DC70E=UstawSkalę ~A~ 0,1
+Param/Expression/lib_COMI_139DC70E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_156ACD5F=Umiejscawianie elementów startowych dla ~A~
 Param/Expression/lib_COMI_15AF2AA9=~Rank~ ~NameVar~
 Param/Expression/lib_COMI_15CE814B=~Time~ - ~Unit~/~Count~(~expected~)
@@ -7742,13 +7742,13 @@ Param/Expression/lib_COMI_2B90ACF7=<c val="FF9800">Gary zginął. Zostanie „o�
 Param/Expression/lib_COMI_2DE837E2=Liczba prawidłowych punktów: ~A~
 Param/Expression/lib_COMI_3704A828=<s val="@@UnitInfoTip">~A~</s>
 Param/Expression/lib_COMI_39320B7C=<c val="87ceeb">NOWA TECHNOLOGIA DOSTĘPNA</c><n/>~A~
-Param/Expression/lib_COMI_39D2BF93=UstawSkalę ~A~
+Param/Expression/lib_COMI_39D2BF93=SetScale ~A~
 Param/Expression/lib_COMI_3D845762=<s val="~A~">~SIGN~~B~
-Param/Expression/lib_COMI_43337540=UstawSkalę ~A~
+Param/Expression/lib_COMI_43337540=SetScale ~A~
 Param/Expression/lib_COMI_474CC3E3=~Name~
-Param/Expression/lib_COMI_48E58677=Sygnał Start~UpgradeName~
+Param/Expression/lib_COMI_48E58677=Signal Start~UpgradeName~
 Param/Expression/lib_COMI_4E4A0DC3=P~Player~/W~Wave~/~State~
-Param/Expression/lib_COMI_4E78EA33=Sygnał Stop~UpgradeName~
+Param/Expression/lib_COMI_4E78EA33=Signal Stop~UpgradeName~
 Param/Expression/lib_COMI_50F2381C=<s val="@@UnitInfoSubTip">~A~</s>
 Param/Expression/lib_COMI_5386C966=<c val="FF9800">Twoja postać ożyła.</c>
 Param/Expression/lib_COMI_53BFB085=~A~~B~
@@ -7757,7 +7757,7 @@ Param/Expression/lib_COMI_564A19C7=Jednostka ~A~ nie posiada biomateriału
 Param/Expression/lib_COMI_56E4E616=Wyłączanie poziomu trudności brutalny+. Obaj gracze muszą być na poziomie brutalnym, a gracz 1 musi mieć poziom brutalny+ w zakresie [1, ~A~].
 Param/Expression/lib_COMI_5966D169=~A~ ~B~
 Param/Expression/lib_COMI_5B3422D0=Zaktualizowano – Podstawowe~Base~ Losowe~random~
-Param/Expression/lib_COMI_61EDA91E=UstawSkalę ~A~ 0,1
+Param/Expression/lib_COMI_61EDA91E=SetScale ~A~ 0.1
 Param/Expression/lib_COMI_6363956C=~A~~B~
 Param/Expression/lib_COMI_64DF7A24=<c val="32cd32">WSKAZÓWKA</c> – ~A~.
 Param/Expression/lib_COMI_677DD770=Znaleziono mutator w indeksie ~A~, ustawianie mutatora: ~B~
@@ -7782,7 +7782,7 @@ Param/Expression/lib_COMI_A49EDD0B=<c val="87ceeb">ZDOBYTO NOWĄ JEDNOSTKĘ</c><
 Param/Expression/lib_COMI_A60635A0=<c val="ccff00">MISJA UDANA</c><n/>~A~
 Param/Expression/lib_COMI_A8624C75=~A~ ~B~
 Param/Expression/lib_COMI_AC93305F=~Time~ Maskowanie atakującego dla gracza ~A~
-Param/Expression/lib_COMI_AED708CF=UstawSkalę ~A~
+Param/Expression/lib_COMI_AED708CF=SetScale ~A~
 Param/Expression/lib_COMI_B5A3FEB8=<s val="Kicker_Minerals">~Minerals~<img path="Assets\Textures\icon-mineral.dds" height="28" width="28"/>
 Param/Expression/lib_COMI_BA0BF873=<c val="87ceeb">NOWA JEDNOSTKA DOSTĘPNA</c><n/>~A~
 Param/Expression/lib_COMI_BA6DF236=Debugowanie: Szukanie pakietu nadpisania: ~A~
